@@ -1,0 +1,1670 @@
+{
+  "results": [
+    {
+      "continent": "EU",
+      "iso_alpha2": "AD",
+      "name": "Andorra",
+      "score": 2.8,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "AE",
+      "name": "United Arab Emirates",
+      "score": 3.1,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "AF",
+      "name": "Afghanistan",
+      "score": 5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "AG",
+      "name": "Antigua and Barbuda",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "AI",
+      "name": "Anguilla",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "AL",
+      "name": "Albania",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "AM",
+      "name": "Armenia",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "AO",
+      "name": "Angola",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "AR",
+      "name": "Argentina",
+      "score": 3.1,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "AS",
+      "name": "American Samoa",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "AT",
+      "name": "Austria",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "AU",
+      "name": "Australia",
+      "score": 2.8,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "AW",
+      "name": "Aruba",
+      "score": 2.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "AZ",
+      "name": "Azerbaijan",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "BA",
+      "name": "Bosnia and Herzegovina",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "BB",
+      "name": "Barbados",
+      "score": 2.8,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "BD",
+      "name": "Bangladesh",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "BE",
+      "name": "Belgium",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "BF",
+      "name": "Burkina Faso",
+      "score": 3.9,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "BG",
+      "name": "Bulgaria",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "BH",
+      "name": "Bahrain",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "BI",
+      "name": "Burundi",
+      "score": 4.8,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "BJ",
+      "name": "Benin",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "BL",
+      "name": "Saint Barthélemy",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "BM",
+      "name": "Bermuda",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "BN",
+      "name": "Brunei",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "BO",
+      "name": "Bolivia",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "BR",
+      "name": "Brazil",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "BS",
+      "name": "Bahamas",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "BT",
+      "name": "Bhutan",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "BW",
+      "name": "Botswana",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "BY",
+      "name": "Belarus",
+      "score": 3.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "BZ",
+      "name": "Belize",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "CA",
+      "name": "Canada",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "CC",
+      "name": "Cocos Islands",
+      "score": 0,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "CD",
+      "name": "Democratic Republic of the Congo",
+      "score": 3.9,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "CF",
+      "name": "Central African Republic",
+      "score": 5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "CG",
+      "name": "Republic of the Congo",
+      "score": 2.8,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "CH",
+      "name": "Switzerland",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "CI",
+      "name": "Ivory Coast",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "CK",
+      "name": "Cook Islands",
+      "score": 4.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "CL",
+      "name": "Chile",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "CM",
+      "name": "Cameroon",
+      "score": 3.1,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "CN",
+      "name": "China",
+      "score": 4.1,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "CO",
+      "name": "Colombia",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "CR",
+      "name": "Costa Rica",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "CU",
+      "name": "Cuba",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "CV",
+      "name": "Cape Verde",
+      "score": 2.8,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "CX",
+      "name": "Christmas Island",
+      "score": 0,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "CY",
+      "name": "Cyprus",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "CZ",
+      "name": "Czech Republic",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "DE",
+      "name": "Germany",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "DJ",
+      "name": "Djibouti",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "DK",
+      "name": "Denmark",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "DM",
+      "name": "Dominica",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "DO",
+      "name": "Dominican Republic",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "DZ",
+      "name": "Algeria",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "EC",
+      "name": "Ecuador",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "EE",
+      "name": "Estonia",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "EG",
+      "name": "Egypt",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "EH",
+      "name": "Western Sahara",
+      "score": 0,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "ER",
+      "name": "Eritrea",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "ES",
+      "name": "Spain",
+      "score": 3.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "ET",
+      "name": "Ethiopia",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "FI",
+      "name": "Finland",
+      "score": 3.6,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "FJ",
+      "name": "Fiji",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "FK",
+      "name": "Falkland Islands",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "FM",
+      "name": "Micronesia",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "FO",
+      "name": "Faroe Islands",
+      "score": 0,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "FR",
+      "name": "France",
+      "score": 3.6,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "GA",
+      "name": "Gabon",
+      "score": 3.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "GB",
+      "name": "United Kingdom",
+      "score": 3.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "GD",
+      "name": "Grenada",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "GE",
+      "name": "Georgia",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "GF",
+      "name": "French Guiana",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "GG",
+      "name": "Guernsey",
+      "score": 0,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "GH",
+      "name": "Ghana",
+      "score": 3.6,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "GI",
+      "name": "Gibraltar",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "GL",
+      "name": "Greenland",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "GM",
+      "name": "Gambia",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "GN",
+      "name": "Guinea",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "GP",
+      "name": "Guadeloupe",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "GQ",
+      "name": "Equatorial Guinea",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "GR",
+      "name": "Greece",
+      "score": 3.1,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AN",
+      "iso_alpha2": "GS",
+      "name": "South Georgia and the South Sandwich Islands",
+      "score": 0,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "GT",
+      "name": "Guatemala",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "GU",
+      "name": "Guam",
+      "score": 4.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "GW",
+      "name": "Guinea-Bissau",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "GY",
+      "name": "Guyana",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "HK",
+      "name": "Hong Kong",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "HN",
+      "name": "Honduras",
+      "score": 3.7,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "HR",
+      "name": "Croatia",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "HT",
+      "name": "Haiti",
+      "score": 4.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "HU",
+      "name": "Hungary",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "ID",
+      "name": "Indonesia",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "IE",
+      "name": "Ireland",
+      "score": 3.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "IL",
+      "name": "Israel",
+      "score": 3.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "IM",
+      "name": "Isle of Man",
+      "score": 0,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "IN",
+      "name": "India",
+      "score": 3.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "IQ",
+      "name": "Iraq",
+      "score": 4.7,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "IR",
+      "name": "Iran",
+      "score": 4.6,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "IS",
+      "name": "Iceland",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "IT",
+      "name": "Italy",
+      "score": 4.1,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "JE",
+      "name": "Jersey",
+      "score": 0,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "JM",
+      "name": "Jamaica",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "JO",
+      "name": "Jordan",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "JP",
+      "name": "Japan",
+      "score": 3.1,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "KE",
+      "name": "Kenya",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "KG",
+      "name": "Kyrgyzstan",
+      "score": 2.6,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "KH",
+      "name": "Cambodia",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "KI",
+      "name": "Kiribati",
+      "score": 2.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "KM",
+      "name": "Comoros",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "KN",
+      "name": "Saint Kitts and Nevis",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "KP",
+      "name": "North Korea",
+      "score": 4.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "KR",
+      "name": "South Korea",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "KW",
+      "name": "Kuwait",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "KY",
+      "name": "Cayman Islands",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "KZ",
+      "name": "Kazakhstan",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "LA",
+      "name": "Laos",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "LB",
+      "name": "Lebanon",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "LC",
+      "name": "Saint Lucia",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "LI",
+      "name": "Liechtenstein",
+      "score": 2.8,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "LK",
+      "name": "Sri Lanka",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "LR",
+      "name": "Liberia",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "LS",
+      "name": "Lesotho",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "LT",
+      "name": "Lithuania",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "LU",
+      "name": "Luxembourg",
+      "score": 2.8,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "LV",
+      "name": "Latvia",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "LY",
+      "name": "Libya",
+      "score": 5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "MA",
+      "name": "Morocco",
+      "score": 3.1,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "MC",
+      "name": "Monaco",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "MD",
+      "name": "Moldova",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "ME",
+      "name": "Montenegro",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "MF",
+      "name": "Saint Martin",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "MG",
+      "name": "Madagascar",
+      "score": 3.1,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "MH",
+      "name": "Marshall Islands",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "MK",
+      "name": "Macedonia",
+      "score": 2.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "ML",
+      "name": "Mali",
+      "score": 4.7,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "MM",
+      "name": "Myanmar",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "MN",
+      "name": "Mongolia",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "MO",
+      "name": "Macao",
+      "score": 2.7,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "MP",
+      "name": "Northern Mariana Islands",
+      "score": 0,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "MQ",
+      "name": "Martinique",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "MR",
+      "name": "Mauritania",
+      "score": 3.7,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "MS",
+      "name": "Montserrat",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "MT",
+      "name": "Malta",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "MU",
+      "name": "Mauritius",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "MV",
+      "name": "Maldives",
+      "score": 3.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "MW",
+      "name": "Malawi",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "MX",
+      "name": "Mexico",
+      "score": 3.6,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "MY",
+      "name": "Malaysia",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "MZ",
+      "name": "Mozambique",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "NA",
+      "name": "Namibia",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "NC",
+      "name": "New Caledonia",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "NE",
+      "name": "Niger",
+      "score": 4.1,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "NF",
+      "name": "Norfolk Island",
+      "score": 0,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "NG",
+      "name": "Nigeria",
+      "score": 3.7,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "NI",
+      "name": "Nicaragua",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "NL",
+      "name": "Netherlands",
+      "score": 3.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "NO",
+      "name": "Norway",
+      "score": 3.1,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "NP",
+      "name": "Nepal",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "NU",
+      "name": "Niue",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "NZ",
+      "name": "New Zealand",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "OM",
+      "name": "Oman",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "PA",
+      "name": "Panama",
+      "score": 2.8,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "PE",
+      "name": "Peru",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "PF",
+      "name": "French Polynesia",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "PG",
+      "name": "Papua New Guinea",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "PH",
+      "name": "Philippines",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "PK",
+      "name": "Pakistan",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "PL",
+      "name": "Poland",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "PM",
+      "name": "Saint Pierre and Miquelon",
+      "score": 0,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "PN",
+      "name": "Pitcairn",
+      "score": 0,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "PR",
+      "name": "Puerto Rico",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "PS",
+      "name": "Palestinian Territory",
+      "score": 3.7,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "PT",
+      "name": "Portugal",
+      "score": 3.6,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "PW",
+      "name": "Palau",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "PY",
+      "name": "Paraguay",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "QA",
+      "name": "Qatar",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "RE",
+      "name": "Reunion",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "RO",
+      "name": "Romania",
+      "score": 3.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "RS",
+      "name": "Serbia",
+      "score": 3.8,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "RU",
+      "name": "Russia",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "RW",
+      "name": "Rwanda",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "SA",
+      "name": "Saudi Arabia",
+      "score": 3.1,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "SB",
+      "name": "Solomon Islands",
+      "score": 3.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "SC",
+      "name": "Seychelles",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "SD",
+      "name": "Sudan",
+      "score": 4.1,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "SE",
+      "name": "Sweden",
+      "score": 3.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "SG",
+      "name": "Singapore",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "SH",
+      "name": "Saint Helena",
+      "score": 0,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "SI",
+      "name": "Slovenia",
+      "score": 2.8,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "SJ",
+      "name": "Svalbard and Jan Mayen",
+      "score": 0,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "SK",
+      "name": "Slovakia",
+      "score": 2.8,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "SL",
+      "name": "Sierra Leone",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "SM",
+      "name": "San Marino",
+      "score": 4.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "SN",
+      "name": "Senegal",
+      "score": 3.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "SO",
+      "name": "Somalia",
+      "score": 5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "SR",
+      "name": "Suriname",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "SS",
+      "name": "South Sudan",
+      "score": 5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "ST",
+      "name": "Sao Tome and Principe",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "SV",
+      "name": "El Salvador",
+      "score": 3.7,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "SY",
+      "name": "Syria",
+      "score": 5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "SZ",
+      "name": "Swaziland",
+      "score": 2.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "TC",
+      "name": "Turks and Caicos Islands",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "TD",
+      "name": "Chad",
+      "score": 3.7,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "TG",
+      "name": "Togo",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "TH",
+      "name": "Thailand",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "TJ",
+      "name": "Tajikistan",
+      "score": 3.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "TL",
+      "name": "East Timor",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "TM",
+      "name": "Turkmenistan",
+      "score": 3.6,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "TN",
+      "name": "Tunisia",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "TO",
+      "name": "Tonga",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "TR",
+      "name": "Turkey",
+      "score": 3.6,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "TT",
+      "name": "Trinidad and Tobago",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "TV",
+      "name": "Tuvalu",
+      "score": 2.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "TW",
+      "name": "Taiwan",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "TZ",
+      "name": "Tanzania",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "UA",
+      "name": "Ukraine",
+      "score": 3.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "UG",
+      "name": "Uganda",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "US",
+      "name": "United States",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "UY",
+      "name": "Uruguay",
+      "score": 3.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "UZ",
+      "name": "Uzbekistan",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "VA",
+      "name": "Vatican",
+      "score": 5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "score": 2.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "VE",
+      "name": "Venezuela",
+      "score": 4.4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "VG",
+      "name": "British Virgin Islands",
+      "score": 3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "VI",
+      "name": "U.S. Virgin Islands",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "VN",
+      "name": "Vietnam",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "VU",
+      "name": "Vanuatu",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "WF",
+      "name": "Wallis and Futuna",
+      "score": 0,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "WS",
+      "name": "Samoa",
+      "score": 3.5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "XK",
+      "name": "Kosovo",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "YE",
+      "name": "Yemen",
+      "score": 5,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "YT",
+      "name": "Mayotte",
+      "score": 4,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "ZA",
+      "name": "South Africa",
+      "score": 3.6,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "ZM",
+      "name": "Zambia",
+      "score": 3.2,
+      "updated": "2020-06-04 07:22:12"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "ZW",
+      "name": "Zimbabwe",
+      "score": 3.3,
+      "updated": "2020-06-04 07:22:12"
+    }
+  ]
+}
