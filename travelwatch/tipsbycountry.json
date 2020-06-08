@@ -1,0 +1,543 @@
+{
+  "results": [
+    {
+      "Country": "Argentina",
+      "Taxis": "Round up taxi fare or small tip.",
+      "Porters": "$1",
+      "iso_alpha2": "AR",
+      "Restaurants": "10%"
+    },
+    {
+      "Country": "Armenia",
+      "Taxis": "None",
+      "Porters": "50 cents - $1 per bag",
+      "iso_alpha2": "AM",
+      "Restaurants": "10%"
+    },
+    {
+      "Country": "Australia",
+      "Taxis": "Round Up",
+      "Porters": "$2 per bag",
+      "iso_alpha2": "AU",
+      "Restaurants": "10% in fine restaurants only"
+    },
+    {
+      "Country": "Austria",
+      "Taxis": "Round Up",
+      "Porters": "$1 - $2 per bag",
+      "iso_alpha2": "AT",
+      "Restaurants": "5% above service charge"
+    },
+    {
+      "Country": "Azerbaijan",
+      "Taxis": "None",
+      "Porters": "50 cents - $1 per bag",
+      "iso_alpha2": "AZ",
+      "Restaurants": "10%"
+    },
+    {
+      "Country": "Bahamas",
+      "Taxis": "10%",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "BS",
+      "Restaurants": "10%"
+    },
+    {
+      "Country": "Bahrain",
+      "Taxis": "10%",
+      "Porters": "$1 - $2 per bag",
+      "iso_alpha2": "BH",
+      "Restaurants": "10%"
+    },
+    {
+      "Country": "Belgium",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "BE",
+      "Restaurants": "10% if no service charge"
+    },
+    {
+      "Country": "Bolivia",
+      "Taxis": "10%",
+      "Porters": "75 cents per bag",
+      "iso_alpha2": "BO",
+      "Restaurants": "10%"
+    },
+    {
+      "Country": "Brazil",
+      "Taxis": "10%",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "BR",
+      "Restaurants": "10 - 15%"
+    },
+    {
+      "Country": "Brunei",
+      "Taxis": "None",
+      "Porters": "None",
+      "iso_alpha2": "BN",
+      "Restaurants": "None"
+    },
+    {
+      "Country": "Bulgaria",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "BG",
+      "Restaurants": "10%"
+    },
+    {
+      "Country": "Canada",
+      "Taxis": "10%",
+      "Porters": "$1 - $2 per bag",
+      "iso_alpha2": "CA",
+      "Restaurants": "15%"
+    },
+    {
+      "Country": "Cayman Isles",
+      "Taxis": "10%",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "KY",
+      "Restaurants": "15% if no service chrg"
+    },
+    {
+      "Country": "Chile",
+      "Taxis": "None",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "CL",
+      "Restaurants": "10% in addition to service chg"
+    },
+    {
+      "Country": "China",
+      "Taxis": "None",
+      "Porters": "$1 - $2 total",
+      "iso_alpha2": "CN",
+      "Restaurants": "3% in major cities"
+    },
+    {
+      "Country": "Colombia",
+      "Taxis": "None",
+      "Porters": "75 cents per bag",
+      "iso_alpha2": "CO",
+      "Restaurants": "10%"
+    },
+    {
+      "Country": "Costa Rica",
+      "Taxis": "10%",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "CR",
+      "Restaurants": "None"
+    },
+    {
+      "Country": "Cuba",
+      "Taxis": "$1 for special service",
+      "Porters": "$1 for special service",
+      "iso_alpha2": "CU",
+      "Restaurants": "$1 for special service"
+    },
+    {
+      "Country": "Czech Rep",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "CZ",
+      "Restaurants": "5 - 10%"
+    },
+    {
+      "Country": "Denmark",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "DK",
+      "Restaurants": "None"
+    },
+    {
+      "Country": "Ecuador",
+      "Taxis": "None",
+      "Porters": "75 cents per bag",
+      "iso_alpha2": "EC",
+      "Restaurants": "10% if no service charge"
+    },
+    {
+      "Country": "Egypt",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "EG",
+      "Restaurants": "5-10% + service charge"
+    },
+    {
+      "Country": "England",
+      "Taxis": "15%",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "GB",
+      "Restaurants": "10% if no service charge"
+    },
+    {
+      "Country": "Fiji",
+      "Taxis": "Round Up",
+      "Porters": "None",
+      "iso_alpha2": "FJ",
+      "Restaurants": "None"
+    },
+    {
+      "Country": "Finland",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "FI",
+      "Restaurants": "10% if no service charge"
+    },
+    {
+      "Country": "France",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "FR",
+      "Restaurants": "5-10%"
+    },
+    {
+      "Country": "Germany",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "DE",
+      "Restaurants": "5-10%"
+    },
+    {
+      "Country": "Greece",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "GR",
+      "Restaurants": "5-10% in addition to service charge"
+    },
+    {
+      "Country": "Guatemala",
+      "Taxis": "10%",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "GT",
+      "Restaurants": "10% in addition to service charge"
+    },
+    {
+      "Country": "Holland",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "NL",
+      "Restaurants": "5-10%"
+    },
+    {
+      "Country": "Hong Kong",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "HK",
+      "Restaurants": "10% in addition to service charge"
+    },
+    {
+      "Country": "Hungary",
+      "Taxis": "Round Up",
+      "Porters": "None",
+      "iso_alpha2": "HU",
+      "Restaurants": "10% if no service charge"
+    },
+    {
+      "Country": "Iceland",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "IS",
+      "Restaurants": "10% if no service charge"
+    },
+    {
+      "Country": "India",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "IN",
+      "Restaurants": "10% if no service charge"
+    },
+    {
+      "Country": "Indonesia",
+      "Taxis": "Round Up",
+      "Porters": "50 cents total",
+      "iso_alpha2": "ID",
+      "Restaurants": "10%"
+    },
+    {
+      "Country": "Ireland",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "IR",
+      "Restaurants": "10 - 15%"
+    },
+    {
+      "Country": "Israel",
+      "Taxis": "12 - 15%",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "IL",
+      "Restaurants": "12 - 15% if no service charge"
+    },
+    {
+      "Country": "Italy",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "IT",
+      "Restaurants": "10% in addition to service charge"
+    },
+    {
+      "Country": "Japan",
+      "Taxis": "None",
+      "Porters": "None",
+      "iso_alpha2": "JP",
+      "Restaurants": "Tipping is perceived as insulting"
+    },
+    {
+      "Country": "Kenya",
+      "Taxis": "None",
+      "Porters": "50 cents per bag",
+      "iso_alpha2": "KE",
+      "Restaurants": "5% if no service charge"
+    },
+    {
+      "Country": "Luxembourg",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "LU",
+      "Restaurants": "5-10%"
+    },
+    {
+      "Country": "Macao",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "MO",
+      "Restaurants": "10% in addition to service charge"
+    },
+    {
+      "Country": "Madagascar",
+      "Taxis": "Round Up",
+      "Porters": "50 cents per bag",
+      "iso_alpha2": "MG",
+      "Restaurants": "10%"
+    },
+    {
+      "Country": "Malaysia",
+      "Taxis": "None",
+      "Porters": "None",
+      "iso_alpha2": "MY",
+      "Restaurants": "None"
+    },
+    {
+      "Country": "Mexico",
+      "Taxis": "50 cents",
+      "Porters": "$1",
+      "iso_alpha2": "MX",
+      "Restaurants": "10-15%"
+    },
+    {
+      "Country": "Morocco",
+      "Taxis": "Round Up",
+      "Porters": "50 cents per bag",
+      "iso_alpha2": "MA",
+      "Restaurants": "Leave loose change"
+    },
+    {
+      "Country": "New Zealand",
+      "Taxis": "None",
+      "Porters": "None",
+      "iso_alpha2": "NZ",
+      "Restaurants": "None"
+    },
+    {
+      "Country": "Nicaragua",
+      "Taxis": "10%",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "NI",
+      "Restaurants": "10% for special service"
+    },
+    {
+      "Country": "Norway",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "NO",
+      "Restaurants": "10% if no service charge"
+    },
+    {
+      "Country": "Oman",
+      "Taxis": "None",
+      "Porters": "None",
+      "iso_alpha2": "OM",
+      "Restaurants": "None"
+    },
+    {
+      "Country": "Paraguay",
+      "Taxis": "10%",
+      "Porters": "75 cents per bag",
+      "iso_alpha2": "PY",
+      "Restaurants": "10%"
+    },
+    {
+      "Country": "Peru",
+      "Taxis": "None",
+      "Porters": "75 cents per bag",
+      "iso_alpha2": "PE",
+      "Restaurants": "Up to 10% for special service"
+    },
+    {
+      "Country": "Philippines",
+      "Taxis": "Round Up",
+      "Porters": "50 cents - $1 per bag",
+      "iso_alpha2": "PH",
+      "Restaurants": "10%"
+    },
+    {
+      "Country": "Poland",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "PL",
+      "Restaurants": "10%"
+    },
+    {
+      "Country": "Portugal",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "PT",
+      "Restaurants": "10 - 15% if no service charge"
+    },
+    {
+      "Country": "Romania",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "RO",
+      "Restaurants": "Round Up"
+    },
+    {
+      "Country": "Russia",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "RU",
+      "Restaurants": "10 - 15%"
+    },
+    {
+      "Country": "Samoa",
+      "Taxis": "None",
+      "Porters": "None",
+      "iso_alpha2": "WS",
+      "Restaurants": "None"
+    },
+    {
+      "Country": "Saudi Arabia",
+      "Taxis": "10%",
+      "Porters": "$1 - $2 per bag",
+      "iso_alpha2": "SA",
+      "Restaurants": "10-15%"
+    },
+    {
+      "Country": "Scotland",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "GB",
+      "Restaurants": "10-15% if no service charge"
+    },
+    {
+      "Country": "Singapore",
+      "Taxis": "None",
+      "Porters": "None",
+      "iso_alpha2": "SG",
+      "Restaurants": "None"
+    },
+    {
+      "Country": "South Africa",
+      "Taxis": "10%",
+      "Porters": "50 cents total",
+      "iso_alpha2": "ZA",
+      "Restaurants": "10% if no service charge"
+    },
+    {
+      "Country": "South Korea",
+      "Taxis": "None",
+      "Porters": "None",
+      "iso_alpha2": "KR",
+      "Restaurants": "None"
+    },
+    {
+      "Country": "Spain",
+      "Taxis": "10%",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "ES",
+      "Restaurants": "7 - 10% in addition to service charge"
+    },
+    {
+      "Country": "Sweden",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "SE",
+      "Restaurants": "10% if no service charge"
+    },
+    {
+      "Country": "Switzerland",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "CH",
+      "Restaurants": "Round up"
+    },
+    {
+      "Country": "Taiwan",
+      "Taxis": "None",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "TW",
+      "Restaurants": "10% if no service charge"
+    },
+    {
+      "Country": "Tanzania",
+      "Taxis": "None",
+      "Porters": "None",
+      "iso_alpha2": "TZ",
+      "Restaurants": "10%"
+    },
+    {
+      "Country": "Thailand",
+      "Taxis": "None",
+      "Porters": "None",
+      "iso_alpha2": "TH",
+      "Restaurants": "None"
+    },
+    {
+      "Country": "Turkey",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "TR",
+      "Restaurants": "Round Up"
+    },
+    {
+      "Country": "Ukraine",
+      "Taxis": "Round Up",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "UA",
+      "Restaurants": "10%"
+    },
+    {
+      "Country": "United Arab Emirates",
+      "Taxis": "None",
+      "Porters": "None",
+      "iso_alpha2": "AE",
+      "Restaurants": "None"
+    },
+    {
+      "Country": "United States",
+      "Taxis": "10 - 15%",
+      "Porters": "$1 - $2 per bag",
+      "iso_alpha2": "US",
+      "Restaurants": "15-20%"
+    },
+    {
+      "Country": "Venezuela",
+      "Taxis": "10%",
+      "Porters": "75 cents per bag",
+      "iso_alpha2": "VE",
+      "Restaurants": "10%"
+    },
+    {
+      "Country": "Vietnam",
+      "Taxis": "None",
+      "Porters": "None",
+      "iso_alpha2": "VN",
+      "Restaurants": "None"
+    },
+    {
+      "Country": "Wales",
+      "Taxis": "10%",
+      "Porters": "$1 per bag",
+      "iso_alpha2": "GB",
+      "Restaurants": "10% if no service charge"
+    }
+  ]
+}
