@@ -14,33 +14,5 @@
             "score": 3.1,
             "updated": "2020-06-16 07:20:28"
       },
-    {
-      "iso_alpha2": "AD",
-      "continent": "EU",
-      "name": "Andorra",
-      "score": 2.8,
-      "updated": "2020-06-23 07:21:28"
-    },
-    {
-      "iso_alpha2": "AE",
-      "continent": "AS",
-      "name": "United Arab Emirates",
-      "score": 3.1,
-      "updated": "2020-06-23 07:21:28"
-    },
-    {
-      "iso_alpha2": "AF",
-      "continent": "AS",
-      "name": "Afghanistan",
-      "score": 5,
-      "updated": "2020-06-23 07:21:28"
-    },
-    {
-      "iso_alpha2": "AG",
-      "continent": "NA",
-      "name": "Antigua and Barbuda",
-      "score": 3,
-      "updated": "2020-06-23 07:21:28"
-    }
   ]
 }
