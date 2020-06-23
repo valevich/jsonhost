@@ -1,5 +1,19 @@
 {
   "results": [
+      {
+        "continent": "EU",
+        "iso_alpha2": "AD",
+        "name": "Andorra",
+        "score": 2.8,
+        "updated": "2020-06-16 07:20:28"
+      },
+      {
+            "continent": "AS",
+            "iso_alpha2": "AE",
+            "name": "United Arab Emirates",
+            "score": 3.1,
+            "updated": "2020-06-16 07:20:28"
+      },
     {
       "iso_alpha2": "AD",
       "continent": "EU",
