@@ -2,7 +2,7 @@
     {
         "country": "Afghanistan",
         "countrygroup": "Middle East",
-        "covidcases": "There are currently 19,368 active cases of COVID-19 diagnosed in Afghanistan and 548 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 19,488 active cases of COVID-19 diagnosed in Afghanistan and 581 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/af.svg?v=55d1560786aa95897b7113ba4c94d62e79952b2a&amp;cluster=4",
         "iso_alpha2": "af",
         "report1": "Afghanistan has suspended most international flights by Afghan airlines.",
@@ -11,7 +11,7 @@
     {
         "country": "Albania",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 682 active cases of COVID-19 diagnosed in Albania and 42 deaths as of Jun 17 2020",
+        "covidcases": "There are currently 784 active cases of COVID-19 diagnosed in Albania and 44 deaths as of Jun 17 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/al.svg?v=3ab625b3644e93ad6ff329cc3dbd33b72fa5b3c7&amp;cluster=4",
         "iso_alpha2": "al",
         "report1": "Albania has suspended all incoming flights except flights from Austria, Greece, Serbia, and one route to and from Istanbul.",
@@ -20,7 +20,7 @@
     {
         "country": "Algeria",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 2,483 active cases of COVID-19 diagnosed in Algeria and 825 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 2,504 active cases of COVID-19 diagnosed in Algeria and 845 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/dz.svg?v=ee31f5bc8b2be961a9a78eb20a74cadd21546908&amp;cluster=4",
         "iso_alpha2": "dz",
         "report1": "Algeria has closed its borders.",
@@ -36,7 +36,7 @@
     {
         "country": "Angola",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 98 active cases of COVID-19 diagnosed in Angola and 8 deaths as of Jun 4 2020",
+        "covidcases": "There are currently 97 active cases of COVID-19 diagnosed in Angola and 9 deaths as of Jun 4 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ao.svg?v=419ad2613232dfe169673934db652bc9d25fa146&amp;cluster=4",
         "iso_alpha2": "ao",
         "report1": "Angola has suspended all international flights until further notice.",
@@ -61,16 +61,16 @@
     {
         "country": "Argentina",
         "countrygroup": "South America",
-        "covidcases": "There are currently 26,740 active cases of COVID-19 diagnosed in Argentina and 979 deaths as of Jun 3 2020",
+        "covidcases": "There are currently 29,046 active cases of COVID-19 diagnosed in Argentina and 1,011 deaths as of Jun 23 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ar.svg?v=212734ce6562b218f9258c5126b79ebb66004746&amp;cluster=4",
         "iso_alpha2": "ar",
         "report1": "Argentina has restricted the entry of all foreign nationals.",
-        "report2": "Argentina has restricted entry to all travelers except for citizens and residents until at least June 7, 2020."
+        "report2": "Argentina has restricted entry to all travelers except for citizens and residents until at least June 28, 2020."
     },
     {
         "country": "Armenia",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 10,572 active cases of COVID-19 diagnosed in Armenia and 319 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 10,916 active cases of COVID-19 diagnosed in Armenia and 350 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/am.svg?v=9c786eb053ddb834dd8803f3d99e53b7a54164f7&amp;cluster=4",
         "iso_alpha2": "am",
         "report1": "Armenia has restricted the entry of all foreign nationals.",
@@ -81,12 +81,12 @@
         "countrygroup": "Caribbean",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/aw.svg?v=a89edacb209a44fd274f96e384be2a4fc15d52b8&amp;cluster=4",
         "iso_alpha2": "aw",
-        "report1": "Aruba will soon reopen its borders to foreign travelers."
+        "report1": "Aruba has reopened its borders to some foreign travelers."
     },
     {
         "country": "Australia",
         "countrygroup": "South Pacific",
-        "covidcases": "There are currently 428 active cases of COVID-19 diagnosed in Australia and 102 deaths as of Jun 15 2020",
+        "covidcases": "There are currently 469 active cases of COVID-19 diagnosed in Australia and 102 deaths as of Jun 15 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/au.svg?v=ae2e0b8c4a7d5ea410291c5456cad87e22d83502&amp;cluster=4",
         "iso_alpha2": "au",
         "report1": "Australia has restricted the entry of all foreign nationals except New Zealand nationals who reside in Australia, and nationals of other Oceania countries who are transiting through to their home countries.",
@@ -95,25 +95,25 @@
     {
         "country": "Austria",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 442 active cases of COVID-19 diagnosed in Austria and 688 deaths as of Jun 16 2020",
+        "covidcases": "There are currently 454 active cases of COVID-19 diagnosed in Austria and 690 deaths as of Jun 22 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/at.svg?v=f60e3e97df368f884aba280f1eac0becc83fb4b7&amp;cluster=4",
         "iso_alpha2": "at",
         "report1": "Austria has restricted the entry of all travelers who are not nationals of Austria, Switzerland, the United Kingdom, or the EEA countries. Travelers with valid medical certificates proving that they do not have COVID-19 may also enter.",
-        "report2": "Austria has restricted the entry of all travelers who are not arriving from a Schengen Member State, and has suspended commercial flights from Belarus, China, Iran, the Lombardy region of Italy, Portugal, Russia, Spain, Sweden, Ukraine and the United Kingdom. Austrian nationals, permanent residents, D-visa holders, and their immediate family members may still enter Austria. Diplomats, humanitarian aid workers, healthcare professionals, and members of emergency/rescue/ambulance crews may also enter the country.Nationals of Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and Switzerland, and British passport holders may also enter the country, as well as their family members. Travelers with medical certificates (in German or English) dated from a maximum of 4 days before their arrival in Austria that confirms that they’re not affected by Coronavirus (COVID-19) may also enter the country.All arriving travelers except nationals/residents of Austria, Czechia, Germany, Hungary, Liechtenstein, Slovakia, Slovenia or Switzerland must self-quarantine for 14 days upon arrival, and confirm this by signature unless they’re immediately departing the country or hold a health certificate confirming a negative molecular biological test for COVID-19 issued within 4 days of their arrival. If they cannot self-quarantine at home, they will be accommodated for 14 days unless they’re immediately departing the country."
+        "report2": "Austria has opened its borders to travelers arriving from a Schengen Member State. However, travel from outside of the EEA remains restricted for travelers who are not nationals of an EU/Schengen country, and flights remain suspended from certain areas including Belarus, China, Iran, the Lombardy region of Italy, Portugal, Russia, Spain, Sweden, Ukraine and the United Kingdom. Austrian nationals, permanent residents, D-visa holders, and EEA nationals and their immediate family members may still enter Austria. Diplomats, humanitarian aid workers, healthcare professionals, and members of emergency/rescue/ambulance crews may also enter the country, and travelers with an immediate connecting flight may transit through the country."
     },
     {
         "country": "Azerbaijan",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 5,299 active cases of COVID-19 diagnosed in Azerbaijan and 143 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 5,776 active cases of COVID-19 diagnosed in Azerbaijan and 154 deaths as of Jun 24 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/az.svg?v=adae617035abcbf836c5ac1386dec2052f38a40b&amp;cluster=4",
         "iso_alpha2": "az",
         "report1": "Azerbaijan has restricted the entry of all foreign nationals.",
-        "report2": "Azerbaijan has restricted entry to all travelers except for citizens, residents, travelers with a work permit, or travelers with special permission from the government."
+        "report2": "Azerbaijan has restricted entry to all travelers until at least August 1, except for citizens, residents, travelers with a work permit, or travelers with special permission from the government."
     },
     {
         "country": "Bahrain",
         "countrygroup": "Middle East",
-        "covidcases": "There are currently 5,572 active cases of COVID-19 diagnosed in Bahrain and 57 deaths as of Jun 22 2020",
+        "covidcases": "There are currently 5,282 active cases of COVID-19 diagnosed in Bahrain and 63 deaths as of Jun 22 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/bh.svg?v=6cfd551de9353bb7e67ce9887f3eb17863623cac&amp;cluster=4",
         "iso_alpha2": "bh",
         "report1": "Bahrain has restricted the entry of all travelers except for nationals, residents, military personnel, and travelers with a valid letter of Prior Permission Granted (PPG).",
@@ -122,7 +122,7 @@
     {
         "country": "Bangladesh",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 61,202 active cases of COVID-19 diagnosed in Bangladesh and 1,388 deaths as of Jun 22 2020",
+        "covidcases": "There are currently 65,765 active cases of COVID-19 diagnosed in Bangladesh and 1,464 deaths as of Jun 22 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/bd.svg?v=73b918a15f2f495cf7ec65b23342d0d567360fc2&amp;cluster=4",
         "iso_alpha2": "bd",
         "report1": "Bangladesh has suspended flights from Bahrain, Bhutan, Hong Kong, India, Kuwait, Malaysia, the Maldives, Nepal, Oman, Saudi Arabia, Sri Lanka, Singapore, Thailand, and Turkey.",
@@ -135,12 +135,12 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/bb.svg?v=257a41538371afbaa34fdef9dd25a728135db81d&amp;cluster=4",
         "iso_alpha2": "bb",
         "report1": "Barbados does not have any entry restrictions, but all arriving travelers and airline crew must self-isolate for 14 days.",
-        "report2": "Aruba has restricted the entry of all travelers, including residents.Barbados will quarantine all arriving travelers and airline crew for 14 days at a government administered facility."
+        "report2": "As of June 15th Aruba has opened its borders to travelers from Bonaire and Curacao.Barbados will quarantine all arriving travelers and airline crew for 14 days at a government administered facility."
     },
     {
         "country": "Belarus",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 21,721 active cases of COVID-19 diagnosed in Belarus and 337 deaths as of Jun 15 2020",
+        "covidcases": "There are currently 20,493 active cases of COVID-19 diagnosed in Belarus and 346 deaths as of Jun 15 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/by.svg?v=38f7065096a0e6e5a637375b4555d51195830138&amp;cluster=4",
         "iso_alpha2": "by",
         "report1": "Belarus has not implemented any entry restrictions, but foreign citizens arriving in Belarus are subject to a 14-day self quarantine requirement.",
@@ -149,11 +149,11 @@
     {
         "country": "Belgium",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 34,030 active cases of COVID-19 diagnosed in Belgium and 9,695 deaths as of Jun 16 2020",
+        "covidcases": "There are currently 34,083 active cases of COVID-19 diagnosed in Belgium and 9,696 deaths as of Jun 23 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/be.svg?v=d6b8358797d58fa2e77e639c787cf5fd9cbc2cf6&amp;cluster=4",
         "iso_alpha2": "be",
         "report1": "Belgium has restricted the entry of all travelers who are not arriving from EEA countries, Switzerland, or the United Kingdom. Nationals of Belgium or those same countries may still enter.",
-        "report2": "Belgium has restricted the entry of all travelers who are not arriving from EEA Member States, Switzerland or the United Kingdom.Diplomats, humanitarian aid workers, and military personnel may also enter the country.All travelers arriving from outside the Schengen area must stay home for 14 days after returning from travel, monitor their health, and practice social distancing."
+        "report2": "Belgium has restricted the entry of all travelers who are not arriving from EEA Member States, Switzerland or the United Kingdom.Diplomats, humanitarian aid workers, and military personnel may also enter the country.All travelers arriving from outside the EEA/Schengen area/UK must stay home for 14 days after returning from travel, monitor their health, and practice social distancing."
     },
     {
         "country": "Belize",
@@ -167,7 +167,7 @@
     {
         "country": "Benin",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 392 active cases of COVID-19 diagnosed in Benin and 11 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 499 active cases of COVID-19 diagnosed in Benin and 13 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/bj.svg?v=645d175e0f3f752c7fdc8dee684ba7f9a0e2ca47&amp;cluster=4",
         "iso_alpha2": "bj",
         "report1": "Benin has closed its land borders and suspended all commercial flights.",
@@ -185,7 +185,7 @@
     {
         "country": "Bhutan",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 40 active cases of COVID-19 diagnosed in Bhutan and 0 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 38 active cases of COVID-19 diagnosed in Bhutan and 0 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/bt.svg?v=8d24a1390d48347a21dac74cfde02834a02b5784&amp;cluster=4",
         "iso_alpha2": "bt",
         "report1": "Bhutan has closed its borders.",
@@ -194,7 +194,7 @@
     {
         "country": "Bolivia",
         "countrygroup": "South America",
-        "covidcases": "There are currently 17,091 active cases of COVID-19 diagnosed in Bolivia and 715 deaths as of Jun 3 2020",
+        "covidcases": "There are currently 18,161 active cases of COVID-19 diagnosed in Bolivia and 773 deaths as of Jun 3 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/bo.svg?v=966d4b874d9d4880b1a9a4e6d3679984fe18f079&amp;cluster=4",
         "iso_alpha2": "bo",
         "report1": "Bolivia has closed its borders.",
@@ -221,11 +221,11 @@
     {
         "country": "Brazil",
         "countrygroup": "South America",
-        "covidcases": "There are currently 432,328 active cases of COVID-19 diagnosed in Brazil and 48,954 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 433,845 active cases of COVID-19 diagnosed in Brazil and 50,617 deaths as of Jun 23 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/br.svg?v=f3f8868df9e9326fdb1fce24682a037e915d5eaf&amp;cluster=4",
         "iso_alpha2": "br",
         "report1": "Brazil has restricted the entry of all foreign nationals.",
-        "report2": "Brazil has restricted the entry of all travelers who are not citizens, residents, government employees and their family members, immediate family members of citizens, diplomats, travelers with authorization from the government, travelers with a National Migration Registry, or travelers in transit who do not leave the international area of the airport."
+        "report2": "Brazil has restricted the entry of all travelers who are not citizens, residents, government employees and their family members, immediate family members of citizens, diplomats, travelers with authorization from the government, travelers with a National Migration Registry, or travelers in transit who do not leave the international area of the airport. These restrictions are expected to remain in place through at least July 5."
     },
     {
         "country": "British Virgin Islands",
@@ -246,7 +246,7 @@
     {
         "country": "Bulgaria",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 1,554 active cases of COVID-19 diagnosed in Bulgaria and 193 deaths as of Jun 19 2020",
+        "covidcases": "There are currently 1,632 active cases of COVID-19 diagnosed in Bulgaria and 199 deaths as of Jun 23 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/bg.svg?v=886820f848cbc7372ba40f6640af02080e9c4f61&amp;cluster=4",
         "iso_alpha2": "bg",
         "report1": "Bulgaria has reopened its borders to travelers from most European countries.",
@@ -255,16 +255,16 @@
     {
         "country": "Burkina Faso",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 37 active cases of COVID-19 diagnosed in Burkina Faso and 53 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 36 active cases of COVID-19 diagnosed in Burkina Faso and 53 deaths as of Jun 24 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/bf.svg?v=b866fdf251c82b8a4dfa2aaa5877e2e788f7e40e&amp;cluster=4",
         "iso_alpha2": "bf",
-        "report1": "Burkina Faso has suspended flights at Bobo Dioulasso (BOY) and Ouagadougou (OUA).",
-        "report2": "Burkina Faso has suspended flights at Bobo Dioulasso (BOY) and Ouagadougou (OUA)."
+        "report1": "Burkina Faso has restricted the entry of all travelers except for Burkina Faso nationals and residents and limited humanitarian, medevac and repatriation fights.",
+        "report2": "Burkina Faso has restricted the entry of all travelers except for Burkina Faso nationals and residents and limited humanitarian, medevac and repatriation flights."
     },
     {
         "country": "Burundi",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 28 active cases of COVID-19 diagnosed in Burundi and 1 death as of Jun 5 2020",
+        "covidcases": "There are currently 50 active cases of COVID-19 diagnosed in Burundi and 1 death as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/bi.svg?v=6e7de2ce0ffcebf180c9a872a4aaa46982e3d538&amp;cluster=4",
         "iso_alpha2": "bi",
         "report1": "Burundi has suspended all international flights",
@@ -273,7 +273,7 @@
     {
         "country": "Cambodia",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 3 active cases of COVID-19 diagnosed in Cambodia and 0 deaths as of Jun 18 2020",
+        "covidcases": "There are currently 2 active cases of COVID-19 diagnosed in Cambodia and 0 deaths as of Jun 18 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/kh.svg?v=32323969acab1ec7cfb9087fe5447189112ae87c&amp;cluster=4",
         "iso_alpha2": "kh",
         "report1": "Cambodia has suspended all visa exemptions, visas on arrival, and e-visas.",
@@ -282,7 +282,7 @@
     {
         "country": "Cameroon",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 2,808 active cases of COVID-19 diagnosed in Cameroon and 282 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 3,879 active cases of COVID-19 diagnosed in Cameroon and 303 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/cm.svg?v=4c41accba3fcac3e210606d9fd763ee1516e7bf6&amp;cluster=4",
         "iso_alpha2": "cm",
         "report1": "Cameroon has suspended all international flights.",
@@ -291,7 +291,7 @@
     {
         "country": "Canada",
         "countrygroup": "North America",
-        "covidcases": "There are currently 29,589 active cases of COVID-19 diagnosed in Canada and 8,407 deaths as of Jun 12 2020",
+        "covidcases": "There are currently 29,348 active cases of COVID-19 diagnosed in Canada and 8,481 deaths as of Jun 12 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ca.svg?v=8a08b22ed23524aca1804251e295316e66a93966&amp;cluster=4",
         "iso_alpha2": "ca",
         "report1": "Canada has restricted the entry of all foreign nationals. However, Canadian citizens and permanent residents who have COVID-19 symptoms may only enter by land, rail, or sea, and not by air.",
@@ -300,7 +300,7 @@
     {
         "country": "Cape Verde",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 463 active cases of COVID-19 diagnosed in Cape Verde and 8 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 469 active cases of COVID-19 diagnosed in Cape Verde and 8 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/cv.svg?v=73efb33a910ab869c1fd9194eaa4de62cc73d881&amp;cluster=4",
         "iso_alpha2": "cv",
         "report1": "Cape Verde has suspended all international passenger flights.",
@@ -325,7 +325,7 @@
     {
         "country": "Central African Republic",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 2,169 active cases of COVID-19 diagnosed in Central African Republic and 19 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 2,313 active cases of COVID-19 diagnosed in Central African Republic and 23 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/cf.svg?v=128e57dc902cc027e95c58e34b3e4f3d540ec1fa&amp;cluster=4",
         "iso_alpha2": "cf",
         "report1": "The Central African Republic has closed Bangui M'Poko International Airport (BGF).",
@@ -334,7 +334,7 @@
     {
         "country": "Chad",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 42 active cases of COVID-19 diagnosed in Chad and 74 deaths as of Jun 3 2020",
+        "covidcases": "There are currently 32 active cases of COVID-19 diagnosed in Chad and 74 deaths as of Jun 3 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/td.svg?v=310c037fbbfd23bc39b3e5e51b3cb6501ba9f147&amp;cluster=4",
         "iso_alpha2": "td",
         "report1": "Chad has suspended all flights until at least June 15.",
@@ -343,7 +343,7 @@
     {
         "country": "Chile",
         "countrygroup": "South America",
-        "covidcases": "There are currently 35,809 active cases of COVID-19 diagnosed in Chile and 4,093 deaths as of Jun 22 2020",
+        "covidcases": "There are currently 37,307 active cases of COVID-19 diagnosed in Chile and 4,479 deaths as of Jun 22 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/cl.svg?v=f159bf4dfefd8973b0b30ff27b9de5b158ea4455&amp;cluster=4",
         "iso_alpha2": "cl",
         "report1": "Chile has restricted the entry of all foreign nationals.",
@@ -352,7 +352,7 @@
     {
         "country": "China",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 341 active cases of COVID-19 diagnosed in China and 4,638 deaths as of Jun 15 2020",
+        "covidcases": "There are currently 398 active cases of COVID-19 diagnosed in China and 4,639 deaths as of Jun 15 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/cn.svg?v=9b561bf067fb9ce0a162265a87c89b4955858439&amp;cluster=4",
         "iso_alpha2": "cn",
         "report1": "China has restricted the entry of all foreign nationals except Hong Kong, Macau, and Taiwan passport holders.",
@@ -361,7 +361,7 @@
     {
         "country": "Colombia",
         "countrygroup": "South America",
-        "covidcases": "There are currently 35,615 active cases of COVID-19 diagnosed in Colombia and 2,046 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 39,071 active cases of COVID-19 diagnosed in Colombia and 2,353 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/co.svg?v=93cd49e98e0a01c73f8dc855786c3885e0cecea7&amp;cluster=4",
         "iso_alpha2": "co",
         "report1": "Colombia has restricted the entry of all foreign nationals.",
@@ -370,7 +370,7 @@
     {
         "country": "Comoros",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 76 active cases of COVID-19 diagnosed in Comoros and 5 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 83 active cases of COVID-19 diagnosed in Comoros and 5 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/km.svg?v=cc955d8188969142d470e7d2e59b05615cfe7fb2&amp;cluster=4",
         "iso_alpha2": "km",
         "report1": "Comoros has suspended all flights into the country.",
@@ -386,16 +386,16 @@
     {
         "country": "Costa Rica",
         "countrygroup": "Central America",
-        "covidcases": "There are currently 1,064 active cases of COVID-19 diagnosed in Costa Rica and 12 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 1,169 active cases of COVID-19 diagnosed in Costa Rica and 12 deaths as of Jun 24 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/cr.svg?v=9acc55eb77e479ac7e03509d6425e9d05ec2cee9&amp;cluster=4",
         "iso_alpha2": "cr",
         "report1": "Costa Rica has restricted the entry of all foreign nationals.",
-        "report2": "Costa Rica has restricted the entry of all travelers who are not nationals and residents of Costa Rica."
+        "report2": "Costa Rica has restricted the entry of all travelers until at least June 30 who are not nationals and residents of Costa Rica.All of the above travelers must self-isolate for a period of 14 days upon arrival."
     },
     {
         "country": "Croatia",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 31 active cases of COVID-19 diagnosed in Croatia and 107 deaths as of Jun 17 2020",
+        "covidcases": "There are currently 68 active cases of COVID-19 diagnosed in Croatia and 107 deaths as of Jun 17 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/hr.svg?v=e3880a973dd540bccb483aa3cb9283c5583cecb8&amp;cluster=4",
         "iso_alpha2": "hr",
         "report1": "Croatia has opened its borders to visitors from the EU/EEA and the UK, provided they hold an accommodation reservation in the country.",
@@ -404,10 +404,10 @@
     {
         "country": "Cuba",
         "countrygroup": "Caribbean",
-        "covidcases": "There are currently 183 active cases of COVID-19 diagnosed in Cuba and 85 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 124 active cases of COVID-19 diagnosed in Cuba and 85 deaths as of Jun 24 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/cu.svg?v=27c2a6236e4527a1a3bf79773519369c47895450&amp;cluster=4",
         "iso_alpha2": "cu",
-        "report1": "Cuba has suspended all flights into the country.",
+        "report1": "Cuba has suspended all flights into the country until July 1.",
         "report2": "Cuba has suspended all flights into the country, except for humanitarian aid flights."
     },
     {
@@ -420,7 +420,7 @@
     {
         "country": "Cyprus",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 148 active cases of COVID-19 diagnosed in Cyprus and 19 deaths as of Jun 22 2020",
+        "covidcases": "There are currently 143 active cases of COVID-19 diagnosed in Cyprus and 19 deaths as of Jun 22 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/cy.svg?v=8ce7f9ff7de158fda7dcea342b9e932889bf8244&amp;cluster=4",
         "iso_alpha2": "cy",
         "report1": "Cyprus has begun allowing entry to travelers arriving from a specific list of countries.",
@@ -429,11 +429,11 @@
     {
         "country": "Czech Republic",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 2,598 active cases of COVID-19 diagnosed in Czech Republic and 335 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 2,663 active cases of COVID-19 diagnosed in Czech Republic and 336 deaths as of Jun 24 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/cz.svg?v=51b3870e5c6e012f1fd8dc90979f7493854dfe32&amp;cluster=4",
         "iso_alpha2": "cz",
-        "report1": "Czechia has restricted the entry of all foreign nationals. Special exemptions apply for spouses, parents, and children of Czech nationals and residents.",
-        "report2": "Czechia has restricted the entry of all travelers who are not Czech nationals or holders of residence permits or visas valid for longer than 90 days."
+        "report1": "Czechia has announced new entry requirements for travelers arriving from within the EEA/UK, with rules for entry depending on the COVID-19 case count in the country they are flying from.",
+        "report2": "Czechia has announced a new system of entry requirements for travelers arriving from within the EU/Schengen area (plus the UK), with different rules for entry into the country from three categories of countries; high, medium and low risk. A list of these categories can be found on the <a href=-https://koronavirus.mzcr.cz/en/from-15-june-eu-citizens-returning-from-countries-with-a-low-to-moderate-risk-of-coronavirus-contagion-can-travel-to-the-czech-republic-without-a-test/->Ministry of Health website</a>.Individuals with Czech residency traveling from countries designated by the Czech Government as ‘medium or low risk’ will be able to enter the Czech Republic for any reason, without a test result and without self-isolating.Travelers who are residents of a country not covered by the above system may only enter the Czech Republic for certain purposes, including business, visiting family members, and study at university. Details outlining valid reasons for entry, along with information on the necessary documents and restrictions are available on the website of the <a href=-https://www.mvcr.cz/mvcren/article/coronavirus-information-of-moi.aspx->Czech Ministry of the Interior</a> (see the second bullet point in section two - ‘Conditions for entry to the territory of the Czech Republic (from 15 June, 2020)’).Travelers in this category will need to show a residency card when boarding flights, and will need to either present a negative coronavirus test, be tested on arrival and self-isolate while waiting for a result, or self-isolate for 14 days upon arrival.Non-Czech residents seeking to transit through the Czech Republic to return to their country of residence should first contact their country's embassy in the Czech Republic to provide necessary documentation and advise if they will be cleared to travel."
     },
     {
         "country": "Democratic Republic of the Congo",
@@ -454,7 +454,7 @@
     {
         "country": "Djibouti",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 955 active cases of COVID-19 diagnosed in Djibouti and 45 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 678 active cases of COVID-19 diagnosed in Djibouti and 45 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/dj.svg?v=88babe40d5dfd673bfa769a3c836aa610c9506a2&amp;cluster=4",
         "iso_alpha2": "dj",
         "report1": "Djibouti has suspended all flights into the country.",
@@ -471,7 +471,7 @@
     {
         "country": "Dominican Republic",
         "countrygroup": "Caribbean",
-        "covidcases": "There are currently 9,816 active cases of COVID-19 diagnosed in Dominican Republic and 647 deaths as of Jun 17 2020",
+        "covidcases": "There are currently 10,877 active cases of COVID-19 diagnosed in Dominican Republic and 662 deaths as of Jun 17 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/do.svg?v=7eb7dac26b1910b4d30907fcd82ee424eefaafe2&amp;cluster=4",
         "iso_alpha2": "do",
         "report1": "The Dominican Republic has suspended all flights.",
@@ -488,7 +488,7 @@
     {
         "country": "Ecuador",
         "countrygroup": "South America",
-        "covidcases": "There are currently 21,129 active cases of COVID-19 diagnosed in Ecuador and 4,156 deaths as of Jun 15 2020",
+        "covidcases": "There are currently 21,426 active cases of COVID-19 diagnosed in Ecuador and 4,223 deaths as of Jun 15 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ec.svg?v=d68c44b0b1e9a5a73f3f78352522f43cee6d3c97&amp;cluster=4",
         "iso_alpha2": "ec",
         "report1": "Flights to Ecuador have now resumed.",
@@ -497,7 +497,7 @@
     {
         "country": "Egypt",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 36,266 active cases of COVID-19 diagnosed in Egypt and 2,017 deaths as of Jun 22 2020",
+        "covidcases": "There are currently 38,304 active cases of COVID-19 diagnosed in Egypt and 2,193 deaths as of Jun 22 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/eg.svg?v=1d2e834e4e7068044fb288207ce2871c9393030d&amp;cluster=4",
         "iso_alpha2": "eg",
         "report1": "Egypt has suspended all commercial flights into the country.",
@@ -506,7 +506,7 @@
     {
         "country": "El Salvador",
         "countrygroup": "Central America",
-        "covidcases": "There are currently 1,933 active cases of COVID-19 diagnosed in El Salvador and 86 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 1,993 active cases of COVID-19 diagnosed in El Salvador and 98 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/sv.svg?v=99d8a9e21e3e1233c9da86c8bd0b9846b021544c&amp;cluster=4",
         "iso_alpha2": "sv",
         "report1": "El Salvador has restricted the entry of all foreign nationals.",
@@ -524,7 +524,7 @@
     {
         "country": "Eritrea",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 103 active cases of COVID-19 diagnosed in Eritrea and 0 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 104 active cases of COVID-19 diagnosed in Eritrea and 0 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/er.svg?v=6654971ff8f79ad9418c121bada204dd26312d0d&amp;cluster=4",
         "iso_alpha2": "er",
         "report1": "Eritrea has not implemented any entry restrictions, but arriving travelers will be screened at Asmara International Airport (ASM).",
@@ -533,7 +533,7 @@
     {
         "country": "Estonia",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 155 active cases of COVID-19 diagnosed in Estonia and 69 deaths as of Jun 8 2020",
+        "covidcases": "There are currently 148 active cases of COVID-19 diagnosed in Estonia and 69 deaths as of Jun 8 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ee.svg?v=bdd12f9d9a57fe542600b31d3740f42b4e8d8b47&amp;cluster=4",
         "iso_alpha2": "ee",
         "report1": "Estonian nationals, residence permit holders, foreign citizens with family members in Estonia, and travelers without symptoms of COVID-19 who are arriving from an EU Member State, Schengen member state or the UK may now enter Estonia.",
@@ -542,7 +542,7 @@
     {
         "country": "Eswatini",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 343 active cases of COVID-19 diagnosed in Eswatini and 4 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 345 active cases of COVID-19 diagnosed in Eswatini and 5 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/sz.svg?v=bc627450f62e8d2c612e0fed6551e79f453b8501&amp;cluster=4",
         "iso_alpha2": "sz",
         "report1": "Swaziland has restricted the entry of all foreign nationals.",
@@ -551,11 +551,11 @@
     {
         "country": "Ethiopia",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 2,969 active cases of COVID-19 diagnosed in Ethiopia and 72 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 3,245 active cases of COVID-19 diagnosed in Ethiopia and 74 deaths as of Jun 22 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/et.svg?v=f409caaccc04e781e4c333eb3f420ca113acca9a&amp;cluster=4",
         "iso_alpha2": "et",
         "report1": "Ethiopia has closed its land borders.",
-        "report2": "Ethiopia has closed its land borders. All travelers arriving in Ethiopia will be placed in a mandatory quarantine at the Ethiopian Skylight Hotel for 14 days at their own expense."
+        "report2": "Ethiopia has closed its land borders, but airports remsin open.Travelers carrying a negative COVID-19 test certificate dated within the previous 72 hours are required to take a new test and to self-isolate at home for 14 days. All other passengers will be subject to 7 days mandatory quarantine, followed by a further 7 days self-isolation at home, where possible. Mandatory quarantine will be at government designated hotels. Travelers may choose from a range of hotels at different prices, but cannot change hotel once their quarantine has started. Travelers are responsible for the full cost of their stay in quarantine, and may be required to show their hotel booking before boarding their flight."
     },
     {
         "country": "Falkland Islands (Islas Malvinas)",
@@ -583,7 +583,7 @@
     {
         "country": "Finland",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 607 active cases of COVID-19 diagnosed in Finland and 326 deaths as of Jun 19 2020",
+        "covidcases": "There are currently 617 active cases of COVID-19 diagnosed in Finland and 326 deaths as of Jun 19 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/fi.svg?v=f29ddd45f23f692af6d8d09d064ade19eb1b8696&amp;cluster=4",
         "iso_alpha2": "fi",
         "report1": "Finland has eased restrictions on travelers arriving from neighboring countries.",
@@ -592,7 +592,7 @@
     {
         "country": "France",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 90,626 active cases of COVID-19 diagnosed in France and 29,554 deaths as of Jun 15 2020",
+        "covidcases": "There are currently 90,882 active cases of COVID-19 diagnosed in France and 29,574 deaths as of Jun 15 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/fr.svg?v=a38f98691fd2454c377951bf04008e9f8209a789&amp;cluster=4",
         "iso_alpha2": "fr",
         "report1": "France restricted the entry of all foreign nationals except nationals of other Schengen Member States.",
@@ -601,7 +601,7 @@
     {
         "country": "French Guiana",
         "countrygroup": "South America",
-        "covidcases": "There are currently 1,124 active cases of COVID-19 diagnosed in French Guiana and 5 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 1,505 active cases of COVID-19 diagnosed in French Guiana and 6 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/gf.svg?v=861ce4bafa2557ce8e627cfb720401eb5fd61bff&amp;cluster=4",
         "iso_alpha2": "gf",
         "report1": "French Guiana has restricted the entry of all foreign nationals.",
@@ -627,7 +627,7 @@
     {
         "country": "Gambia",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 11 active cases of COVID-19 diagnosed in Gambia and 1 death as of Jun 10 2020",
+        "covidcases": "There are currently 11 active cases of COVID-19 diagnosed in Gambia and 2 deaths as of Jun 10 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/gm.svg?v=2d968e15f80fd902e3cf1906341c1d7311286bff&amp;cluster=4",
         "iso_alpha2": "gm",
         "report1": "Gambia has suspended all commercial flights.",
@@ -636,7 +636,7 @@
     {
         "country": "Georgia",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 141 active cases of COVID-19 diagnosed in Georgia and 14 deaths as of Jun 12 2020",
+        "covidcases": "There are currently 137 active cases of COVID-19 diagnosed in Georgia and 14 deaths as of Jun 12 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ge.svg?v=4263b3613c0bd5958000a11028ffb9df7aefbd58&amp;cluster=4",
         "iso_alpha2": "ge",
         "report1": "Georgia will reopen its borders starting from July 1.",
@@ -645,7 +645,7 @@
     {
         "country": "Germany",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 7,440 active cases of COVID-19 diagnosed in Germany and 8,887 deaths as of Jun 22 2020",
+        "covidcases": "There are currently 7,637 active cases of COVID-19 diagnosed in Germany and 8,895 deaths as of Jun 22 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/de.svg?v=077aee93b0d19f004a9a57e43d7b2e9179d59a24&amp;cluster=4",
         "iso_alpha2": "de",
         "report1": "Germany has relaxed its entry restrictions for travelers arriving from the European Economic Area.",
@@ -654,7 +654,7 @@
     {
         "country": "Ghana",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 8,585 active cases of COVID-19 diagnosed in Ghana and 70 deaths as of Jun 3 2020",
+        "covidcases": "There are currently 3,596 active cases of COVID-19 diagnosed in Ghana and 85 deaths as of Jun 3 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/gh.svg?v=ddd6221d12edb1ccff5911bee5233b24877637e3&amp;cluster=4",
         "iso_alpha2": "gh",
         "report1": "Ghana has suspended all commercial flights into the country.",
@@ -671,7 +671,7 @@
     {
         "country": "Greece",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 1,674 active cases of COVID-19 diagnosed in Greece and 189 deaths as of Jun 16 2020",
+        "covidcases": "There are currently 1,702 active cases of COVID-19 diagnosed in Greece and 190 deaths as of Jun 16 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/gr.svg?v=119881670c8d27ea9252ff1fddc8047246aa44bf&amp;cluster=4",
         "iso_alpha2": "gr",
         "report1": "Greece has resumed flights from many European countries.",
@@ -704,16 +704,16 @@
     {
         "country": "Guam",
         "countrygroup": "South Pacific",
-        "covidcases": "There are currently 195 active cases of COVID-19 diagnosed in Guam and 5 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 217 active cases of COVID-19 diagnosed in Guam and 5 deaths as of Jun 23 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/gu.svg?v=e685a6017794f26bf36be32c58958747025cb8d1&amp;cluster=4",
         "iso_alpha2": "gu",
-        "report1": "Guam has restricted the entry of all travelers who have been in a country with confirmed COVID-19 cases for more than a week, and haven't officially been declared healthy.",
-        "report2": "Guam has restricted the entry of all travelers who have been in a country with confirmed COVID-19 cases for more than a week, and do not hold a document certified by DPHSS (Guam Department of Social Health and Services) that confirms they are not infected with COVID-19."
+        "report1": "Guam has restricted the entry of all non-nationals/residents who have been in a country with confirmed COVID-19 cases for more than a week, and haven't officially been declared healthy.",
+        "report2": "Guam has restricted the entry of all non nationals/residents who have been in a country with confirmed COVID-19 cases for more than a week, and do not hold a document certified by DPHSS (Guam Department of Social Health and Services) that confirms they are not infected with COVID-19."
     },
     {
         "country": "Guatemala",
         "countrygroup": "Central America",
-        "covidcases": "There are currently 9,607 active cases of COVID-19 diagnosed in Guatemala and 483 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 9,903 active cases of COVID-19 diagnosed in Guatemala and 531 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/gt.svg?v=9b219be083182dd3bdc46e8307180ab310e56731&amp;cluster=4",
         "iso_alpha2": "gt",
         "report1": "Guatemala has suspended all flights into the country, and restricted the entry of all foreign nationals.",
@@ -722,7 +722,7 @@
     {
         "country": "Guinea",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 1,355 active cases of COVID-19 diagnosed in Guinea and 27 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 1,292 active cases of COVID-19 diagnosed in Guinea and 27 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/gn.svg?v=496204e23af30b59842d996e7999ade2b2e59a70&amp;cluster=4",
         "iso_alpha2": "gn",
         "report1": "Guinea has suspended all commercial flights from countries with more than 30 confirmed cases of coronavirus (COVID-19).",
@@ -749,7 +749,7 @@
     {
         "country": "Haiti",
         "countrygroup": "Caribbean",
-        "covidcases": "There are currently 4,869 active cases of COVID-19 diagnosed in Haiti and 87 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 4,965 active cases of COVID-19 diagnosed in Haiti and 88 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ht.svg?v=e21cb49c7261e4dec81b1750547e85b0320799cc&amp;cluster=4",
         "iso_alpha2": "ht",
         "report1": "Haiti has suspended all international flights into the country.",
@@ -758,7 +758,7 @@
     {
         "country": "Honduras",
         "countrygroup": "Central America",
-        "covidcases": "There are currently 9,695 active cases of COVID-19 diagnosed in Honduras and 349 deaths as of Jun 22 2020",
+        "covidcases": "There are currently 11,113 active cases of COVID-19 diagnosed in Honduras and 363 deaths as of Jun 22 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/hn.svg?v=2f11f14f9e29ab56064697cec47d2334dd080061&amp;cluster=4",
         "iso_alpha2": "hn",
         "report1": "Honduras has closed its airports until at least August 15 2020.",
@@ -774,11 +774,11 @@
     {
         "country": "Hungary",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 932 active cases of COVID-19 diagnosed in Hungary and 568 deaths as of Jun 17 2020",
+        "covidcases": "There are currently 935 active cases of COVID-19 diagnosed in Hungary and 570 deaths as of Jun 23 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/hu.svg?v=e6c7bc48d8661404435037820093612698558630&amp;cluster=4",
         "iso_alpha2": "hu",
-        "report1": "Hungary has begun relaxing restrictions for travelers from some neighboring countries.",
-        "report2": "Hungary has begun to relax its entry restrictions. While most travelers who are not Hungarian nationals are still restricted from entering, nationals of nearby countries may now enter under specific circumstances. The following groups of people are now able to enter Hungary:Hungarian nationals are subject to quarantine except when arriving from Austria, Bulgaria, Croatia, Czechia, Germany, Serbia or Slovakia."
+        "report1": "Hungary has begun relaxing restrictions for travelers from some neighboring countries, but Hungarian residents who are not EU nationals must still submit a request to the government.",
+        "report2": "Hungary has begun to relax its entry restrictions. While most travelers who are not Hungarian nationals are still restricted from entering, nationals of nearby countries may now enter under specific circumstances. The following groups of people are now able to enter Hungary:All travelers able to enter Hungary are subject to quarantine except nationals of the above-listed countries.All other foreigners including Hungarian residents may only enter by submitting a request for an exception and entry permit with supporting documents on the <a href=- https://ugyintezes.police.hu/web/guest/uj-ugy-inditasa/->National Police website</a>. The form is currently only available in Hungarian and must be completed in Hungarian. Applications should be submitted at least a few days before the planned travel day, clearly stating the justification for the exemption application. The form sets out more details about the type of exceptional circumstances in which the authorities may allow entry. Anyone entering Hungary following this application route will undergo a medical check. Those with no symptoms of COVID-19 will be quarantined for 14 days, while those showing signs of COVID-19 will not be allowed to enter the country."
     },
     {
         "country": "Iceland",
@@ -792,7 +792,7 @@
     {
         "country": "India",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 168,269 active cases of COVID-19 diagnosed in India and 12,948 deaths as of Jun 17 2020",
+        "covidcases": "There are currently 174,387 active cases of COVID-19 diagnosed in India and 13,699 deaths as of Jun 17 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/in.svg?v=9061232a9e445ff4374f468cfbce1aadf6805d7a&amp;cluster=4",
         "iso_alpha2": "in",
         "report1": "India has suspended most categories of international flights into the country.",
@@ -801,7 +801,7 @@
     {
         "country": "Indonesia",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 24,081 active cases of COVID-19 diagnosed in Indonesia and 2,373 deaths as of Jun 3 2020",
+        "covidcases": "There are currently 25,022 active cases of COVID-19 diagnosed in Indonesia and 2,465 deaths as of Jun 3 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/id.svg?v=b854d11ed37aed286b05ed0c5cb95d92749b5d19&amp;cluster=4",
         "iso_alpha2": "id",
         "report1": "Indonesia has restricted the entry of all foreign nationals.",
@@ -810,7 +810,7 @@
     {
         "country": "Iran",
         "countrygroup": "Middle East",
-        "covidcases": "There are currently 31,678 active cases of COVID-19 diagnosed in Iran and 9,392 deaths as of Jun 10 2020",
+        "covidcases": "There are currently 31,738 active cases of COVID-19 diagnosed in Iran and 9,623 deaths as of Jun 10 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ir.svg?v=22a09fbe7bb8c5b617e94842569fa6308ef11ce9&amp;cluster=4",
         "iso_alpha2": "ir",
         "report1": "Iran has restricted the entry of nationals of the United Arab Emirates.",
@@ -819,16 +819,16 @@
     {
         "country": "Iraq",
         "countrygroup": "Middle East",
-        "covidcases": "There are currently 14,222 active cases of COVID-19 diagnosed in Iraq and 925 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 15,833 active cases of COVID-19 diagnosed in Iraq and 1,100 deaths as of Jun 23 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/iq.svg?v=a282599c09df4d29f7cdb9dd8b3754159b3a53f8&amp;cluster=4",
         "iso_alpha2": "iq",
-        "report1": "Iraq has closed its airports.",
-        "report2": "Iraq has suspended all flights except red cross, humanitarian, Medevac, repatriation, emergency and military flights."
+        "report1": "Iraq has closed its airports until at least July 1.",
+        "report2": "Iraq has suspended all flights except red cross, humanitarian, Medevac, repatriation, emergency and military flights until at least July 1."
     },
     {
         "country": "Ireland",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 956 active cases of COVID-19 diagnosed in Ireland and 1,714 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 966 active cases of COVID-19 diagnosed in Ireland and 1,715 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ie.svg?v=fe4e610e4fcb853072c6a5408fc1a0b1b3028c87&amp;cluster=4",
         "iso_alpha2": "ie",
         "report1": "Ireland is not currently implementing any entry restrictions.",
@@ -837,7 +837,7 @@
     {
         "country": "Israel",
         "countrygroup": "Middle East",
-        "covidcases": "There are currently 4,449 active cases of COVID-19 diagnosed in Israel and 304 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 4,778 active cases of COVID-19 diagnosed in Israel and 306 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/il.svg?v=bfe617db9350f67f9dc12b9abd827ae16ad5ef8f&amp;cluster=4",
         "iso_alpha2": "il",
         "report1": "Israel has restricted the entry of all foreign nationals.",
@@ -846,7 +846,7 @@
     {
         "country": "Italy",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 21,543 active cases of COVID-19 diagnosed in Italy and 34,561 deaths as of Jun 17 2020",
+        "covidcases": "There are currently 20,972 active cases of COVID-19 diagnosed in Italy and 34,634 deaths as of Jun 17 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/it.svg?v=8a1a586b11da026f9315cb7be3ea019f7b14c185&amp;cluster=4",
         "iso_alpha2": "it",
         "report1": "Italy has reopened its borders to travelers arriving from the European Union/Schengen zone.",
@@ -855,7 +855,7 @@
     {
         "country": "Ivory Coast",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 3,883 active cases of COVID-19 diagnosed in Ivory Coast and 49 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 4,370 active cases of COVID-19 diagnosed in Ivory Coast and 54 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ci.svg?v=53439963022798646f0180475efe7a9b484a44b8&amp;cluster=4",
         "iso_alpha2": "ci",
         "report1": "Cote d'Ivoire has closed its borders.",
@@ -864,7 +864,7 @@
     {
         "country": "Jamaica",
         "countrygroup": "Caribbean",
-        "covidcases": "There are currently 184 active cases of COVID-19 diagnosed in Jamaica and 10 deaths as of Jun 16 2020",
+        "covidcases": "There are currently 133 active cases of COVID-19 diagnosed in Jamaica and 10 deaths as of Jun 16 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/jm.svg?v=bb6d81ff4bbda0f1eb3a2a848690943d3010b40a&amp;cluster=4",
         "iso_alpha2": "jm",
         "report1": "Jamaica has reopened its borders to international travelers.",
@@ -873,7 +873,7 @@
     {
         "country": "Japan",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 863 active cases of COVID-19 diagnosed in Japan and 951 deaths as of Jun 3 2020",
+        "covidcases": "There are currently 877 active cases of COVID-19 diagnosed in Japan and 955 deaths as of Jun 3 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/jp.svg?v=e64b97e7afa0ac14e18bdd1e56e342472db9a72a&amp;cluster=4",
         "iso_alpha2": "jp",
         "report1": "Japan has restricted the entry of travelers who have been in various countries around the world in the past 14 days.",
@@ -882,7 +882,7 @@
     {
         "country": "Jordan",
         "countrygroup": "Middle East",
-        "covidcases": "There are currently 291 active cases of COVID-19 diagnosed in Jordan and 9 deaths as of Jun 19 2020",
+        "covidcases": "There are currently 285 active cases of COVID-19 diagnosed in Jordan and 9 deaths as of Jun 19 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/jo.svg?v=56575e79de23aa2bf891ee9208a5ae9c1712ab1a&amp;cluster=4",
         "iso_alpha2": "jo",
         "report1": "Jordan has restricted the entry of all travelers.",
@@ -891,7 +891,7 @@
     {
         "country": "Kazakhstan",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 6,255 active cases of COVID-19 diagnosed in Kazakhstan and 113 deaths as of Jun 19 2020",
+        "covidcases": "There are currently 6,715 active cases of COVID-19 diagnosed in Kazakhstan and 120 deaths as of Jun 19 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/kz.svg?v=24c75a024e74894110f4631fbf8258430b66ea23&amp;cluster=4",
         "iso_alpha2": "kz",
         "report1": "Kazakhstan is restarting flights from China, Georgia, Japan, South Korea, Thailand and Turkey; however, only certain categories of people will be allowed to enter on these flights.",
@@ -900,7 +900,7 @@
     {
         "country": "Kenya",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 2,705 active cases of COVID-19 diagnosed in Kenya and 119 deaths as of Jun 11 2020",
+        "covidcases": "There are currently 3,008 active cases of COVID-19 diagnosed in Kenya and 123 deaths as of Jun 11 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ke.svg?v=45a594dad55ff57974de5c9ec5c6c054250316e0&amp;cluster=4",
         "iso_alpha2": "ke",
         "report1": "Kenya has suspended all commercial flights into the country.",
@@ -916,7 +916,7 @@
     {
         "country": "Kuwait",
         "countrygroup": "Middle East",
-        "covidcases": "There are currently 8,175 active cases of COVID-19 diagnosed in Kuwait and 313 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 8,084 active cases of COVID-19 diagnosed in Kuwait and 326 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/kw.svg?v=82be8b689e9cefbd765fd95c48805fefdc9a9ac2&amp;cluster=4",
         "iso_alpha2": "kw",
         "report1": "Kuwait has restricted the entry of all travelers except Kuwaiti nationals, their immediate families, and domestic workers who are accompanied by a Kuwaiti national.",
@@ -925,24 +925,24 @@
     {
         "country": "Kyrgyzstan",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 796 active cases of COVID-19 diagnosed in Kyrgyzstan and 32 deaths as of Jun 3 2020",
+        "covidcases": "There are currently 1,295 active cases of COVID-19 diagnosed in Kyrgyzstan and 40 deaths as of Jun 24 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/kg.svg?v=1372a52af6a8fa43211e58bcce4d8a0a81225662&amp;cluster=4",
         "iso_alpha2": "kg",
-        "report1": "Kyrgyzstan has suspended all flights.",
-        "report2": "Kyrgyzstan has suspended all flights, restricted the entry of all non-Kyrgyzstan nationals, and temporarily suspended visa-free entry for travelers from most countries."
+        "report1": "Kyrgyzstan has restricted the entry of all non-Kyrgyzstan nationals including permanent residents, and temporarily suspended visa-free entry for travelers from most countries.",
+        "report2": "Kyrgyzstan has restricted the entry of all non-Kyrgyzstan nationals, and temporarily suspended visa-free entry for travelers from most countries."
     },
     {
         "country": "Laos",
         "countrygroup": "Asia",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/la.svg?v=8d0b38f4342f997e4dcf8aa27596e44a18a26821&amp;cluster=4",
         "iso_alpha2": "la",
-        "report1": "Laos has suspended all flights",
+        "report1": "Laos' travel restrictions are still in effect until at least June 30",
         "report2": "Laos has suspended all flights until at least June 30."
     },
     {
         "country": "Latvia",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 177 active cases of COVID-19 diagnosed in Latvia and 30 deaths as of Jun 11 2020",
+        "covidcases": "There are currently 178 active cases of COVID-19 diagnosed in Latvia and 30 deaths as of Jun 11 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/lv.svg?v=1e9ec4a5cee5e80d944a10476dd2c4fe0f62d63f&amp;cluster=4",
         "iso_alpha2": "lv",
         "report1": "Latvia has restricted the entry of all travelers except for Latvian, Estonian, and Lithuanian nationals and permanent residents and travelers who are EEA nationals and traveling from within the EEA.",
@@ -951,11 +951,11 @@
     {
         "country": "Lebanon",
         "countrygroup": "Middle East",
-        "covidcases": "There are currently 518 active cases of COVID-19 diagnosed in Lebanon and 32 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 487 active cases of COVID-19 diagnosed in Lebanon and 32 deaths as of Jun 24 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/lb.svg?v=42302e3190ee29b3dd8dd39c33724e7cb3c8dadf&amp;cluster=4",
         "iso_alpha2": "lb",
-        "report1": "Lebanon has suspended all flights into the country.",
-        "report2": "Lebanon has suspended all flights into the country until at least April 26, 2020."
+        "report1": "Lebanon will reopen its airports on July 1.",
+        "report2": "Lebanon is expecting to reopen its airports on July 1 with a limited capacity.Travelers arriving from countries with PCR testing capability will be required to take a PCR test within 96 hours prior to travel and take another test on arrival at a cost of $100 paid through the airline. They will be informed of the test results within 24 hours of arrival and if both tests are negative, no self-isolation will be required."
     },
     {
         "country": "Lesotho",
@@ -969,16 +969,16 @@
     {
         "country": "Liberia",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 298 active cases of COVID-19 diagnosed in Liberia and 33 deaths as of Jun 12 2020",
+        "covidcases": "There are currently 338 active cases of COVID-19 diagnosed in Liberia and 34 deaths as of Jun 23 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/lr.svg?v=52585582da4cb906b62bb5b7e30df5b930f15366&amp;cluster=4",
         "iso_alpha2": "lr",
-        "report1": "Liberia is expected to reopen its airport for commercial flights starting June 21.",
-        "report2": "Liberia is expected to reopen its airport for commercial flights starting June 21."
+        "report1": "Liberia has extended its travel restriction for commercial flights starting until at least June 27.",
+        "report2": "Liberia has extended its travel restriction for commercial flights starting until at least June 27."
     },
     {
         "country": "Libya",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 427 active cases of COVID-19 diagnosed in Libya and 10 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 458 active cases of COVID-19 diagnosed in Libya and 10 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ly.svg?v=9f87289bfd4a4f7058be3e1ade2aae0ec27e915b&amp;cluster=4",
         "iso_alpha2": "ly",
         "report1": "Libya has closed its borders.",
@@ -987,7 +987,7 @@
     {
         "country": "Lithuania",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 254 active cases of COVID-19 diagnosed in Lithuania and 76 deaths as of Jun 17 2020",
+        "covidcases": "There are currently 247 active cases of COVID-19 diagnosed in Lithuania and 76 deaths as of Jun 17 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/lt.svg?v=5ef2877726f8e4beb7fe17adba76c67a9a840219&amp;cluster=4",
         "iso_alpha2": "lt",
         "report1": "Lithuania has opened its borders to European countries with low rates of COVID-19 in the last 14 days.",
@@ -996,7 +996,7 @@
     {
         "country": "Luxembourg",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 45 active cases of COVID-19 diagnosed in Luxembourg and 110 deaths as of Jun 18 2020",
+        "covidcases": "There are currently 54 active cases of COVID-19 diagnosed in Luxembourg and 110 deaths as of Jun 18 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/lu.svg?v=54640df4a8d15d5aefb54e75e106c292871922a9&amp;cluster=4",
         "iso_alpha2": "lu",
         "report1": "Luxembourg has limited the entry of all travelers who are not nationals of the EU, Schengen Area, Schengen Associated States, and the United Kingdom on their way home.",
@@ -1013,7 +1013,7 @@
     {
         "country": "Malawi",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 521 active cases of COVID-19 diagnosed in Malawi and 8 deaths as of Jun 11 2020",
+        "covidcases": "There are currently 461 active cases of COVID-19 diagnosed in Malawi and 11 deaths as of Jun 11 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/mw.svg?v=cc56f240cf4d4766d43b3c74ca4fc0f596acc87e&amp;cluster=4",
         "iso_alpha2": "mw",
         "report1": "Malawi has restricted the entry of all foreign nationals arriving from countries with coronavirus (COVID-19).",
@@ -1022,16 +1022,16 @@
     {
         "country": "Malaysia",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 344 active cases of COVID-19 diagnosed in Malaysia and 121 deaths as of Jun 17 2020",
+        "covidcases": "There are currently 295 active cases of COVID-19 diagnosed in Malaysia and 121 deaths as of Jun 23 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/my.svg?v=a717ac2b686db1eee4b6335584800d2873f89043&amp;cluster=4",
         "iso_alpha2": "my",
         "report1": "Malaysia has limited entry to Malaysian citizens, residents and their family members.",
-        "report2": "Malaysia has restricted entry to all travelers except for citizens, permanent residents with a MyPR card, diplomats, embassy employees, and spouses or children of Malaysian nationals, who must have a sticker label visa in the passport specifically indicating this status."
+        "report2": "Malaysia has restricted entry to all travelers except for citizens, permanent residents with a MyPR card, diplomats, embassy employees, and spouses or children of Malaysian nationals, who must have a sticker label visa in the passport specifically indicating this status.Foreigners with valid visas or work permits who entered Malaysia BEFORE the MCO began on March 16 may enter Sarawak without quarantine, but must request advance permission from the Sarawak State Disaster Management Committee (SDMC). Foreigners with valid visas or work permits who entered Malaysia during the MCO will be subject to a mandatory 14-day quarantine in a government facility at their own expense, and must first request advance permission from SDMC."
     },
     {
         "country": "Maldives",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 373 active cases of COVID-19 diagnosed in Maldives and 8 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 392 active cases of COVID-19 diagnosed in Maldives and 8 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/mv.svg?v=c91e4dc9a07a7f779b6be88187060dccca4df873&amp;cluster=4",
         "iso_alpha2": "mv",
         "report1": "The Maldives has restricted the entry of all foreign nationals who have been in Bangladesh, China, Iran, Italy, Malaysia, Spain, Sri Lanka, the United Kingdom, or in North Gyeongsang and South Gyeongsang Provinces in South Korea, Ile-de-France and Grand Est (regions of France), and Bavaria, North Rhine Westphalia, and Baden-Wuerttemberg (regions of Germany) in the past 14 days.",
@@ -1040,7 +1040,7 @@
     {
         "country": "Mali",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 598 active cases of COVID-19 diagnosed in Mali and 108 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 569 active cases of COVID-19 diagnosed in Mali and 109 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ml.svg?v=7f5754457bc552ad3a742ac6119625a9d1393d08&amp;cluster=4",
         "iso_alpha2": "ml",
         "report1": "Mali has suspended all flights from countries with confirmed cases of coronavirus (COVID-19).",
@@ -1049,7 +1049,7 @@
     {
         "country": "Malta",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 41 active cases of COVID-19 diagnosed in Malta and 9 deaths as of Jun 22 2020",
+        "covidcases": "There are currently 40 active cases of COVID-19 diagnosed in Malta and 9 deaths as of Jun 22 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/mt.svg?v=f074a0100b016b324f98d1937810cc5cd7237762&amp;cluster=4",
         "iso_alpha2": "mt",
         "report1": "Flights to and from Malta will be restarting on July 1",
@@ -1074,7 +1074,7 @@
     {
         "country": "Mauritania",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 1,866 active cases of COVID-19 diagnosed in Mauritania and 102 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 2,062 active cases of COVID-19 diagnosed in Mauritania and 111 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/mr.svg?v=fcdcd9dacd4d3b990d1a73f570da452518e848e6&amp;cluster=4",
         "iso_alpha2": "mr",
         "report1": "Mauritania has closed all its airports.",
@@ -1083,7 +1083,6 @@
     {
         "country": "Mauritius",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 2 active cases of COVID-19 diagnosed in Mauritius and 10 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/mu.svg?v=800e94103767a40da2d25a82bc4c433571f1fb9a&amp;cluster=4",
         "iso_alpha2": "mu",
         "report1": "Mauritius has restricted the entry of all foreign nationals.",
@@ -1092,7 +1091,7 @@
     {
         "country": "Mexico",
         "countrygroup": "North America",
-        "covidcases": "There are currently 23,653 active cases of COVID-19 diagnosed in Mexico and 20,394 deaths as of Jun 18 2020",
+        "covidcases": "There are currently 24,225 active cases of COVID-19 diagnosed in Mexico and 21,825 deaths as of Jun 18 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/mx.svg?v=5afd653fc8f396261730b43118326c4d171ad740&amp;cluster=4",
         "iso_alpha2": "mx",
         "report1": "Mexico does not have any entry restrictions, but travelers arriving from countries affected by COVID-19 will be screened and quarantined if necessary.",
@@ -1101,7 +1100,7 @@
     {
         "country": "Moldova",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 5,581 active cases of COVID-19 diagnosed in Moldova and 450 deaths as of Jun 15 2020",
+        "covidcases": "There are currently 5,831 active cases of COVID-19 diagnosed in Moldova and 473 deaths as of Jun 15 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/md.svg?v=f7e001d05724812606ec535cdaba2fed4ec6dd03&amp;cluster=4",
         "iso_alpha2": "md",
         "report1": "Moldova has restricted the entry of all foreign nationals.",
@@ -1110,7 +1109,7 @@
     {
         "country": "Mongolia",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 65 active cases of COVID-19 diagnosed in Mongolia and 0 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 60 active cases of COVID-19 diagnosed in Mongolia and 0 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/mn.svg?v=e1874b9fe005b01b6b7b1a7e9b16318bcc53bc36&amp;cluster=4",
         "iso_alpha2": "mn",
         "report1": "Mongolia has restricted the entry of all foreign nationals.",
@@ -1119,11 +1118,11 @@
     {
         "country": "Montenegro",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 31 active cases of COVID-19 diagnosed in Montenegro and 9 deaths as of Jun 17 2020",
+        "covidcases": "There are currently 38 active cases of COVID-19 diagnosed in Montenegro and 9 deaths as of Jun 22 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/me.svg?v=478a72e0d23a451c3cc7e87c9eaf4692a11caa6c&amp;cluster=4",
         "iso_alpha2": "me",
         "report1": "Montenegro has suspended all commercial flight; however as of June 1 it has opened its borders to travelers from a select group of countries meeting certain epidemiological criteria.",
-        "report2": "Montenegro has suspended all commercial flights and restricted the entry of travelers who are not nationals or residents of Montenegro; however as of June 1 it has opened its borders to travelers who are residents of a select group of countries meeting certain epidemiological criteria.European countries currently on the list (updated weekly) include Albania, Austria, Bosnia and Herzegovina, Bulgaria, Czech Republic, Denmark, Estonia, Finland, Greece, Croatia, Ireland, Iceland, Cyprus, Kosovo, Latvia, Lithuania, Luxembourg, Hungary, Malta, Monaco, Germany, Norway, Slovakia, Slovenia and Switzerland. The full list is available <a href=-https://www.ijzcg.me/me/novosti/covid-19-popustanje-mjera-u-medunarodnom-saobracaju/->here (in Montenegrin)</a>.All travelers entering Montenegro from abroad should expect to be subject to a self-isolation period of at least 14 days."
+        "report2": "Montenegro has suspended all commercial flights and restricted the entry of travelers who are not nationals or residents of Montenegro; however as of June 1 it has opened its borders to travelers who are residents of a select group of countries meeting certain epidemiological criteria.European countries currently on the list (updated weekly) include Albania, Austria, Bosnia and Herzegovina, Bulgaria, Czech Republic, Denmark, Estonia, Finland, Greece, Croatia, Ireland, Iceland, Cyprus, Kosovo, Latvia, Lithuania, Luxembourg, Hungary, Malta, Monaco, Germany, Norway, Slovakia, Slovenia and Switzerland. The full list is available <a href=-https://www.ijzcg.me/me/novosti/covid-19-popustanje-mjera-u-medunarodnom-saobracaju/->here (in Montenegrin)</a>.As of June 18, special regulations exist for travelers arriving from Bosnia and Herzegovina - entry into Montenegro from Bosnia &amp; Herzegovina will now only be possible with a negative PCR test performed no more than 48 hours before entry. The test must be performed by an accredited laboratory in Bosnia and Herzegovina."
     },
     {
         "country": "Montserrat",
@@ -1131,12 +1130,12 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ms.svg?v=c6d6b0336866274d6544ac0813784dac15ed5d97&amp;cluster=4",
         "iso_alpha2": "ms",
         "report1": "Montserrat has restricted the entry of all foreign nationals.",
-        "report2": "Montserrat has restricted the entry of all travelers who are not residents, spouses or dependents of residents, or airline crew.All intended arrivals must complete and submit an Access Declaration Form at least 72 hours prior to arrival. The form can be found on the Government of Montserrat website."
+        "report2": "Montserrat has restricted the entry of all travelers who are not residents, spouses or dependents of residents, or airline crew.All intended arrivals must complete and submit an Access Declaration Form at least 72 hours prior to arrival. The form can be found on the Government of Montserrat website.All travelers must wear a mask or face covering on the aircraft and while being processed at the airport. Temperature checks will be conducted upon arrival, and all travelers arriving in Montserrat must self-quarantine for 14 days commencing on the date of arrival."
     },
     {
         "country": "Morocco",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 1,283 active cases of COVID-19 diagnosed in Morocco and 213 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 1,479 active cases of COVID-19 diagnosed in Morocco and 214 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ma.svg?v=b80806a5ea7045eefcfc293095553b13fe1bbf30&amp;cluster=4",
         "iso_alpha2": "ma",
         "report1": "Morocco has suspended all flights to and from China, Italy, Spain, Algeria, France, Portugal, Germany, Belgium, the Netherlands, Austria, Denmark, Greece, Switzerland, Sweden, Norway, Turkey, Lebanon, Egypt, Bahrain, the United Arab Emirates, Oman, Jordan, Tunisia, Senegal, Mauritania, Niger, Mali, Chad, Canada, and Brazil.",
@@ -1145,7 +1144,7 @@
     {
         "country": "Mozambique",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 487 active cases of COVID-19 diagnosed in Mozambique and 4 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 547 active cases of COVID-19 diagnosed in Mozambique and 5 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/mz.svg?v=b8036ba8eb71e21d29ee57555d8fa0e95bd1199a&amp;cluster=4",
         "iso_alpha2": "mz",
         "report1": "Mozambique has limited the entry of travelers across its borders.",
@@ -1154,7 +1153,7 @@
     {
         "country": "Myanmar",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 88 active cases of COVID-19 diagnosed in Myanmar and 6 deaths as of Jun 16 2020",
+        "covidcases": "There are currently 84 active cases of COVID-19 diagnosed in Myanmar and 6 deaths as of Jun 16 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/mm.svg?v=395ea005ce7a46021889c114626078bf78fc66f6&amp;cluster=4",
         "iso_alpha2": "mm",
         "report1": "Myanmar has suspended all flights into the country until at least June 30.",
@@ -1163,7 +1162,7 @@
     {
         "country": "Namibia",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 26 active cases of COVID-19 diagnosed in Namibia and 0 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 36 active cases of COVID-19 diagnosed in Namibia and 0 deaths as of Jun 24 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/na.svg?v=75aa6d8056faa50172a55ff2cb46e38656be9e46&amp;cluster=4",
         "iso_alpha2": "na",
         "report1": "Namibia has closed its borders until further notice. Only Namibian nationals and permanent residents may enter the country.",
@@ -1172,7 +1171,7 @@
     {
         "country": "Nepal",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 6,850 active cases of COVID-19 diagnosed in Nepal and 22 deaths as of Jun 16 2020",
+        "covidcases": "There are currently 7,231 active cases of COVID-19 diagnosed in Nepal and 23 deaths as of Jun 16 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/np.svg?v=44f2b1b32483a6caee2dd2a719b656b7c7bb585f&amp;cluster=4",
         "iso_alpha2": "np",
         "report1": "Nepal has suspended all international flights until at least July 5.",
@@ -1181,7 +1180,7 @@
     {
         "country": "Netherlands",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 43,345 active cases of COVID-19 diagnosed in Netherlands and 6,081 deaths as of Jun 18 2020",
+        "covidcases": "There are currently 43,503 active cases of COVID-19 diagnosed in Netherlands and 6,090 deaths as of Jun 18 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/nl.svg?v=6dd046e13b832f618fff30b09a5fdf8bdf3d6468&amp;cluster=4",
         "iso_alpha2": "nl",
         "report1": "The Netherlands has begun to accept tourists arriving from countries in the EU/Schengen area.",
@@ -1190,7 +1189,7 @@
     {
         "country": "New Zealand",
         "countrygroup": "South Pacific",
-        "covidcases": "There are currently 5 active cases of COVID-19 diagnosed in New Zealand and 22 deaths as of Jun 15 2020",
+        "covidcases": "There are currently 9 active cases of COVID-19 diagnosed in New Zealand and 22 deaths as of Jun 15 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/nz.svg?v=8d13421bae99a983664d1c4cf1a2258946df29b2&amp;cluster=4",
         "iso_alpha2": "nz",
         "report1": "New Zealand has restricted the entry of all foreign nationals except for Australian nationals who reside in New Zealand.",
@@ -1208,7 +1207,7 @@
     {
         "country": "Niger",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 52 active cases of COVID-19 diagnosed in Niger and 67 deaths as of Jun 11 2020",
+        "covidcases": "There are currently 58 active cases of COVID-19 diagnosed in Niger and 67 deaths as of Jun 11 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ne.svg?v=1957be28d23d99dd300f64b93fb6330104aeb4dc&amp;cluster=4",
         "iso_alpha2": "ne",
         "report1": "Niger has suspended all international flights.",
@@ -1217,7 +1216,7 @@
     {
         "country": "Nigeria",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 12,079 active cases of COVID-19 diagnosed in Nigeria and 487 deaths as of Jun 12 2020",
+        "covidcases": "There are currently 12,847 active cases of COVID-19 diagnosed in Nigeria and 518 deaths as of Jun 12 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ng.svg?v=9c721ccbe1416b6215a5f00827b5949845dba3a2&amp;cluster=4",
         "iso_alpha2": "ng",
         "report1": "Nigeria has closed its airports.",
@@ -1233,7 +1232,7 @@
     {
         "country": "North Macedonia",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 2,735 active cases of COVID-19 diagnosed in North Macedonia and 222 deaths as of Jun 18 2020",
+        "covidcases": "There are currently 2,942 active cases of COVID-19 diagnosed in North Macedonia and 238 deaths as of Jun 18 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/mk.svg?v=bbf285ffd959d42aa82c72deacf4ed3f2228da08&amp;cluster=4",
         "iso_alpha2": "mk",
         "report1": "North Macedonia has suspended all commercial flights until further notice, and has restricted the entry of all travelers except for nationals and residents of North Macedonia.",
@@ -1251,7 +1250,7 @@
     {
         "country": "Norway",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 344 active cases of COVID-19 diagnosed in Norway and 244 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 363 active cases of COVID-19 diagnosed in Norway and 244 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/no.svg?v=24e504ebc33301b7996477d9a996036d8f9e1ba3&amp;cluster=4",
         "iso_alpha2": "no",
         "report1": "Norway has restricted the entry of all foreign nationals except nationals of certain European countries who currently reside or work in Norway.",
@@ -1260,7 +1259,7 @@
     {
         "country": "Oman",
         "countrygroup": "Middle East",
-        "covidcases": "There are currently 13,571 active cases of COVID-19 diagnosed in Oman and 125 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 13,788 active cases of COVID-19 diagnosed in Oman and 131 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/om.svg?v=e7f8d028dad63c16e66a0b32dd6b0d7be98a2ac3&amp;cluster=4",
         "iso_alpha2": "om",
         "report1": "Oman has restricted the entry of all foreign nationals.",
@@ -1269,7 +1268,7 @@
     {
         "country": "Pakistan",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 104,780 active cases of COVID-19 diagnosed in Pakistan and 3,382 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 106,040 active cases of COVID-19 diagnosed in Pakistan and 3,590 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/pk.svg?v=7b5100a6fec7a0b312e882f0a635c96202c1831c&amp;cluster=4",
         "iso_alpha2": "pk",
         "report1": "Pakistan has suspended all international flights.",
@@ -1292,7 +1291,7 @@
     {
         "country": "Panama",
         "countrygroup": "Central America",
-        "covidcases": "There are currently 9,430 active cases of COVID-19 diagnosed in Panama and 485 deaths as of Jun 18 2020",
+        "covidcases": "There are currently 11,170 active cases of COVID-19 diagnosed in Panama and 501 deaths as of Jun 18 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/pa.svg?v=e58478612bb1a7a65d367935337729fac3b1b8b2&amp;cluster=4",
         "iso_alpha2": "pa",
         "report1": "Panama has suspended all flights into the country except for humanitarian flights.",
@@ -1304,12 +1303,12 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/pg.svg?v=98c920643ad2c312d5df5f1a2525b85c72e5207f&amp;cluster=4",
         "iso_alpha2": "pg",
         "report1": "Papua New Guinea has restricted the entry of all travelers except for health workers, flight crew, military personnel or those with a special written exemption from the Emergency Controller.",
-        "report2": "Palau has restricted entrance of travelers who have transited through or have been in China, Hong Kong, or Macau in the past 14 days.Papua New Guinea has restricted the entry of all travelers except for health workers, flight crew, military personnel or those with a special written exemption from the Emergency Controller. International visitors should apply for the exemption, including the reasons for visiting, by contacting: covid19-admin.logistics@police.gov.pg. Anyone arriving must self-isolate in a government approved hotel for 14 days."
+        "report2": "Palau has restricted entrance of travelers who have transited through or have been in China, Hong Kong, or Macau in the past 14 days.Papua New Guinea has restricted the entry of all travelers except for health workers, flight crew, military personnel or those with a special written exemption from the Emergency Controller. International visitors should apply for the exemption, including the reasons for visiting, by contacting: covid19-admin.logistics@police.gov.pg. Anyone arriving must have been tested for COVID-19 within a 14-day period from their date of arrival to be permitted to board a flight. Upon arrival, travelers must self-isolate in a government approved hotel for 14 days."
     },
     {
         "country": "Paraguay",
         "countrygroup": "South America",
-        "covidcases": "There are currently 582 active cases of COVID-19 diagnosed in Paraguay and 13 deaths as of Jun 3 2020",
+        "covidcases": "There are currently 495 active cases of COVID-19 diagnosed in Paraguay and 13 deaths as of Jun 3 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/py.svg?v=83d81bcdad62173cfb5b8fe76707b681fedddcef&amp;cluster=4",
         "iso_alpha2": "py",
         "report1": "Paraguay has restricted all flights into the country.",
@@ -1318,7 +1317,7 @@
     {
         "country": "Peru",
         "countrygroup": "South America",
-        "covidcases": "There are currently 105,737 active cases of COVID-19 diagnosed in Peru and 7,461 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 101,510 active cases of COVID-19 diagnosed in Peru and 7,861 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/pe.svg?v=d86b835afe711584745f90b0242661fdfe511960&amp;cluster=4",
         "iso_alpha2": "pe",
         "report1": "Peru has restricted the entry of all travelers.",
@@ -1327,7 +1326,7 @@
     {
         "country": "Philippines",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 19,951 active cases of COVID-19 diagnosed in Philippines and 1,130 deaths as of Jun 19 2020",
+        "covidcases": "There are currently 20,990 active cases of COVID-19 diagnosed in Philippines and 1,169 deaths as of Jun 19 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ph.svg?v=592fa09222b352c571cbf717c50726e617feb6b6&amp;cluster=4",
         "iso_alpha2": "ph",
         "report1": "The Philippines has restricted the entry of all travelers who are not Philippines nationals and their spouses and children.",
@@ -1336,16 +1335,16 @@
     {
         "country": "Poland",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 14,284 active cases of COVID-19 diagnosed in Poland and 1,334 deaths as of Jun 18 2020",
+        "covidcases": "There are currently 13,892 active cases of COVID-19 diagnosed in Poland and 1,356 deaths as of Jun 23 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/pl.svg?v=18063f658202d81eea53a5eb7387001308ec7b48&amp;cluster=4",
         "iso_alpha2": "pl",
-        "report1": "Poland has resumed flights from countries in the EU; flights from outside the EU remain suspended.",
-        "report2": "Poland has resumed flights into the country from countries in the EU. All other flights remain suspended except humanitarian and medical flights, flights to protect public order, emergency flights, flights at the order of the Prime Minister, and repatriation flights performed by foreign air carriers at the order of foreign states.Travelers arriving from the EU are no longer required to enter quarantine upon arrival."
+        "report1": "Poland has resumed flights from countries in the EU; flights from outside the EU remain suspended until at least June 30.",
+        "report2": "Poland has resumed flights into the country from countries in the EU. All other flights remain suspended until at least June 30, except humanitarian and medical flights, flights to protect public order, emergency flights, flights at the order of the Prime Minister, and repatriation flights performed by foreign air carriers at the order of foreign states.Travelers arriving from the EU are no longer required to enter quarantine upon arrival."
     },
     {
         "country": "Portugal",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 12,460 active cases of COVID-19 diagnosed in Portugal and 1,527 deaths as of Jun 19 2020",
+        "covidcases": "There are currently 12,227 active cases of COVID-19 diagnosed in Portugal and 1,530 deaths as of Jun 19 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/pt.svg?v=aef5a2cc5b0010fa05102e7119fb517816a84bb0&amp;cluster=4",
         "iso_alpha2": "pt",
         "report1": "Portugal has extended border restrictions for non-essential travel until June 30, 2020.",
@@ -1354,7 +1353,7 @@
     {
         "country": "Puerto Rico",
         "countrygroup": "Caribbean",
-        "covidcases": "There are currently 6,048 active cases of COVID-19 diagnosed in Puerto Rico and 147 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 6,376 active cases of COVID-19 diagnosed in Puerto Rico and 149 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/pr.svg?v=03f7483339872f3d1d43319e5ee827c7c19c8855&amp;cluster=4",
         "iso_alpha2": "pr",
         "report1": "Puerto Rico has not implemented any entry restrictions, but San Juan Bay is currently closed for cruise ship vessels.",
@@ -1363,7 +1362,7 @@
     {
         "country": "Qatar",
         "countrygroup": "Middle East",
-        "covidcases": "There are currently 19,960 active cases of COVID-19 diagnosed in Qatar and 93 deaths as of Jun 16 2020",
+        "covidcases": "There are currently 18,952 active cases of COVID-19 diagnosed in Qatar and 98 deaths as of Jun 16 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/qa.svg?v=e902015e9100f0bba928bff67b58eafa7c5a41e2&amp;cluster=4",
         "iso_alpha2": "qa",
         "report1": "Qatar has restricted the entry of all foreign nationals.",
@@ -1379,7 +1378,7 @@
     {
         "country": "Romania",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 5,361 active cases of COVID-19 diagnosed in Romania and 1,484 deaths as of Jun 22 2020",
+        "covidcases": "There are currently 5,622 active cases of COVID-19 diagnosed in Romania and 1,512 deaths as of Jun 22 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ro.svg?v=958ab267d74376ff3552f62b30400459cac45ddd&amp;cluster=4",
         "iso_alpha2": "ro",
         "report1": "Romania has restricted the entry of all travelers who are not nationals of Romania, the EEA countries, Switzerland, or the United Kingdom.",
@@ -1388,7 +1387,7 @@
     {
         "country": "Russia",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 236,610 active cases of COVID-19 diagnosed in Russia and 7,831 deaths as of Jun 18 2020",
+        "covidcases": "There are currently 236,636 active cases of COVID-19 diagnosed in Russia and 8,101 deaths as of Jun 18 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ru.svg?v=25b2e09dd44f0c5d24c1fcb113b19122ad11f70b&amp;cluster=4",
         "iso_alpha2": "ru",
         "report1": "Russia has limited the entry of foreign nationals.",
@@ -1397,7 +1396,7 @@
     {
         "country": "Rwanda",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 308 active cases of COVID-19 diagnosed in Rwanda and 2 deaths as of Jun 18 2020",
+        "covidcases": "There are currently 367 active cases of COVID-19 diagnosed in Rwanda and 2 deaths as of Jun 18 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/rw.svg?v=d0a97403a2b17a8ff9613b02b1ce758e0f08995e&amp;cluster=4",
         "iso_alpha2": "rw",
         "report1": "Rwanda has suspended all commercial flights.",
@@ -1438,7 +1437,7 @@
     {
         "country": "Saudi Arabia",
         "countrygroup": "Middle East",
-        "covidcases": "There are currently 53,344 active cases of COVID-19 diagnosed in Saudi Arabia and 1,184 deaths as of Jun 8 2020",
+        "covidcases": "There are currently 55,215 active cases of COVID-19 diagnosed in Saudi Arabia and 1,267 deaths as of Jun 8 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/sa.svg?v=58c2c79c44107b41553d6b7cb5bd6dc122c6efab&amp;cluster=4",
         "iso_alpha2": "sa",
         "report1": "Saudi Arabia has suspended all incoming flights.",
@@ -1447,7 +1446,7 @@
     {
         "country": "Senegal",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 1,772 active cases of COVID-19 diagnosed in Senegal and 79 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 1,885 active cases of COVID-19 diagnosed in Senegal and 84 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/sn.svg?v=cf5de4bb6751b8c68e08e3ad5df8de1d99e9a8e6&amp;cluster=4",
         "iso_alpha2": "sn",
         "report1": "Senegal has suspended all commercial flights into the country.",
@@ -1456,7 +1455,7 @@
     {
         "country": "Serbia",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 628 active cases of COVID-19 diagnosed in Serbia and 259 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 686 active cases of COVID-19 diagnosed in Serbia and 261 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/rs.svg?v=4c677ae7482bc0367dc85f31393d8ec716795579&amp;cluster=4",
         "iso_alpha2": "rs",
         "report1": "Serbia has reopened its borders.",
@@ -1473,7 +1472,7 @@
     {
         "country": "Sierra Leone",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 513 active cases of COVID-19 diagnosed in Sierra Leone and 53 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 484 active cases of COVID-19 diagnosed in Sierra Leone and 55 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/sl.svg?v=80f016466074fe696426fadeaaccac52fcb3825e&amp;cluster=4",
         "iso_alpha2": "sl",
         "report1": "Sierra Leone does not have any entry restrictions, but all travelers arriving from countries with more than 50 confirmed cases of COVID-19 in the past 14 days must enter a quarantine facility for up to 14 days.",
@@ -1482,7 +1481,7 @@
     {
         "country": "Singapore",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 8,130 active cases of COVID-19 diagnosed in Singapore and 26 deaths as of Jun 19 2020",
+        "covidcases": "There are currently 7,127 active cases of COVID-19 diagnosed in Singapore and 26 deaths as of Jun 22 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/sg.svg?v=3bcc5c96a57dea92e91a33bfe9b3ab45d19e349a&amp;cluster=4",
         "iso_alpha2": "sg",
         "report1": "Singapore has restricted the entry of all foreign nationals except those with prior approval from the government.",
@@ -1493,25 +1492,25 @@
         "countrygroup": "Caribbean",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/sx.svg?v=82cfc0e60f92f2c8f59f903a0b5baec1754b276b&amp;cluster=4",
         "iso_alpha2": "sx",
-        "report1": "Sint Maarten has restricted the entry of all travelers except those arriving from Anguilla, Curaçao, Guadeloupe, Martinique, and Saint Barthelemy."
+        "report1": "Sint Maarten has restricted the entry of all travelers except those arriving from Anguilla, Antigua and Barbuda, Aruba, British Virgin Islands, Dominica, Guadeloupe, Martinique, Saba, Sint Eustatius, St. Barthelemy, St. Kitts and Nevis, and St. Lucia."
     },
     {
         "country": "Slovakia",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 101 active cases of COVID-19 diagnosed in Slovakia and 28 deaths as of Jun 11 2020",
+        "covidcases": "There are currently 112 active cases of COVID-19 diagnosed in Slovakia and 28 deaths as of Jun 22 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/sk.svg?v=f29748bbf0a201f5fdc72a4a1f9bc42f1e5dca41&amp;cluster=4",
         "iso_alpha2": "sk",
         "report1": "Slovakia has opened its borders to travelers from many European countries.",
-        "report2": "Slovakia is beginning to relax its travel restrictions. Although its international airports remain closed, travelers from many European countries may now enter the country (nearby airports in Vienna, Budapest and Prague remain open).In addition to Slovakian nationals and residents, as of June 10, there is open travel between the following countries, not necessitating a COVID-19 test or quarantine: Austria, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, Germany, Greece, Hungary, Iceland, Lichtenstein, Lithuania, Latvia, Malta, Norway, Slovenia, and Switzerland."
+        "report2": "Slovakia is beginning to relax its travel restrictions. Although its international airports remain closed, travelers from many European countries may now enter the country (nearby airports in Vienna, Budapest and Prague remain open).In addition to Slovakian nationals and residents, as of June 20, travelers arriving from the following countries may enter Slovakia, without needing a COVID-19 test or quarantine: Austria, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, the Faroe Islands, Finland, Germany, Greece, Hungary, Iceland, Lichtenstein, Lithuania, Latvia, Malta, Monaco, Montenegro, Norway, Poland, Slovenia, and Switzerland.Those entering Slovakia from countries other than those previously mentioned must present negative COVID-19 tests not older than 96 hours upon arrival to the Slovak border police or the nearest Regional Office of Public Health and stay in home isolation for minimum 5 days until the new COVID-19 test is taken."
     },
     {
         "country": "Slovenia",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 45 active cases of COVID-19 diagnosed in Slovenia and 109 deaths as of Jun 22 2020",
+        "covidcases": "There are currently 35 active cases of COVID-19 diagnosed in Slovenia and 109 deaths as of Jun 24 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/si.svg?v=c8e1e98610be2e7c5df8e74fc405845d04e02c16&amp;cluster=4",
         "iso_alpha2": "si",
         "report1": "Slovenia has reopened its borders to people arriving from certain European countries that it considers to have a low incidence rate of COVID-19.",
-        "report2": "Slovenia has reopened its borders to people arriving from certain European countries that it considers to have a low incidence rate of COVID-19. Foreign nationals who are not Slovenian residents are still restricted from traveling from countries not on the approved list to Slovenia, except in cases where travel is considered -essential- - for example goods transporters or diplomats.Currently, the countries from which travel to Slovenia is unrestricted are:Austria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Montenegro, Norway, Slovakia or Switzerland.In general, persons entering Slovenia from abroad are subject to a 14-day quarantine. Per the Slovenian government’s 8 June announcement, travelers arriving from one of the countries on Slovenia’s list of epidemiologically-approved countries are not subject to a 14 day quarantine. In addition, residents of Slovenia are exempt from the quarantine if coming from anywhere in the EU. Same-day transit without quarantine is permitted."
+        "report2": "Slovenia has reopened its borders to people arriving from certain European countries that it considers to have a low incidence rate of COVID-19. Foreign nationals who are not Slovenian residents are still restricted from traveling from countries not on the approved list to Slovenia, except in cases where travel is considered -essential- - for example goods transporters or diplomats.Currently, the countries from which travel to Slovenia is unrestricted are:Austria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Montenegro, Norway, Slovakia, Spain, or Switzerland.In general, persons entering Slovenia from abroad are subject to a 14-day quarantine. Per the Slovenian government’s 8 June announcement, travelers arriving from one of the countries on Slovenia’s list of epidemiologically-approved countries are not subject to a 14 day quarantine. In addition, residents of Slovenia are exempt from the quarantine if coming from anywhere in the EU. Same-day transit without quarantine is permitted."
     },
     {
         "country": "Solomon Islands",
@@ -1523,7 +1522,7 @@
     {
         "country": "Somalia",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 1,907 active cases of COVID-19 diagnosed in Somalia and 88 deaths as of Jun 11 2020",
+        "covidcases": "There are currently 1,907 active cases of COVID-19 diagnosed in Somalia and 90 deaths as of Jun 11 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/so.svg?v=9d99094196e9938b847fcbb22d6a0cb5d0b589ab&amp;cluster=4",
         "iso_alpha2": "so",
         "report1": "Somalia has suspended all commercial flights.",
@@ -1532,7 +1531,7 @@
     {
         "country": "South Africa",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 38,059 active cases of COVID-19 diagnosed in South Africa and 1,831 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 43,764 active cases of COVID-19 diagnosed in South Africa and 1,930 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/za.svg?v=2f19b8b2cc0d3a21a653bab9490d631ed9d13222&amp;cluster=4",
         "iso_alpha2": "za",
         "report1": "South Africa has suspended all commercial flights into the country.",
@@ -1548,7 +1547,7 @@
     {
         "country": "South Sudan",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 1,708 active cases of COVID-19 diagnosed in South Sudan and 34 deaths as of Jun 3 2020",
+        "covidcases": "There are currently 1,689 active cases of COVID-19 diagnosed in South Sudan and 34 deaths as of Jun 3 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ss.svg?v=2ba49077115b3b6cf3846053107c249cd704fbbc&amp;cluster=4",
         "iso_alpha2": "ss",
         "report1": "South Sudan has re-opened its borders; however, the South Sudanese government has suspended the issue of visas at its Embassies abroad, and all routine international commercial flights are suspended.",
@@ -1557,16 +1556,16 @@
     {
         "country": "Spain",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 66,884 active cases of COVID-19 diagnosed in Spain and 28,315 deaths as of Jun 22 2020",
+        "covidcases": "There are currently 67,573 active cases of COVID-19 diagnosed in Spain and 28,323 deaths as of Jun 24 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/es.svg?v=aea48faa62006469e6b89bc05ec24f9ccd2d6a90&amp;cluster=4",
         "iso_alpha2": "es",
         "report1": "Spain has reopened travel from most European countries.",
-        "report2": "Spain has restricted the entry of all travelers except Spanish nationals and residents, and accompanying immediate family members.Travelers who are residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden or Switzerland may transit through Spain on their way home to their place of residency. The same applies to travelers with a long-term visa issued by a Schengen Member State who are returning to their place of residency.Immediate family members of Spanish nationals may enter Spain even if unaccompanied by a Spanish national, if they are traveling to join their family member who is already in the country.Residents of Andorra, Iceland, Norway or Switzerland, as well as long-term visa holders of Schengen member states who are returning home may also enter Spain, as may healthcare and elderly care workers, diplomats, staff of international and humanitarian organizations and military personnel in the performance of their duties. People who can demonstrate proof that they are traveling for emergency family or humanitarian reasons may also enter.Business travelers with documentation who are arriving from countries in the EU, Iceland, Norway, or Switzerland may enter Spain.International arrivals may only land at Alicante (ALC), Barcelona (BCN), Bilbao (BIO), Fuerteventura (FUE), Gran Canaria (LPA), Ibiza (IBZ), Madrid (MAD), Malaga (AGP), Menorca(MAH), Lanzarote (ACE), Palma de Mallorca (PMI), Santander (SDR), Sevilla (SVQ), Tenerife-Sur (TFS) or Valencia (VLC).Effective May 15, 2020, all travelers entering Spain except for freight transport personnel and healthcare professionals who are traveling in the performance of their duties and have not been in contact with COVID-19 patients will be required to self-isolate for 14 days. They will also need to present a completed Public Health Passenger Locator Form upon arrival.Residency permits and D visas that expired after December 14, 2019 will be accepted for entry to Spain and considered valid for 6 months after the state of alarm has ended.Spain has opened travel between Germany and the Balearic Islands from June 15 (up to 10,900 tourists) and reopened its borders to travelers from the EU, the Schengen area (except Portugal), and the UK from June 21. Travel between Spain and Portugal is expected to reopen from July 1. Travelers arriving from the forementioned areas no longer be required to present a residency certificate or to self-isolate upon entry into Spain; however they will need to provide contact information and any history of exposure to COVID-19, and undergo a temperature check and visual health assessment.Restrictions on travelers from outside the European Union and the Schengen free-travel area will be lifted from July 1, providing the countries they depart from have agreements with Spain."
+        "report2": "Spain has reopened its borders to travelers from most EU countries; however, entry remains restricted to travelers arriving from other areas, except for Spanish nationals and residents, and accompanying immediate family members.Travelers who are residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden or Switzerland may transit through Spain on their way home to their place of residency. The same applies to travelers with a long-term visa issued by a Schengen Member State who are returning to their place of residency.Immediate family members of Spanish nationals may enter Spain even if unaccompanied by a Spanish national, if they are traveling to join their family member who is already in the country.Residents of Andorra, Iceland, Norway or Switzerland, as well as long-term visa holders of Schengen member states who are returning home may also enter Spain, as may healthcare and elderly care workers, diplomats, staff of international and humanitarian organizations and military personnel in the performance of their duties. People who can demonstrate proof that they are traveling for emergency family or humanitarian reasons may also enter.Business travelers with documentation who are arriving from countries in the EU, Iceland, Norway, or Switzerland may enter Spain.Arrivals from outside the EU may only land at Alicante (ALC), Barcelona (BCN), Bilbao (BIO), Fuerteventura (FUE), Gran Canaria (LPA), Ibiza (IBZ), Madrid (MAD), Malaga (AGP), Menorca(MAH), Lanzarote (ACE), Palma de Mallorca (PMI), Santander (SDR), Sevilla (SVQ), Tenerife-Sur (TFS) or Valencia (VLC).Residency permits and D visas that expired after December 14, 2019 will be accepted for entry to Spain and considered valid for 6 months after the state of alarm has ended.Spain has reopened its borders to travelers from the EU, the Schengen area (except Portugal), and the UK from June 21. Travel between Spain and Portugal is expected to reopen from July 1. Travelers arriving from the forementioned areas no longer be required to present a residency certificate or to self-isolate upon entry into Spain; however they will need to provide contact information and any history of exposure to COVID-19, and undergo a temperature check and visual health assessment.Restrictions on travelers from outside the European Union and the Schengen free-travel area will be lifted from July 1, providing the countries they depart from have agreements with Spain."
     },
     {
         "country": "Sudan",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 4,724 active cases of COVID-19 diagnosed in Sudan and 506 deaths as of Jun 3 2020",
+        "covidcases": "There are currently 4,734 active cases of COVID-19 diagnosed in Sudan and 521 deaths as of Jun 3 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/sd.svg?v=a1f9f0fe9acfa10f6d8df0d4107b40921ba2ae2d&amp;cluster=4",
         "iso_alpha2": "sd",
         "report1": "Sudan has suspended all flights except for humanitarian, medical and repatriation flights.",
@@ -1575,7 +1574,7 @@
     {
         "country": "Suriname",
         "countrygroup": "South America",
-        "covidcases": "There are currently 211 active cases of COVID-19 diagnosed in Suriname and 8 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 200 active cases of COVID-19 diagnosed in Suriname and 8 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/sr.svg?v=3b70b32ffd2d4ae41222dbe9caeb87fe88177de5&amp;cluster=4",
         "iso_alpha2": "sr",
         "report1": "Suriname has closed its borders.",
@@ -1584,16 +1583,16 @@
     {
         "country": "Sweden",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 50,990 active cases of COVID-19 diagnosed in Sweden and 5,053 deaths as of Jun 8 2020",
+        "covidcases": "There are currently 50,990 active cases of COVID-19 diagnosed in Sweden and 5,053 deaths as of Jun 22 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/se.svg?v=846ecdd03f35676bbe032e478931218121fb4555&amp;cluster=4",
         "iso_alpha2": "se",
         "report1": "Sweden has restricted the entry of all travelers who are not arriving from specific European countries. Swedish nationals may still enter the country.",
-        "report2": "Sweden has restricted the entry of all travelers who are not arriving from Austria, Belgium, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Switzerland or the United Kingdom until at least June 15."
+        "report2": "Sweden has restricted the entry of all travelers who are not arriving from Austria, Belgium, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Switzerland or the United Kingdom until at least June 30."
     },
     {
         "country": "Switzerland",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 379 active cases of COVID-19 diagnosed in Switzerland and 1,956 deaths as of Jun 15 2020",
+        "covidcases": "There are currently 336 active cases of COVID-19 diagnosed in Switzerland and 1,956 deaths as of Jun 15 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ch.svg?v=48033de39bb86c3fecef1fd37e023b8bf5c8b7a4&amp;cluster=4",
         "iso_alpha2": "ch",
         "report1": "Switzerland has eased restrictions on travelers from Europe.",
@@ -1602,7 +1601,7 @@
     {
         "country": "Syria",
         "countrygroup": "Middle East",
-        "covidcases": "There are currently 102 active cases of COVID-19 diagnosed in Syria and 7 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 114 active cases of COVID-19 diagnosed in Syria and 7 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/sy.svg?v=1242ed94ac523bb5f2343b9c4a4d8d4938c3ec1f&amp;cluster=4",
         "iso_alpha2": "sy",
         "report1": "Syria has suspended all flights.",
@@ -1625,7 +1624,7 @@
     {
         "country": "Tajikistan",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 1,457 active cases of COVID-19 diagnosed in Tajikistan and 51 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 1,410 active cases of COVID-19 diagnosed in Tajikistan and 52 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/tj.svg?v=7e7eb3bb90c6c4318b73fbc84f564b4d0de24b59&amp;cluster=4",
         "iso_alpha2": "tj",
         "report1": "Tajikistan has suspended all flights.",
@@ -1643,7 +1642,7 @@
     {
         "country": "Thailand",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 80 active cases of COVID-19 diagnosed in Thailand and 58 deaths as of Jun 3 2020",
+        "covidcases": "There are currently 72 active cases of COVID-19 diagnosed in Thailand and 58 deaths as of Jun 3 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/th.svg?v=65f78bb9e372795bec3ff40f78030160222e3e33&amp;cluster=4",
         "iso_alpha2": "th",
         "report1": "Thailand has suspended all flights into the country.",
@@ -1652,11 +1651,11 @@
     {
         "country": "The Bahamas",
         "countrygroup": "Caribbean",
-        "covidcases": "There are currently 19 active cases of COVID-19 diagnosed in The Bahamas and 11 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 16 active cases of COVID-19 diagnosed in The Bahamas and 11 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/bs.svg?v=7e928433e195581a128f7e0c5b4383f44aab40a4&amp;cluster=4",
         "iso_alpha2": "bs",
         "report1": "The Bahamas has restricted the entry of all travelers except for Bahamian nationals and residents.",
-        "report2": "Sint Maarten has restricted the entry of all travelers except those arriving from Anguilla, Curaçao, Guadeloupe, Martinique, and Saint Barthelemy. Specialists who have been specially invited by the Government of St. Maarten may also enter.The Bahamas has restricted the entry of all travelers except for Bahamian nationals and residents. They must have a medical certificate showing a negative COVID-19 test result issued within 7 days of their arrival, and will be subject to quarantine upon arrival."
+        "report2": "Sint Maarten has restarted flights from nearby territories.The Bahamas has restricted the entry of all travelers except for Bahamian nationals and residents. They must have a medical certificate showing a negative COVID-19 test result issued within 7 days of their arrival, and will be subject to quarantine upon arrival."
     },
     {
         "country": "Togo",
@@ -1677,16 +1676,16 @@
     {
         "country": "Trinidad and Tobago",
         "countrygroup": "Caribbean",
-        "covidcases": "There are currently 6 active cases of COVID-19 diagnosed in Trinidad and Tobago and 8 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 6 active cases of COVID-19 diagnosed in Trinidad and Tobago and 8 deaths as of Jun 24 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/tt.svg?v=14a911ea73ed85733a48fbcbf4f9afad5575a2fc&amp;cluster=4",
         "iso_alpha2": "tt",
-        "report1": "Trinidad and Tobago has closed its airports.",
-        "report2": "Trinidad and Tobago has closed all airports until at least April 30, 2020."
+        "report1": "Trinidad and Tobago has closed its airports. Flights are currently expected to resume starting from July 1.",
+        "report2": "Trinidad and Tobago has closed its airports. Flights are currently expected to resume starting from July 1."
     },
     {
         "country": "Tunisia",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 82 active cases of COVID-19 diagnosed in Tunisia and 50 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 87 active cases of COVID-19 diagnosed in Tunisia and 50 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/tn.svg?v=cf0514869cb7572009f9a509383ce1dffbc9a300&amp;cluster=4",
         "iso_alpha2": "tn",
         "report1": "Tunisia has suspended all flights into the country.",
@@ -1695,7 +1694,7 @@
     {
         "country": "Turkey",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 22,824 active cases of COVID-19 diagnosed in Turkey and 4,905 deaths as of Jun 15 2020",
+        "covidcases": "There are currently 22,495 active cases of COVID-19 diagnosed in Turkey and 4,950 deaths as of Jun 15 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/tr.svg?v=410bd9e2f89cc3cd11d0b85c6848b3ffbdc4037c&amp;cluster=4",
         "iso_alpha2": "tr",
         "report1": "Turkey has now lifted its COVID-19 travel restrictions.",
@@ -1711,6 +1710,7 @@
     {
         "country": "Turks and Caicos Islands",
         "countrygroup": "Caribbean",
+        "covidcases": "There are currently 2 active cases of COVID-19 diagnosed in Turks and Caicos Islands and 1 death as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/tc.svg?v=4e71cbed5c02dd63b2f9b997ff3a7b28272f57dc&amp;cluster=4",
         "iso_alpha2": "tc",
         "report1": "Turks and Caicos has closed its airports.",
@@ -1726,7 +1726,7 @@
     {
         "country": "U.S. Virgin Islands",
         "countrygroup": "Caribbean",
-        "covidcases": "There are currently 67 active cases of COVID-19 diagnosed in U.S. Virgin Islands and 6 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 70 active cases of COVID-19 diagnosed in U.S. Virgin Islands and 6 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/vi.svg?v=33b69e50a0fbbd97a7a4907329c8b378ec941f32&amp;cluster=4",
         "iso_alpha2": "vi",
         "report1": "The US Virgin Islands has reopened its borders.",
@@ -1735,7 +1735,7 @@
     {
         "country": "Uganda",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 263 active cases of COVID-19 diagnosed in Uganda and 0 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 192 active cases of COVID-19 diagnosed in Uganda and 0 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ug.svg?v=c159781d4b1eab9d9bd937a5f4ba594f089e761c&amp;cluster=4",
         "iso_alpha2": "ug",
         "report1": "Uganda has suspended all flights.",
@@ -1744,7 +1744,7 @@
     {
         "country": "Ukraine",
         "countrygroup": "Europe",
-        "covidcases": "There are currently 18,172 active cases of COVID-19 diagnosed in Ukraine and 995 deaths as of Jun 15 2020",
+        "covidcases": "There are currently 19,271 active cases of COVID-19 diagnosed in Ukraine and 1,012 deaths as of Jun 15 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ua.svg?v=2cf1ed34229e251cd033ea8a5470f04b2dfbb94a&amp;cluster=4",
         "iso_alpha2": "ua",
         "report1": "Ukraine has lifted its entry ban for foreign nationals.",
@@ -1753,11 +1753,11 @@
     {
         "country": "United Arab Emirates",
         "countrygroup": "Middle East",
-        "covidcases": "There are currently 12,849 active cases of COVID-19 diagnosed in United Arab Emirates and 300 deaths as of Jun 17 2020",
+        "covidcases": "There are currently 12,208 active cases of COVID-19 diagnosed in United Arab Emirates and 302 deaths as of Jun 24 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ae.svg?v=0f6f778448058fb7201ddc3c7851f51a5a4431b7&amp;cluster=4",
         "iso_alpha2": "ae",
-        "report1": "The United Arab Emirates has restricted the entry of foreign nationals who are not residents.",
-        "report2": "The United Arab Emirates has restricted the entry of foreign nationals who are not residents. UAE residents may re-enter the country, but must request and be approved for return by the UAE Federal Authority for Identity and Citizenship before arriving into the country. Resident entry permits are available at <a href=-http://Smartservice.ica.gov.ae->http://Smartservice.ica.gov.ae</a>."
+        "report1": "The United Arab Emirates is restricting most non-residents, except for Dubai which has a separate set of regulations in place.",
+        "report2": "The United Arab Emirates has restricted the entry of most non-residents. However, there is a separate set of regulations specifically for entering Dubai, which was announced on June 21 and is now in effect for Dubai residents and visitors.Visitors to Dubai who are no-residents will be able to travel to Dubai from July 7. Further information about what visitors need to do before they travel and what will happen on arrival in Dubai is available on the <a href=':https://mediaoffice.ae/en/news/2020/June/21-06/Supreme-Committee-of-Crisis-and-Disaster-Management-announces-new-air-travel-protocols-'>Government of Dubai website</a>, including information about testing on arrival and quarantine."
     },
     {
         "country": "United Kingdom",
@@ -1769,16 +1769,16 @@
     {
         "country": "United States",
         "countrygroup": "North America",
-        "covidcases": "There are currently 1,422,205 active cases of COVID-19 diagnosed in United States and 119,115 deaths as of Jun 12 2020",
+        "covidcases": "There are currently 1,463,223 active cases of COVID-19 diagnosed in United States and 119,966 deaths as of Jun 24 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/us.svg?v=64d1ec0287142a6dbc7e38ac8814cc2181900d59&amp;cluster=4",
         "iso_alpha2": "us",
         "report1": "The United States has restricted the entry of all foreign nationals who have visited China, Iran, the Schengen Area, Ireland, or the United Kingdom in the past 14 days.",
-        "report2": "The United States has restricted the entry of all foreign nationals who have passed through or have been in Austria, Belgium, China, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Iran, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, or the United Kingdom (excluding overseas territories outside of Europe), in the past 14 days."
+        "report2": "The United States has restricted the entry of all foreign nationals who have passed through or have been in Austria, Brazil, Belgium, China, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Iran, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, or the United Kingdom (excluding overseas territories outside of Europe), in the past 14 days.Travelers who are allowed to enter the United States but have passed through or have been in any of the countries named above must quarantine for 14 days once they reach their final destination."
     },
     {
         "country": "Uruguay",
         "countrygroup": "South America",
-        "covidcases": "There are currently 15 active cases of COVID-19 diagnosed in Uruguay and 24 deaths as of Jun 3 2020",
+        "covidcases": "There are currently 37 active cases of COVID-19 diagnosed in Uruguay and 25 deaths as of Jun 3 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/uy.svg?v=381668d23e406ed8f4ef28bb147edf2897ddb17d&amp;cluster=4",
         "iso_alpha2": "uy",
         "report1": "Uruguay has suspended all flights into the country.",
@@ -1787,7 +1787,7 @@
     {
         "country": "Uzbekistan",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 1,654 active cases of COVID-19 diagnosed in Uzbekistan and 19 deaths as of Jun 16 2020",
+        "covidcases": "There are currently 1,919 active cases of COVID-19 diagnosed in Uzbekistan and 19 deaths as of Jun 16 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/uz.svg?v=9c84e3eab4bf25875704f0b7ac8da3277db0c304&amp;cluster=4",
         "iso_alpha2": "uz",
         "report1": "Uzbekistan has resumed international flights for certain categories of travelers from countries deemed to have a stable epidemiological situation.",
@@ -1803,7 +1803,7 @@
     {
         "country": "Venezuela",
         "countrygroup": "South America",
-        "covidcases": "There are currently 2,726 active cases of COVID-19 diagnosed in Venezuela and 30 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 3,049 active cases of COVID-19 diagnosed in Venezuela and 33 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ve.svg?v=82a7954f63b2801c66429f09c112f388724b50e4&amp;cluster=4",
         "iso_alpha2": "ve",
         "report1": "Venezuela has suspended all international travel.",
@@ -1812,7 +1812,7 @@
     {
         "country": "Vietnam",
         "countrygroup": "Asia",
-        "covidcases": "There are currently 23 active cases of COVID-19 diagnosed in Vietnam and 0 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 22 active cases of COVID-19 diagnosed in Vietnam and 0 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/vn.svg?v=3cb635a8554a0224b27876a09b848e7b1e07f951&amp;cluster=4",
         "iso_alpha2": "vn",
         "report1": "Vietnam has restricted the entry of all foreign nationals.",
@@ -1829,7 +1829,7 @@
     {
         "country": "Yemen",
         "countrygroup": "Middle East",
-        "covidcases": "There are currently 380 active cases of COVID-19 diagnosed in Yemen and 251 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 338 active cases of COVID-19 diagnosed in Yemen and 256 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ye.svg?v=c369e9e97ea9c24f90d1fda5e260f598318479e8&amp;cluster=4",
         "iso_alpha2": "ye",
         "report1": "Yemen has suspended all international flights.",
@@ -1847,7 +1847,7 @@
     {
         "country": "Zimbabwe",
         "countrygroup": "Africa",
-        "covidcases": "There are currently 412 active cases of COVID-19 diagnosed in Zimbabwe and 4 deaths as of Jun 5 2020",
+        "covidcases": "There are currently 419 active cases of COVID-19 diagnosed in Zimbabwe and 6 deaths as of Jun 5 2020",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/zw.svg?v=2a4849894e5fc3686620a531845c141c46732bda&amp;cluster=4",
         "iso_alpha2": "zw",
         "report1": "Zimbabwe has restricted the entry of all travelers except for Zimbabwean nationals and residents.",
