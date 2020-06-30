@@ -1,40 +1,39 @@
 {
   	"results": [
 	    {
-	      "continent": "EU",
-	      "iso_alpha2": "AD",
-	      "name": "Andorra",
-	      "score": "2.8 (Medium Risk)",
-	      "updated": "2020-06-29 07:22:07"
+			"continent": "EU",
+			"iso_alpha2": "AD",
+			"name": "Andorra",
+			"score": "2.8 (Medium Risk)",
+			"updated": "2020-06-29 07:22:07"
 	    },
 	    {
-	      "continent": "AS",
-	      "iso_alpha2": "AE",
-	      "name": "United Arab Emirates",
-	      "score": "3.1 (Medium Risk)",
-	      "updated": "2020-06-29 07:22:07 - The United Arab Emirates is restricting most non-residents, except for Dubai which has a separate set of regulations in place., - The United Arab Emirates has restricted the entry of most non-residents. However, there is a separate set of regulations specifically for entering Dubai, which was announced on June 21 and is now in effect for Dubai residents and visitors.Visitors to Dubai who are no-residents will be able to travel to Dubai from July 7. Further information about what visitors need to do before they travel and what will happen on arrival in Dubai is available on the <a href=':https://mediaoffice.ae/en/news/2020/June/21-06/Supreme-Committee-of-Crisis-and-Disaster-Management-announces-new-air-travel-protocols-'>Government of Dubai website</a>, including information about testing on arrival and quarantine."
+			"continent": "AS",
+			"iso_alpha2": "AE",
+			"name": "United Arab Emirates",
+			"score": "3.1 (Medium Risk)",
+			"updated": "2020-06-29 07:22:07 - The United Arab Emirates is restricting most non-residents"
 	    },
 	    {
-	      "continent": "AS",
-	      "iso_alpha2": "AF",
-	      "name": "Afghanistan",
-	      "score": "5 (Medium Risk)",
-	      "updated": "2020-06-29 07:22:07 - Afghanistan is now accepting international travelers..., - Afghanistan has restarted international flights..."
+			"continent": "AS",
+			"iso_alpha2": "AF",
+			"name": "Afghanistan",
+			"score": "5 (Medium Risk)",
+			"updated": "2020-06-29 07:22:07 - Afghanistan is now accepting international travelers."
 	    },
 	    {
-	      "continent": "NA",
-	      "iso_alpha2": "AG",
-	      "name": "Antigua and Barbuda",
-	      "score": "3 (Medium Risk)",
-	      "updated": "2020-06-29 07:22:07 - Antigua and Barbuda has reopened its borders., - antigua and barbuda has now reopened its borders. upon arrival, all travelers must wear masks and must go through medical screening, present a completed health declaration form, and have a medical certificate stating a negative  () test result issued within 48 hours before arrival. travelers subject to a  test on arrival must pay a fee of us$ 100 or local equivalent in cash. travelers without a valid medical certificate will be quarantined for 14 days at their own cost or until they test negative for ."
+			"continent": "NA",
+			"iso_alpha2": "AG",
+			"name": "Antigua and Barbuda",
+			"score": "3 (Medium Risk)",
+			"updated": "2020-06-29 07:22:07 - Antigua and Barbuda has reopened its borders"
 	    },
-
 	    {
-	    "continent": "AF",
-	    "iso_alpha2": "ZW",
-	    "name": "Zimbabwe",
-	    "score": "3.3 (Medium Risk)",
-	    "updated": "2020-06-29 07:22:07 - Zimbabwe has restricted the entry of all travelers except for Zimbabwean nationals and residents., - Zimbabwe has restricted the entry of all travelers except for Zimbabwean nationals and residents. All airports except for BUQ, HRE and VFA have been closed."
+		    "continent": "AF",
+		    "iso_alpha2": "ZW",
+		    "name": "Zimbabwe",
+		    "score": "3.3 (Medium Risk)",
+		    "updated": "2020-06-29 07:22:07 - Zimbabwe has restricted the entry of all travelers"
 	    }
   	]
 }
