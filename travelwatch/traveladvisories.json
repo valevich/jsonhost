@@ -4,35 +4,35 @@
 			"continent": "EU",
 			"iso_alpha2": "AD",
 			"name": "Andorra",
-			"score": "2.8 (Medium Risk)",
+			"score": 2.8,
 			"updated": "2020-06-29 07:22:07"
 	    },
 	    {
 			"continent": "AS",
 			"iso_alpha2": "AE",
 			"name": "United Arab Emirates",
-			"score": "3.1 (Medium Risk)",
+			"score": 3.1,
 			"updated": "2020-06-29 07:22:07 - The United Arab Emirates is restricting most non-residents"
 	    },
 	    {
 			"continent": "AS",
 			"iso_alpha2": "AF",
 			"name": "Afghanistan",
-			"score": "5 (Medium Risk)",
+			"score": 5,
 			"updated": "2020-06-29 07:22:07 - Afghanistan is now accepting international travelers."
 	    },
 	    {
 			"continent": "NA",
 			"iso_alpha2": "AG",
 			"name": "Antigua and Barbuda",
-			"score": "3 (Medium Risk)",
+			"score": 3,
 			"updated": "2020-06-29 07:22:07 - Antigua and Barbuda has reopened its borders"
 	    },
 	    {
 		    "continent": "AF",
 		    "iso_alpha2": "ZW",
 		    "name": "Zimbabwe",
-		    "score": "3.3 (Medium Risk)",
+		    "score": 3.3,
 		    "updated": "2020-06-29 07:22:07 - Zimbabwe has restricted the entry of all travelers"
 	    }
   	]
