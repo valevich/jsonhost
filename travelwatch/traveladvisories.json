@@ -1,172 +1,40 @@
 {
-  "results": [
-    {
-      "continent": "EU",
-      "iso_alpha2": "AD",
-      "name": "Andorra",
-      "score": "2.8 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07"
-    },
-    {
-      "continent": "AS",
-      "iso_alpha2": "AE",
-      "name": "United Arab Emirates",
-      "score": "3.1 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 - The United Arab Emirates is restricting most non-residents, except for Dubai which has a separate set of regulations in place., - The United Arab Emirates has restricted the entry of most non-residents. However, there is a separate set of regulations specifically for entering Dubai, which was announced on June 21 and is now in effect for Dubai residents and visitors.Visitors to Dubai who are no-residents will be able to travel to Dubai from July 7. Further information about what visitors need to do before they travel and what will happen on arrival in Dubai is available on the <a href=':https://mediaoffice.ae/en/news/2020/June/21-06/Supreme-Committee-of-Crisis-and-Disaster-Management-announces-new-air-travel-protocols-'>Government of Dubai website</a>, including information about testing on arrival and quarantine."
-    },
-    {
-      "continent": "AS",
-      "iso_alpha2": "AF",
-      "name": "Afghanistan",
-      "score": "5 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 - Afghanistan is now accepting international travelers..., - Afghanistan has restarted international flights..."
-    },
-    {
-      "continent": "NA",
-      "iso_alpha2": "AG",
-      "name": "Antigua and Barbuda",
-      "score": "3 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 - Antigua and Barbuda has reopened its borders., - antigua and barbuda has now reopened its borders. upon arrival, all travelers must wear masks and must go through medical screening, present a completed health declaration form, and have a medical certificate stating a negative  () test result issued within 48 hours before arrival. travelers subject to a  test on arrival must pay a fee of us$ 100 or local equivalent in cash. travelers without a valid medical certificate will be quarantined for 14 days at their own cost or until they test negative for ."
-    },
-    {
-      "continent": "NA",
-      "iso_alpha2": "AI",
-      "name": "Anguilla",
-      "score": "3 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 - Anguilla has closed its airports., - Samoa has restricted entry of travelers who have transited through or have been in Australia, Austria, Bahrain, Belgium, Canada, China, Taiwan, Czechia, Denmark, France, Germany, Greece, Hong Kong, Iceland, Italy, Iran, Japan, South Korea, Kuwait, Luxembourg, Macau, Malaysia, the Netherlands, Norway, Qatar, Singapore, Spain, Sweden, Switzerland, Thailand, the United Arab Emirates, or the United States.The Solomon Islands has restricted entry of all travelers who are not residents and nationals of the Solomon Islands, or travelers with prior written authorization issued by the Prime Minister.Tonga has restricted entry of travelers and airline crew arriving from or transiting through China, Taiwan, Hong Kong, or Macau.Tuvalu has closed its borders.Vanuatu has closed all ports of entry.Anguilla has closed all of its airports until at least June 30. Travelers who traveled outside the Caribbean region within the last 14 days must be quarantined for 14 days upon their arrival."
-    },
-    {
-      "continent": "EU",
-      "iso_alpha2": "AL",
-      "name": "Albania",
-      "score": "3 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 - Albania has suspended all incoming flights except flights from Austria, Greece, Serbia, and one route to and from Istanbul., - Albania has reopened its land borders, however all incoming flights remain suspended, except repatriation and emergency flights, flights from Austria, Greece and Serbia, and flights operated by Air Albania (ZB) to and from Istanbul (IST)."
-    },
-    {
-      "continent": "AS",
-      "iso_alpha2": "AM",
-      "name": "Armenia",
-      "score": "3.2 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 - Armenia has restricted the entry of all foreign nationals., - Armenia has restricted entry to all travelers until at least May 14, 2020."
-    },
-    {
-      "continent": "AF",
-      "iso_alpha2": "AO",
-      "name": "Angola",
-      "score": "3 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 - Angola has suspended all international flights until further notice., - Angola has suspended all international flights until further notice."
-    },
-    {
-      "continent": "SA",
-      "iso_alpha2": "AR",
-      "name": "Argentina",
-      "score": "3.1 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 - Argentina has restricted the entry of all foreign nationals., - Argentina has restricted entry to all travelers except for citizens and residents until at least June 28, 2020."
-    },
-    {
-      "continent": "OC",
-      "iso_alpha2": "AS",
-      "name": "American Samoa",
-      "score": "4 (High Risk)",
-      "updated": "2020-06-29 07:22:07 - American Samoa has restricted the entry of all travelers who are not residents or US nationals. - "
-    },
-    {
-      "continent": "EU",
-      "iso_alpha2": "AT",
-      "name": "Austria",
-      "score": "3.4 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 -  - Austria has opened its borders to travelers arriving from a Schengen Member State. However, travel from outside of the EEA remains restricted for travelers who are not nationals of an EU/Schengen country, and flights remain suspended from certain areas including Belarus, China, Iran, the Lombardy region of Italy, Portugal, Russia, Spain, Sweden, Ukraine and the United Kingdom. Austrian nationals, permanent residents, D-visa holders, and EEA nationals and their immediate family members may still enter Austria. Diplomats, humanitarian aid workers, healthcare professionals, and members of emergency/rescue/ambulance crews may also enter the country, and travelers with an immediate connecting flight may transit through the country."
-    },
-    {
-      "continent": "OC",
-      "iso_alpha2": "AU",
-      "name": "Australia",
-      "score": "2.7 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 - Australia has restricted the entry of all foreign nationals except New Zealand nationals who reside in Australia, and nationals of other Oceania countries who are transiting through to their home countries., - Entry Permits, normally issued by American Samoa instead of visas, are currently suspended.Australia has restricted the entry of all travelers, with the exception of Australian nationals and permanent residents and their immediate family members, New Zealand nationals residing in Australia, diplomats accredited to Australia and residing in Australia and their immediate family members, and airline crew.transit passengers don’t need to apply for an exemption to travel restrictions if they are booked to depart on a connecting flight from the same airport within eight hours and they are not going to leave the airport. travelers who plan to leave the airport before boarding their connecting flight or who will be at the airport for longer than eight hours need to apply for a travel exemption <a href=-https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/19-enquiry-form->here</a> and will be subject to quarantine until their departing flight. travelers from new zealand and pacific islanders may not need a travel exemption. more information on transiting australia is available <a href=-https://19.homeaffairs.gov.au/transiting-australia->here</a>."
-    },
-    {
-      "continent": "NA",
-      "iso_alpha2": "AW",
-      "name": "Aruba",
-      "score": "2.5 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 - Aruba has reopened its borders to some foreign travelers. - "
-    },
-    {
-      "continent": "AS",
-      "iso_alpha2": "AZ",
-      "name": "Azerbaijan",
-      "score": "3.3 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 - Azerbaijan has restricted the entry of all foreign nationals., - Azerbaijan has restricted entry to all travelers until at least August 1, except for citizens, residents, travelers with a work permit, or travelers with special permission from the government."
-    },
-    {
-      "continent": "EU",
-      "iso_alpha2": "BA",
-      "name": "Bosnia and Herzegovina",
-      "score": "3.4 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 - Bosnia and Herzegovina has restricted the entry of all foreign nationals except those from its neighboring countries., - Bosnia and Herzegovina has restricted the entry of all travelers who are not nationals or residents of Bosnia and Herzegovina."
-    },
-    {
-      "continent": "NA",
-      "iso_alpha2": "BB",
-      "name": "Barbados",
-      "score": "2.8 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 - Barbados does not have any entry restrictions, but all arriving travelers and airline crew must self-isolate for 14 days., - As of June 15th Aruba has opened its borders to travelers from Bonaire and Curacao.Barbados will quarantine all arriving travelers and airline crew for 14 days at a government administered facility."
-    },
-    {
-      "continent": "AS",
-      "iso_alpha2": "BD",
-      "name": "Bangladesh",
-      "score": "3.5 (High Risk)",
-      "updated": "2020-06-29 07:22:07 - Bangladesh has suspended flights from Bahrain, Bhutan, Hong Kong, India, Kuwait, Malaysia, the Maldives, Nepal, Oman, Saudi Arabia, Sri Lanka, Singapore, Thailand, and Turkey., - Bangladesh has suspended flights from Bahrain, Bhutan, Hong Kong, India, Kuwait, Malaysia, the Maldives, Nepal, Oman, Saudi Arabia, Sri Lanka, Singapore, Thailand, and Turkey.travelers with pre-arranged visas must have medical certificates issued within 72 hours before departure stating that they are not affected by  (). the certificates must be in english or translated into english."
-    },
-    {
-      "continent": "EU",
-      "iso_alpha2": "BE",
-      "name": "Belgium",
-      "score": "3.4 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 - Belgium has restricted the entry of all travelers who are not arriving from EEA countries, Switzerland, or the United Kingdom. Nationals of Belgium or those same countries may still enter., - Belgium has restricted the entry of all travelers who are not arriving from EEA Member States, Switzerland or the United Kingdom.Diplomats, humanitarian aid workers, and military personnel may also enter the country.All travelers arriving from outside the EEA/Schengen area/UK must stay home for 14 days after returning from travel, monitor their health, and practice social distancing."
-    },
-    {
-      "continent": "AF",
-      "iso_alpha2": "BF",
-      "name": "Burkina Faso",
-      "score": "3.9 (High Risk)",
-      "updated": "2020-06-29 07:22:07 - Burkina Faso has restricted the entry of all travelers except for Burkina Faso nationals and residents and limited humanitarian, medevac and repatriation fights., - Burkina Faso has restricted the entry of all travelers except for Burkina Faso nationals and residents and limited humanitarian, medevac and repatriation flights."
-    },
-    {
-      "continent": "EU",
-      "iso_alpha2": "BG",
-      "name": "Bulgaria",
-      "score": "3.2 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 - Bulgaria has reopened its borders to travelers from most European countries., - Bulgaria has restricted the entry of all travelers who are not nationals of Andorra, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Montenegro, the Netherlands, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, the Vatican City, or the United Kingdom."
-    },
-    {
-      "continent": "AS",
-      "iso_alpha2": "BH",
-      "name": "Bahrain",
-      "score": "3 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 - Bahrain has restricted the entry of all travelers except for nationals, residents, military personnel, and travelers with a valid letter of Prior Permission Granted (PPG)., - Bahrain has restricted the entry of all travelers except for nationals, residents,military personnel of Bahrain, and travelers with a valid letter of Prior Permission Granted (PPG), which must be presented prior to boarding."
-    },
-    {
-      "continent": "AF",
-      "iso_alpha2": "BI",
-      "name": "Burundi",
-      "score": "4.8 (Extreme Warning)",
-      "updated": "2020-06-29 07:22:07 - Burundi has suspended all international flights, - Burundi has suspended all international flights from March 22, 2020."
-    },
-    {
-      "continent": "AF",
-      "iso_alpha2": "BJ",
-      "name": "Benin",
-      "score": "3.3 (Medium Risk)",
-      "updated": "2020-06-29 07:22:07 - Benin has closed its land borders and suspended all commercial flights., - Benin has closed its land borders and suspended all commercial flights. All travelers entering Benin must self-quarantine for 14 days upon arrival."
-    },
-    {
-    "continent": "AF",
-    "iso_alpha2": "ZW",
-        "name": "Zimbabwe",
-    "score": "3.3 (Medium Risk)",
-    "updated": "2020-06-29 07:22:07 - Zimbabwe has restricted the entry of all travelers except for Zimbabwean nationals and residents., - Zimbabwe has restricted the entry of all travelers except for Zimbabwean nationals and residents. All airports except for BUQ, HRE and VFA have been closed."
-    }
-  ]
+  	"results": [
+	    {
+	      "continent": "EU",
+	      "iso_alpha2": "AD",
+	      "name": "Andorra",
+	      "score": "2.8 (Medium Risk)",
+	      "updated": "2020-06-29 07:22:07"
+	    },
+	    {
+	      "continent": "AS",
+	      "iso_alpha2": "AE",
+	      "name": "United Arab Emirates",
+	      "score": "3.1 (Medium Risk)",
+	      "updated": "2020-06-29 07:22:07 - The United Arab Emirates is restricting most non-residents, except for Dubai which has a separate set of regulations in place., - The United Arab Emirates has restricted the entry of most non-residents. However, there is a separate set of regulations specifically for entering Dubai, which was announced on June 21 and is now in effect for Dubai residents and visitors.Visitors to Dubai who are no-residents will be able to travel to Dubai from July 7. Further information about what visitors need to do before they travel and what will happen on arrival in Dubai is available on the <a href=':https://mediaoffice.ae/en/news/2020/June/21-06/Supreme-Committee-of-Crisis-and-Disaster-Management-announces-new-air-travel-protocols-'>Government of Dubai website</a>, including information about testing on arrival and quarantine."
+	    },
+	    {
+	      "continent": "AS",
+	      "iso_alpha2": "AF",
+	      "name": "Afghanistan",
+	      "score": "5 (Medium Risk)",
+	      "updated": "2020-06-29 07:22:07 - Afghanistan is now accepting international travelers..., - Afghanistan has restarted international flights..."
+	    },
+	    {
+	      "continent": "NA",
+	      "iso_alpha2": "AG",
+	      "name": "Antigua and Barbuda",
+	      "score": "3 (Medium Risk)",
+	      "updated": "2020-06-29 07:22:07 - Antigua and Barbuda has reopened its borders., - antigua and barbuda has now reopened its borders. upon arrival, all travelers must wear masks and must go through medical screening, present a completed health declaration form, and have a medical certificate stating a negative  () test result issued within 48 hours before arrival. travelers subject to a  test on arrival must pay a fee of us$ 100 or local equivalent in cash. travelers without a valid medical certificate will be quarantined for 14 days at their own cost or until they test negative for ."
+	    },
+
+	    {
+	    "continent": "AF",
+	    "iso_alpha2": "ZW",
+	    "name": "Zimbabwe",
+	    "score": "3.3 (Medium Risk)",
+	    "updated": "2020-06-29 07:22:07 - Zimbabwe has restricted the entry of all travelers except for Zimbabwean nationals and residents., - Zimbabwe has restricted the entry of all travelers except for Zimbabwean nationals and residents. All airports except for BUQ, HRE and VFA have been closed."
+	    }
+  	]
 }
