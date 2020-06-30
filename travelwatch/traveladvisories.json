@@ -1,39 +1,1670 @@
 {
-  	"results": [
-	    {
-			"continent": "EU",
-			"iso_alpha2": "AD",
-			"name": "Andorra",
-			"score": 2.8,
-			"updated": "2020-06-29 07:22:07"
-	    },
-	    {
-			"continent": "AS",
-			"iso_alpha2": "AE",
-			"name": "United Arab Emirates",
-			"score": 3.1,
-			"updated": "2020-06-29 07:22:07 - The United Arab Emirates is restricting most non-residents"
-	    },
-	    {
-			"continent": "AS",
-			"iso_alpha2": "AF",
-			"name": "Afghanistan",
-			"score": 5,
-			"updated": "2020-06-29 07:22:07 - Afghanistan is now accepting international travelers."
-	    },
-	    {
-			"continent": "NA",
-			"iso_alpha2": "AG",
-			"name": "Antigua and Barbuda",
-			"score": 3,
-			"updated": "2020-06-29 07:22:07 - Antigua and Barbuda has reopened its borders"
-	    },
-	    {
-		    "continent": "AF",
-		    "iso_alpha2": "ZW",
-		    "name": "Zimbabwe",
-		    "score": 3.3,
-		    "updated": "2020-06-29 07:22:07 - Zimbabwe has restricted the entry of all travelers"
-	    }
-  	]
+  "results": [
+    {
+      "continent": "EU",
+      "iso_alpha2": "AD",
+      "name": "Andorra",
+      "score": 2.8,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "AE",
+      "name": "United Arab Emirates",
+      "score": 3.1,
+      "updated": "2020-06-29 07:22:07 - The United Arab Emirates is restricting most non-residents, except for Dubai which has a separate set of regulations in place., - The United Arab Emirates has restricted the entry of most non-residents. However, there is a separate set of regulations specifically for entering Dubai, which was announced on June 21 and is now in effect for Dubai residents and visitors.Visitors to Dubai who are no-residents will be able to travel to Dubai from July 7. Further information about what visitors need to do before they travel and what will happen on arrival in Dubai is available on the <a href=':https://mediaoffice.ae/en/news/2020/June/21-06/Supreme-Committee-of-Crisis-and-Disaster-Management-announces-new-air-travel-protocols-'>Government of Dubai website</a>, including information about testing on arrival and quarantine."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "AF",
+      "name": "Afghanistan",
+      "score": 5,
+      "updated": "2020-06-29 07:22:07 - Afghanistan is now accepting international travelers..., - Afghanistan has restarted international flights..."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "AG",
+      "name": "Antigua and Barbuda",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Antigua and Barbuda has reopened its borders., - antigua and barbuda has now reopened its borders. upon arrival, all travelers must wear masks and must go through medical screening, present a completed health declaration form, and have a medical certificate stating a negative  () test result issued within 48 hours before arrival. travelers subject to a  test on arrival must pay a fee of us$ 100 or local equivalent in cash. travelers without a valid medical certificate will be quarantined for 14 days at their own cost or until they test negative for ."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "AI",
+      "name": "Anguilla",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Anguilla has closed its airports., - Samoa has restricted entry of travelers who have transited through or have been in Australia, Austria, Bahrain, Belgium, Canada, China, Taiwan, Czechia, Denmark, France, Germany, Greece, Hong Kong, Iceland, Italy, Iran, Japan, South Korea, Kuwait, Luxembourg, Macau, Malaysia, the Netherlands, Norway, Qatar, Singapore, Spain, Sweden, Switzerland, Thailand, the United Arab Emirates, or the United States.The Solomon Islands has restricted entry of all travelers who are not residents and nationals of the Solomon Islands, or travelers with prior written authorization issued by the Prime Minister.Tonga has restricted entry of travelers and airline crew arriving from or transiting through China, Taiwan, Hong Kong, or Macau.Tuvalu has closed its borders.Vanuatu has closed all ports of entry.Anguilla has closed all of its airports until at least June 30. Travelers who traveled outside the Caribbean region within the last 14 days must be quarantined for 14 days upon their arrival."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "AL",
+      "name": "Albania",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Albania has suspended all incoming flights except flights from Austria, Greece, Serbia, and one route to and from Istanbul., - Albania has reopened its land borders, however all incoming flights remain suspended, except repatriation and emergency flights, flights from Austria, Greece and Serbia, and flights operated by Air Albania (ZB) to and from Istanbul (IST)."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "AM",
+      "name": "Armenia",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Armenia has restricted the entry of all foreign nationals., - Armenia has restricted entry to all travelers until at least May 14, 2020."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "AO",
+      "name": "Angola",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Angola has suspended all international flights until further notice., - Angola has suspended all international flights until further notice."
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "AR",
+      "name": "Argentina",
+      "score": 3.1,
+      "updated": "2020-06-29 07:22:07 - Argentina has restricted the entry of all foreign nationals., - Argentina has restricted entry to all travelers except for citizens and residents until at least June 28, 2020."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "AS",
+      "name": "American Samoa",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07 - American Samoa has restricted the entry of all travelers who are not residents or US nationals. - "
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "AT",
+      "name": "Austria",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 -  - Austria has opened its borders to travelers arriving from a Schengen Member State. However, travel from outside of the EEA remains restricted for travelers who are not nationals of an EU/Schengen country, and flights remain suspended from certain areas including Belarus, China, Iran, the Lombardy region of Italy, Portugal, Russia, Spain, Sweden, Ukraine and the United Kingdom. Austrian nationals, permanent residents, D-visa holders, and EEA nationals and their immediate family members may still enter Austria. Diplomats, humanitarian aid workers, healthcare professionals, and members of emergency/rescue/ambulance crews may also enter the country, and travelers with an immediate connecting flight may transit through the country."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "AU",
+      "name": "Australia",
+      "score": 2.7,
+      "updated": "2020-06-29 07:22:07 - Australia has restricted the entry of all foreign nationals except New Zealand nationals who reside in Australia, and nationals of other Oceania countries who are transiting through to their home countries., - Entry Permits, normally issued by American Samoa instead of visas, are currently suspended.Australia has restricted the entry of all travelers, with the exception of Australian nationals and permanent residents and their immediate family members, New Zealand nationals residing in Australia, diplomats accredited to Australia and residing in Australia and their immediate family members, and airline crew.transit passengers don’t need to apply for an exemption to travel restrictions if they are booked to depart on a connecting flight from the same airport within eight hours and they are not going to leave the airport. travelers who plan to leave the airport before boarding their connecting flight or who will be at the airport for longer than eight hours need to apply for a travel exemption <a href=-https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/19-enquiry-form->here</a> and will be subject to quarantine until their departing flight. travelers from new zealand and pacific islanders may not need a travel exemption. more information on transiting australia is available <a href=-https://19.homeaffairs.gov.au/transiting-australia->here</a>."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "AW",
+      "name": "Aruba",
+      "score": 2.5,
+      "updated": "2020-06-29 07:22:07 - Aruba has reopened its borders to some foreign travelers. - "
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "AZ",
+      "name": "Azerbaijan",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Azerbaijan has restricted the entry of all foreign nationals., - Azerbaijan has restricted entry to all travelers until at least August 1, except for citizens, residents, travelers with a work permit, or travelers with special permission from the government."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "BA",
+      "name": "Bosnia and Herzegovina",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - Bosnia and Herzegovina has restricted the entry of all foreign nationals except those from its neighboring countries., - Bosnia and Herzegovina has restricted the entry of all travelers who are not nationals or residents of Bosnia and Herzegovina."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "BB",
+      "name": "Barbados",
+      "score": 2.8,
+      "updated": "2020-06-29 07:22:07 - Barbados does not have any entry restrictions, but all arriving travelers and airline crew must self-isolate for 14 days., - As of June 15th Aruba has opened its borders to travelers from Bonaire and Curacao.Barbados will quarantine all arriving travelers and airline crew for 14 days at a government administered facility."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "BD",
+      "name": "Bangladesh",
+      "score": 3.5,
+      "updated": "2020-06-29 07:22:07 - Bangladesh has suspended flights from Bahrain, Bhutan, Hong Kong, India, Kuwait, Malaysia, the Maldives, Nepal, Oman, Saudi Arabia, Sri Lanka, Singapore, Thailand, and Turkey., - Bangladesh has suspended flights from Bahrain, Bhutan, Hong Kong, India, Kuwait, Malaysia, the Maldives, Nepal, Oman, Saudi Arabia, Sri Lanka, Singapore, Thailand, and Turkey.travelers with pre-arranged visas must have medical certificates issued within 72 hours before departure stating that they are not affected by  (). the certificates must be in english or translated into english."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "BE",
+      "name": "Belgium",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - Belgium has restricted the entry of all travelers who are not arriving from EEA countries, Switzerland, or the United Kingdom. Nationals of Belgium or those same countries may still enter., - Belgium has restricted the entry of all travelers who are not arriving from EEA Member States, Switzerland or the United Kingdom.Diplomats, humanitarian aid workers, and military personnel may also enter the country.All travelers arriving from outside the EEA/Schengen area/UK must stay home for 14 days after returning from travel, monitor their health, and practice social distancing."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "BF",
+      "name": "Burkina Faso",
+      "score": 3.9,
+      "updated": "2020-06-29 07:22:07 - Burkina Faso has restricted the entry of all travelers except for Burkina Faso nationals and residents and limited humanitarian, medevac and repatriation fights., - Burkina Faso has restricted the entry of all travelers except for Burkina Faso nationals and residents and limited humanitarian, medevac and repatriation flights."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "BG",
+      "name": "Bulgaria",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Bulgaria has reopened its borders to travelers from most European countries., - Bulgaria has restricted the entry of all travelers who are not nationals of Andorra, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Montenegro, the Netherlands, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, the Vatican City, or the United Kingdom."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "BH",
+      "name": "Bahrain",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Bahrain has restricted the entry of all travelers except for nationals, residents, military personnel, and travelers with a valid letter of Prior Permission Granted (PPG)., - Bahrain has restricted the entry of all travelers except for nationals, residents,military personnel of Bahrain, and travelers with a valid letter of Prior Permission Granted (PPG), which must be presented prior to boarding."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "BI",
+      "name": "Burundi",
+      "score": 4.8,
+      "updated": "2020-06-29 07:22:07 - Burundi has suspended all international flights, - Burundi has suspended all international flights from March 22, 2020."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "BJ",
+      "name": "Benin",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Benin has closed its land borders and suspended all commercial flights., - Benin has closed its land borders and suspended all commercial flights. All travelers entering Benin must self-quarantine for 14 days upon arrival."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "BL",
+      "name": "Saint Barth\u00e9lemy",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "BM",
+      "name": "Bermuda",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Bermuda has closed its borders to all travelers except Bermudan nationals and residents or travelers with written permission from the Quarantine Authority of Bermuda., - Bermuda has suspended its previous travel ban, meaning all travelers may enter the territory."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "BN",
+      "name": "Brunei",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Brunei has restricted the entry of all foreign nationals., - Brunei has restricted entry and transit to all travelers except for citizens and residents."
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "BO",
+      "name": "Bolivia",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Bolivia has closed its borders., - Bolivia has closed its borders until at least June 30. - Bonaire has begun to relax its travel restrictions for travelers arriving from Aruba and Curaçao. - "
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "BR",
+      "name": "Brazil",
+      "score": 3.6,
+      "updated": "2020-06-29 07:22:07 - Brazil has restricted the entry of all foreign nationals., - Brazil has restricted the entry of all travelers who are not citizens, residents, government employees and their family members, immediate family members of citizens, diplomats, travelers with authorization from the government, travelers with a National Migration Registry, or travelers in transit who do not leave the international area of the airport. These restrictions are expected to remain in place through at least July 5."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "BS",
+      "name": "Bahamas",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - The Bahamas has restricted the entry of all travelers except for Bahamian nationals and residents., - Sint Maarten has restarted flights from nearby territories.the bahamas has restricted the entry of all travelers except for bahamian nationals and residents. they must have a medical certificate showing a negative  test result issued within 7 days of their arrival, and will be subject to quarantine upon arrival."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "BT",
+      "name": "Bhutan",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Bhutan has closed its borders., - Bhutan has closed its borders."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "BW",
+      "name": "Botswana",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Botswana has suspended flights and restricted the entry of all foreign nationals., - Botswana has closed its airports and restricted entry to all non-citizens/residents."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "BY",
+      "name": "Belarus",
+      "score": 3.5,
+      "updated": "2020-06-29 07:22:07 - Belarus has not implemented any entry restrictions, but foreign citizens arriving in Belarus are subject to a 14-day self quarantine requirement., - belarus has not implemented any entry restrictions, but foreign citizens arriving in belarus are subject to a 14-day self quarantine requirement. this requirement may be waived for travelers carrying a medical certificate, issued within 48 hours of arrival, indicating a negative  test result"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "BZ",
+      "name": "Belize",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - All airports in Belize are closed., - Belize has closed its airports and restricted the entry of all travelers who are not nationals or residents of Belize."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "CA",
+      "name": "Canada",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 -  - Canada has restricted the entry of all foreign nationals. Travelers who are not Canadian citizens, permanent residents or people registered under the Indian Act may only enter Canada for essential purposes. Entrance will be denied to people traveling for tourism, sightseeing, recreation, entertainment, social visits or religious functions.Canadian citizens, permanent residents, their immediate family, diplomats, airline crews, and travelers arriving from the United States who are traveling for non-discretionary or non-optional purposes may still enter Canada. Only Toronto Pearson (YYZ), Montreal Pierre Elliott Trudeau (YUL), Calgary International Airport (YYC) and Vancouver International Airport (YVR) are operating international flights. Domestic flights, as well as flights from the United States, some destinations such as Mexico and the Caribbean, and from St. Pierre-et-Miquelon, are currently not affected by this measure.Seasonal agricultural workers, fish/seafood workers, caregivers, temporary foreign workers, international students with valid study permits or approvals for study permits valid from at least March 18, 2020, and permanent resident applicants who received approval before March 18, 2020 who had not yet traveled to Canada, may still enter the country."
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "CC",
+      "name": "Cocos Islands",
+      "score": 0,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "CD",
+      "name": "Democratic Republic of the Congo",
+      "score": 3.9,
+      "updated": "2020-06-29 07:22:07 -  - "
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "CF",
+      "name": "Central African Republic",
+      "score": 5,
+      "updated": "2020-06-29 07:22:07 - The Central African Republic has closed Bangui M'Poko International Airport (BGF)., - The Central African Republic has closed Bangui M’Poko International Airport (BGF) with exceptions for commercial, humanitarian, medevac, and technical stops."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "CG",
+      "name": "Republic of the Congo",
+      "score": 2.8,
+      "updated": "2020-06-29 07:22:07 - The Republic of the Congo has closed all of its airports. - "
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "CH",
+      "name": "Switzerland",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07 - Switzerland has eased restrictions on travelers from Europe., - Switzerland has begun to ease its travel restrictions. As well as nationals/residents of Switzerland or Liechtenstein, as of June 15, travelers from countries in the EU, United Kingdom, Iceland, Norway may now enter Switzerland."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "CI",
+      "name": "Ivory Coast",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Cote d'Ivoire has closed its borders., - Cote d’Ivoire has closed its borders."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "CK",
+      "name": "Cook Islands",
+      "score": 4.5,
+      "updated": "2020-06-29 07:22:07 - The Cook Islands have restricted the entry to all travelers except for Cook Islanders and Cook Islands Permit Holders. - "
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "CL",
+      "name": "Chile",
+      "score": 3.6,
+      "updated": "2020-06-29 07:22:07 - Chile has restricted the entry of all foreign nationals., - Chile has restricted entry to all travelers except for citizens, residents, diplomats, humanitarian aid workers, travelers with an official ID from the Ministry of Foreign Affairs of Chile, or travelers with safe conduct until at least June 25, 2020."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "CM",
+      "name": "Cameroon",
+      "score": 3.1,
+      "updated": "2020-06-29 07:22:07 - Cameroon has suspended all international flights., - Cameroon has suspended all international flights until further notice."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "CN",
+      "name": "China",
+      "score": 4.1,
+      "updated": "2020-06-29 07:22:07 - China has restricted the entry of all foreign nationals except Hong Kong, Macau, and Taiwan passport holders., - China has restricted entry and transit to all travelers except Chinese nationals, Hong Kong, Macau, or Taiwan passport holders, and travelers with diplomatic, service, courtesy or C visas, or visas issued after March 28, 2020.Airline crew with a layover at the above airports must undergo NAT inside the passenger terminal, then self-isolate at their hotel temporarily before acquiring the NAT results.All travelers arriving in China must present a QR code generated from a completed -Health Declaration Form- upon arrival. The form can be obtained before departure at <a href=-http://health.customsapp.com/->http://health.customsapp.com/</a>"
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "CO",
+      "name": "Colombia",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Colombia has restricted the entry of all foreign nationals., - Colombia has restricted entry and transit to all travelers except cargo operators, humanitarian emergencies, and extreme scenarios that have authorization from the Civil Aviation Authority (CAA)."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "CR",
+      "name": "Costa Rica",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Costa Rica has restricted the entry of all foreign nationals., - Costa Rica has restricted the entry of all travelers until at least June 30 who are not nationals and residents of Costa Rica.All of the above travelers must self-isolate for a period of 14 days upon arrival."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "CU",
+      "name": "Cuba",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - Cuba has suspended all flights into the country until July 1., - Cuba has suspended all flights into the country, except for humanitarian aid flights."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "CV",
+      "name": "Cape Verde",
+      "score": 2.8,
+      "updated": "2020-06-29 07:22:07 - Cape Verde has suspended all international passenger flights., - Cape Verde has suspended all international passenger flights. - Curaçao has limited entry to residents, but will soon re-open to flights from Bonaire and the Netherlands - "
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "CX",
+      "name": "Christmas Island",
+      "score": 0,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "CY",
+      "name": "Cyprus",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Cyprus has begun allowing entry to travelers arriving from a specific list of countries., - Cyprus began to reopen its borders on June 9.travelers arriving from the above-named list of countries will need a medical certificate stating a negative  test result issued within 72 hours of their arrival. nationals and residents of cyprus will also be tested for  upon arrival. cyprus nationals and residents who are not arriving from the countries named above will be required to self-isolate for 14 days upon their arrival.The administration in the north of Cyprus is now also allowing entry to ‘citizens’ and foreign nationals who hold residency, work or student permits. Travelers in one of these categories who arrive before July 1 will have to go into 14 days quarantine in facilities controlled by the administration, the cost of which is payable by the individual concerned. From July 1, travelers may enter by presenting a negative PCR test result (taken in the previous 72 hours), but will have to go into quarantine for 14 days in facilities controlled by the administration, at their own cost."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "CZ",
+      "name": "Czech Republic",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 -  - czechia has announced a new system of entry requirements for travelers arriving from within the eu/schengen area (plus the uk), with different rules for entry into the country from three categories of countries; high, medium and low risk. a list of these categories can be found on the <a href=-https://.mzcr.cz/en/from-15-june-eu-citizens-returning-from-countries-with-a-low-to-moderate-risk-of--contagion-can-travel-to-the-czech-republic-without-a-test/->ministry of health website</a>.Individuals with Czech residency traveling from countries designated by the Czech Government as ‘medium or low risk’ will be able to enter the Czech Republic for any reason, without a test result and without self-isolating.travelers who are residents of a country not covered by the above system may only enter the czech republic for certain purposes, including business, visiting family members, and study at university. details outlining valid reasons for entry, along with information on the necessary documents and restrictions are available on the website of the <a href=-https://www.mvcr.cz/mvcren/article/-information-of-moi.aspx->czech ministry of the interior</a> (see the second bullet point in section two - ‘conditions for entry to the territory of the czech republic (from 15 june, 2020)’).travelers in this category will need to show a residency card when boarding flights, and will need to either present a negative  test, be tested on arrival and self-isolate while waiting for a result, or self-isolate for 14 days upon arrival.Non-Czech residents seeking to transit through the Czech Republic to return to their country of residence should first contact their country's embassy in the Czech Republic to provide necessary documentation and advise if they will be cleared to travel."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "DE",
+      "name": "Germany",
+      "score": 3.1,
+      "updated": "2020-06-29 07:22:07 - Germany has relaxed its entry restrictions for travelers arriving from the European Economic Area., - Germany has restricted the entry of travelers who are arriving from outside the European Economic Area, except for nationals of Germany, residents with a residence permit, and D-Visa holders."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "DJ",
+      "name": "Djibouti",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Djibouti has suspended all flights into the country., - the democratic republic of the congo has suspended all commercial flights from countries with confirmed cases of  ().Djibouti has suspended all flights into the country."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "DK",
+      "name": "Denmark",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Danish borders are closed except to Danish nationals and residents, and permanent residents of Germany, Norway, and Iceland., - Denmark has restricted the entry of all travelers who are not Danish nationals and long-term residents with Danish residence permits. Danish borders are closed until at least August 31."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "DM",
+      "name": "Dominica",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Dominica has suspended all non-repatriation flights., - Curacao has restricted the entry of all travelers who are not airline crew, authorized medical personnel, authorized government personnel, or residents of Curacao who have been pre-approved for entry by the Government of Curacao. Residents, medical personnel, and government personnel must have a verification letter from the government of Curacao proving they are allowed to enter Curacao.Travelers may still transit through Curacao, provided they remain on board of the same aircraft or do wing to wing transit from one aircraft to another without entering the transit terminal. A minimum of 24 hours prior notice is required.Flights to and from Bonaire will resume on June 12, 2020 with no quarantine restrictions.Dominica has suspended all non-repatriation flights."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "DO",
+      "name": "Dominican Republic",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - The Dominican Republic has suspended all flights., - Flights to the Dominican Republic are suspended with the exception of repatriation flights."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "DZ",
+      "name": "Algeria",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Algeria has closed its borders., - The United Kingdom has not implemented any entry restrictions, but is monitoring direct flights into the country from certain areas.Algeria has closed its borders."
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "EC",
+      "name": "Ecuador",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - Flights to Ecuador have now resumed., - Flights to Ecuador have now resumed. However, Guayaquil airport (GYE) is closed."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "EE",
+      "name": "Estonia",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 -  - estonia has relaxed its travel restrictions. as well as estonian nationals, residence permit holders and foreign citizens with family members in estonia, travelers without symptoms of  who are arriving from an eu member state, schengen member state or the uk may now enter estonia."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "EG",
+      "name": "Egypt",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - Egypt has suspended all commercial flights into the country., - Egypt has suspended all international flights until at least June 30, except humanitarian, repatriation, medevac, and United Nations flights with a pre-authorization from the Egyptian Civil Aviation Authority."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "EH",
+      "name": "Western Sahara",
+      "score": 0,
+      "updated": "2020-06-29 07:22:07 - No information available at this time., - No information available at this time."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "ER",
+      "name": "Eritrea",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - Eritrea has not implemented any entry restrictions, but arriving travelers will be screened at Asmara International Airport (ASM)., - Eritrea has not implemented any entry restrictions, but arriving travelers will be screened at Asmara International Airport (ASM). Travelers arriving from China must report their travel history, and may be quarantined at designated hospitals."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "ES",
+      "name": "Spain",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - Spain has reopened travel from most European countries., - Spain has reopened its borders to travelers from most EU countries; however, entry remains restricted to travelers arriving from other areas, except for Spanish nationals and residents, and accompanying immediate family members.Travelers who are residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden or Switzerland may transit through Spain on their way home to their place of residency. The same applies to travelers with a long-term visa issued by a Schengen Member State who are returning to their place of residency.Immediate family members of Spanish nationals may enter Spain even if unaccompanied by a Spanish national, if they are traveling to join their family member who is already in the country.Residents of Andorra, Iceland, Norway or Switzerland, as well as long-term visa holders of Schengen member states who are returning home may also enter Spain, as may healthcare and elderly care workers, diplomats, staff of international and humanitarian organizations and military personnel in the performance of their duties. People who can demonstrate proof that they are traveling for emergency family or humanitarian reasons may also enter.Business travelers with documentation who are arriving from countries in the EU, Iceland, Norway, or Switzerland may enter Spain.Arrivals from outside the EU may only land at Alicante (ALC), Barcelona (BCN), Bilbao (BIO), Fuerteventura (FUE), Gran Canaria (LPA), Ibiza (IBZ), Madrid (MAD), Malaga (AGP), Menorca(MAH), Lanzarote (ACE), Palma de Mallorca (PMI), Santander (SDR), Sevilla (SVQ), Tenerife-Sur (TFS) or Valencia (VLC).Residency permits and D visas that expired after December 14, 2019 will be accepted for entry to Spain and considered valid for 6 months after the state of alarm has ended.spain has reopened its borders to travelers from the eu, the schengen area (except portugal), and the uk from june 21. travel between spain and portugal is expected to reopen from july 1. travelers arriving from the forementioned areas no longer be required to present a residency certificate or to self-isolate upon entry into spain; however they will need to provide contact information and any history of exposure to , and undergo a temperature check and visual health assessment.Restrictions on travelers from outside the European Union and the Schengen free-travel area will be lifted from July 1, providing the countries they depart from have agreements with Spain."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "ET",
+      "name": "Ethiopia",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Ethiopia has closed its land borders., - Ethiopia has closed its land borders, but airports remsin open.travelers carrying a negative  test certificate dated within the previous 72 hours are required to take a new test and to self-isolate at home for 14 days. all other passengers will be subject to 7 days mandatory quarantine, followed by a further 7 days self-isolation at home, where possible. mandatory quarantine will be at government designated hotels. travelers may choose from a range of hotels at different prices, but cannot change hotel once their quarantine has started. travelers are responsible for the full cost of their stay in quarantine, and may be required to show their hotel booking before boarding their flight."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "FI",
+      "name": "Finland",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - Finland has eased restrictions on travelers arriving from neighboring countries., - Finland's borders remain closed to non-resident foreign nationals entering the country, with some exemptions. However, from June 15, internal border controls have been lifted for travel between Finland and Norway, Denmark, Iceland, Estonia, Latvia and Lithuania.Nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, and the United Kingdom residing in Finland, and their family members may enter the country.Nationals and residents of Finland will be required to self-quarantine for 14 days upon arrival; however during the quarantine period they may move between their workplace and place of residence."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "FJ",
+      "name": "Fiji",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Fiji has restricted the entry of all foreign nationals., - The Cook Islands have restricted the entry of all travelers except for Cook Islanders and Cook Islands Permit Holders who have been present in New Zealand for at least 30 days and whose main purpose of travel is to return home, or to take up or resume employment.The Federated States of Micronesia have not restricted entrance to the country, but there are restrictions in place for the states of Pohnpei and Chuuk.Fiji has restricted the entry of all travelers who are not nationals of Fiji, and they must go into quarantine for 14 days upon arrival."
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "FK",
+      "name": "Falkland Islands",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07 - The Falkland Islands has restricted the entry of all travelers who are not residents or work permit holders., - The Falkland Islands have restricted entry to all travelers except returning residents, work permit holders, and those with Falkland Islands (Malvinas) status."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "FM",
+      "name": "Micronesia",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07 - The Federated States of Micronesia have not restricted entrance to the country, but there are restrictions in place for the states of Pohnpei and Chuuk. - "
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "FO",
+      "name": "Faroe Islands",
+      "score": 0,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "FR",
+      "name": "France",
+      "score": 3.5,
+      "updated": "2020-06-29 07:22:07 - France restricted the entry of all foreign nationals except nationals of other Schengen Member States., - France has restricted the entry of all travelers arriving from non-Schengen Member States.Nationals of France and their spouses and children, long-term residents with French residence permits and their spouses and children, long-term residents of EEA Member States, Andorra, Monaco, San Marino, Switzerland, the United Kingdom or the Vatican City and their spouses and children on their way home, and healthcare professionals may still enter the country. Airline crew, personnel of diplomatic and consular missions and international organizations with offices in France and their spouses and children, and merchant seamen may also enter.Travelers from outside of the EU/Schengen zone must have an International Travel Certificate to enter and transit France, which must be obtained prior to departure via the French consular offices abroad or online at https://www.interieur.gouv.fr. Additionally, travelers who need to use public transport during peak hours in Île-de-France (Greater Paris) must have a declaration form certifying their reason for travel.travelers arriving in mainland france from outside the eu (except for spain), andorra, vatican city, iceland, liechtenstein, monaco, norway, and switzerland are requested to comply with a voluntary 14-day self-quarantine upon arrival. travelers arriving in overseas french territories, as well as any travelers showing symptoms of , will have to carry out a mandatory 14-day quarantine at home or in a facility chosen by the government. mask wearing is obligatory for all travelers above the age of 11.France is expecting to open its borders to travelers from French Overseas Territories starting on June 27, but travelers from other areas outside the EU will continue to be restricted until at least July 1."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "GA",
+      "name": "Gabon",
+      "score": 3.5,
+      "updated": "2020-06-29 07:22:07 - Gabon has suspended all international flights., - Gabon has suspended all international flights."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "GB",
+      "name": "United Kingdom",
+      "score": 3.5,
+      "updated": "2020-06-29 07:22:07 - The United Kingdom does not have entry restrictions, but a 14-day quarantine is in place for arriving travelers. - "
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "GD",
+      "name": "Grenada",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Grenada is expected to reopen its airports at the end of June., - Grenada has closed Maurice Bishop International Airport (GND) and Lauriston Airport (CRU) to all passenger traffic. Airports are expected to open at the end of June."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "GE",
+      "name": "Georgia",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Georgia will reopen its borders starting from July 1., - Georgia has restricted the entry of all travelers who are not nationals and residents of Georgia, or an immediate family member."
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "GF",
+      "name": "French Guiana",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07 - French Guiana has restricted the entry of all foreign nationals., - French Guiana has restricted the entry of all travelers who are not residents or are required to enter for a medical emergency or to perform an essential service."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "GG",
+      "name": "Guernsey",
+      "score": 0,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "GH",
+      "name": "Ghana",
+      "score": 3.6,
+      "updated": "2020-06-29 07:22:07 - Ghana has suspended all commercial flights into the country., - Ghana has suspended incoming commercial flights and closed its borders until at least May 31, 2020."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "GI",
+      "name": "Gibraltar",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07 - Gibraltar has restricted the entry of all travelers except individuals who are registered Gibraltarians, residents., or Spanish nationals and residents in transit to Spain., - Gibraltar has restricted the entry of all travelers except individuals who are registered Gibraltarians, either by birth or naturalisation."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "GL",
+      "name": "Greenland",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07 - Greenland has restricted the entry of all travelers who are not Danish citizens or returning residents. - "
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "GM",
+      "name": "Gambia",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Gambia has suspended all commercial flights., - Gambia has suspended all flights except for medical, humanitarian, and repatriation flights."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "GN",
+      "name": "Guinea",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 -  - guinea has suspended all commercial flights from countries with more than 30 confirmed cases of  (). all embassies and consulates abroad have suspended issuances of visas from those countries."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "GP",
+      "name": "Guadeloupe",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07 - Guadeloupe has suspended most flights and has restricted the entry of non-residents, except for travelers arriving from Martinique, Saint-Barthéelemy and St. Martin., - Guadeloupe has suspended most flights and has restricted the entry of non-residents, except for travelers arriving from Martinique, Saint-Barthéelemy and St. Martin."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "GQ",
+      "name": "Equatorial Guinea",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Equatorial Guinea has reopened its borders., - Equatorial Guinea has reopened its borders."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "GR",
+      "name": "Greece",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Greece has resumed flights from many European countries., - Greece has restricted the entry of all travelers with the exception of nationals, residence permit holders, or long-term visa holders of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, or the United Kingdom, or their families.From June 15 onward, mandatory testing and self-isolation/quarantine will remain in place for anyone arriving into Greece from airports listed by the European Aviation Safety Agency (EASA). Travelers arriving from other locations may be exempted from these requirements."
+    },
+    {
+      "continent": "AN",
+      "iso_alpha2": "GS",
+      "name": "South Georgia and the South Sandwich Islands",
+      "score": 0,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "GT",
+      "name": "Guatemala",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Guatemala has suspended all flights into the country, and restricted the entry of all foreign nationals., - Guatemala has restricted entry of all travelers except for citizens, residents, and diplomats, who will be placed in quarantine upon arrival."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "GU",
+      "name": "Guam",
+      "score": 4.5,
+      "updated": "2020-06-29 07:22:07 -  - guam has restricted the entry of all non nationals/residents who have been in a country with confirmed  cases for more than a week, and do not hold a document certified by dphss (guam department of social health and services) that confirms they are not infected with ."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "GW",
+      "name": "Guinea-Bissau",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Guinea-Bissau has closed its borders., - Guinea-Bissau has closed its borders. Exceptions exist for emergency flights, medical, security, and rescue flights, and technical stops without passenger disembarkation."
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "GY",
+      "name": "Guyana",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - Guyana has restricted the entry of all foreign nationals., - Guyana has closed its airports to all international passenger flights until at least July 2."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "HK",
+      "name": "Hong Kong",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Hong Kong has restricted the entry of all foreign nationals. - "
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "HN",
+      "name": "Honduras",
+      "score": 3.7,
+      "updated": "2020-06-29 07:22:07 - Honduras has closed its airports until at least August 15 2020., - Honduras has closed its airports to all flights until at least August 15, with the exception of humanitarian flights with an authorization issued 24 hours before departure by the Honduran Secretariat of tourism or Secretariat for foreign relations and international cooperation."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "HR",
+      "name": "Croatia",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Croatia has opened its borders to visitors from the EU/EEA and the UK, provided they hold an accommodation reservation in the country., - Croatia has opened its borders to visitors from the EU/EEA and the UK, provided they hold an accommodation reservation or residence permit in the country. The Croatian government has introduced a <a href=-https://entercroatia.mup.hr/->new online entry form</a> to expedite the entry of foreign visitors. Visitors should carry a copy of their accommodation booking or proof of ownership of vacation homes/boats when arriving in Croatia. Business travelers should carry evidence of a business invitation or meetings."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "HT",
+      "name": "Haiti",
+      "score": 4.4,
+      "updated": "2020-06-29 07:22:07 - Haiti has suspended all international flights into the country., - Haiti has suspended all international flights to Port Au Prince International airport and Tocap Haitian International airport, with the exception of emergency, humanitarian, medevac and government flights."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "HU",
+      "name": "Hungary",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Hungary has begun relaxing restrictions for travelers from some neighboring countries, but Hungarian residents who are not EU nationals must still submit a request to the government., - Hungary has begun to relax its entry restrictions. While most travelers who are not Hungarian nationals are still restricted from entering, nationals of nearby countries may now enter under specific circumstances. The following groups of people are now able to enter Hungary:All travelers able to enter Hungary are subject to quarantine except nationals of the above-listed countries.all other foreigners including hungarian residents may only enter by submitting a request for an exception and entry permit with supporting documents on the <a href=- https://ugyintezes.police.hu/web/guest/uj-ugy-inditasa/->national police website</a>. the form is currently only available in hungarian and must be completed in hungarian. applications should be submitted at least a few days before the planned travel day, clearly stating the justification for the exemption application. the form sets out more details about the type of exceptional circumstances in which the authorities may allow entry. anyone entering hungary following this application route will undergo a medical check. those with no symptoms of  will be quarantined for 14 days, while those showing signs of  will not be allowed to enter the country."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "ID",
+      "name": "Indonesia",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07 - Indonesia has restricted the entry of all foreign nationals., - Indonesia has restricted the entry of all travelers who are not Indonesia nationals, Temporary Stay Permit (ITAS) and Permanent Stay Permit (ITAP) holders, airline crew, diplomats, humanitarian aid workers, and foreigners working on strategic national projects."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "IE",
+      "name": "Ireland",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Ireland is not currently implementing any entry restrictions., - Ireland is not currently implementing any entry restrictions, but all travelers arriving in the country from areas except Northern Ireland are required to complete a Public Health Passenger Locator Form and self-quarantine for 14 days."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "IL",
+      "name": "Israel",
+      "score": 3.5,
+      "updated": "2020-06-29 07:22:07 - Israel has restricted the entry of all foreign nationals., - Israel has restricted the entry of all travelers who are not nationals or residents of Israel."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "IM",
+      "name": "Isle of Man",
+      "score": 0,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "IN",
+      "name": "India",
+      "score": 3.5,
+      "updated": "2020-06-29 07:22:07 - India has suspended most categories of international flights into the country., - Hong Kong has restricted the entry of all travelers who are not Hong Kong passport holders, Permanent Identity Card holders, work or study visa holders, or British passport holders with “British Nationality (Overseas)” nationality with the right of abode in Hong Kong.India has suspended most flights into the country."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "IQ",
+      "name": "Iraq",
+      "score": 4.7,
+      "updated": "2020-06-29 07:22:07 - Iraq has closed its airports until at least July 1., - Iraq has suspended all flights except red cross, humanitarian, Medevac, repatriation, emergency and military flights until at least July 1."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "IR",
+      "name": "Iran",
+      "score": 4.6,
+      "updated": "2020-06-29 07:22:07 - Iran has restricted the entry of nationals of the United Arab Emirates., - Iran has restricted the entry of nationals of the United Arab Emirates.Nationals of China and Hong Kong and Macau passport holders are no longer visa-exempt. They can obtain a visa upon arrival.travelers entering iran must present a self-declaration form concerning . they will be subject to medical screening and quarantine upon arrival."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "IS",
+      "name": "Iceland",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Iceland has restricted the entry of all travelers who are not nationals of EEA countries, Switzerland, or the United Kingdom., - Iceland has restricted the entry of all travelers who are not nationals of EEA Member States, Switzerland, or the United Kingdom, or their families.as of june 15, all passengers arriving in iceland can choose to be tested for  (free of charge until june 30, and isk 15,000 per test thereafter) or self-isolate for 14 days upon arrival. children born in 2005 or later will be exempt from both testing and self-isolation."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "IT",
+      "name": "Italy",
+      "score": 3.6,
+      "updated": "2020-06-29 07:22:07 - Italy has reopened its borders to travelers arriving from the European Union/Schengen zone., - Italy has restricted the entry of all visitors who are traveling as tourists, and has suspended flights from China and Taiwan. However, while direct flights between China and Italy have been temporarily postponed, there are no specific restrictions for entry of anyone based solely on their nationality."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "JE",
+      "name": "Jersey",
+      "score": 0,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "JM",
+      "name": "Jamaica",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Jamaica has reopened its borders to international travelers., - Jamaica has reopened its borders to international travelers.Non-residents must have a travel authorization obtained before departure at <a href=-https://www.visitjamaica.com/- target=-_blank->https://www.visitjamaica.com/</a>jamaican residents must have a travel authorization obtained before departure at <a href=-https://jam19.moh.gov.jm/immigration.html- target=-_blank->https://jam19.moh.gov.jm/immigration.html</a>Mask wearing is obligatory in all public places."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "JO",
+      "name": "Jordan",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Jordan has restricted the entry of all travelers., - Jordan has restricted the entry of all travelers until at least July 4."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "JP",
+      "name": "Japan",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Japan has restricted the entry of travelers who have been in various countries around the world in the past 14 days., - Japan has restricted the entry of travelers who have been in or transited through Afghanistan, Albania, Andorra, Antigua and Barbuda, Argentina, Armenia, Australia, Austria, Azerbaijan, the Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Bolivia, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Bulgaria, Canada, Cape Verde, Chile, China, Colombia, Cote d’Ivoire, Croatia, Cyprus, Czechia, Democratic Republic of the Congo, Denmark, Djibouti, Dominica, the Dominican Republic, Ecuador, Egypt, El Salvador, Equatorial Guinea, Estonia, Finland, France, Gabon, Germany, Ghana, Greece, Guinea, Guinea-Bissau, Honduras, Hong Kong, Hungary, Iceland, India, Indonesia, Iran, Ireland, Israel, Italy, Kazakhstan, Kosovo, Kuwait, Kyrgyzstan, Latvia, Liechtenstein, Lithuania, Luxembourg, Macau, Malaysia, Maldives, Malta, Mauritius, Mexico, Moldova, Monaco, Montenegro, Morocco, the Netherlands, New Zealand, North Macedonia, Norway, Oman, Pakistan, Panama, Peru, the Philippines, Poland, Portugal, Qatar, Romania, Russia, San Marino, Sao Tome e Principe, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Africa, Spain, South Korea, St. Kitts and Nevis, Sweden, Switzerland, Taiwan, Tajikistan, Thailand, Turkey, Taiwan, Turkey, Ukraine, the United Arab Emirates, the United Kingdom, the United States, Uruguay, the Vatican City, or Vietnam in the past 14 days."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "KE",
+      "name": "Kenya",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Kenya has suspended all commercial flights into the country., - Kenya has suspended all international flights except for aircraft in a state of emergency, operations related to humanitarian aid, medevac, and repatriation flights. All approved flights must provide completed passengers declaration forms and manifests to Port Health, Immigration and customs. These restrictions are expected to continue until at least July 5."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "KG",
+      "name": "Kyrgyzstan",
+      "score": 2.6,
+      "updated": "2020-06-29 07:22:07 - Kyrgyzstan has restricted the entry of all non-Kyrgyzstan nationals including permanent residents, and temporarily suspended visa-free entry for travelers from most countries., - Kyrgyzstan has restricted the entry of all non-Kyrgyzstan nationals, and temporarily suspended visa-free entry for travelers from most countries."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "KH",
+      "name": "Cambodia",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Cambodia has suspended all visa exemptions, visas on arrival, and e-visas., - Cambodia has suspended all visa exemptions, visas on arrival, and e-visas.all arriving travelers will be required to undergo ( testing in a reception area and will be quarantined for at least 14 days. if one or more travelers from a flight test positive, all passengers from the flight will be placed in a 14-day quarantine at a designated facility. if all passengers on a flight test negative, they will be allowed to quarantine at their residence/accommodation and will be tested again on the 13th day of their quarantine."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "KI",
+      "name": "Kiribati",
+      "score": 2.5,
+      "updated": "2020-06-29 07:22:07 - Kiribati has closed its airports. - "
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "KM",
+      "name": "Comoros",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Comoros has suspended all flights into the country., - Comoros has suspended all flights into the country."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "KN",
+      "name": "Saint Kitts and Nevis",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Saint Kitts and Nevis has closed its airports., - Saint Kitts and Nevis has closed all of its airports."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "KP",
+      "name": "North Korea",
+      "score": 4.3,
+      "updated": "2020-06-29 07:22:07 - North Korea has restricted the entry of all travelers who are tourists. - "
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "KR",
+      "name": "South Korea",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - South Korea has restricted the entry of travelers arriving from China and Japan who meet certain criteria. - "
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "KW",
+      "name": "Kuwait",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Kuwait has restricted the entry of all travelers except Kuwaiti nationals, their immediate families, and domestic workers who are accompanied by a Kuwaiti national., - Kuwait has restricted the entry of all travelers except Kuwaiti nationals, their immediate families, and domestic workers who are accompanied by a Kuwaiti national. All of the above must have a OK TO TRAVEL authorization obtained from the state of Kuwait embassy."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "KY",
+      "name": "Cayman Islands",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - The Cayman Islands has suspended all international flights., - Bonaire has begun to relax its travel restrictions for travelers arriving from certain nearby territories.travelers eligible to enter bonaire must can present a negative  test and proof of health insurance that covers the traveler overseas.The Cayman Islands has suspended all international flights to Owen Roberts International (GCM) airport, with the exception of emergency and Medevac flights. They must obtain a prior approval from the Cayman Islands Civil Aviation Authority."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "KZ",
+      "name": "Kazakhstan",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Kazakhstan is restarting flights from China, Georgia, Japan, South Korea, Thailand and Turkey; however, only certain categories of people will be allowed to enter on these flights., - Kazakhstan has restricted the entry of most foreign nationals and suspended most flights except for state flights, ferry flights, sanitary flights, and technical landings for refueling purposes.travelers arriving on flights originating from other countries will have their temperature taken, be required to complete a questionnaire, and will need to provide proof (via pcr test and dated no more than five days before their arrival to kazakhstan) of their negative status for . those without test results will be held for up to two days in a quarantine facility in the city of their arrival and tested for ."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "LA",
+      "name": "Laos",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Laos' travel restrictions are still in effect until at least June 30, - Laos has suspended all flights until at least June 30."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "LB",
+      "name": "Lebanon",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - Lebanon will reopen its airports on July 1., - Lebanon is expecting to reopen its airports on July 1 with a limited capacity.Travelers arriving from countries with PCR testing capability will be required to take a PCR test within 96 hours prior to travel and take another test on arrival at a cost of $100 paid through the airline. They will be informed of the test results within 24 hours of arrival and if both tests are negative, no self-isolation will be required."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "LC",
+      "name": "Saint Lucia",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - St. Lucia has reopened its airports., - st. lucia has reopened its airports. all travelers and airline crew must have a medical certificate with a negative  test result issued within 48 hours of arrival, and will be subject to a 14-day quarantine."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "LI",
+      "name": "Liechtenstein",
+      "score": 2.8,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "LK",
+      "name": "Sri Lanka",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "LR",
+      "name": "Liberia",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Liberia has extended its travel restriction for commercial flights starting until at least June 27., - Liberia has extended its travel restriction for commercial flights starting until at least June 27."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "LS",
+      "name": "Lesotho",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Lesotho has restricted the entry of all visiting travelers., - Lesotho has restricted the entry of all travelers except for personnel involved in the transportation of medical supplies, food, and other goods."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "LT",
+      "name": "Lithuania",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 -  - Lithuania has begun to ease its travel restrictions. Although flights from outside of the European Economic Area are still suspended, travel restrictions have been lifted for travel from other countries in the EEA.as well as lithuanian nationals and residents, citizens and residents of countries in the european economic area, switzerland or the united kingdom may now enter lithuania if the rate of  incidence in their country of residence has not exceeded 25 cases/100,000 population in the last 14 calendar days. the list of such countries shall be published every monday by the state commander of national emergency operations.The current list allows entry to Lithuania for all EEA countries except Portugal, the UK and Sweden. Accordingly, from 15 to 21 June, Lithuania will prevent arrivals from Portugal, UK and Sweden. Foreigners arriving from Belgium will be required to stay in isolation for 14 days. Lithuanian citizens can return to the country from all the countries but those arriving from the above-mentioned countries will fall subject to 14-day isolation.There are no controls on passengers crossing a land border from other EU countries into Lithuania (from Latvia/Poland)."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "LU",
+      "name": "Luxembourg",
+      "score": 2.8,
+      "updated": "2020-06-29 07:22:07 - Luxembourg has limited the entry of all travelers who are not nationals of the EU, Schengen Area, Schengen Associated States, and the United Kingdom on their way home., - Luxembourg has limited the entry of travelers who are not Luxembourg nationals and their family members who are returning home."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "LV",
+      "name": "Latvia",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Latvia has restricted the entry of all travelers except for Latvian, Estonian, and Lithuanian nationals and permanent residents and travelers who are EEA nationals and traveling from within the EEA., - Latvia has restricted the entry of all travelers except for Latvian, Estonian, and Lithuanian nationals and permanent residents. Nationals and residents of Switzerland and EEA Member States may enter the country if they are traveling from within the EEA/Switzerland."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "LY",
+      "name": "Libya",
+      "score": 5,
+      "updated": "2020-06-29 07:22:07 - Libya has closed its borders., - Libya has closed its borders."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "MA",
+      "name": "Morocco",
+      "score": 3.1,
+      "updated": "2020-06-29 07:22:07 - Morocco has suspended all flights to and from China, Italy, Spain, Algeria, France, Portugal, Germany, Belgium, the Netherlands, Austria, Denmark, Greece, Switzerland, Sweden, Norway, Turkey, Lebanon, Egypt, Bahrain, the United Arab Emirates, Oman, Jordan, Tunisia, Senegal, Mauritania, Niger, Mali, Chad, Canada, and Brazil., - Morocco has suspended all flights to and from China, Italy, Spain, Algeria, France, Portugal, Germany, Belgium, the Netherlands, Austria, Denmark, Greece, Switzerland, Sweden, Norway, Turkey, Lebanon, Egypt, Bahrain, the United Arab Emirates, Oman, Jordan, Tunisia, Senegal, Mauritania, Niger, Mali, Chad, Canada, and Brazil."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "MC",
+      "name": "Monaco",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "MD",
+      "name": "Moldova",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Moldova has restricted the entry of all foreign nationals., - Moldova has restricted the entry of all travelers except for nationals and residents of Moldova.From June 30, other categories of people will be allowed to enter Moldova. These include:"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "ME",
+      "name": "Montenegro",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Montenegro has suspended all commercial flight; however as of June 1 it has opened its borders to travelers from a select group of countries meeting certain epidemiological criteria., - Montenegro has suspended all commercial flights and restricted the entry of travelers who are not nationals or residents of Montenegro; however as of June 1 it has opened its borders to travelers who are residents of a select group of countries meeting certain epidemiological criteria.european countries currently on the list (updated weekly) include albania, austria, bosnia and herzegovina, bulgaria, czech republic, denmark, estonia, finland, greece, croatia, ireland, iceland, cyprus, kosovo, latvia, lithuania, luxembourg, hungary, malta, monaco, germany, norway, slovakia, slovenia and switzerland. the full list is available <a href=-https://www.ijzcg.me/me/novosti/-popustanje-mjera-u-medunarodnom-saobracaju/->here (in montenegrin)</a>.As of June 18, special regulations exist for travelers arriving from Bosnia and Herzegovina - entry into Montenegro from Bosnia &amp; Herzegovina will now only be possible with a negative PCR test performed no more than 48 hours before entry. The test must be performed by an accredited laboratory in Bosnia and Herzegovina."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "MF",
+      "name": "Saint Martin",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "MG",
+      "name": "Madagascar",
+      "score": 3.1,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "MH",
+      "name": "Marshall Islands",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - The Marshall Islands has restricted the entry of all travelers. - "
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "MK",
+      "name": "Macedonia",
+      "score": 2.3,
+      "updated": "2020-06-29 07:22:07 - North Macedonia has suspended all commercial flights until further notice, and has restricted the entry of all travelers except for nationals and residents of North Macedonia., - North Macedonia has suspended all commercial flights until further notice, and has restricted the entry of all travelers except for nationals and residents of North Macedonia. Travelers who depart North Macedonia and try to re-enter within 3 months will be denied entry.On June 15, the government announced new allowances for foreign nationals transiting through North Macedonia to other countries. It is now possible to transit through North Macedonia if entering and exiting though Skopje Airport or one of the following border crossing points: Tabanovce (Serbia), Deve Bair (Bulgaria), Bogorodica (Greece), Kafasan (Albania), or Blace (Kosovo). Transit must be completed within a maximum of 5 hours, and travelers must not leave the designated highway or local road except to refuel. Travelers wishing to transit through North Macedonia must fill in a declaration form certified by border police on arrival and on departure. Anyone found breaking the conditions of transit may be referred to mandatory state quarantine."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "ML",
+      "name": "Mali",
+      "score": 4.7,
+      "updated": "2020-06-29 07:22:07 -  - mali has suspended all flights from countries with confirmed cases of  ()."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "MM",
+      "name": "Myanmar",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Myanmar has suspended all flights into the country until at least June 30., - Myanmar has suspended all incoming international flights until at least June 30, 2020, except for relief flights, medical evacuation flights, and flights approved by the Department of Civil Aviation."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "MN",
+      "name": "Mongolia",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07 - Mongolia has restricted the entry of all foreign nationals., - Mongolia has restricted entry to all travelers except for citizens or residents who are direct family members of a citizen. They will be subject to a 21-day quarantine at a designated facility upon arrival, followed by a 14-day period of self-isolation at home."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "MO",
+      "name": "Macao",
+      "score": 2.7,
+      "updated": "2020-06-29 07:22:07 - Macau has restricted the entry of all non-Macau residents from anywhere except Hong Kong, Taiwan, or mainland China., - Macau has restricted the entry of all non-Macau residents from anywhere except Hong Kong, Taiwan, or mainland China."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "MP",
+      "name": "Northern Mariana Islands",
+      "score": 0,
+      "updated": "2020-06-29 07:22:07 - The Northern Mariana Islands does not have entry restrictions, but travelers are subject to quarantine on arrival., - the northern mariana islands has not restricted entry to travelers, but travelers must complete a declaration form online e at <a href=-http://www.governor.gov.mp//travel->www.governor.gov.mp//travel</a> at least 3 days before arrival."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "MQ",
+      "name": "Martinique",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07 - Martinique does not have any entry restrictions, but all arriving travelers will be screened., - Martinique has not implemented any entry restrictions, but arriving travelers will be screened by the Regional Health Agency of Martinique. Safety protocols are posted and implemented in all marinas and small ports."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "MR",
+      "name": "Mauritania",
+      "score": 3.7,
+      "updated": "2020-06-29 07:22:07 - Mauritania has closed all its airports., - Mauritania has closed all its airports."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "MS",
+      "name": "Montserrat",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Montserrat has restricted the entry of all foreign nationals., - Montserrat has restricted the entry of all travelers who are not residents, spouses or dependents of residents, or airline crew.All intended arrivals must complete and submit an Access Declaration Form at least 72 hours prior to arrival. The form can be found on the Government of Montserrat website.All travelers must wear a mask or face covering on the aircraft and while being processed at the airport. Temperature checks will be conducted upon arrival, and all travelers arriving in Montserrat must self-quarantine for 14 days commencing on the date of arrival."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "MT",
+      "name": "Malta",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Flights to and from Malta will be restarting on July 1, - Malta has suspended all flights except for cargo, humanitarian and repatriation flights until at least June 15.Flights to and from some countries and territories are expected to resume on July 1. As of June 15, these countries include Austria, Croatia, Cyprus, the Czech Republic, Denmark, Estonia, Finland, France (except for Ile de France), Germany, Greece, Hungary, Iceland, Ireland, Italy (except for Emilia Romagna, Lombardy, and Piemonte), Latvia, Lithuania, Luxembourg, Norway, Poland (except for Katowice Airport), Slovakia, Spain (except for Madrid, Catalonia, Castilla -La Mancha, Castile and Leon), and Switzerland. This list is subject to review.Arriving travelers who meet the requirements for entry, including proof of residence in the departing country for at least 4 weeks, will not be required to enter self-isolation. Those not meeting the criteria will still be required to self-isolate for 14 days."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "MU",
+      "name": "Mauritius",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Mauritius has restricted the entry of all foreign nationals., - Mauritius has restricted the entry of all travelers except nationals and residents, plus their spouses and children."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "MV",
+      "name": "Maldives",
+      "score": 3.5,
+      "updated": "2020-06-29 07:22:07 - The Maldives has restricted the entry of all foreign nationals who have been in Bangladesh, China, Iran, Italy, Malaysia, Spain, Sri Lanka, the United Kingdom, or in North Gyeongsang and South Gyeongsang Provinces in South Korea, Ile-de-France and Grand Est (regions of France), and Bavaria, North Rhine Westphalia, and Baden-Wuerttemberg (regions of Germany) in the past 14 days., - The Maldives has restricted the entry of all travelers who are tourists or airline crew who have been in Bangladesh, China, Iran, Italy, Malaysia, Spain, Sri Lanka, the United Kingdom, or in North Gyeongsang and South Gyeongsang Provinces in South Korea, Ile-de-France and Grand Est (regions of France), and Bavaria, North Rhine Westphalia, and Baden-Wuerttemberg (regions of Germany) in the past 14 days. All visas on arrival are suspended."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "MW",
+      "name": "Malawi",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 -  - malawi has restricted the entry of all non-malawi nationals and residents arriving from countries with  () cases, and suspended issuing visas to citizens of those countries."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "MX",
+      "name": "Mexico",
+      "score": 3.6,
+      "updated": "2020-06-29 07:22:07 -  - Greenland has restricted the entry of all travelers who are not Danish citizens or returning residents.mexico has not implemented any entry restrictions, but travelers arriving from countries affected by  () will be screened, and those showing symptoms will be quarantined.The land border between Mexico and the US has been closed to non-essential traffic until at least July 21."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "MY",
+      "name": "Malaysia",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Malaysia has limited entry to Malaysian citizens, residents and their family members., - Malaysia has restricted entry to all travelers except for citizens, permanent residents with a MyPR card, diplomats, embassy employees, and spouses or children of Malaysian nationals, who must have a sticker label visa in the passport specifically indicating this status.Foreigners with valid visas or work permits who entered Malaysia BEFORE the MCO began on March 16 may enter Sarawak without quarantine, but must request advance permission from the Sarawak State Disaster Management Committee (SDMC). Foreigners with valid visas or work permits who entered Malaysia during the MCO will be subject to a mandatory 14-day quarantine in a government facility at their own expense, and must first request advance permission from SDMC."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "MZ",
+      "name": "Mozambique",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Mozambique has limited the entry of travelers across its borders., - Mozambique has suspended the issuing of entry visas."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "NA",
+      "name": "Namibia",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Namibia has closed its borders until further notice. Only Namibian nationals and permanent residents may enter the country., - Namibia has closed its borders until further notice. Only Namibian nationals and permanent residents may enter the country. Travelers are subject to a 14-day quarantine upon their arrival."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "NC",
+      "name": "New Caledonia",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "NE",
+      "name": "Niger",
+      "score": 4.1,
+      "updated": "2020-06-29 07:22:07 - Niger has suspended all international flights., - Niger has suspended all international flights to and from Niger."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "NF",
+      "name": "Norfolk Island",
+      "score": 0,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "NG",
+      "name": "Nigeria",
+      "score": 3.7,
+      "updated": "2020-06-29 07:22:07 - Nigeria has closed its airports., - Nigeria has closed its airports to all non-emergency and essential flights."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "NI",
+      "name": "Nicaragua",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07 - Nicaragua does not have any entry restrictions, but all arriving travelers will be screened and quarantined if necessary., - Nicaragua has not implemented any entry restrictions, but arriving travelers will be screened, and those showing symptoms will be quarantined."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "NL",
+      "name": "Netherlands",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - The Netherlands has begun to accept tourists arriving from countries in the EU/Schengen area., - The Netherlands has restricted the entry of travelers arriving flights from outside of the EU who are not nationals, residence permit holders, or long-stay visa holders of EEA Member States, Switzerland, or the United Kingdom, or their families until at least July 1, 2020.however, as of june 15, it is now possible for tourists to enter the netherlands from other countries in the eu where the health risks are similar to or lower than in the netherlands. visitors may not enter from sweden or the united kingdom. tourists must comply with all the measures and rules that apply to combat the spread of . tourists must also reserve their holiday accommodation before they travel to the netherlands. for the latest information, visit the faq on holiday travel to the netherlands: <a href=-https://www.netherlandsandyou.nl/documents/frequently-asked-questions/qa-holidays-to-the-netherlands->here<a>-."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "NO",
+      "name": "Norway",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Norway has restricted the entry of all foreign nationals except nationals of certain European countries who currently reside or work in Norway., - Norway has restricted the entry of all travelers who are not nationals or residents of Norway."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "NP",
+      "name": "Nepal",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - Nepal has suspended all international flights until at least July 5., - Nepal has suspended all international flights until at least July 5, 2020."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "NU",
+      "name": "Niue",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "NZ",
+      "name": "New Zealand",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - New Zealand has restricted the entry of all foreign nationals except for Australian nationals who reside in New Zealand., - Tarawa (TRW) is closed until at least April 30, 2020.The Marshall Islands has restricted all travelers from entering the country until at least May 5, 2020.New Zealand has restricted entry to all travelers who are not New Zealand nationals (Cook Islands, Niue, Tokelau), permanent residents, visa holders, and their immediate families.Airline crew must use appropriate personal protective equipment (PPE)."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "OM",
+      "name": "Oman",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Oman has restricted the entry of all foreign nationals., - Oman has restricted the entry of all travelers except for nationals of Oman."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "PA",
+      "name": "Panama",
+      "score": 2.8,
+      "updated": "2020-06-29 07:22:07 - Panama has suspended all flights into the country except for humanitarian flights., - Panama has suspended all flights into the country except humanitarian flights until at least July 22."
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "PE",
+      "name": "Peru",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - Peru has restricted the entry of all travelers., - Peru has restricted entry to all travelers until at least April 26, 2020. Airline crew members must self-isolate at Costa del Sol hotel at Jorge Chavez International Airport for the entire duration of their stay."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "PF",
+      "name": "French Polynesia",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - French Polynesia has restricted the entry of all non-residents., - French Polynesia has restricted the entry of all travelers who are not residents. All arriving travelers must have an International Travel Certificate to enter and transit French Polynesia, which must be obtained prior to departure via the French consular offices abroad or online at https://www.interieur.gouv.fr."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "PG",
+      "name": "Papua New Guinea",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Papua New Guinea has restricted the entry of all travelers except for health workers, flight crew, military personnel or those with a special written exemption from the Emergency Controller., - Palau has restricted entrance of travelers who have transited through or have been in China, Hong Kong, or Macau in the past 14 days.papua new guinea has restricted the entry of all travelers except for health workers, flight crew, military personnel or those with a special written exemption from the emergency controller. international visitors should apply for the exemption, including the reasons for visiting, by contacting: 19-admin.logistics@police.gov.pg. anyone arriving must have been tested for  within a 14-day period from their date of arrival to be permitted to board a flight. upon arrival, travelers must self-isolate in a government approved hotel for 14 days."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "PH",
+      "name": "Philippines",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - The Philippines has restricted the entry of all travelers who are not Philippines nationals and their spouses and children., - The Philippines has restricted the entry of all travelers who are not Philippines nationals and their spouses and children.all arriving travelers and airline crew must present a case investigation form upon arrival. they will be tested for  () and placed in quarantine while awaiting the results of the test."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "PK",
+      "name": "Pakistan",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07 - Pakistan is now accepting flights at all international airports except Gwadar and Turbat., - North Korea has restricted the entry of all travelers who are tourists, and travelers visiting for business reasons must spend 14 days in quarantine upon arrival.Pakistan has opened its airports to international flights, with the exceptions of Gwadar (GWD) and Turbat (TUK)."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "PL",
+      "name": "Poland",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Poland has resumed flights from countries in the EU; flights from outside the EU remain suspended until at least June 30., - Poland has resumed flights into the country from countries in the EU. All other flights remain suspended until at least June 30, except humanitarian and medical flights, flights to protect public order, emergency flights, flights at the order of the Prime Minister, and repatriation flights performed by foreign air carriers at the order of foreign states.Travelers arriving from the EU are no longer required to enter quarantine upon arrival."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "PM",
+      "name": "Saint Pierre and Miquelon",
+      "score": 0,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "PN",
+      "name": "Pitcairn",
+      "score": 0,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "PR",
+      "name": "Puerto Rico",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07 - Puerto Rico has not implemented any entry restrictions, but San Juan Bay is currently closed for cruise ship vessels., - Puerto Rico has not implemented any entry restrictions, but all incoming commercial flights are being diverted to San Juan Airport (SJU), and all arriving travelers must self-quarantine for 14 days upon arrival, regardless of symptoms."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "PS",
+      "name": "Palestinian Territory",
+      "score": 3.7,
+      "updated": "2020-06-29 07:22:07 - Palestine does not have entry restrictions, but has begun to quarantine all travelers arriving from abroad. - "
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "PT",
+      "name": "Portugal",
+      "score": 3.6,
+      "updated": "2020-06-29 07:22:07 - Portugal has extended border restrictions for non-essential travel until June 30, 2020., - Portugal has suspended all incoming international flights until at least June 30, except for flights bringing back Portuguese nationals and long-term residents with Portuguese residence permits.Portuguese nationals, holders of residency permits, and holders of other long-term visas issued by Portuguese authorities may enter the country.Most flights to Portugal have been suspended, with the exception of state flights, emergency flights, hospital/medevac flights, humanitarian/repatriation flights, United Nations flights, and flights arriving from Angola, Austria, Belgium, Brazil (Sao Paulo (GRU) and Rio De Janeiro (RIO) airports only), Bulgaria, Canada, Cape Verde, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Guinea-Bissau, Hungary, Iceland, Ireland, Latvia, Lithuania, Luxembourg, Malta, Mozambique, the Netherlands, Norway, Poland, Portugal, Romania, Sao Tome and Principe, Slovakia, Slovenia, South Africa, Sweden, Switzerland, the United States, the United Kingdom, and Venezuela."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "PW",
+      "name": "Palau",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Palau has restricted entrance of travelers who have transited through or have been in China, Hong Kong, or Macau in the past 14 days. - "
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "PY",
+      "name": "Paraguay",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Paraguay has restricted all flights into the country., - Paraguay has restricted all commercial flights into the country until further notice, with limited exceptions for government-approved repatriation flights."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "QA",
+      "name": "Qatar",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Qatar has restricted the entry of all foreign nationals., - Palestine has begun to quarantine all travelers arriving from abroad.Qatar has restricted the entry of all travelers except for nationals and permanent residents of Qatar."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "RE",
+      "name": "Reunion",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "RO",
+      "name": "Romania",
+      "score": 3.5,
+      "updated": "2020-06-29 07:22:07 - Romania has restricted the entry of all travelers who are not nationals of Romania, the EEA countries, Switzerland, or the United Kingdom., - Romania has restricted the entry of all travelers who are not nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, or the United Kingdom."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "RS",
+      "name": "Serbia",
+      "score": 3.8,
+      "updated": "2020-06-29 07:22:07 - Serbia has reopened its borders., - serbia has reopened its borders. incoming travelers will be provided on arrival with instructions on preventing the spread of . if you have booked, or are looking to book, flights between serbia and another country, you should be aware that changes and cancellations are possible as flights restart."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "RU",
+      "name": "Russia",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - Russia has limited the entry of foreign nationals., - Russia has restricted the entry of all travelers who are not Russian nationals, permanent residents, residents with residence permits, airline crew members, diplomats, and travelers whose visit concerns the death of a direct relative."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "RW",
+      "name": "Rwanda",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Rwanda has suspended all commercial flights., - The Republic of the Congo has closed all of its airports.Rwanda has suspended all commercial flights to and from Kigali International Airport (KGL), including Rwanda Airlines.The only flights allowed to enter are those transporting cargo, goods, and returning Rwandans and Rwandan permanent residents."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "SA",
+      "name": "Saudi Arabia",
+      "score": 3.1,
+      "updated": "2020-06-29 07:22:07 - Saudi Arabia has suspended all incoming flights., - Saudi Arabia has suspended all incoming flights."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "SB",
+      "name": "Solomon Islands",
+      "score": 3.5,
+      "updated": "2020-06-29 07:22:07 - The Solomon Islands has restricted the entry of all foreign nationals. - "
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "SC",
+      "name": "Seychelles",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Seychelles has lifted travel restrictions for travelers arriving from a select group of countries., - Seychelles has begun to ease its travel restrictions. As well as Seychelles nationals, travelers and airline crew arriving directly from Australia, Austria, Botswana, China, Croatia, Greece, Hungary, Israel, Japan, Luxembourg, Mauritius, Monaco, Namibia, New Zealand, Norway, Slovakia, Slovenia, Switzerland or Thailand may now enter the country.A completed application for entry into Seychelles must be submitted to the Public Health Commissioner before boarding. The form can be obtained at <a href=-http://tourism.gov.sc- target=-_blank->http://tourism.gov.sc</a> ."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "SD",
+      "name": "Sudan",
+      "score": 4.1,
+      "updated": "2020-06-29 07:22:07 - Sudan has suspended all flights except for humanitarian, medical and repatriation flights., - Sudan has suspended all flights except for humanitarian, medical and repatriation flights."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "SE",
+      "name": "Sweden",
+      "score": 3.5,
+      "updated": "2020-06-29 07:22:07 - Sweden has restricted the entry of all travelers who are not arriving from specific European countries. Swedish nationals may still enter the country., - Sweden has restricted the entry of all travelers who are not arriving from Austria, Belgium, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Switzerland or the United Kingdom until at least June 30."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "SG",
+      "name": "Singapore",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Singapore has restricted the entry of all foreign nationals except those with prior approval from the government., - Singapore has restricted entry and transit of all short-term visitors who are not residents of Singapore, Singapore Citizens and Permanent Residents, or Long-Term Pass Holders (including holders of Work Pass, Student’s Pass, Dependant’s Pass, and Long-Term Visit Pass).All travelers entering Singapore, including Singapore Citizens, Permanent Residents, and Long-Term Pass (LTP) holders must submit a health declaration via the SG Arrival Card (SGAC) e-Service, at https://eservices.ica.gov.sg/sgarrivalcard, or the mobile app."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "SH",
+      "name": "Saint Helena",
+      "score": 0,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "SI",
+      "name": "Slovenia",
+      "score": 2.8,
+      "updated": "2020-06-29 07:22:07 -  - slovenia has reopened its borders to people arriving from certain european countries that it considers to have a low incidence rate of . foreign nationals who are not slovenian residents are still restricted from traveling from countries not on the approved list to slovenia, except in cases where travel is considered -essential- - for example goods transporters or diplomats.Currently, the countries from which travel to Slovenia is unrestricted are:Austria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Montenegro, Norway, Slovakia, Spain, or Switzerland.In general, persons entering Slovenia from abroad are subject to a 14-day quarantine. Per the Slovenian government’s 8 June announcement, travelers arriving from one of the countries on Slovenia’s list of epidemiologically-approved countries are not subject to a 14 day quarantine. In addition, residents of Slovenia are exempt from the quarantine if coming from anywhere in the EU. Same-day transit without quarantine is permitted."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "SJ",
+      "name": "Svalbard and Jan Mayen",
+      "score": 0,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "SK",
+      "name": "Slovakia",
+      "score": 2.8,
+      "updated": "2020-06-29 07:22:07 - Slovakia has opened its borders to travelers from many European countries., - Slovakia is beginning to relax its travel restrictions. Although its international airports remain closed, travelers from many European countries may now enter the country (nearby airports in Vienna, Budapest and Prague remain open).in addition to slovakian nationals and residents, as of june 20, travelers arriving from the following countries may enter slovakia, without needing a  test or quarantine: austria, bulgaria, croatia, cyprus, czech republic, denmark, estonia, the faroe islands, finland, germany, greece, hungary, iceland, lichtenstein, lithuania, latvia, malta, monaco, montenegro, norway, poland, slovenia, and switzerland.those entering slovakia from countries other than those previously mentioned must present negative  tests not older than 96 hours upon arrival to the slovak border police or the nearest regional office of public health and stay in home isolation for minimum 5 days until the new  test is taken."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "SL",
+      "name": "Sierra Leone",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 -  - Sierra Leone is requiring all travelers who have transited through or been in any country with more than 50 confirmed cases in the past 14 days to enter facility quarantine for up to 14 days."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "SM",
+      "name": "San Marino",
+      "score": 4.5,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "SN",
+      "name": "Senegal",
+      "score": 3.5,
+      "updated": "2020-06-29 07:22:07 - Senegal has suspended all commercial flights into the country., - Senegal has suspended all flights into the country until at least May 31, 2020."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "SO",
+      "name": "Somalia",
+      "score": 5,
+      "updated": "2020-06-29 07:22:07 - Somalia has suspended all commercial flights., - Somalia has suspended all flights except for medical and humanitarian flights with pre-authorization."
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "SR",
+      "name": "Suriname",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Suriname has closed its borders., - Suriname has closed its borders."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "SS",
+      "name": "South Sudan",
+      "score": 5,
+      "updated": "2020-06-29 07:22:07 - South Sudan has re-opened its borders; however, the South Sudanese government has suspended the issue of visas at its Embassies abroad, and all routine international commercial flights are suspended., - South Sudan has re-opened its borders; however, the South Sudanese government has suspended the issue of visas at its Embassies abroad, and all routine international commercial flights have been suspended since March 24."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "ST",
+      "name": "Sao Tome and Principe",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Sao Tome and Principe has restricted the entry of all foreign nationals. - "
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "SV",
+      "name": "El Salvador",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - El Salvador has restricted the entry of all foreign nationals., - El Salvador's airports are closed to all but humanitarian aid flights until at least August 6. - Sint Maarten has restricted the entry of all travelers except those arriving from Anguilla, Antigua and Barbuda, Aruba, British Virgin Islands, Dominica, Guadeloupe, Martinique, Saba, Sint Eustatius, St. Barthelemy, St. Kitts and Nevis, and St. Lucia. - "
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "SY",
+      "name": "Syria",
+      "score": 5,
+      "updated": "2020-06-29 07:22:07 - Syria has suspended all flights., - Syria has suspended all flights from March 22, 2020."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "SZ",
+      "name": "Swaziland",
+      "score": 2.3,
+      "updated": "2020-06-29 07:22:07 - Swaziland has restricted the entry of all foreign nationals., - Swaziland has restricted the entry of all travelers who are not returning citizens or legal residents."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "TC",
+      "name": "Turks and Caicos Islands",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Turks and Caicos has closed its airports., - Turks and Caicos has closed its airports."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "TD",
+      "name": "Chad",
+      "score": 3.7,
+      "updated": "2020-06-29 07:22:07 - Chad has suspended all flights until at least June 15., - Chad has suspended all flights until at least June 15."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "TG",
+      "name": "Togo",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Togo has closed its borders., - Togo has closed its borders."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "TH",
+      "name": "Thailand",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Thailand has suspended all flights into the country., - Thailand has suspended all flights into the country and restricted the entry of all foreign nationals except those with a work permit until at least June 30."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "TJ",
+      "name": "Tajikistan",
+      "score": 3.5,
+      "updated": "2020-06-29 07:22:07 - Tajikistan has suspended all flights., - South Korea has restricted the entry of all travelers who have been in the Hubei Province of China in the past 14 days. Chinese nationals with passports issued in the Hubei Province are also not allowed to enter the country. Korean visas issued by the Wuhan Consulate in the Hubei Province are invalidated. Nationals of China and travelers arriving from China must have visas to transit through South Korea.Travelers arriving from China with a diplomatic, consular, official, service or special passport or who are nationals of Albania, Andorra, Barbados, Dominica, Guyana, Ireland, South Korea, Malta, Mexico, Monaco, Nicaragua, Palau, San Marino, Slovenia, St. Kitts and Nevis, St. Vincent and the Grenadines, the United States, the United Kingdom, the Vatican City and Venezuela may still transit through South Korea without a visa.Short-term visas (type C-1 and C-3) issued on or before April 5 are invalidated. Visa exemptions for 90 nationalities with normal passport are temporarily suspended, except for airline crew.or passengers with an APEC Business Travel Card.Nationals of Mongolia, Russia and Thailand are restricted from transiting through South Korea on their way to or from those countries.chinese nationals who are traveling on business under the fast lane program and their family members are exempt from the quarantine requirements; however, they must self-monitor their health conditions for at least 14 days before departure and must hold a medical certification of a negative  testing result issued within 72 hours before departure. they will receive an additional test upon arrival, after which they must stay at a designated quarantine facility for up to 1-2 days until receiving the result. once receiving a negative test result, they will be allowed to end their quarantine.taiwan has restricted entry of all travelers who are not republic of china taiwan passport holders, alien resident certificate holders, “special entry permit for  outbreak” visa holders, or diplomats.Tajikistan has suspended all flights."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "TL",
+      "name": "East Timor",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Timor-Leste has restricted the entry of all travelers except for nationals and residents of Timor-Leste., - Timor-Leste has restricted the entry of all travelers except for nationals and residents of Timor-Leste, passengers born in Timor-Leste, legal representatives of Timorese minors; and oil rig workers. All travelers arriving in the country are subject to isolation for 14 days."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "TM",
+      "name": "Turkmenistan",
+      "score": 3.6,
+      "updated": "2020-06-29 07:22:07 - Turkmenistan has suspended all flights into the country. - "
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "TN",
+      "name": "Tunisia",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Tunisia has suspended all flights into the country., - Tunisia has suspended all flights into the country until at least June 27."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "TO",
+      "name": "Tonga",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Tonga has restricted the entry of all foreign nationals arriving from or transiting through China, Taiwan, Hong Kong, or Macau. - "
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "TR",
+      "name": "Turkey",
+      "score": 3.6,
+      "updated": "2020-06-29 07:22:07 -  - turkey has now lifted its  travel restrictions.All travelers are required to wear a face mask at all times whilst in an airport, and for the duration of all flights to and from Turkey."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "TT",
+      "name": "Trinidad and Tobago",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Trinidad and Tobago has closed its airports. Flights are currently expected to resume starting from July 1., - Trinidad and Tobago has closed its airports. Flights are currently expected to resume starting from July 1."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "TV",
+      "name": "Tuvalu",
+      "score": 2.5,
+      "updated": "2020-06-29 07:22:07 - Tuvalu has closed its borders. - "
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "TW",
+      "name": "Taiwan",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Taiwan has restricted the entry of all foreign nationals. - "
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "TZ",
+      "name": "Tanzania",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Tanzania has not implemented any entry restrictions, but all arriving travelers are subject to medical screening upon arrival., - Sao Tome and Principe has restricted the entry of all travelers who are not citizens and residents of Sao Tome and Principe.Tanzania has not implemented any entry restrictions, but all arriving travelers are subject to medical screening upon arrival."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "UA",
+      "name": "Ukraine",
+      "score": 3.5,
+      "updated": "2020-06-29 07:22:07 - Ukraine has lifted its entry ban for foreign nationals., - the ukrainian government has lifted the entry ban for foreigners. foreign nationals will be allowed to enter ukraine if they can demonstrate that they have medical insurance covering all expenses related to  treatment while on the territory of ukraine."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "UG",
+      "name": "Uganda",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - Uganda has suspended all flights., - Uganda has suspended all flights."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "US",
+      "name": "United States",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - The United States has restricted the entry of all foreign nationals who have visited China, Iran, the Schengen Area, Ireland, or the United Kingdom in the past 14 days., - The United States has restricted the entry of all foreign nationals who have passed through or have been in Austria, Brazil, Belgium, China, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Iran, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, or the United Kingdom (excluding overseas territories outside of Europe), in the past 14 days.Travelers who are allowed to enter the United States but have passed through or have been in any of the countries named above must quarantine for 14 days once they reach their final destination."
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "UY",
+      "name": "Uruguay",
+      "score": 3.4,
+      "updated": "2020-06-29 07:22:07 - Uruguay has suspended all flights into the country., - All flights to Uruguay except for humanitarian flights and government-authorized repatriation flights are suspended until further notice."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "UZ",
+      "name": "Uzbekistan",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - Uzbekistan has resumed international flights for certain categories of travelers from countries deemed to have a stable epidemiological situation., - Turkmenistan has suspended all flights into the country until at least June 20, 2020.Uzbekistan has resumed international flights for certain categories of travelers from countries deemed to have a stable epidemiological situation. The complete list of countries includes the EU, Japan, South Korea, China, Israel, Malaysia, Thailand, Singapore, the United Arab Emirates, Turkey, Iran, Afghanistan, Russia and CIS countries (Armenia, Azerbaijan, Belarus, Kazakhstan, Kyrgyzstan, Moldova, Russia, and Tajikistan).Travelers who have spent at least 14 days before travel in the countries listed above may enter/exit Uzbekistan if they are:Quarantine rules apply differently depending on which country the traveler is arriving from:Japan, South Korea, China and Israel: No quarantine required.All travelers entering Uzbekistan must wear masks in public at all times."
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "VA",
+      "name": "Vatican",
+      "score": 5,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "score": 2.5,
+      "updated": "2020-06-29 07:22:07 -  - saint vincent and the grenadines have lifted all travel restrictions related to ."
+    },
+    {
+      "continent": "SA",
+      "iso_alpha2": "VE",
+      "name": "Venezuela",
+      "score": 4.4,
+      "updated": "2020-06-29 07:22:07 - Venezuela has suspended all international travel., - Venezuela has suspended all international travel."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "VG",
+      "name": "British Virgin Islands",
+      "score": 3,
+      "updated": "2020-06-29 07:22:07 - The British Virgin Islands has restricted the entry of all non-residents., - The British Virgin Islands has restricted the entry of all non-residents."
+    },
+    {
+      "continent": "NA",
+      "iso_alpha2": "VI",
+      "name": "U.S. Virgin Islands",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07 - The US Virgin Islands has reopened its borders., - The US Virgin Islands has reopened its borders."
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "VN",
+      "name": "Vietnam",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Vietnam has restricted the entry of all foreign nationals., - vietnam has restricted all entry to travelers except for citizens, diplomats, and highly skilled workers, experts, business managers, and others who were approved by the national steering committee on  prevention and control. those traveling for official purposes will be subject to medical examination at the border before entering vietnam."
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "VU",
+      "name": "Vanuatu",
+      "score": 3.3,
+      "updated": "2020-06-29 07:22:07 - Vanuatu has closed all ports of entry. - "
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "WF",
+      "name": "Wallis and Futuna",
+      "score": 0,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "OC",
+      "iso_alpha2": "WS",
+      "name": "Samoa",
+      "score": 3.5,
+      "updated": "2020-06-29 07:22:07 - Samoa has restricted entry of travelers who have been in Australia, Austria, Bahrain, Belgium, Canada, China, Taiwan, Czechia, Denmark, France, Germany, Greece, Hong Kong, Iceland, Italy, Iran, Japan, South Korea, Kuwait, Luxembourg, Macau, Malaysia, the Netherlands, Norway, Qatar, Singapore, Spain, Sweden, Switzerland, Thailand, the United Arab Emirates, or the United States. - "
+    },
+    {
+      "continent": "EU",
+      "iso_alpha2": "XK",
+      "name": "Kosovo",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "AS",
+      "iso_alpha2": "YE",
+      "name": "Yemen",
+      "score": 5,
+      "updated": "2020-06-29 07:22:07 - Yemen has suspended all international flights., - Yemen has suspended all flights to and from Sanaa International Airport"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "YT",
+      "name": "Mayotte",
+      "score": 4,
+      "updated": "2020-06-29 07:22:07"
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "ZA",
+      "name": "South Africa",
+      "score": 3.6,
+      "updated": "2020-06-29 07:22:07 - South Africa has suspended all commercial flights into the country., - South Africa has suspended all flights into the country except for flights authorized by the Ministry of Transport and flights for medical evacuations, humanitarian aid, emergency landings or refueling stops."
+    },
+    {
+      "continent": "AF",
+      "iso_alpha2": "ZM",
+      "name": "Zambia",
+      "score": 3.2,
+      "updated": "2020-06-29 07:22:07 - Zambia has closed all airports except for Kenneth Kaunda International Lusaka Airport (LUN)., - Zambia has closed all airports except for Kenneth Kaunda International Lusaka Airport (LUN). All travelers and crew are subject to a 14-day quarantine."
+    },
+    {
+    "continent": "AF",
+    "iso_alpha2": "ZW",
+    "name": "Zimbabwe",
+    "score": 3.3,
+    "updated": "2020-06-29 07:22:07 - Zimbabwe has restricted the entry of all travelers except for Zimbabwean nationals and residents., - Zimbabwe has restricted the entry of all travelers except for Zimbabwean nationals and residents. All airports except for BUQ, HRE and VFA have been closed."
+    }
+  ]
 }
