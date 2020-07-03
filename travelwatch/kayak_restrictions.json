@@ -44,7 +44,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ai.svg?v=78733f4a03bcc851a16c0f577a35631669721130&amp;cluster=4",
         "iso_alpha2": "ai",
         "report1": "Anguilla has closed its airports.",
-        "report2": "Samoa has restricted entry of travelers who have transited through or have been in Australia, Austria, Bahrain, Belgium, Canada, China, Taiwan, Czechia, Denmark, France, Germany, Greece, Hong Kong, Iceland, Italy, Iran, Japan, South Korea, Kuwait, Luxembourg, Macau, Malaysia, the Netherlands, Norway, Qatar, Singapore, Spain, Sweden, Switzerland, Thailand, the United Arab Emirates, or the United States.The Solomon Islands has restricted entry of all travelers who are not residents and nationals of the Solomon Islands, or travelers with prior written authorization issued by the Prime Minister.Tonga has restricted entry of travelers and airline crew arriving from or transiting through China, Taiwan, Hong Kong, or Macau.Tuvalu has closed its borders.Vanuatu has closed all ports of entry.Anguilla has closed all of its airports until at least June 30. Travelers who traveled outside the Caribbean region within the last 14 days must be quarantined for 14 days upon their arrival."
+        "report2": "Samoa has restricted entry of travelers who have transited through or have been in Australia, Austria, Bahrain, Belgium, Canada, China, Taiwan, Czechia, Denmark, France, Germany, Greece, Hong Kong, Iceland, Italy, Iran, Japan, South Korea, Kuwait, Luxembourg, Macau, Malaysia, the Netherlands, Norway, Qatar, Singapore, Spain, Sweden, Switzerland, Thailand, the United Arab Emirates, or the United States.The Solomon Islands has restricted entry of all travelers who are not residents and nationals of the Solomon Islands, or travelers with prior written authorization issued by the Prime Minister.Tonga has restricted entry of travelers and airline crew arriving from or transiting through China, Taiwan, Hong Kong, or Macau.Tuvalu has closed its borders.Vanuatu has closed all ports of entry.Anguilla has closed all of its airports until at least July 14."
     },
     {
         "country": "Antigua And Barbuda",
@@ -60,7 +60,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ar.svg?v=212734ce6562b218f9258c5126b79ebb66004746&amp;cluster=4",
         "iso_alpha2": "ar",
         "report1": "Argentina has restricted the entry of all foreign nationals.",
-        "report2": "Argentina has restricted entry to all travelers except for citizens and residents until at least June 28, 2020."
+        "report2": "Argentina has restricted entry to all travelers except for citizens and residents until at least July 17, 2020."
     },
     {
         "country": "Armenia",
@@ -98,7 +98,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/az.svg?v=adae617035abcbf836c5ac1386dec2052f38a40b&amp;cluster=4",
         "iso_alpha2": "az",
         "report1": "Azerbaijan has restricted the entry of all foreign nationals.",
-        "report2": "Azerbaijan has restricted entry to all travelers until at least August 1, except for citizens, residents, travelers with a work permit, or travelers with special permission from the government."
+        "report2": "Azerbaijan has restricted entry to all travelers until at least August 1, except for citizens, residents, travelers with a work permit, or travelers with special permission from the government. Issuance of e-visas and visa on arrival has been suspended."
     },
     {
         "country": "Bahrain",
@@ -122,7 +122,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/bb.svg?v=257a41538371afbaa34fdef9dd25a728135db81d&amp;cluster=4",
         "iso_alpha2": "bb",
         "report1": "Barbados does not have any entry restrictions, but all arriving travelers and airline crew must self-isolate for 14 days.",
-        "report2": "As of June 15th Aruba has opened its borders to travelers from Bonaire and Curacao.Barbados will quarantine all arriving travelers and airline crew for 14 days at a government administered facility."
+        "report2": "As of June 15th Aruba has opened its borders to travelers from Bonaire and Curacao.Barbados has reopened its borders."
     },
     {
         "country": "Belarus",
@@ -146,7 +146,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/bz.svg?v=9b5ecd219f2e9b0110c836440b4c598aba6066a7&amp;cluster=4",
         "iso_alpha2": "bz",
         "report1": "All airports in Belize are closed.",
-        "report2": "Belize has closed its airports and restricted the entry of all travelers who are not nationals or residents of Belize."
+        "report2": "Belize has closed its airports until at least August 14, and restricted the entry of all travelers who are not nationals or residents of Belize."
     },
     {
         "country": "Benin",
@@ -161,7 +161,7 @@
         "countrygroup": "North America",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/bm.svg?v=c545147f069b9218eb0cdc8a14ae6b1d2cc87489&amp;cluster=4",
         "iso_alpha2": "bm",
-        "report1": "Bermuda will lift its travel ban from July 1, meaning all travelers may enter the territory.",
+        "report1": "Bermuda has lifted its travel restrictions as of July 1, meaning all travelers may enter the territory.",
         "report2": "Bermuda has lifted its previous travel ban, meaning all travelers may enter the territory starting from July 1.after a negative test result, travelers must take their own temperature twice per day and report via an online application/portal. they must also take additional  tests, administered on day 3, day 7 and day 14 at easily accessible pop-up testing centers around the island.Special provisions apply to crew. Visitors and crew may depart Bermuda based on their travel itinerary if shorter than 14 days if they remain asymptomatic."
     },
     {
@@ -280,7 +280,7 @@
         "countrygroup": "Caribbean",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/bq.svg?v=7eba228b2af6aa0ad217b1e5a189697dd5f06ae4&amp;cluster=4",
         "iso_alpha2": "bq",
-        "report1": "Bonaire has begun to relax its travel restrictions for travelers arriving from Aruba and Curaçao."
+        "report1": "Bonaire and Saba have begun to relax its travel restrictions for travelers arriving from Aruba, Curaçao, and Europe."
     },
     {
         "country": "Cayman Islands",
@@ -288,7 +288,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ky.svg?v=1fe3b549d04c5a272765ee9d32e4e76d45465cff&amp;cluster=4",
         "iso_alpha2": "ky",
         "report1": "The Cayman Islands has suspended all international flights.",
-        "report2": "Bonaire has begun to relax its travel restrictions for travelers arriving from certain nearby territories.travelers eligible to enter bonaire must can present a negative  test and proof of health insurance that covers the traveler overseas.The Cayman Islands has suspended all international flights to Owen Roberts International (GCM) airport, with the exception of emergency and Medevac flights. They must obtain a prior approval from the Cayman Islands Civil Aviation Authority."
+        "report2": "Bonaire has begun to relax its travel restrictions for travelers arriving from certain countries.The Cayman Islands has suspended all international flights to Owen Roberts International (GCM) airport, with the exception of emergency and Medevac flights. They must obtain a prior approval from the Cayman Islands Civil Aviation Authority."
     },
     {
         "country": "Central African Republic",
@@ -312,7 +312,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/cl.svg?v=f159bf4dfefd8973b0b30ff27b9de5b158ea4455&amp;cluster=4",
         "iso_alpha2": "cl",
         "report1": "Chile has restricted the entry of all foreign nationals.",
-        "report2": "Chile has restricted entry to all travelers except for citizens, residents, diplomats, humanitarian aid workers, travelers with an official ID from the Ministry of Foreign Affairs of Chile, or travelers with safe conduct until at least June 25, 2020."
+        "report2": "Chile has restricted entry to all travelers except for citizens, residents, diplomats, humanitarian aid workers, travelers with an official ID from the Ministry of Foreign Affairs of Chile, or travelers with safe conduct until at least July 2, 2020."
     },
     {
         "country": "China",
@@ -351,7 +351,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/cr.svg?v=9acc55eb77e479ac7e03509d6425e9d05ec2cee9&amp;cluster=4",
         "iso_alpha2": "cr",
         "report1": "Costa Rica has restricted the entry of all foreign nationals.",
-        "report2": "Costa Rica has restricted the entry of all travelers until at least June 30 who are not nationals and residents of Costa Rica.All of the above travelers must self-isolate for a period of 14 days upon arrival."
+        "report2": "Costa Rica has restricted the entry of all travelers until at least July 30 who are not nationals and residents of Costa Rica.All of the above travelers must self-isolate for a period of 14 days upon arrival."
     },
     {
         "country": "Croatia",
@@ -402,8 +402,8 @@
         "countrygroup": "Europe",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/dk.svg?v=ab822eddc89b8aa116a87d17772f74b0871838fe&amp;cluster=4",
         "iso_alpha2": "dk",
-        "report1": "Danish borders are closed except to Danish nationals and residents, and permanent residents of Germany, Norway, and Iceland.",
-        "report2": "Denmark has restricted the entry of all travelers who are not Danish nationals and long-term residents with Danish residence permits. Danish borders are closed until at least August 31."
+        "report1": "Denmark has reopened its borders to travelers arriving from most most European countries; restrictions remain in place for travelers from outside the EU/Schengen area and UK.",
+        "report2": "denmark has updated its travel restrictions as of june 27. danish nationals and residents may still return to denmark from anywhere. for travelers who are not residents or nationals, entry regulations depend on whether they are arriving from an ‘open’ country or a ‘restricted’ country, or if they have a ‘worthy purpose’ to enter. a country’s status can change dependent on its infection rate for . the status is updated weekly on thursdays and can be found <a href=-https://politi.dk/en/-in-denmark/travelling-in-or-out-of-denmark/is-my-country-open-or-closed->here</a>.Travelers arriving from 'open' countries can enter Denmark without having to go into a two-week quarantine. If tourism is the reason for the visit, travelers need documentation showing they are staying at least six nights. This could be a stay in a rented summerhouse, at a campsite, at a hotel or at a private home.travelers with a ‘worthy purpose’ may also travel to denmark without having to go into a two-week quarantine. proof will be required to demonstrate a ‘worthy purpose’ to enter. examples of 'worthy purposes' include work or study in denmark, transporting goods, and various family-related reasons, for example visiting a family member or partner who is a danish resident. the full list of 'worthy purposes' can be found <a href=-https://politi.dk/en/-in-denmark/travelling-in-or-out-of-denmark/persons-resident-in-banned-countries->here</a>. travelers with a 'worthy purpose' are not required to document a stay of at least six nights."
     },
     {
         "country": "Djibouti",
@@ -450,8 +450,8 @@
         "countrygroup": "Africa",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/eg.svg?v=1d2e834e4e7068044fb288207ce2871c9393030d&amp;cluster=4",
         "iso_alpha2": "eg",
-        "report1": "Egypt has suspended all commercial flights into the country.",
-        "report2": "Egypt has suspended all international flights until at least June 30, except humanitarian, repatriation, medevac, and United Nations flights with a pre-authorization from the Egyptian Civil Aviation Authority."
+        "report1": "Egypt has resumed commercial flights into the country.",
+        "report2": "Egypt has reopened its airports to international travelers."
     },
     {
         "country": "El Salvador",
@@ -561,7 +561,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ga.svg?v=0ce8a5a065f50e721958265c2ab65fe049bf220c&amp;cluster=4",
         "iso_alpha2": "ga",
         "report1": "Gabon has suspended all international flights.",
-        "report2": "Gabon has suspended all international flights."
+        "report2": "Gabon has suspended all international flights until at least September 19."
     },
     {
         "country": "Gambia",
@@ -593,15 +593,15 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/gh.svg?v=ddd6221d12edb1ccff5911bee5233b24877637e3&amp;cluster=4",
         "iso_alpha2": "gh",
         "report1": "Ghana has suspended all commercial flights into the country.",
-        "report2": "Ghana has suspended incoming commercial flights and closed its borders until at least May 31, 2020."
+        "report2": "Ghana has suspended incoming commercial flights and closed its borders until at least July 31, 2020."
     },
     {
         "country": "Gibraltar",
         "countrygroup": "Europe",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/gi.svg?v=5ed770eb28c4b2086beaf9cac4156ab32846be35&amp;cluster=4",
         "iso_alpha2": "gi",
-        "report1": "Gibraltar has restricted the entry of all travelers except individuals who are registered Gibraltarians, residents., or Spanish nationals and residents in transit to Spain.",
-        "report2": "Gibraltar has restricted the entry of all travelers except individuals who are registered Gibraltarians, either by birth or naturalisation."
+        "report1": "The Government of Gibraltar has lifted its travel restrictions. All incoming travellers with valid travel documents will be allowed entry into Gibraltar via the Gibraltar International Airport.",
+        "report2": "The Government of Gibraltar has lifted its travel restrictions. All incoming travellers with valid travel documents will be allowed entry into Gibraltar via the Gibraltar International Airport."
     },
     {
         "country": "Greece",
@@ -609,7 +609,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/gr.svg?v=119881670c8d27ea9252ff1fddc8047246aa44bf&amp;cluster=4",
         "iso_alpha2": "gr",
         "report1": "Greece has resumed flights from many European countries.",
-        "report2": "Greece has restricted the entry of all travelers with the exception of nationals, residence permit holders, or long-term visa holders of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, or the United Kingdom, or their families.From June 15 onward, mandatory testing and self-isolation/quarantine will remain in place for anyone arriving into Greece from airports listed by the European Aviation Safety Agency (EASA). Travelers arriving from other locations may be exempted from these requirements."
+        "report2": "Greece has restricted the entry of all travelers with the exception of nationals, residence permit holders, or long-term visa holders of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, or the United Kingdom, or their families.From June 15 onward, mandatory testing and self-isolation/quarantine will remain in place for anyone arriving into Greece from airports listed by the European Aviation Safety Agency (EASA). Travelers arriving from other locations may be exempted from these requirements. All travelers must complete a -Passenger Locator Form (PLF)- 48 hours before check-in at <a href=-https://travel.gov.gr/#/->https://travel.gov.gr/#/</a>. A QR code generated from the completed form must be presented upon arrival.North Macedonian nationals may enter Greece via Thessaloniki (SKG) and continue on by road to North Macedonia. Their trip must be pre-approved by an official body like the Greek Ministry of Foreign Affairs or North Macedonian embassy."
     },
     {
         "country": "Greenland",
@@ -678,8 +678,8 @@
         "countrygroup": "Caribbean",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ht.svg?v=e21cb49c7261e4dec81b1750547e85b0320799cc&amp;cluster=4",
         "iso_alpha2": "ht",
-        "report1": "Haiti has suspended all international flights into the country.",
-        "report2": "Haiti has suspended all international flights to Port Au Prince International airport and Tocap Haitian International airport, with the exception of emergency, humanitarian, medevac and government flights."
+        "report1": "Haiti has resumed international flights.",
+        "report2": "Haiti has lifted its travel restrictions. All travelers are subject to medical screening and must present a completed Health Declaration Form on arrival."
     },
     {
         "country": "Honduras",
@@ -718,7 +718,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/in.svg?v=9061232a9e445ff4374f468cfbce1aadf6805d7a&amp;cluster=4",
         "iso_alpha2": "in",
         "report1": "India has suspended most categories of international flights into the country.",
-        "report2": "Hong Kong has restricted the entry of all travelers who are not Hong Kong passport holders, Permanent Identity Card holders, work or study visa holders, or British passport holders with “British Nationality (Overseas)” nationality with the right of abode in Hong Kong.India has suspended most flights into the country."
+        "report2": "Hong Kong has restricted the entry of all travelers who are not Hong Kong passport holders, Permanent Identity Card holders, work or study visa holders, or British passport holders with “British Nationality (Overseas)” nationality with the right of abode in Hong Kong.India has suspended most flights into the country until at least July 15."
     },
     {
         "country": "Indonesia",
@@ -758,7 +758,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/il.svg?v=bfe617db9350f67f9dc12b9abd827ae16ad5ef8f&amp;cluster=4",
         "iso_alpha2": "il",
         "report1": "Israel has restricted the entry of all foreign nationals.",
-        "report2": "Israel has restricted the entry of all travelers who are not nationals or residents of Israel."
+        "report2": "Israel has restricted the entry of all travelers who are not nationals or residents of Israel. Foreign nationals may not transit in Israel."
     },
     {
         "country": "Italy",
@@ -773,8 +773,8 @@
         "countrygroup": "Africa",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ci.svg?v=53439963022798646f0180475efe7a9b484a44b8&amp;cluster=4",
         "iso_alpha2": "ci",
-        "report1": "Cote d'Ivoire has closed its borders.",
-        "report2": "Cote d’Ivoire has closed its borders."
+        "report1": "Cote d’Ivoire has resumed flights in a limited capacity. Only Cote d'Ivoire nationals and residents may enter the country.",
+        "report2": "Cote d’Ivoire has resumed flights in a limited capacity. Only Cote d'Ivoire nationals and residents may enter the country."
     },
     {
         "country": "Jamaica",
@@ -790,7 +790,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/jp.svg?v=e64b97e7afa0ac14e18bdd1e56e342472db9a72a&amp;cluster=4",
         "iso_alpha2": "jp",
         "report1": "Japan has restricted the entry of travelers who have been in various countries around the world in the past 14 days.",
-        "report2": "Japan has restricted the entry of travelers who have been in or transited through Afghanistan, Albania, Andorra, Antigua and Barbuda, Argentina, Armenia, Australia, Austria, Azerbaijan, the Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Bolivia, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Bulgaria, Canada, Cape Verde, Chile, China, Colombia, Cote d’Ivoire, Croatia, Cyprus, Czechia, Democratic Republic of the Congo, Denmark, Djibouti, Dominica, the Dominican Republic, Ecuador, Egypt, El Salvador, Equatorial Guinea, Estonia, Finland, France, Gabon, Germany, Ghana, Greece, Guinea, Guinea-Bissau, Honduras, Hong Kong, Hungary, Iceland, India, Indonesia, Iran, Ireland, Israel, Italy, Kazakhstan, Kosovo, Kuwait, Kyrgyzstan, Latvia, Liechtenstein, Lithuania, Luxembourg, Macau, Malaysia, Maldives, Malta, Mauritius, Mexico, Moldova, Monaco, Montenegro, Morocco, the Netherlands, New Zealand, North Macedonia, Norway, Oman, Pakistan, Panama, Peru, the Philippines, Poland, Portugal, Qatar, Romania, Russia, San Marino, Sao Tome e Principe, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Africa, Spain, South Korea, St. Kitts and Nevis, Sweden, Switzerland, Taiwan, Tajikistan, Thailand, Turkey, Taiwan, Turkey, Ukraine, the United Arab Emirates, the United Kingdom, the United States, Uruguay, the Vatican City, or Vietnam in the past 14 days."
+        "report2": "Japan has restricted the entry of travelers who have been in or transited through Afghanistan, Albania, Algeria, Andorra, Antigua and Barbuda, Argentina, Armenia, Australia, Austria, Azerbaijan, the Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Bolivia, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Bulgaria, Cameroon, Canada, Cape Verde, Central African Republic, Chile, China, Colombia, Costa Rica, Cote d’Ivoire, Croatia, Cuba, Cyprus, Czechia, Democratic Republic of the Congo, Denmark, Djibouti, Dominica, the Dominican Republic, Ecuador, Egypt, El Salvador, Equatorial Guinea, Estonia, Eswatini (Swaziland), Finland, France, Gabon, Georgia, Germany, Ghana, Greece, Grenada, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hong Kong, Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland, Israel, Italy, Jamaica,Kazakhstan, Kosovo, Kuwait, Kyrgyzstan, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macau, Malaysia, Maldives, Malta, Mauritania, Mauritius, Mexico, Moldova, Monaco, Montenegro, Morocco, the Netherlands, New Zealand, Nicaragua, North Macedonia, Norway, Oman, Pakistan, Panama, Peru, the Philippines, Poland, Portugal, Qatar, Romania, Russia, Saint Vincent and the Grenadines, San Marino, Sao Tome e Principe, Saudi Arabia, Senegal, Serbia, Singapore, Slovakia, Slovenia, South Africa, Spain, South Korea, St. Kitts and Nevis, Sweden, Switzerland, Taiwan, Tajikistan, Thailand, Turkey, Taiwan, Turkey, Ukraine, the United Arab Emirates, the United Kingdom, the United States, Uruguay, the Vatican City, or Vietnam in the past 14 days."
     },
     {
         "country": "Jordan",
@@ -798,7 +798,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/jo.svg?v=56575e79de23aa2bf891ee9208a5ae9c1712ab1a&amp;cluster=4",
         "iso_alpha2": "jo",
         "report1": "Jordan has restricted the entry of all travelers.",
-        "report2": "Jordan has restricted the entry of all travelers until at least July 4."
+        "report2": "Jordan has restricted the entry of all travelers until at least July 14."
     },
     {
         "country": "Kazakhstan",
@@ -844,8 +844,8 @@
         "countrygroup": "Asia",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/la.svg?v=8d0b38f4342f997e4dcf8aa27596e44a18a26821&amp;cluster=4",
         "iso_alpha2": "la",
-        "report1": "Laos' travel restrictions are still in effect until at least June 30",
-        "report2": "Laos has suspended all flights until at least June 30."
+        "report1": "Laos' travel restrictions are still in effect until at least July 31",
+        "report2": "Laos has suspended all flights until at least July 31."
     },
     {
         "country": "Latvia",
@@ -860,8 +860,8 @@
         "countrygroup": "Middle East",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/lb.svg?v=42302e3190ee29b3dd8dd39c33724e7cb3c8dadf&amp;cluster=4",
         "iso_alpha2": "lb",
-        "report1": "Lebanon will reopen its airports on July 1.",
-        "report2": "Lebanon is expecting to reopen its airports on July 1 with a limited capacity.Travelers arriving from countries with PCR testing capability will be required to take a PCR test within 96 hours prior to travel and take another test on arrival at a cost of $100 paid through the airline. They will be informed of the test results within 24 hours of arrival and if both tests are negative, no self-isolation will be required."
+        "report1": "Lebanon has reopened its airports with limited capacity.",
+        "report2": "Lebanon has reopened its airports with limited capacity.Travelers arriving from countries with PCR testing capability will be required to take a PCR test within 96 hours prior to travel and take another test on arrival at a cost of $100 paid through the airline. They will be informed of the test results within 24 hours of arrival and if both tests are negative, no self-isolation will be required."
     },
     {
         "country": "Lesotho",
@@ -876,8 +876,7 @@
         "countrygroup": "Africa",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/lr.svg?v=52585582da4cb906b62bb5b7e30df5b930f15366&amp;cluster=4",
         "iso_alpha2": "lr",
-        "report1": "Liberia has extended its travel restriction for commercial flights starting until at least June 27.",
-        "report2": "Liberia has extended its travel restriction for commercial flights starting until at least June 27."
+        "report2": "Liberia has reopened its airport to commercial flights, with the following conditions:"
     },
     {
         "country": "Libya",
@@ -892,15 +891,15 @@
         "countrygroup": "Europe",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/lt.svg?v=5ef2877726f8e4beb7fe17adba76c67a9a840219&amp;cluster=4",
         "iso_alpha2": "lt",
-        "report2": "Lithuania has begun to ease its travel restrictions. Although flights from outside of the European Economic Area are still suspended, travel restrictions have been lifted for travel from other countries in the EEA.as well as lithuanian nationals and residents, citizens and residents of countries in the european economic area, switzerland or the united kingdom may now enter lithuania if the rate of  incidence in their country of residence has not exceeded 25 cases/100,000 population in the last 14 calendar days. the list of such countries shall be published every monday by the state commander of national emergency operations.The current list allows entry to Lithuania for all EEA countries except Portugal, the UK and Sweden. Accordingly, from 15 to 21 June, Lithuania will prevent arrivals from Portugal, UK and Sweden. Foreigners arriving from Belgium will be required to stay in isolation for 14 days. Lithuanian citizens can return to the country from all the countries but those arriving from the above-mentioned countries will fall subject to 14-day isolation.There are no controls on passengers crossing a land border from other EU countries into Lithuania (from Latvia/Poland)."
+        "report2": "Lithuania has begun to ease its travel restrictions. Although flights from outside of the European Economic Area are still suspended, travel restrictions have been lifted for travel from other countries in the EEA.as well as lithuanian nationals and residents, citizens and residents of countries in the european economic area, switzerland or the united kingdom may now enter lithuania if the rate of  incidence in their country of residence has not exceeded 25 cases/100,000 population in the last 14 calendar days. the list of such countries is published every monday by the state commander of national emergency operations and can be found <a href=-http://koronastop.lrv.lt/en/->here</a>.As of June 30, the current list allows entry to Lithuania for all EEA countries except Portugal and Sweden. Foreigners arriving from the UK, Romania, Bulgaria, and Luxembourg will be recommended to stay in isolation for 14 days. Lithuanian citizens can return to the country from all the countries but those arriving from the above-mentioned countries will fall subject to 14-day isolation.There are no controls on passengers crossing a land border from other EU countries into Lithuania (from Latvia/Poland)."
     },
     {
         "country": "Luxembourg",
         "countrygroup": "Europe",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/lu.svg?v=54640df4a8d15d5aefb54e75e106c292871922a9&amp;cluster=4",
         "iso_alpha2": "lu",
-        "report1": "Luxembourg has limited the entry of all travelers who are not nationals of the EU, Schengen Area, Schengen Associated States, and the United Kingdom on their way home.",
-        "report2": "Luxembourg has limited the entry of travelers who are not Luxembourg nationals and their family members who are returning home."
+        "report1": "Luxembourg has reopened its borders to travelers arriving from other EU countries.",
+        "report2": "Luxembourg has restricted the entry of travelers arriving from outside the EU who are not nationals/residents of EU/Schengen area countries or the UK and their family members until at least June 30."
     },
     {
         "country": "Macau",
@@ -930,8 +929,8 @@
         "countrygroup": "Asia",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/mv.svg?v=c91e4dc9a07a7f779b6be88187060dccca4df873&amp;cluster=4",
         "iso_alpha2": "mv",
-        "report1": "The Maldives has restricted the entry of all foreign nationals who have been in Bangladesh, China, Iran, Italy, Malaysia, Spain, Sri Lanka, the United Kingdom, or in North Gyeongsang and South Gyeongsang Provinces in South Korea, Ile-de-France and Grand Est (regions of France), and Bavaria, North Rhine Westphalia, and Baden-Wuerttemberg (regions of Germany) in the past 14 days.",
-        "report2": "The Maldives has restricted the entry of all travelers who are tourists or airline crew who have been in Bangladesh, China, Iran, Italy, Malaysia, Spain, Sri Lanka, the United Kingdom, or in North Gyeongsang and South Gyeongsang Provinces in South Korea, Ile-de-France and Grand Est (regions of France), and Bavaria, North Rhine Westphalia, and Baden-Wuerttemberg (regions of Germany) in the past 14 days. All visas on arrival are suspended."
+        "report1": "The Maldives is beginning to ease travel restrictions and will accept tourist travelers from July 15.",
+        "report2": "The Maldives is beginning to ease travel restrictons; however visa on arrival remains suspended until at least July 15."
     },
     {
         "country": "Mali",
@@ -945,8 +944,8 @@
         "countrygroup": "Europe",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/mt.svg?v=f074a0100b016b324f98d1937810cc5cd7237762&amp;cluster=4",
         "iso_alpha2": "mt",
-        "report1": "Flights to and from Malta will be restarting on July 1",
-        "report2": "Malta has suspended all flights except for cargo, humanitarian and repatriation flights until at least June 15.Flights to and from some countries and territories are expected to resume on July 1. As of June 15, these countries include Austria, Croatia, Cyprus, the Czech Republic, Denmark, Estonia, Finland, France (except for Ile de France), Germany, Greece, Hungary, Iceland, Ireland, Italy (except for Emilia Romagna, Lombardy, and Piemonte), Latvia, Lithuania, Luxembourg, Norway, Poland (except for Katowice Airport), Slovakia, Spain (except for Madrid, Catalonia, Castilla -La Mancha, Castile and Leon), and Switzerland. This list is subject to review.Arriving travelers who meet the requirements for entry, including proof of residence in the departing country for at least 4 weeks, will not be required to enter self-isolation. Those not meeting the criteria will still be required to self-isolate for 14 days."
+        "report1": "Flights to and from Malta from restarted on July 1.",
+        "report2": "Malta has restarted flights to and from specific countries and territories. Travelers will have to demonstrate proof of residence in one of the countries on the list for at least 2 weeks before their flight. Foreign nationals who are not residents of Malta will not be able to enter Malta except when traveling from one of the countries on this list.Arriving travelers who meet the requirements for entry, including proof of residence in the departing country for at least 4 weeks, will not be required to enter self-isolation. Those not meeting the criteria will still be required to self-isolate for 14 days."
     },
     {
         "country": "Marshall Islands",
@@ -982,7 +981,7 @@
     {
         "country": "Mexico",
         "countrygroup": "North America",
-        "flagurl": "https://content.r9cdn.net/res/images/flags-svg/mx.svg?v=5afd653fc8f396261730b43118326c4d171ad740&amp;cluster=4",
+        "flagurl": "https://content.r9cdn.net/res/images/flags-svg/mx.svg?v=47a4176c1418b78229244069a5e8da17cd06d28f&amp;cluster=4",
         "iso_alpha2": "mx",
         "report2": "Greenland has restricted the entry of all travelers who are not Danish citizens or returning residents.mexico has not implemented any entry restrictions, but travelers arriving from countries affected by  () will be screened, and those showing symptoms will be quarantined.The land border between Mexico and the US has been closed to non-essential traffic until at least July 21."
     },
@@ -991,8 +990,8 @@
         "countrygroup": "Europe",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/md.svg?v=f7e001d05724812606ec535cdaba2fed4ec6dd03&amp;cluster=4",
         "iso_alpha2": "md",
-        "report1": "Moldova has restricted the entry of all foreign nationals.",
-        "report2": "Moldova has restricted the entry of all travelers except for nationals and residents of Moldova.From June 30, other categories of people will be allowed to enter Moldova. These include:"
+        "report1": "Moldova has reopened its borders to certain categories of visa holders.",
+        "report2": "Moldova has restricted the entry of most travelers except for nationals and residents of Moldova.As of June 30, other categories of people are allowed to enter Moldova. These include:"
     },
     {
         "country": "Mongolia",
@@ -1007,8 +1006,8 @@
         "countrygroup": "Europe",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/me.svg?v=478a72e0d23a451c3cc7e87c9eaf4692a11caa6c&amp;cluster=4",
         "iso_alpha2": "me",
-        "report1": "Montenegro has suspended all commercial flight; however as of June 1 it has opened its borders to travelers from a select group of countries meeting certain epidemiological criteria.",
-        "report2": "Montenegro has suspended all commercial flights and restricted the entry of travelers who are not nationals or residents of Montenegro; however as of June 1 it has opened its borders to travelers who are residents of a select group of countries meeting certain epidemiological criteria.european countries currently on the list (updated weekly) include albania, austria, bosnia and herzegovina, bulgaria, czech republic, denmark, estonia, finland, greece, croatia, ireland, iceland, cyprus, kosovo, latvia, lithuania, luxembourg, hungary, malta, monaco, germany, norway, slovakia, slovenia and switzerland. the full list is available <a href=-https://www.ijzcg.me/me/novosti/-popustanje-mjera-u-medunarodnom-saobracaju/->here (in montenegrin)</a>.As of June 18, special regulations exist for travelers arriving from Bosnia and Herzegovina - entry into Montenegro from Bosnia &amp; Herzegovina will now only be possible with a negative PCR test performed no more than 48 hours before entry. The test must be performed by an accredited laboratory in Bosnia and Herzegovina."
+        "report1": "Montenegro has limited entry to nationals and residents of Montenegro as well as travelers who are residents of a select group of countries meeting certain epidemiological criteria.",
+        "report2": "Montenegro has limited entry to nationals and residents of Montenegro as well as travelers who are residents of a select group of countries meeting certain epidemiological criteria.Residents of the following countries are permitted to enter Montenegro without a requirement for testing prior to entry: Algeria, Angola, Andorra, Australia, Austria, Bahamas, Barbados, Brunei, Bulgaria, Cambodia, China, Costa Rica, Croatia, Cuba, Cyprus, Czech Republic, Denmark, Estonia, Fiji, Finland, Georgia, Germany, Greece, Greenland, Hungary, Indonesia, Ireland, Iceland, Jamaica, Japan, Jordan, Latvia, Lebanon, Lithuania, Luxembourg, Madagascar, Malta, Malaysia, Morocco, Mauritius, Monaco, Mongolia, Mozambique, Netherlands, New Zealand, Nicaragua, Norway, Palestine, Papua New Guinea, Paraguay, Philippines, Seychelles, Senegal, South Korea, Slovakia, Slovenia, Switzerland, Tajikistan, Thailand, Trinidad and Tobago, Tunisia, Uruguay, Uzbekistan, Venezuela, Vietnam and Zambia."
     },
     {
         "country": "Montserrat",
@@ -1039,8 +1038,8 @@
         "countrygroup": "Asia",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/mm.svg?v=395ea005ce7a46021889c114626078bf78fc66f6&amp;cluster=4",
         "iso_alpha2": "mm",
-        "report1": "Myanmar has suspended all flights into the country until at least June 30.",
-        "report2": "Myanmar has suspended all incoming international flights until at least June 30, 2020, except for relief flights, medical evacuation flights, and flights approved by the Department of Civil Aviation."
+        "report1": "Myanmar has suspended all flights into the country until at least July 31.",
+        "report2": "Myanmar has suspended all incoming international flights until at least July 31, 2020, except for relief flights, medical evacuation flights, and flights approved by the Department of Civil Aviation."
     },
     {
         "country": "Namibia",
@@ -1071,8 +1070,8 @@
         "countrygroup": "South Pacific",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/nz.svg?v=8d13421bae99a983664d1c4cf1a2258946df29b2&amp;cluster=4",
         "iso_alpha2": "nz",
-        "report1": "New Zealand has restricted the entry of all foreign nationals except for Australian nationals who reside in New Zealand.",
-        "report2": "Tarawa (TRW) is closed until at least April 30, 2020.The Marshall Islands has restricted all travelers from entering the country until at least May 5, 2020.New Zealand has restricted entry to all travelers who are not New Zealand nationals (Cook Islands, Niue, Tokelau), permanent residents, visa holders, and their immediate families.Airline crew must use appropriate personal protective equipment (PPE)."
+        "report1": "New Zealand has restricted the entry of all foreign nationals except for Australian nationals who reside in New Zealand and Samoan or Tongan citizens making essential travel.",
+        "report2": "Tarawa (TRW) is closed until at least April 30, 2020.The Marshall Islands has restricted all travelers from entering the country until at least May 5, 2020.New Zealand has restricted entry to all travelers who are not New Zealand nationals (Cook Islands, Niue, Tokelau) or permanent residents, with a few limited exceptions."
     },
     {
         "country": "Nicaragua",
@@ -1110,8 +1109,8 @@
         "countrygroup": "Europe",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/mk.svg?v=bbf285ffd959d42aa82c72deacf4ed3f2228da08&amp;cluster=4",
         "iso_alpha2": "mk",
-        "report1": "North Macedonia has suspended all commercial flights until further notice, and has restricted the entry of all travelers except for nationals and residents of North Macedonia.",
-        "report2": "North Macedonia has suspended all commercial flights until further notice, and has restricted the entry of all travelers except for nationals and residents of North Macedonia. Travelers who depart North Macedonia and try to re-enter within 3 months will be denied entry.On June 15, the government announced new allowances for foreign nationals transiting through North Macedonia to other countries. It is now possible to transit through North Macedonia if entering and exiting though Skopje Airport or one of the following border crossing points: Tabanovce (Serbia), Deve Bair (Bulgaria), Bogorodica (Greece), Kafasan (Albania), or Blace (Kosovo). Transit must be completed within a maximum of 5 hours, and travelers must not leave the designated highway or local road except to refuel. Travelers wishing to transit through North Macedonia must fill in a declaration form certified by border police on arrival and on departure. Anyone found breaking the conditions of transit may be referred to mandatory state quarantine."
+        "report1": "North Macedonia reopened its airports on July 1 for commercial traffic.",
+        "report2": "North Macedonia reopened its airports on July 1 for commercial traffic."
     },
     {
         "country": "Northern Mariana Islands",
@@ -1126,8 +1125,8 @@
         "countrygroup": "Europe",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/no.svg?v=24e504ebc33301b7996477d9a996036d8f9e1ba3&amp;cluster=4",
         "iso_alpha2": "no",
-        "report1": "Norway has restricted the entry of all foreign nationals except nationals of certain European countries who currently reside or work in Norway.",
-        "report2": "Norway has restricted the entry of all travelers who are not nationals or residents of Norway."
+        "report1": "Norway has lifted its travel restriction and quarantine requirements for travelers arriving from Finland, Iceland, Greenland, the Faeroe Islands, and Denmark.",
+        "report2": "Norway has lifted its travel restriction and quarantine requirements for travelers arriving from Finland, Iceland, Greenland, the Faeroe Islands, and Denmark. Entry is still restricted until at least August 20 for most other travelers who are not nationals or residents of Norway.Nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or the United Kingdom may still enter the country if they reside, work, or have property in Norway. If they cannot prove their residency, they must be able to prove their nationality in one of the above countries. Family members of a national of one of the above-mentioned countries may enter the country if they are already residing in or are moving to Norway. Travelers with a responsibility to care for a resident of Norway may also enter."
     },
     {
         "country": "Oman",
@@ -1306,7 +1305,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/sn.svg?v=cf5de4bb6751b8c68e08e3ad5df8de1d99e9a8e6&amp;cluster=4",
         "iso_alpha2": "sn",
         "report1": "Senegal has suspended all commercial flights into the country.",
-        "report2": "Senegal has suspended all flights into the country until at least May 31, 2020."
+        "report2": "Senegal has suspended all flights into the country until at least July 15, 2020."
     },
     {
         "country": "Serbia",
@@ -1344,7 +1343,7 @@
         "countrygroup": "Caribbean",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/sx.svg?v=82cfc0e60f92f2c8f59f903a0b5baec1754b276b&amp;cluster=4",
         "iso_alpha2": "sx",
-        "report1": "Sint Maarten has restricted the entry of all travelers except those arriving from Anguilla, Antigua and Barbuda, Aruba, British Virgin Islands, Dominica, Guadeloupe, Martinique, Saba, Sint Eustatius, St. Barthelemy, St. Kitts and Nevis, and St. Lucia."
+        "report1": "Sint Maarten has restricted the entry of all travelers except those arriving from Anguilla, Antigua and Barbuda, Aruba, British Virgin Islands, Dominica, Guadeloupe, Martinique, Saba, Sint Eustatius, St. Barthelemy, St. Kitts and Nevis, St. Lucia."
     },
     {
         "country": "Slovakia",
@@ -1404,8 +1403,16 @@
         "countrygroup": "Europe",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/es.svg?v=aea48faa62006469e6b89bc05ec24f9ccd2d6a90&amp;cluster=4",
         "iso_alpha2": "es",
-        "report1": "Spain has reopened travel from most European countries.",
-        "report2": "Spain has reopened its borders to travelers from most EU countries; however, entry remains restricted to travelers arriving from other areas, except for Spanish nationals and residents, and accompanying immediate family members.Travelers who are residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden or Switzerland may transit through Spain on their way home to their place of residency. The same applies to travelers with a long-term visa issued by a Schengen Member State who are returning to their place of residency.Immediate family members of Spanish nationals may enter Spain even if unaccompanied by a Spanish national, if they are traveling to join their family member who is already in the country.Residents of Andorra, Iceland, Norway or Switzerland, as well as long-term visa holders of Schengen member states who are returning home may also enter Spain, as may healthcare and elderly care workers, diplomats, staff of international and humanitarian organizations and military personnel in the performance of their duties. People who can demonstrate proof that they are traveling for emergency family or humanitarian reasons may also enter.Business travelers with documentation who are arriving from countries in the EU, Iceland, Norway, or Switzerland may enter Spain.Arrivals from outside the EU may only land at Alicante (ALC), Barcelona (BCN), Bilbao (BIO), Fuerteventura (FUE), Gran Canaria (LPA), Ibiza (IBZ), Madrid (MAD), Malaga (AGP), Menorca(MAH), Lanzarote (ACE), Palma de Mallorca (PMI), Santander (SDR), Sevilla (SVQ), Tenerife-Sur (TFS) or Valencia (VLC).Residency permits and D visas that expired after December 14, 2019 will be accepted for entry to Spain and considered valid for 6 months after the state of alarm has ended.spain has reopened its borders to travelers from the eu, the schengen area (except portugal), and the uk from june 21. travel between spain and portugal is expected to reopen from july 1. travelers arriving from the forementioned areas no longer be required to present a residency certificate or to self-isolate upon entry into spain; however they will need to provide contact information and any history of exposure to , and undergo a temperature check and visual health assessment.Restrictions on travelers from outside the European Union and the Schengen free-travel area will be lifted from July 1, providing the countries they depart from have agreements with Spain."
+        "report1": "Spain has reopened its borders to travelers arriving from the EU/Schengen area and the UK.",
+        "report2": "Spain has reopened its borders to travelers from most EU countries; however, entry remains restricted to travelers arriving from other areas, except for Spanish nationals and residents, and accompanying immediate family members.spain has reopened its borders to travelers from the eu, the schengen area, and the uk from june 21. travel between spain and portugal has reopened as of july 1. travelers arriving from the aforementioned areas no longer be required to present a residency certificate or to self-isolate upon entry into spain; however they will need to provide contact information and any history of exposure to , and undergo a temperature check and visual health assessment.Restrictions on travelers from outside the European Union and the Schengen free-travel area will be lifted on a case-by-case basis from July 1, providing the countries they depart from have agreements with Spain.Immediate family members of Spanish nationals may enter Spain even if unaccompanied by a Spanish national, if they are traveling to join their family member who is already in the country.Residents of Andorra, Iceland, Norway or Switzerland, as well as long-term visa holders of Schengen member states who are returning home may also enter Spain, as may healthcare and elderly care workers, diplomats, staff of international and humanitarian organizations and military personnel in the performance of their duties. People who can demonstrate proof that they are traveling for emergency family or humanitarian reasons may also enter.Arrivals from outside the EU may only land at Alicante (ALC), Barcelona (BCN), Bilbao (BIO), Fuerteventura (FUE), Gran Canaria (LPA), Ibiza (IBZ), Madrid (MAD), Malaga (AGP), Menorca(MAH), Lanzarote (ACE), Palma de Mallorca (PMI), Santander (SDR), Sevilla (SVQ), Tenerife-Sur (TFS) or Valencia (VLC).Residency permits and D visas that expired after December 14, 2019 will be accepted for entry to Spain and considered valid for 6 months after the state of alarm has ended."
+    },
+    {
+        "country": "Sri Lanka",
+        "countrygroup": "Asia",
+        "flagurl": "https://content.r9cdn.net/res/images/flags-svg/lk.svg?v=500dfc701dff20c7cbf72f4412de4fcd64dcc377&amp;cluster=4",
+        "iso_alpha2": "lk",
+        "report1": "Sri Lanka has closed its airports.",
+        "report2": "South Korea has restricted the entry of all travelers who have been in the Hubei Province of China in the past 14 days. Chinese nationals with passports issued in the Hubei Province are also not allowed to enter the country. Korean visas issued by the Wuhan Consulate in the Hubei Province are invalidated. Nationals of China and travelers arriving from China must have visas to transit through South Korea.Travelers arriving from China with a diplomatic, consular, official, service or special passport or who are nationals of Albania, Andorra, Barbados, Dominica, Guyana, Ireland, South Korea, Malta, Mexico, Monaco, Nicaragua, Palau, San Marino, Slovenia, St. Kitts and Nevis, St. Vincent and the Grenadines, the United States, the United Kingdom, the Vatican City and Venezuela may still transit through South Korea without a visa.Short-term visas (type C-1 and C-3) issued on or before April 5 are invalidated. Visa exemptions for 90 nationalities with normal passport are temporarily suspended, except for airline crew.or passengers with an APEC Business Travel Card. Travelers with a visa on an expired passport must present a printed -Visa Grant Notice- and the expired passport to the immigration upon arrival.Nationals of Mongolia, Russia and Thailand are restricted from transiting through South Korea on their way to or from those countries.chinese nationals who are traveling on business under the fast lane program and their family members are exempt from the quarantine requirements; however, they must self-monitor their health conditions for at least 14 days before departure and must hold a medical certification of a negative  testing result issued within 72 hours before departure. they will receive an additional test upon arrival, after which they must stay at a designated quarantine facility for up to 1-2 days until receiving the result. once receiving a negative test result, they will be allowed to end their quarantine.Sri Lanka has closed all airports."
     },
     {
         "country": "Sudan",
@@ -1413,7 +1420,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/sd.svg?v=a1f9f0fe9acfa10f6d8df0d4107b40921ba2ae2d&amp;cluster=4",
         "iso_alpha2": "sd",
         "report1": "Sudan has suspended all flights except for humanitarian, medical and repatriation flights.",
-        "report2": "Sudan has suspended all flights except for humanitarian, medical and repatriation flights."
+        "report2": "Sudan has suspended all flights except for humanitarian, medical and repatriation flights through at least July 12."
     },
     {
         "country": "Suriname",
@@ -1459,15 +1466,15 @@
         "countrygroup": "Asia",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/tw.svg?v=320f45b85c1ee62ff9586ef5a53a88e03ed5506d&amp;cluster=4",
         "iso_alpha2": "tw",
-        "report1": "Taiwan has restricted the entry of all foreign nationals. Starting from June 29, foreigners may apply for a special entry permit for non-tourist travel."
+        "report1": "Taiwan has begun to reopen its borders to foreign nationals - they must apply for a special entry permit before traveling."
     },
     {
         "country": "Tajikistan",
         "countrygroup": "Asia",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/tj.svg?v=7e7eb3bb90c6c4318b73fbc84f564b4d0de24b59&amp;cluster=4",
         "iso_alpha2": "tj",
-        "report1": "Tajikistan has suspended all flights.",
-        "report2": "South Korea has restricted the entry of all travelers who have been in the Hubei Province of China in the past 14 days. Chinese nationals with passports issued in the Hubei Province are also not allowed to enter the country. Korean visas issued by the Wuhan Consulate in the Hubei Province are invalidated. Nationals of China and travelers arriving from China must have visas to transit through South Korea.Travelers arriving from China with a diplomatic, consular, official, service or special passport or who are nationals of Albania, Andorra, Barbados, Dominica, Guyana, Ireland, South Korea, Malta, Mexico, Monaco, Nicaragua, Palau, San Marino, Slovenia, St. Kitts and Nevis, St. Vincent and the Grenadines, the United States, the United Kingdom, the Vatican City and Venezuela may still transit through South Korea without a visa.Short-term visas (type C-1 and C-3) issued on or before April 5 are invalidated. Visa exemptions for 90 nationalities with normal passport are temporarily suspended, except for airline crew.or passengers with an APEC Business Travel Card.Nationals of Mongolia, Russia and Thailand are restricted from transiting through South Korea on their way to or from those countries.chinese nationals who are traveling on business under the fast lane program and their family members are exempt from the quarantine requirements; however, they must self-monitor their health conditions for at least 14 days before departure and must hold a medical certification of a negative  testing result issued within 72 hours before departure. they will receive an additional test upon arrival, after which they must stay at a designated quarantine facility for up to 1-2 days until receiving the result. once receiving a negative test result, they will be allowed to end their quarantine.taiwan has restricted entry of all travelers who are not republic of china taiwan passport holders, alien resident certificate holders, “special entry permit for  outbreak” visa holders, or diplomats.Beginning on June 29, Taiwan will allow foreign nationals who wish to travel to Taiwan for reasons other than tourism to apply for a special entry permit with a Taiwan representative office overseas.Tajikistan has suspended all flights."
+        "report1": "Tajikistan has suspended all flights except for humanitarian, medevac and repatriation flights until at least July 15.",
+        "report2": "Taiwan has begun to reopen its borders to foreign nationals, provided they are traveling for reasons other than tourism or to visit friends. All visa waivers have been suspended, so travelers must apply for a special entry permit with a Taiwan representative office overseas before traveling.Foreign passengers, including people from Hong Kong and Macau, are now allowed to transit through Taoyuan International Airport. Holders of People’s Republic of China (PRC) passports will not be permitted to transit in Taiwan. Those transiting will need to board connecting flights of the same airline company they fly in on. Transits must last less than 8 hours. Transit passengers who need to wait for more than one hour will remain separate from other passengers and stay in a separate area.Tajikistan has suspended all flights except for humanitarian, medevac and repatriation flights until at least July 15."
     },
     {
         "country": "Tanzania",
@@ -1483,15 +1490,15 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/th.svg?v=65f78bb9e372795bec3ff40f78030160222e3e33&amp;cluster=4",
         "iso_alpha2": "th",
         "report1": "Thailand has suspended all flights into the country.",
-        "report2": "Thailand has suspended all flights into the country and restricted the entry of all foreign nationals except those with a work permit until at least June 30."
+        "report2": "Thailand has suspended all flights into the country and restricted the entry of all foreign nationals except permanent residents, parents, spouses and children of Thai nationals and residents, students, airline crew with a scheduled return flight, and those with a work permit until at least July 31."
     },
     {
         "country": "The Bahamas",
         "countrygroup": "Caribbean",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/bs.svg?v=7e928433e195581a128f7e0c5b4383f44aab40a4&amp;cluster=4",
         "iso_alpha2": "bs",
-        "report1": "The Bahamas has restricted the entry of all travelers except for Bahamian nationals and residents.",
-        "report2": "Sint Maarten has restarted flights from nearby territories.the bahamas has restricted the entry of all travelers except for bahamian nationals and residents. they must have a medical certificate showing a negative  test result issued within 7 days of their arrival, and will be subject to quarantine upon arrival."
+        "report1": "The Bahamas has opened its borders to all travelers, including visitors. Visitors should contact commercial airlines directly for flight information.",
+        "report2": "Sint Maarten has restarted flights from nearby territories.Flights to and from the United States were originally set to resume starting on July 1; this date has been postponed for at least 2 weeks.The Bahamas has opened its borders to all travelers, including visitors. Visitors should contact commercial airlines directly for flight information.no quarantine is required after entering the bahamas. all incoming passengers will be subject to thermal temperature screenings. travelers who show symptoms of  may be transferred to an on-site quarantine area away from other passengers for further testing and evaluation."
     },
     {
         "country": "Togo",
@@ -1521,8 +1528,8 @@
         "countrygroup": "Africa",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/tn.svg?v=cf0514869cb7572009f9a509383ce1dffbc9a300&amp;cluster=4",
         "iso_alpha2": "tn",
-        "report1": "Tunisia will relax entry restrictions from June 27. Entry requirements will vary depending on the severity of the epidemic in travelers’ country of residence.",
-        "report2": "Tunisia has suspended all flights into the country until at least June 27.From June 27, entry requirements will vary depending on the prevalence of the epidemic in travelers’ country of residence."
+        "report1": "Tunisia's new entry restrictions are now in effect. Entry requirements vary depending on the severity of the epidemic in travelers’ country of residence.",
+        "report2": "Tunisia's new travel restrictions are now in effect."
     },
     {
         "country": "Turkey",
@@ -1597,7 +1604,7 @@
         "countrygroup": "North America",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/us.svg?v=64d1ec0287142a6dbc7e38ac8814cc2181900d59&amp;cluster=4",
         "iso_alpha2": "us",
-        "report1": "The United States has restricted the entry of all foreign nationals who have visited China, Iran, the Schengen Area, Ireland, or the United Kingdom in the past 14 days.",
+        "report1": "The United States has restricted the entry of all foreign nationals who have visited Brazil, China, Iran, the Schengen Area, Ireland, or the United Kingdom in the past 14 days.",
         "report2": "The United States has restricted the entry of all foreign nationals who have passed through or have been in Austria, Brazil, Belgium, China, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Iran, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, or the United Kingdom (excluding overseas territories outside of Europe), in the past 14 days.Travelers who are allowed to enter the United States but have passed through or have been in any of the countries named above must quarantine for 14 days once they reach their final destination."
     },
     {
