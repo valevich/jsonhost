@@ -173,7 +173,7 @@
       "iso_alpha2": "BM",
       "name": "Bermuda",
       "score": 3,
-      "updated": "2020-06-30 07:23:21 - Bermuda has closed its borders to all travelers except Bermudan nationals and residents or travelers with written permission from the Quarantine Authority of Bermuda., - Bermuda has suspended its previous travel ban, meaning all travelers may enter the territory."
+      "updated": "2020-06-30 07:23:21 - Bermuda will lift its travel ban from July 1, meaning all travelers may enter the territory., - Bermuda has lifted its previous travel ban, meaning all travelers may enter the territory starting from July 1.after a negative test result, travelers must take their own temperature twice per day and report via an online application/portal. they must also take additional  tests, administered on day 3, day 7 and day 14 at easily accessible pop-up testing centers around the island.Special provisions apply to crew. Visitors and crew may depart Bermuda based on their travel itinerary if shorter than 14 days if they remain asymptomatic."
     },
     {
       "continent": "AS",
@@ -222,7 +222,7 @@
       "iso_alpha2": "BY",
       "name": "Belarus",
       "score": 3.5,
-      "updated": "2020-06-30 07:23:21 - Belarus has not implemented any entry restrictions, but foreign citizens arriving in Belarus are subject to a 14-day self quarantine requirement., - belarus has not implemented any entry restrictions, but foreign citizens arriving in belarus are subject to a 14-day self quarantine requirement. this requirement may be waived for travelers carrying a medical certificate, issued within 48 hours of arrival, indicating a negative  test result"
+      "updated": "2020-06-30 07:23:21 - Belarus has not implemented any entry restrictions, but foreign nationals are subject to a 14-day self quarantine requirement unless they arrive from a certain list of countries., - Belarus has not implemented any entry restrictions, but foreign citizens arriving in Belarus are subject to a 14-day self quarantine requirement, unless they are arriving from Australia, Austria, Albania, Belgium, Bulgaria, Bosnia and Herzegovina, Canada, China Croatia, Czechia, Denmark, Egypt, Estonia, Finland, France, Germany, Greece, Georgia, Hungary, Ireland, Iceland, Israel, Italy, Japan, Kazakhstan, Latvia, Lithuania, Liechtenstein, Luxembourg, Malta, Moldova, Monaco,Montenegro, the Netherlands, Northern Macedonia, Norway, Poland, Portugal, Romania, Serbia, Singapore, Slovakia, Slovenia, South Korea, Spain, Switzerland, Sweden, Turkey, the UK, the UAE, or the US.foreign travelers are required to present a medical certificate, issued within 48 hours of arrival, indicating a negative  test result."
     },
     {
       "continent": "NA",
@@ -313,7 +313,7 @@
       "iso_alpha2": "CO",
       "name": "Colombia",
       "score": 3.3,
-      "updated": "2020-06-30 07:23:21 - Colombia has restricted the entry of all foreign nationals., - Colombia has restricted entry and transit to all travelers except cargo operators, humanitarian emergencies, and extreme scenarios that have authorization from the Civil Aviation Authority (CAA)."
+      "updated": "2020-06-30 07:23:21 - Colombia has suspended international flights until at least August 31., - Colombia has restricted entry and transit to all travelers until at least August 31, except cargo operators, humanitarian emergencies, and extreme scenarios that have authorization from the Civil Aviation Authority (CAA)."
     },
     {
       "continent": "NA",
@@ -488,7 +488,7 @@
       "iso_alpha2": "FR",
       "name": "France",
       "score": 3.5,
-      "updated": "2020-06-30 07:23:21 - France restricted the entry of all foreign nationals except nationals of other Schengen Member States., - France has restricted the entry of all travelers arriving from non-Schengen Member States.Nationals of France and their spouses and children, long-term residents with French residence permits and their spouses and children, long-term residents of EEA Member States, Andorra, Monaco, San Marino, Switzerland, the United Kingdom or the Vatican City and their spouses and children on their way home, and healthcare professionals may still enter the country. Airline crew, personnel of diplomatic and consular missions and international organizations with offices in France and their spouses and children, and merchant seamen may also enter.Travelers from outside of the EU/Schengen zone must have an International Travel Certificate to enter and transit France, which must be obtained prior to departure via the French consular offices abroad or online at https://www.interieur.gouv.fr. Additionally, travelers who need to use public transport during peak hours in Île-de-France (Greater Paris) must have a declaration form certifying their reason for travel.travelers arriving in mainland france from outside the eu (except for spain), andorra, vatican city, iceland, liechtenstein, monaco, norway, and switzerland are requested to comply with a voluntary 14-day self-quarantine upon arrival. travelers arriving in overseas french territories, as well as any travelers showing symptoms of , will have to carry out a mandatory 14-day quarantine at home or in a facility chosen by the government. mask wearing is obligatory for all travelers above the age of 11.France is expecting to open its borders to travelers from outside the EU starting on July 1."
+      "updated": "2020-06-30 07:23:21 - France has restricted the entry of all foreign nationals except those arriving from the EU, UK, Andorra, Vatican City, Iceland, Liechtenstein, Monaco, Norway, San Marino and Switzerland., - France has restricted the entry of all travelers arriving from states outside the wider European area (EU, UK, Andorra, Vatican City, Iceland, Liechtenstein, Monaco, Norway, San Marino and Switzerland)Nationals of France and their spouses and children, long-term residents with French residence permits and their spouses and children, long-term residents of EEA Member States, Andorra, Monaco, San Marino, Switzerland, the United Kingdom or the Vatican City and their spouses and children on their way home, and healthcare professionals may still enter the country. Airline crew, personnel of diplomatic and consular missions and international organizations with offices in France and their spouses and children, and merchant seamen may also still enter.Travelers arriving from outside of the countries listed above must have an International Travel Certificate to enter and transit France, which must be obtained prior to departure via the French consular offices abroad or online at https://www.interieur.gouv.fr.travelers arriving from the uk or from a country that is not an eu member, andorra, vatican city, iceland, liechtenstein, monaco, norway, san marino or switzerland are requested to comply with a voluntary 14-day self-quarantine upon arrival. those arriving from within the european area except the uk are exempt from this regulation. travelers arriving in overseas french territories, as well as any travelers showing symptoms of , will have to carry out a mandatory 14-day quarantine at home or in a facility chosen by the government. mask wearing is obligatory for all travelers above the age of 11.France is expecting to open its borders to travelers from French Overseas Territories starting on June 27, but travelers from other areas outside the EU will continue to be restricted until at least July 1."
     },
     {
       "continent": "AF",
@@ -516,7 +516,7 @@
       "iso_alpha2": "GE",
       "name": "Georgia",
       "score": 3,
-      "updated": "2020-06-30 07:23:21 - Georgia will reopen its borders starting from July 1., - Georgia has restricted the entry of all travelers who are not nationals and residents of Georgia, or an immediate family member."
+      "updated": "2020-06-30 07:23:21 - Georgia has restricted the entry of all travelers who are not nationals and residents of Georgia, or an immediate family member., - Georgia has restricted the entry of all travelers who are not nationals and residents of Georgia, or an immediate family member."
     },
     {
       "continent": "SA",
@@ -565,7 +565,7 @@
       "iso_alpha2": "GN",
       "name": "Guinea",
       "score": 3.4,
-      "updated": "2020-06-30 07:23:21 -  - guinea has suspended all commercial flights from countries with more than 30 confirmed cases of  (). all embassies and consulates abroad have suspended issuances of visas from those countries."
+      "updated": "2020-06-30 07:23:21 - Guinea has suspended all commercial flights until at least July 15., - Guinea has suspended all commercial flights until at least July 15.travelers who test negative and are asymptomatic will be required to complete a mandatory 14-day quarantine at the onomo hotel in conakry. after 14 days of quarantine and two negative  tests the travelers would be allowed to depart the hotel."
     },
     {
       "continent": "NA",
@@ -621,7 +621,7 @@
       "iso_alpha2": "GY",
       "name": "Guyana",
       "score": 3.4,
-      "updated": "2020-06-30 07:23:21 - Guyana has restricted the entry of all foreign nationals., - Guyana has closed its airports to all international passenger flights."
+      "updated": "2020-06-30 07:23:21 - Guyana has restricted the entry of all foreign nationals., - Guyana has closed its airports to all international passenger flights until at least July 2."
     },
     {
       "continent": "AS",
@@ -642,7 +642,7 @@
       "iso_alpha2": "HR",
       "name": "Croatia",
       "score": 3.2,
-      "updated": "2020-06-30 07:23:21 - Croatia has opened its borders to visitors from the EU/EEA and the UK, provided they hold an accommodation reservation in the country., - Croatia has opened its borders to visitors from the EU/EEA and the UK, provided they hold an accommodation reservation or residence permit in the country. The Croatian government has introduced a <a href=-https://entercroatia.mup.hr/->new online entry form</a> to expedite the entry of foreign visitors. Visitors should carry a copy of their accommodation booking or proof of ownership of vacation homes/boats when arriving in Croatia. Business travelers should carry evidence of a business invitation or meetings."
+      "updated": "2020-06-30 07:23:21 - Croatia has opened its borders to visitors from the EU/EEA and the UK, provided they hold an accommodation reservation in the country., - Croatia has opened its borders to visitors from the EU/EEA and the UK, provided they hold an accommodation reservation or residence permit in the country. The Croatian government has introduced a <a href=-https://entercroatia.mup.hr/->new online entry form</a> to expedite the entry of foreign visitors. Visitors should carry a copy of their accommodation booking or proof of ownership of vacation homes/boats when arriving in Croatia. Business travelers should carry evidence of a business invitation or meetings.As of June 25, 2020, Croatia is mandating all individuals arriving from Bosnia Herzegovina, Kosovo, Northern Macedonia, and Serbia to self-isolate for 14 days. This measure will not apply to individuals transiting Croatia to their final destination."
     },
     {
       "continent": "NA",
@@ -1321,7 +1321,7 @@
       "iso_alpha2": "SE",
       "name": "Sweden",
       "score": 3.5,
-      "updated": "2020-06-30 07:23:21 - Sweden has restricted the entry of all travelers who are not arriving from specific European countries. Swedish nationals may still enter the country., - Sweden has restricted the entry of all travelers who are not arriving from Austria, Belgium, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Switzerland or the United Kingdom until at least June 30."
+      "updated": "2020-06-30 07:23:21 - Sweden has restricted the entry of all travelers who are not arriving from specific European countries. Swedish nationals may still enter the country., - Sweden has restricted the entry of all travelers who are not arriving from Austria, Belgium, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Switzerland or the United Kingdom until at least July 7."
     },
     {
       "continent": "AS",
@@ -1342,7 +1342,7 @@
       "iso_alpha2": "SI",
       "name": "Slovenia",
       "score": 2.8,
-      "updated": "2020-06-30 07:23:21 -  - slovenia has reopened its borders to people arriving from certain european countries that it considers to have a low incidence rate of . foreign nationals who are not slovenian residents are still restricted from traveling from countries not on the approved list to slovenia, except in cases where travel is considered -essential- - for example goods transporters or diplomats.Currently, the countries from which travel to Slovenia is unrestricted are:Austria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Montenegro, Norway, Slovakia, Spain, or Switzerland.In general, persons entering Slovenia from abroad are subject to a 14-day quarantine. Per the Slovenian government’s 8 June announcement, travelers arriving from one of the countries on Slovenia’s list of epidemiologically-approved countries are not subject to a 14 day quarantine. In addition, residents of Slovenia are exempt from the quarantine if coming from anywhere in the EU. Same-day transit without quarantine is permitted."
+      "updated": "2020-06-30 07:23:21 -  - slovenia has reopened its borders to people arriving from certain european countries that it considers to have a low incidence rate of . foreign nationals who are not slovenian residents are still restricted from traveling from countries not on the approved list to slovenia, except in cases where travel is considered -essential- - for example goods transporters or diplomats.Currently, the countries from which travel to Slovenia is unrestricted are:Austria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Malta, Norway, Slovakia, Spain, or Switzerland.In general, persons entering Slovenia from abroad are subject to a 14-day quarantine. Per the Slovenian government’s 8 June announcement, travelers arriving from one of the countries on Slovenia’s list of epidemiologically-approved countries are not subject to a 14 day quarantine. In addition, residents of Slovenia are exempt from the quarantine if coming from anywhere in the EU. Same-day transit without quarantine is permitted."
     },
     {
       "continent": "EU",
@@ -1461,7 +1461,7 @@
       "iso_alpha2": "TJ",
       "name": "Tajikistan",
       "score": 3.5,
-      "updated": "2020-06-30 07:23:21 - Tajikistan has suspended all flights., - South Korea has restricted the entry of all travelers who have been in the Hubei Province of China in the past 14 days. Chinese nationals with passports issued in the Hubei Province are also not allowed to enter the country. Korean visas issued by the Wuhan Consulate in the Hubei Province are invalidated. Nationals of China and travelers arriving from China must have visas to transit through South Korea.Travelers arriving from China with a diplomatic, consular, official, service or special passport or who are nationals of Albania, Andorra, Barbados, Dominica, Guyana, Ireland, South Korea, Malta, Mexico, Monaco, Nicaragua, Palau, San Marino, Slovenia, St. Kitts and Nevis, St. Vincent and the Grenadines, the United States, the United Kingdom, the Vatican City and Venezuela may still transit through South Korea without a visa.Short-term visas (type C-1 and C-3) issued on or before April 5 are invalidated. Visa exemptions for 90 nationalities with normal passport are temporarily suspended, except for airline crew.or passengers with an APEC Business Travel Card.Nationals of Mongolia, Russia and Thailand are restricted from transiting through South Korea on their way to or from those countries.chinese nationals who are traveling on business under the fast lane program and their family members are exempt from the quarantine requirements; however, they must self-monitor their health conditions for at least 14 days before departure and must hold a medical certification of a negative  testing result issued within 72 hours before departure. they will receive an additional test upon arrival, after which they must stay at a designated quarantine facility for up to 1-2 days until receiving the result. once receiving a negative test result, they will be allowed to end their quarantine.taiwan has restricted entry of all travelers who are not republic of china taiwan passport holders, alien resident certificate holders, “special entry permit for  outbreak” visa holders, or diplomats.Tajikistan has suspended all flights."
+      "updated": "2020-06-30 07:23:21 - Tajikistan has suspended all flights., - South Korea has restricted the entry of all travelers who have been in the Hubei Province of China in the past 14 days. Chinese nationals with passports issued in the Hubei Province are also not allowed to enter the country. Korean visas issued by the Wuhan Consulate in the Hubei Province are invalidated. Nationals of China and travelers arriving from China must have visas to transit through South Korea.Travelers arriving from China with a diplomatic, consular, official, service or special passport or who are nationals of Albania, Andorra, Barbados, Dominica, Guyana, Ireland, South Korea, Malta, Mexico, Monaco, Nicaragua, Palau, San Marino, Slovenia, St. Kitts and Nevis, St. Vincent and the Grenadines, the United States, the United Kingdom, the Vatican City and Venezuela may still transit through South Korea without a visa.Short-term visas (type C-1 and C-3) issued on or before April 5 are invalidated. Visa exemptions for 90 nationalities with normal passport are temporarily suspended, except for airline crew.or passengers with an APEC Business Travel Card.Nationals of Mongolia, Russia and Thailand are restricted from transiting through South Korea on their way to or from those countries.chinese nationals who are traveling on business under the fast lane program and their family members are exempt from the quarantine requirements; however, they must self-monitor their health conditions for at least 14 days before departure and must hold a medical certification of a negative  testing result issued within 72 hours before departure. they will receive an additional test upon arrival, after which they must stay at a designated quarantine facility for up to 1-2 days until receiving the result. once receiving a negative test result, they will be allowed to end their quarantine.taiwan has restricted entry of all travelers who are not republic of china taiwan passport holders, alien resident certificate holders, “special entry permit for  outbreak” visa holders, or diplomats.Beginning on June 29, Taiwan will allow foreign nationals who wish to travel to Taiwan for reasons other than tourism to apply for a special entry permit with a Taiwan representative office overseas.Tajikistan has suspended all flights."
     },
     {
       "continent": "OC",
@@ -1482,7 +1482,7 @@
       "iso_alpha2": "TN",
       "name": "Tunisia",
       "score": 3.2,
-      "updated": "2020-06-30 07:23:21 - Tunisia has suspended all flights into the country., - Tunisia has suspended all flights into the country until at least June 27."
+      "updated": "2020-06-30 07:23:21 - Tunisia will relax entry restrictions from June 27. Entry requirements will vary depending on the severity of the epidemic in travelers’ country of residence., - Tunisia has suspended all flights into the country until at least June 27.From June 27, entry requirements will vary depending on the prevalence of the epidemic in travelers’ country of residence."
     },
     {
       "continent": "OC",
@@ -1517,7 +1517,7 @@
       "iso_alpha2": "TW",
       "name": "Taiwan",
       "score": 3,
-      "updated": "2020-06-30 07:23:21 - Taiwan has restricted the entry of all foreign nationals. - "
+      "updated": "2020-06-30 07:23:21 - Taiwan has restricted the entry of all foreign nationals. Starting from June 29, foreigners may apply for a special entry permit for non-tourist travel. - "
     },
     {
       "continent": "AF",
@@ -1580,7 +1580,7 @@
       "iso_alpha2": "VE",
       "name": "Venezuela",
       "score": 4.4,
-      "updated": "2020-06-30 07:23:21 - Venezuela has suspended all international travel., - Venezuela has suspended all international travel."
+      "updated": "2020-06-30 07:23:21 - Venezuela has suspended all international travel until at least July 12., - Venezuela has suspended all international travel until at least July 12."
     },
     {
       "continent": "NA",
