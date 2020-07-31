@@ -16,34 +16,6 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:00pm",
-      "GameState": "",
-      "HomeTeam": "Philadelphia Union",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
-      "AwayTeam": "Sporting KC",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png",
-      "TVChannels": "*Quarter Final 1 ESPN ,  ESPN Deportes ,  ESPN Deportes…"
-    }
-  ],
-  "day2": [
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:30pm",
       "GameState": "",
       "HomeTeam": "Orlando City",
@@ -55,7 +27,7 @@
       "TVChannels": "*Quarter Final 2 Fox Sports 1 ,  fuboTV ,  FOX Deportes ,  …"
     }
   ],
-  "day3": [
+  "day2": [
     {
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
@@ -80,7 +52,7 @@
       "AwayTeam": "Sampdoria",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Digi S…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPNPl…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -93,7 +65,7 @@
       "AwayTeam": "Cagliari",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Premie…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPNPlay C…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -106,7 +78,7 @@
       "AwayTeam": "Inter",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-      "TVChannels": "ESPN Deportes ,  ESPN App ,  DAZN ,  DAZN ,  Dig…"
+      "TVChannels": "ESPN Deportes ,  ESPN Deportes+ ,  ESPN App ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -119,7 +91,7 @@
       "AwayTeam": "Lazio",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Digi S…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPNPlay C…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -132,7 +104,7 @@
       "AwayTeam": "Roma",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Premie…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPNPl…"
     },
     {
       "LeagueName": "English FA Cup",
@@ -184,7 +156,7 @@
       "AwayTeam": "Minnesota Utd",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
-      "TVChannels": "*Quarter Final 3 ESPN2 ,  ESPN Deportes ,  ESPN Deporte…"
+      "TVChannels": "*Quarter Final 3 ESPN2 ,  ESPN3 ,  ESPN App ,  M…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -200,7 +172,7 @@
       "TVChannels": "*Quarter Final 4 Fox Sports 1 ,  fuboTV ,  TUDN USA ,  FOX…"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
@@ -225,7 +197,7 @@
       "AwayTeam": "Fiorentina",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Sport…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPNPl…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -238,7 +210,7 @@
       "AwayTeam": "Hellas Verona",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Digi S…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPNPlay C…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -251,7 +223,7 @@
       "AwayTeam": "Parma",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Sport…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPNPlay C…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -264,7 +236,7 @@
       "AwayTeam": "Torino",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Sky S…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPNPl…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -277,7 +249,22 @@
       "AwayTeam": "Udinese",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Sky S…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPNPlay C…"
+    }
+  ],
+  "day4": [
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ],
   "day5": [
@@ -296,21 +283,6 @@
     }
   ],
   "day6": [
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    }
-  ],
-  "day7": [
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
@@ -332,10 +304,10 @@
       "HomeTeam": "København",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "İstanbul Başakşehir fuboTV ,  TUDNxtra ,  CBS All…",
+      "AwayTeam": "İstanbul Başakşehir fuboTV ,  Galavision ,  TUDNxtra ,  …",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "12:55pm   København vs İstanbul Başakşehir fuboTV ,  TUDNxtra ,  CBS All…"
+      "TVChannels": "12:55pm   København vs İstanbul Başakşehir fuboTV ,  Galavision ,  TUDNxtra ,  …"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -345,10 +317,10 @@
       "HomeTeam": "Shakhtar Donetsk",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Wolfsburg fuboTV ,  TUDN USA ,  TUDNxtra ,  …",
+      "AwayTeam": "Wolfsburg fuboTV ,  TUDN USA ,  TUDN.com ,  …",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "12:55pm   Shakhtar Donetsk vs Wolfsburg fuboTV ,  TUDN USA ,  TUDNxtra ,  …"
+      "TVChannels": "12:55pm   Shakhtar Donetsk vs Wolfsburg fuboTV ,  TUDN USA ,  TUDN.com ,  …"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -358,10 +330,10 @@
       "HomeTeam": "Manchester Utd",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "AwayTeam": "LASK Linz fuboTV ,  TUDN USA ,  TUDNxtra ,  …",
+      "AwayTeam": "LASK Linz fuboTV ,  TUDN USA ,  TUDN.com ,  …",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs LASK Linz fuboTV ,  TUDN USA ,  TUDNxtra ,  …"
+      "TVChannels": "vs LASK Linz fuboTV ,  TUDN USA ,  TUDN.com ,  …"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -374,7 +346,7 @@
       "AwayTeam": "Getafe",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-      "TVChannels": "fuboTV ,  TUDNxtra ,  CBS All…"
+      "TVChannels": "fuboTV ,  Galavision ,  TUDNxtra ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -394,13 +366,106 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "8:00pm",
       "GameState": "",
-      "HomeTeam": "MLS is Back Tournament : Semi Final 1 *Semi Final 1 Fox Sports 1 ,  fuboTV ,  TUDN USA ,  FOX…",
+      "HomeTeam": "Philadelphia Union",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "8:00pm   MLS is Back Tournament : Semi Final 1 *Semi Final 1 Fox Sports 1 ,  fuboTV ,  TUDN USA ,  FOX…",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
+      "AwayTeam": "TBD *Semi Final 1 Fox Sports 1 ,  fuboTV ,  TUDN USA ,  FOX…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "8:00pm   MLS is Back Tournament : Semi Final 1 *Semi Final 1 Fox Sports 1 ,  fuboTV ,  TUDN USA ,  FOX…"
+      "TVChannels": "vs TBD *Semi Final 1 Fox Sports 1 ,  fuboTV ,  TUDN USA ,  FOX…"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:55pm",
+      "GameState": "",
+      "HomeTeam": "Bayer Leverkusen",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+      "AwayTeam": "Angers",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
+      "TVChannels": "5pm   Bayer Leverkusen vs Rangers fuboTV ,  Galavision ,  TUDNxtra ,  …"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:55pm",
+      "GameState": "",
+      "HomeTeam": "Sevilla",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Roma",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+      "TVChannels": "fuboTV ,  TUDN USA ,  TUDNxtra ,  …"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Wolves",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+      "AwayTeam": "Olympiakos Piraeus fuboTV ,  TUDN USA ,  TUDNxtra ,  …",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Olympiakos Piraeus fuboTV ,  TUDN USA ,  TUDNxtra ,  …"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Basel",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Eintracht",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+      "TVChannels": "fuboTV ,  Galavision ,  TUDNxtra ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "8:00pm",
+      "GameState": "",
+      "HomeTeam": "MLS is Back Tournament : Semi Final 2 *Semi Final 2 ESPN2 ,  ESPN Deportes ,  ESPN Deporte…",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "8:00pm   MLS is Back Tournament : Semi Final 2 *Semi Final 2 ESPN2 ,  ESPN Deportes ,  ESPN Deporte…",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "8:00pm   MLS is Back Tournament : Semi Final 2 *Semi Final 2 ESPN2 ,  ESPN Deportes ,  ESPN Deporte…"
     }
   ]
 }
