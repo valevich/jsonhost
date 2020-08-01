@@ -1,4 +1,30 @@
 {
+  "today": [
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "7:30pm",
+      "GameState": "",
+      "HomeTeam": "Los Angeles FC",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png",
+      "AwayTeam": "Los Angeles FC",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png",
+      "TVChannels": "*Quarter Final 2 Fox Sports 1 ,  fuboTV ,  FOX Deportes ,  UniMás ,  …"
     }
   ],
   "day2": [
