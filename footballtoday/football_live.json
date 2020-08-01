@@ -1,30 +1,4 @@
 {
-  "today": [
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:30pm",
-      "GameState": "FT ",
-      "HomeTeam": "Orlando City",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png",
-      "AwayTeam": "Los Angeles FC",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png",
-      "TVChannels": "*Quarter Final 2 Fox Sports 1 ,  fuboTV ,  FOX Deportes ,  UniMás ,  …"
     }
   ],
   "day2": [
@@ -159,10 +133,10 @@
       "HomeTeam": "København",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "İstanbul Başakşehir fuboTV ,  Galavision ,  TUDNxtra ,  …",
+      "AwayTeam": "İstanbul Başakşehir fuboTV ,  Galavision ,  Univision NO…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "12:55pm   København vs İstanbul Başakşehir fuboTV ,  Galavision ,  TUDNxtra ,  …"
+      "TVChannels": "12:55pm   København vs İstanbul Başakşehir fuboTV ,  Galavision ,  Univision NO…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -201,7 +175,7 @@
       "AwayTeam": "Getafe",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-      "TVChannels": "fuboTV ,  Galavision ,  TUDNxtra ,  …"
+      "TVChannels": "fuboTV ,  Galavision ,  Univision NO…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -255,7 +229,7 @@
       "AwayTeam": "Angers",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-      "TVChannels": "5pm   Bayer Leverkusen vs Rangers fuboTV ,  Galavision ,  TUDNxtra ,  …"
+      "TVChannels": "5pm   Bayer Leverkusen vs Rangers fuboTV ,  Galavision ,  Univision NO…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -268,7 +242,7 @@
       "AwayTeam": "Roma",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-      "TVChannels": "fuboTV ,  TUDN USA ,  TUDNxtra ,  …"
+      "TVChannels": "fuboTV ,  TUDN USA ,  TUDN.com ,  …"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -278,10 +252,10 @@
       "HomeTeam": "Wolves",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-      "AwayTeam": "Olympiakos Piraeus fuboTV ,  TUDN USA ,  TUDNxtra ,  …",
+      "AwayTeam": "Olympiakos Piraeus fuboTV ,  TUDN USA ,  TUDN.com ,  …",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Olympiakos Piraeus fuboTV ,  TUDN USA ,  TUDNxtra ,  …"
+      "TVChannels": "vs Olympiakos Piraeus fuboTV ,  TUDN USA ,  TUDN.com ,  …"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -294,7 +268,7 @@
       "AwayTeam": "Eintracht",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-      "TVChannels": "fuboTV ,  Galavision ,  TUDNxtra ,  …"
+      "TVChannels": "fuboTV ,  Galavision ,  Univision NO…"
     },
     {
       "LeagueName": "Major League Soccer",
