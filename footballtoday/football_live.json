@@ -289,10 +289,10 @@
       "HomeTeam": "Shakhtar Donetsk",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Wolfsburg fuboTV ,  TUDN USA ,  TUDN.com ,  …",
+      "AwayTeam": "Wolfsburg fuboTV ,  TUDN USA ,  UniMás ,  …",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "12:55pm   Shakhtar Donetsk vs Wolfsburg fuboTV ,  TUDN USA ,  TUDN.com ,  …"
+      "TVChannels": "12:55pm   Shakhtar Donetsk vs Wolfsburg fuboTV ,  TUDN USA ,  UniMás ,  …"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -302,10 +302,10 @@
       "HomeTeam": "Manchester Utd",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "AwayTeam": "LASK Linz fuboTV ,  TUDN USA ,  TUDN.com ,  …",
+      "AwayTeam": "LASK Linz fuboTV ,  TUDN USA ,  UniMás ,  …",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs LASK Linz fuboTV ,  TUDN USA ,  TUDN.com ,  …"
+      "TVChannels": "vs LASK Linz fuboTV ,  TUDN USA ,  UniMás ,  …"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -385,7 +385,7 @@
       "AwayTeam": "Roma",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-      "TVChannels": "fuboTV ,  TUDN USA ,  TUDN.com ,  …"
+      "TVChannels": "fuboTV ,  TUDN USA ,  UniMás ,  …"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -395,10 +395,10 @@
       "HomeTeam": "Wolves",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-      "AwayTeam": "Olympiakos Piraeus fuboTV ,  TUDN USA ,  TUDN.com ,  …",
+      "AwayTeam": "Olympiakos Piraeus fuboTV ,  TUDN USA ,  UniMás ,  …",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Olympiakos Piraeus fuboTV ,  TUDN USA ,  TUDN.com ,  …"
+      "TVChannels": "vs Olympiakos Piraeus fuboTV ,  TUDN USA ,  UniMás ,  …"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -442,8 +442,8 @@
   ],
   "day7": [
     {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
