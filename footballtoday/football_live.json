@@ -96,21 +96,6 @@
   ],
   "day3": [
     {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    }
-  ],
-  "day4": [
-    {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "",
@@ -202,7 +187,7 @@
       "TVChannels": "*Semi Final 1 Fox Sports 1 ,  fuboTV ,  TUDN USA ,  FOX…"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
@@ -295,7 +280,7 @@
       "TVChannels": "*Semi Final 2 ESPN2 ,  ESPN Deportes ,  ESPN Deporte…"
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
@@ -336,7 +321,7 @@
       "TVChannels": "nais fuboTV ,  Galavision ,  TUDN.com ,  …"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
@@ -375,6 +360,21 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
       "TVChannels": "CBS Sports Network ,  fuboTV ,  T…"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ]
 }
