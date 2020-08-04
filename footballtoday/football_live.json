@@ -152,19 +152,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Basel",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Eintracht",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-      "TVChannels": "fuboTV ,  Galavision ,  Univision NO…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
       "HomeTeam": "Wolves",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
@@ -172,6 +159,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "vs Olympiakos Piraeus fuboTV ,  TUDN USA ,  UniMás ,  …"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Basel",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Eintracht",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+      "TVChannels": "fuboTV ,  Galavision ,  Univision NO…"
     },
     {
       "LeagueName": "Major League Soccer",
