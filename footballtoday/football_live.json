@@ -1,8 +1,8 @@
 {
   "today": [
     {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
@@ -12,6 +12,84 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:55pm",
+      "GameState": "",
+      "HomeTeam": "København",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "İstanbul Başakşehir fuboTV ,  Galavision ,  Univision NO…",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:55pm   København vs İstanbul Başakşehir fuboTV ,  Galavision ,  Univision NO…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:55pm",
+      "GameState": "",
+      "HomeTeam": "Shakhtar Donetsk",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Wolfsburg fuboTV ,  TUDN USA ,  UniMás ,  …",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:55pm   Shakhtar Donetsk vs Wolfsburg fuboTV ,  TUDN USA ,  UniMás ,  …"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Manchester Utd",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+      "AwayTeam": "LASK Linz fuboTV ,  TUDN USA ,  UniMás ,  …",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs LASK Linz fuboTV ,  TUDN USA ,  UniMás ,  …"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Inter",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+      "AwayTeam": "Getafe",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+      "TVChannels": "fuboTV ,  Galavision ,  Univision NO…"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "8:00pm",
+      "GameState": "",
+      "HomeTeam": "Philadelphia Union",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
+      "AwayTeam": "Portland Timbers",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
+      "TVChannels": "*Semi Final 1 Fox Sports 1 ,  fuboTV ,  TUDN USA ,  FOX…"
     }
   ],
   "day2": [
