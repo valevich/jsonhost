@@ -669,7 +669,7 @@
     "iso_alpha2": "IE",
     "name": "Ireland",
     "score": "3.2 (Medium Risk)",
-    "updated": "2020-08-03 07:21:39 - Ireland is not currently implementing any entry restrictions. - "
+    "updated": "2020-08-03 07:21:39 - Ireland is not currently implementing any entry restrictions, but quarantines apply to travelers arriving from certain countries. - "
   },
   {
     "continent": "AS",
@@ -1537,7 +1537,7 @@
     "iso_alpha2": "UG",
     "name": "Uganda",
     "score": "3.4 (Medium Risk)",
-    "updated": "2020-08-03 07:21:39 - Uganda has suspended all flights. - "
+    "updated": "2020-08-03 07:21:39 - Uganda has suspended all flights except repatriation flights.rn - "
   },
   {
     "continent": "NA",
