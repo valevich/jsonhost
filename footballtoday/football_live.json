@@ -1,8 +1,8 @@
 {
   "today": [
     {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
@@ -14,82 +14,30 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "12:55pm",
-      "GameState": "FT ",
-      "HomeTeam": "Bayer Leverkusen",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-      "AwayTeam": "Angers",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-      "TVChannels": "5pm FT   Bayer Leverkusen  1 - 0  Rangers fuboTV ,  Galavision ,  Univision NOW ,  TUDNxtr…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "12:55pm",
-      "GameState": "FT ",
-      "HomeTeam": "Sevilla",
-      "HomeGoals": "2",
-      "HomeLogo": "",
-      "AwayTeam": "Roma",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-      "TVChannels": "fuboTV ,  TUDN USA ,  UniMás ,  TUDN.com ,  Univ…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Basel",
-      "HomeGoals": "1",
-      "HomeLogo": "",
-      "AwayTeam": "Eintracht",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-      "TVChannels": "fuboTV ,  Galavision ,  Univision NOW ,  TUDNxtr…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "3:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Wolves",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-      "AwayTeam": "Olympiakos Piraeus fuboTV ,  TUDN USA ,  UniMás ,  TUDN.com ,  Univ…",
-      "AwayGoals": "0",
-      "AwayLogo": "",
-      "TVChannels": "1 - 0  Olympiakos Piraeus fuboTV ,  TUDN USA ,  UniMás ,  TUDN.com ,  Univ…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "",
       "GameState": "",
-      "HomeTeam": "",
+      "HomeTeam": "Manchester City",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+      "AwayTeam": "Real Madrid",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+      "TVChannels": "CBS Sports Network ,  fuboTV ,  T…"
     },
     {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Orlando City",
-      "HomeGoals": "3",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png",
-      "AwayTeam": "Minnesota Utd",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
-      "TVChannels": "*Semi Final 2 ESPN2 ,  ESPN Deportes ,  ESPN Deportes+ ,  E…"
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Juventus",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+      "AwayTeam": "Lyon",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+      "TVChannels": "nais fuboTV ,  Galavision ,  TUDN.com ,  …"
     }
   ],
   "day2": [
