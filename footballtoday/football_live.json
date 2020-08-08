@@ -53,50 +53,9 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Bayern München",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Chelsea",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "TVChannels": "fuboTV ,  Galavision ,  TUDN.com ,  …"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Barcelona",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-      "AwayTeam": "Napoli",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-      "TVChannels": "CBS Sports Network ,  fuboTV ,  T…"
     }
   ],
   "day3": [
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    }
-  ],
-  "day4": [
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
@@ -137,7 +96,7 @@
       "TVChannels": "vs København *Quarter Final 2 fuboTV ,  TUDNxtra ,  CBS All…"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
@@ -204,7 +163,7 @@
       "TVChannels": "*Final ESPN ,  ESPN Deportes ,  ESPN Deportes…"
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
@@ -232,7 +191,7 @@
       "TVChannels": "vs PSG *Quarter Final 1 fuboTV ,  TUDN USA ,  UniMás ,  …"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
@@ -258,6 +217,34 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "vs Atlético Madrid *Quarter Final 2 fuboTV ,  TUDN USA ,  UniMás ,  …"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "UEFA Champions League: Quarter Final 3 fuboTV ,  TUDN USA ,  UniMás ,  …",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "3:00pm   UEFA Champions League: Quarter Final 3 fuboTV ,  TUDN USA ,  UniMás ,  …",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "3:00pm   UEFA Champions League: Quarter Final 3 fuboTV ,  TUDN USA ,  UniMás ,  …"
     }
   ]
 }
