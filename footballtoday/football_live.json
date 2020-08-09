@@ -12,32 +12,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "3:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Bayern München",
-      "HomeGoals": "4",
-      "HomeLogo": "",
-      "AwayTeam": "Chelsea",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "TVChannels": "fuboTV ,  Galavision ,  TUDN.com ,  Univision NO…"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "3:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Barcelona",
-      "HomeGoals": "3",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-      "AwayTeam": "Napoli",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-      "TVChannels": "CBS Sports Network ,  fuboTV ,  TUDN USA ,  Uni…"
     }
   ],
   "day2": [
@@ -65,7 +39,7 @@
       "AwayTeam": "Bayer Leverkusen",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-      "TVChannels": "*Quarter Final 1 fuboTV ,  Galavision ,  TUDNxtra ,  …"
+      "TVChannels": "*Quarter Final 1 fuboTV ,  Galavision ,  Univision NO…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -199,7 +173,7 @@
       "AwayTeam": "Nashville SC",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
-      "TVChannels": "ESPN+ ,  MLSsoccer.com ,  MLS App"
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ],
   "day5": [
