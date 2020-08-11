@@ -17,27 +17,27 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "3:00pm",
-      "GameState": "70 ",
+      "GameState": "FT ",
       "HomeTeam": "Wolves",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
       "AwayTeam": "Sevilla FC",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-      "TVChannels": "*Quarter Final 3 fuboTV ,  TUDN USA ,  UniMás ,  …"
+      "TVChannels": "*Quarter Final 3 fuboTV ,  TUDN USA ,  UniMás ,  TUDN.com ,  Univ…"
     },
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "3:00pm",
-      "GameState": "73 ",
+      "GameState": "FT ",
       "HomeTeam": "Shakhtar Donetsk",
-      "HomeGoals": "2",
+      "HomeGoals": "4",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/493.png",
       "AwayTeam": "FC Basel",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/989.png",
-      "TVChannels": "*Quarter Final 4 fuboTV ,  Galavision ,  Univision NO…"
+      "TVChannels": "*Quarter Final 4 fuboTV ,  Galavision ,  Univision NOW ,  TUDNxtr…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -173,7 +173,7 @@
       "AwayTeam": "Bayern Munich",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-      "TVChannels": "*Quarter Final 3 fuboTV ,  TUDN USA ,  UniMás ,  …"
+      "TVChannels": "*Quarter Final 3 fuboTV ,  TUDN USA ,  Univision ,  …"
     }
   ],
   "day5": [
@@ -223,13 +223,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "UEFA Europa League: Semi Final 1 *Semi Final 1 fuboTV ,  TUDNxtra ,  CBS All…",
+      "HomeTeam": "Sevilla FC",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "3:00pm   UEFA Europa League: Semi Final 1 *Semi Final 1 fuboTV ,  TUDNxtra ,  CBS All…",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+      "AwayTeam": "Manchester Utd",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "3:00pm   UEFA Europa League: Semi Final 1 *Semi Final 1 fuboTV ,  TUDNxtra ,  CBS All…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+      "TVChannels": "*Semi Final 1 fuboTV ,  TUDNxtra ,  CBS All…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -277,13 +277,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "UEFA Europa League: Semi Final 2 *Semi Final 2 fuboTV ,  TUDNxtra ,  CBS All…",
+      "HomeTeam": "Inter",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "3:00pm   UEFA Europa League: Semi Final 2 *Semi Final 2 fuboTV ,  TUDNxtra ,  CBS All…",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+      "AwayTeam": "Shakhtar Donetsk",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "3:00pm   UEFA Europa League: Semi Final 2 *Semi Final 2 fuboTV ,  TUDNxtra ,  CBS All…"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/493.png",
+      "TVChannels": "*Semi Final 2 fuboTV ,  TUDNxtra ,  CBS All…"
     }
   ]
 }
