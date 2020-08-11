@@ -39,7 +39,7 @@
     "iso_alpha2": "AO",
     "name": "Angola",
     "score": "Entry prohibited",
-    "updated": "From June 30, 2020, foreign nationals are prohibited from entering Angola. This policy does not apply to long-term residents, diplomats, crews transporting cargo, or humanitarian aid workers. All persons (including Angolan nationals) must hold proof of a negative test result for COVID-19 issued no more than 8 days prior to departure and must undergo a 14-day quarantine upon arrival in Angola. All land border checkpoints are closed until further notice and passenger vessels are prohibited from docking at Angolan ports. A state of public calamity is in effect until further notice."
+    "updated": "From June 30, 2020, foreign nationals are prohibited from entering Angola. This policy does not apply to long-term residents, diplomats, crews transporting cargo, or humanitarian aid workers. All persons (including Angolan nationals) must hold proof of a negative test result for COVID-19 issued no more than 72 hours prior to departure and must undergo a 14-day quarantine upon arrival in Angola. All land border checkpoints are closed until further notice and passenger vessels are prohibited from docking at Angolan ports. A state of public calamity is in effect until further notice."
   },
   {
     "continent": "",
@@ -480,7 +480,7 @@
     "iso_alpha2": "GM",
     "name": "Gambia",
     "score": "Entry prohibited",
-    "updated": "From March 23, 2020, the border with Senegal is closed and international flights are suspended. This policy does not apply to cargo or medical flights."
+    "updated": "All land border checkpoints are closed and international flights are suspended. This policy does not apply to cargo or medical flights. A nightly curfew is in effect nationwide from 22:00 (10:00 p.m.) to 05:00 (5:00 a.m.) and the Gambian government has declared a state of emergency."
   },
   {
     "continent": "",
@@ -753,7 +753,7 @@
     "iso_alpha2": "LT",
     "name": "Lithuania",
     "score": "Partially restricted",
-    "updated": "From August 3, 2020, foreign nationals are prohibited from entering Lithuania. This policy does not apply to persons who reside in countries or regions in the European Union (with the exception of Belgium, Bulgaria, Croatia, Czech Republic, Luxembourg, Malta, Portugal, Romania, Spain, and Sweden), countries or regions associated with the Schengen Area, Australia, Canada, Georgia, Japan, Morocco, New Zealand, Rwanda, South Korea, Thailand, Tunisia, United Kingdom, or Uruguay, provided the rate of COVID-19 infections in those locations has not exceeded 25 cases per 100,000 inhabitants during the 14 days prior to arrival in Lithuania according to the Lithuanian State Commander of National Emergency Operations. Persons arriving from Austria, France, or Switzerland must undergo a 14-day quarantine upon arrival. More information is available at the following URL: https://koronastop.lrv.lt/en/Further exemptions exist for foreign nationals who are family members of Lithuanian citizens, persons enjoying immunities and privileges under the Vienna Convention on Diplomatic Relations (1961) or the Vienna Convention on Consular Relations (1963), persons serving in military units of NATO and of NATO countries, and their family members, crew members engaged in commercial transportation, healthcare professionals, artists holding permission from the Minister of Culture, journalists holding permission of the Minister of Foreign Affairs, and other persons holding specific permission from the Lithuanian government."
+    "updated": "From August 7, 2020, foreign nationals are prohibited from entering Lithuania. This policy does not apply to persons who reside in countries or regions in the European Union (with the exception of Belgium, Bulgaria, Croatia, Czech Republic, Iceland, Luxembourg, Malta, Netherlands, Portugal, Romania, Spain, and Sweden), countries or regions associated with the Schengen Area, or the United Kingdom, provided the rate of COVID-19 infections in those locations has not exceeded 25 cases per 100,000 inhabitants during the 14 days prior to arrival in Lithuania according to the Lithuanian State Commander of National Emergency Operations. Persons arriving from Austria, Croatia, Cyprus, France, Poland, or Switzerland must undergo a 14-day quarantine upon arrival. More information is available at the following URL: https://koronastop.lrv.lt/en/"
   },
   {
     "continent": "",
