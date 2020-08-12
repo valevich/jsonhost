@@ -1,8 +1,8 @@
 {
   "today": [
     {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
@@ -14,30 +14,17 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Wolves",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-      "AwayTeam": "Sevilla FC",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-      "TVChannels": "*Quarter Final 3 fuboTV ,  TUDN USA ,  UniMás ,  TUDN.com ,  Univ…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "3:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Shakhtar Donetsk",
-      "HomeGoals": "4",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/493.png",
-      "AwayTeam": "FC Basel",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/989.png",
-      "TVChannels": "*Quarter Final 4 fuboTV ,  Galavision ,  Univision NOW ,  TUDNxtr…"
+      "GameState": "",
+      "HomeTeam": "Atalanta",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+      "AwayTeam": "PSG",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "TVChannels": "*Quarter Final 1 fuboTV ,  TUDN USA ,  UniMás ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -55,15 +42,15 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Portland Timbers",
-      "HomeGoals": "2",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
-      "AwayTeam": "Orlando City",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png",
-      "TVChannels": "*MLS is back Tournament Final ESPN ,  ESPN Deportes ,  ESPN Deportes+ ,  ES…"
+      "GameTime": "8:30pm",
+      "GameState": "",
+      "HomeTeam": "FC Dallas",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
+      "AwayTeam": "Nashville SC",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ],
   "day2": [
