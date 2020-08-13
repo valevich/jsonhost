@@ -17,40 +17,14 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Atalanta",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-      "AwayTeam": "PSG",
-      "AwayGoals": "2",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-      "TVChannels": "*Quarter Final 1 fuboTV ,  TUDN USA ,  UniMás ,  TUDN.com ,  Univ…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "",
       "GameState": "",
-      "HomeTeam": "",
+      "HomeTeam": "RB Leipzig",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+      "AwayTeam": "Atletico Madrid",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:30pm",
-      "GameState": "FT ",
-      "HomeTeam": "FC Dallas",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
-      "AwayTeam": "Nashville SC",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  MLS App ,  …"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+      "TVChannels": "*Quarter Final 2 fuboTV ,  TUDN USA ,  UniMás ,  …"
     }
   ],
   "day2": [
@@ -134,7 +108,7 @@
       "AwayTeam": "Manchester Utd",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "TVChannels": "*Semi Final 1 fuboTV ,  TUDN USA ,  TUDNxtra ,  …"
+      "TVChannels": "*Semi Final 1 fuboTV ,  TUDN USA ,  TUDN.com ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
