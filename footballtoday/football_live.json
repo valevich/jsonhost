@@ -20,11 +20,11 @@
       "GameState": "FT ",
       "HomeTeam": "Atalanta",
       "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-      "AwayTeam": "PSG",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/105.png",
+      "AwayTeam": "Paris Saint Germain",
       "AwayGoals": "2",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-      "TVChannels": "*Quarter Final 1 fuboTV ,  TUDN USA ,  UniMás ,  TUDN.com ,  Univ…"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/160.png",
+      "TVChannels": "anta  1 - 2  PSG *Quarter Final 1 fuboTV ,  TUDN USA ,  UniMás ,  TUDN.com ,  Univ…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -44,13 +44,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "8:30pm",
       "GameState": "90 ",
-      "HomeTeam": "FC Dallas",
+      "HomeTeam": "Dallas",
       "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
-      "AwayTeam": "Nashville SC",
+      "HomeLogo": "",
+      "AwayTeam": "Nashville Sc",
       "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  MLS App ,  …"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/18986.png",
+      "TVChannels": "'   Dallas  0 - 1  Nashville SC ESPN+ ,  ESPN App ,  MLSsoccer.com ,  MLS App ,  …"
     }
   ],
   "day2": [
@@ -72,13 +72,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Barcelona",
+      "HomeTeam": "Rb Leipzig",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-      "AwayTeam": "Bayern Munich",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11420.png",
+      "AwayTeam": "Atlético Madrid *Quarter Final 2 fuboTV ,  TUDN USA ,  UniMás ,  …",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-      "TVChannels": "*Quarter Final 3 fuboTV ,  TUDN USA ,  Univision ,  …"
+      "AwayLogo": "",
+      "TVChannels": "RB Leipzig vs Atlético Madrid *Quarter Final 2 fuboTV ,  TUDN USA ,  UniMás ,  …"
     }
   ],
   "day3": [
@@ -100,19 +100,19 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Manchester City",
+      "HomeTeam": "Barcelona",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "AwayTeam": "Lyon",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/83.png",
+      "AwayTeam": "Bayern München *Quarter Final 3 fuboTV ,  TUDN USA ,  Univision ,  …",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "TVChannels": "nais *Quarter Final 4 fuboTV ,  TUDN USA ,  UniMás ,  …"
+      "AwayLogo": "",
+      "TVChannels": "vs Bayern München *Quarter Final 3 fuboTV ,  TUDN USA ,  Univision ,  …"
     }
   ],
   "day4": [
     {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
@@ -124,43 +124,17 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Sevilla FC",
+      "HomeTeam": "Manchester City",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-      "AwayTeam": "Manchester Utd",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/382.png",
+      "AwayTeam": "Lyon",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "TVChannels": "*Semi Final 1 fuboTV ,  TUDN USA ,  TUDNxtra ,  …"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:30pm",
-      "GameState": "",
-      "HomeTeam": "FC Dallas",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
-      "AwayTeam": "Nashville SC",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/167.png",
+      "TVChannels": "nais *Quarter Final 4 fuboTV ,  TUDN USA ,  UniMás ,  …"
     }
   ],
   "day5": [
@@ -182,16 +156,70 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Inter",
+      "HomeTeam": "Sevilla",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+      "HomeLogo": "",
+      "AwayTeam": "Manchester United",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/360.png",
+      "TVChannels": "*Semi Final 1 fuboTV ,  TUDN USA ,  TUDNxtra ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "8:30pm",
+      "GameState": "",
+      "HomeTeam": "Dallas",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Nashville Sc",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/18986.png",
+      "TVChannels": "Dallas vs Nashville SC ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+    }
+  ],
+  "day6": [
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Internazionale",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/110.png",
       "AwayTeam": "Shakhtar Donetsk",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/493.png",
       "TVChannels": "*Semi Final 2 fuboTV ,  TUDNxtra ,  CBS All…"
     }
   ],
-  "day6": [
+  "day7": [
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
@@ -217,34 +245,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "3:00pm   UEFA Champions League: Semi Final 1 *Semi Final 1 fuboTV ,  TUDN USA ,  Univision ,  …"
-    }
-  ],
-  "day7": [
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "UEFA Champions League: Semi Final 2 *Semi Final 2 fuboTV ,  TUDN USA ,  Univision ,  …",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "3:00pm   UEFA Champions League: Semi Final 2 *Semi Final 2 fuboTV ,  TUDN USA ,  Univision ,  …",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "3:00pm   UEFA Champions League: Semi Final 2 *Semi Final 2 fuboTV ,  TUDN USA ,  Univision ,  …"
     }
   ]
 }
