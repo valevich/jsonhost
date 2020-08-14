@@ -17,12 +17,12 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "",
+      "GameState": "25 ",
       "HomeTeam": "Barcelona",
-      "HomeGoals": "",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
       "AwayTeam": "Bayern Munich",
-      "AwayGoals": "",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
       "TVChannels": "*Quarter Final 3 fuboTV ,  TUDN USA ,  Univision ,  …"
     }
@@ -219,45 +219,6 @@
       "TVChannels": "3:00pm   UEFA Champions League: Semi Final 2 *Semi Final 2 fuboTV ,  TUDN USA ,  Univision ,  …"
     }
   ],
-  "day7": [
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:00pm",
-      "GameState": "",
-      "HomeTeam": "NY Red Bulls",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
-      "AwayTeam": "NYFC",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:30pm",
-      "GameState": "",
-      "HomeTeam": "Columbus Crew",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-      "AwayTeam": "Chicago Fire ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Chicago Fire ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ]
 }
