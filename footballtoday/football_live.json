@@ -159,10 +159,10 @@
       "HomeTeam": "Celtic",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "KR *Qualifying Round 2020/2021 fuboTV ,  TUDNxtra ,  CBS All…",
+      "AwayTeam": "KR *Qualifying Round 2020/2021",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "2:45pm   Celtic vs KR *Qualifying Round 2020/2021 fuboTV ,  TUDNxtra ,  CBS All…"
+      "TVChannels": "2:45pm   Celtic vs KR *Qualifying Round 2020/2021"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -191,6 +191,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "Budućnost",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Ludogorets *Qualifying Round 2020/2021 Diema Sport ,  Play Diema Xtra",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   Budućnost vs Ludogorets *Qualifying Round 2020/2021 Diema Sport ,  Play Diema Xtra"
     },
     {
       "LeagueName": "UEFA Champions League",
