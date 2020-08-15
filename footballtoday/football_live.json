@@ -17,14 +17,14 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Barcelona",
-      "HomeGoals": "2",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-      "AwayTeam": "Bayern Munich",
-      "AwayGoals": "8",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-      "TVChannels": "*Quarter Final 3 fuboTV ,  TUDN USA ,  Univision ,  TUDN.com ,  Un…"
+      "GameState": "",
+      "HomeTeam": "Manchester City",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+      "AwayTeam": "Lyon",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+      "TVChannels": "nais *Quarter Final 4 fuboTV ,  TUDN USA ,  Univision ,  …"
     }
   ],
   "day2": [
@@ -106,7 +106,7 @@
       "AwayTeam": "Shakhtar Donetsk",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/493.png",
-      "TVChannels": "*Semi Final 2 fuboTV ,  TUDN USA ,  TUDNxtra ,  …"
+      "TVChannels": "*Semi Final 2 fuboTV ,  TUDN USA ,  TUDN.com ,  …"
     }
   ],
   "day4": [
@@ -131,10 +131,10 @@
       "HomeTeam": "Celtic",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "KR *Qualifying Round 2020/2021",
+      "AwayTeam": "KR *Qualifying Round 2020/2021 DAZN",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "2:45pm   Celtic vs KR *Qualifying Round 2020/2021"
+      "TVChannels": "2:45pm   Celtic vs KR *Qualifying Round 2020/2021 DAZN"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -173,7 +173,7 @@
       "AwayTeam": "Vancouver Whitecaps",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
-      "TVChannels": ""
+      "TVChannels": "MLSsoccer.com ,  MLS App ,  ESPNPlay C…"
     }
   ],
   "day5": [
@@ -198,10 +198,10 @@
       "HomeTeam": "Budućnost",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Ludogorets *Qualifying Round 2020/2021 Diema Sport ,  Play Diema Xtra",
+      "AwayTeam": "Ludogorets *Qualifying Round 2020/2021 fuboTV ,  TUDNxtra ,  CBS All…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "2:00pm   Budućnost vs Ludogorets *Qualifying Round 2020/2021 Diema Sport ,  Play Diema Xtra"
+      "TVChannels": "2:00pm   Budućnost vs Ludogorets *Qualifying Round 2020/2021 fuboTV ,  TUDNxtra ,  CBS All…"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -242,7 +242,7 @@
       "AwayTeam": "NYFC",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  M…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -387,7 +387,7 @@
       "AwayTeam": "Vancouver Whitecaps",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
-      "TVChannels": ""
+      "TVChannels": "MLSsoccer.com ,  MLS App ,  ESPNPlay C…"
     }
   ]
 }
