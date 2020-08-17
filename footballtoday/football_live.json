@@ -44,6 +44,19 @@
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Qarabağ",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Sileks *Qualifying Round 2020/2021 CBC Sport Azerbaijan",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:00pm   Qarabağ vs Sileks *Qualifying Round 2020/2021 CBC Sport Azerbaijan"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Celtic",
@@ -66,6 +79,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
       "TVChannels": "*Semi Final 1 fuboTV ,  TUDN USA ,  Univision ,  …"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Brest",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+      "AwayTeam": "Astana *Qualifying Round 2020/2021 Qazsport",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Astana *Qualifying Round 2020/2021 Qazsport"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -116,10 +142,10 @@
       "HomeTeam": "Ararat-Armenia",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Omonia Nicosia *Qualifying Round 2020/2021 Sport 2 CZ/SK ,  DIGI GO",
+      "AwayTeam": "Omonia Nicosia *Qualifying Round 2020/2021 Sport 1 Hungary ,  Sport 2 CZ/SK ,  Sportbox…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "11:00am   Ararat-Armenia vs Omonia Nicosia *Qualifying Round 2020/2021 Sport 2 CZ/SK ,  DIGI GO"
+      "TVChannels": "11:00am   Ararat-Armenia vs Omonia Nicosia *Qualifying Round 2020/2021 Sport 1 Hungary ,  Sport 2 CZ/SK ,  Sportbox…"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -488,10 +514,10 @@
       "HomeTeam": "Monaco",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Reims DAZN ,  OLL.tv ,  ŠTV 1 ,  BT Sport 1 ,  Nova Spor…",
+      "AwayTeam": "Reims DAZN ,  Digi Sport 1 ,  OLL.tv ,  Sportbox.ru ,  ŠTV…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "7:00am   Monaco vs Reims DAZN ,  OLL.tv ,  ŠTV 1 ,  BT Sport 1 ,  Nova Spor…"
+      "TVChannels": "7:00am   Monaco vs Reims DAZN ,  Digi Sport 1 ,  OLL.tv ,  Sportbox.ru ,  ŠTV…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -517,7 +543,7 @@
       "AwayTeam": "Angers",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-      "TVChannels": "SCO Téléfoot"
+      "TVChannels": "SCO Digi Sport 3 Hungary ,  Téléfoot"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -543,7 +569,7 @@
       "AwayTeam": "Strasbourg",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-      "TVChannels": "ŠTV 2 ,  Téléfoot"
+      "TVChannels": "Digi Sport 2 ,  ŠTV 2 ,  Téléfoot"
     },
     {
       "LeagueName": "French Ligue 1",
