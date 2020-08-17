@@ -186,7 +186,7 @@
       "AwayTeam": "NYFC",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  M…"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -200,6 +200,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "vs Chicago Fire ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "7:30pm",
+      "GameState": "",
+      "HomeTeam": "New England",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Philadelphia Union",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  NBCSports…"
     }
   ],
   "day5": [
@@ -312,26 +325,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "8:00pm",
       "GameState": "",
-      "HomeTeam": "New England",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Philadelphia Union",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  NBCSports…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:00pm",
-      "GameState": "",
       "HomeTeam": "Toronto FC",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
       "AwayTeam": "Vancouver Whitecaps",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
-      "TVChannels": "MLSsoccer.com ,  MLS App ,  ESPNPlay C…"
+      "TVChannels": "MLSsoccer.com ,  MLS App ,  TSN App ,  TS…"
     }
   ],
   "day6": [
@@ -582,7 +582,7 @@
       "AwayTeam": "Seattle Sounders",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
-      "TVChannels": "MLSsoccer.com ,  750 The Game ,  …"
+      "TVChannels": "Fox Sports 1 ,  fuboTV ,  MLSsoccer…"
     }
   ]
 }
