@@ -17,14 +17,14 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "3:00pm",
-      "GameState": "73 ",
+      "GameState": "FT ",
       "HomeTeam": "Inter",
-      "HomeGoals": "2",
+      "HomeGoals": "5",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
       "AwayTeam": "Shakhtar Donetsk",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/493.png",
-      "TVChannels": "*Semi Final 2 fuboTV ,  TUDN USA ,  UniMás ,  …"
+      "TVChannels": "*Semi Final 2 fuboTV ,  TUDN USA ,  UniMás ,  TUDN.com ,  Univ…"
     }
   ],
   "day2": [
@@ -380,10 +380,10 @@
       "HomeTeam": "Sevilla FC",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-      "AwayTeam": "Inter/Shaktar *UEFA Europa League: Final CBS Sports Network ,  fuboTV ,  …",
+      "AwayTeam": "Inter",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Inter/Shaktar *UEFA Europa League: Final CBS Sports Network ,  fuboTV ,  …"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+      "TVChannels": "*UEFA Europa League: Final CBS Sports Network ,  fuboTV ,  …"
     },
     {
       "LeagueName": "French Ligue 1",
