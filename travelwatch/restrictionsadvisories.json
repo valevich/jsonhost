@@ -32,7 +32,7 @@
     "iso_alpha2": "AM",
     "name": "Armenia",
     "score": "Partially restricted",
-    "updated": "Foreign nationals from countries or regions with a high prevalence of COVID-19 infections are prohibited from entering Armenia. A state of emergency is in effect until at least August 12, 2020. Armenia's land borders with Georgia and Iran are closed. Armenian nationals may depart Armenia only by air."
+    "updated": "Foreign nationals from countries or regions with a high prevalence of COVID-19 infections are prohibited from entering Armenia. A state of emergency is in effect until at least September 11, 2020, and Armenia's land borders with Georgia and Iran are closed. Armenian nationals may depart Armenia only via air."
   },
   {
     "continent": "",
@@ -46,7 +46,7 @@
     "iso_alpha2": "AR",
     "name": "Argentina",
     "score": "Entry prohibited",
-    "updated": "Foreign nationals are prohibited from entering Argentina. This policy does not apply to legal residents. A nationwide home quarantine order is in effect until at least August 16, 2020. Most international flights are suspended."
+    "updated": "Foreign nationals are prohibited from entering Argentina. This policy does not apply to legal residents. A nationwide home quarantine order is in effect until at least August 30, 2020. Most international flights are suspended."
   },
   {
     "continent": "",
@@ -256,7 +256,7 @@
     "iso_alpha2": "CL",
     "name": "Chile",
     "score": "Entry prohibited",
-    "updated": "Foreign nationals are prohibited from entering Chile. Chilean citizens and lawful residents returning from countries or regions deemed high-risk for COVID-19 must self-isolate for 14 days upon arrival."
+    "updated": "Foreign nationals are prohibited from entering Chile. This policy does not apply to lawful residents. All border checkpoints are closed until further notice. A nationwide curfew is in effect nightly from 22:00 (10:00 p.m.) to 05:00 (5:00 a.m.). All international flights are suspended."
   },
   {
     "continent": "",
@@ -340,7 +340,7 @@
     "iso_alpha2": "DK",
     "name": "Denmark",
     "score": "Partially restricted",
-    "updated": "From July 4, 2020, foreign nationals are prohibited from entering Denmark. This policy does not apply to persons arriving from countries or regions in the European Union (with the exception of Portugal and Sweden), countries or regions associated with the Schengen Area, Australia, Canada, Japan, New Zealand, South Korea, or Thailand. Documentation showing a minimum stay of 6 nights is required in order to enter Denmark for tourism. Health screening will occur at border checkpoints and persons exhibiting symptoms of illness will be denied entry."
+    "updated": "From August 13, 2020, foreign nationals are prohibited from entering Denmark. This policy does not apply to persons arriving from countries or regions in the European Union (with the exception of Belgium, Bulgaria, Luxembourg, Romania, and Spain) countries or regions associated with the Schengen Area, Australia, Canada, Japan, New Zealand, South Korea, Thailand, Tunisia, and Uruguay. Foreign nationals seeking to travel to Denmark must have a worthy purpose or present documentation showing a minimum stay of 6 nights. This policy does not apply to persons arriving from Norway, the provinces of Scania, Halland, or Blekinge in Sweden, or the state of Schleswig-Holstein in Germany. Health screening will occur at border checkpoints and persons exhibiting symptoms of illness will be denied entry. Additional information is available at the following URL: https://politi.dk/en/coronavirus-in-denmark/travelling-in-or-out-of-denmark/is-my-country-open-or-banned"
   },
   {
     "continent": "",
@@ -907,7 +907,7 @@
     "iso_alpha2": "MZ",
     "name": "Mozambique",
     "score": "Entry prohibited",
-    "updated": "The Mozambican government has suspended the issuing of new visas and all previously-issued visas are no longer valid. A state of emergency is in effect and all persons returning from abroad or who have been in contact with persons known to have COVID-19 must undergo a 14-day quarantine. All commercial flights are suspended until at least July 31, 2020."
+    "updated": "The Mozambican government has suspended the issuing of new visas and all previously-issued visas are no longer valid. A state of emergency is in effect and all persons returning from abroad or who have been in contact with persons known to have COVID-19 must undergo a 14-day quarantine. All commercial flights are suspended until at least September 6, 2020."
   },
   {
     "continent": "",
@@ -949,14 +949,14 @@
     "iso_alpha2": "NO",
     "name": "Norway",
     "score": "Partially restricted",
-    "updated": "From July 15, 2020, all persons residing in an EU/EEA or Schengen country will be able to enter Norway. Those who live in a country with a low risk of infection do not need to be quarantined when they travel to Norway: Belgium, Denmark, Estonia, Finland, France, the Faroe Islands, Greenland, Greece, Ireland, Iceland, Italy, Cyprus, Latvia, Liechtenstein, Lithuania, Malta, the Netherlands, Poland, Slovakia, Slovenia, Spain, the United Kingdom, Switzerland, the Czech Republic, Germany and Austria and the regions Blekinge, Kronoberg and Skåne in Sweden.Those who live in a country with a high risk of infection must be quarantined when they travel to Norway: Bulgaria, Croatia, Luxembourg, Portugal, Romania, parts of Sweden (see exceptions above) and Hungary."
+    "updated": "Foreign nationals are prohibited from entering Norway until at least October 1, 2020. This policy does not apply to persons who hold a valid Norwegian residence or work permit. The Norwegian government will classify countries / regions as either yellow or red based determinations by Norwegian health authorities. Persons arriving from yellow locations are exempt from mandatory quarantine requirements. Persons arriving from red locations or from locations for which there is insufficient health data (striped locations) must undergo a mandatory quarantine upon arrival. An official list is available from the Norwegian government at the following URL: https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/travel-advice-COVID19/"
   },
   {
     "continent": "",
     "iso_alpha2": "NP",
     "name": "Nepal",
-    "score": "Normal",
-    "updated": "From March 22 until August 16, 2020, all international flights are suspended and all land border checkpoints with India and China are closed. Persons wishing to enter Nepal must first visit a Nepali embassy or consulate abroad, which will decide whether to issue a visa after inspecting an applicant's health certificate. All persons arriving in Nepal will be screened for COVID-19 at Tribhuvan International Airport and those granted entry must self-isolate for 14 days. Nepal has halted all mountaineering expeditions and revoked all already-issued or to be-issued permits for the spring climbing season."
+    "score": "Partially restricted",
+    "updated": "All international flights are suspended and all land border checkpoints with India and China are closed until at least August 31, 2020. Persons wishing to enter Nepal must first visit a Nepali embassy or consulate abroad, which will decide whether to issue a visa after inspecting an applicant's health certificate. All persons arriving in Nepal will be screened for COVID-19 at Tribhuvan International Airport and those granted entry must self-isolate for 14 days. Nepal has halted all mountaineering expeditions and revoked all already-issued or to be-issued permits for the 2020 climbing season."
   },
   {
     "continent": "",
@@ -1068,7 +1068,7 @@
     "iso_alpha2": "RS",
     "name": "Serbia",
     "score": "Partially restricted",
-    "updated": "From May 22, 2020, a negative test or a special permit for both domestic and foreign citizens will not be required to enter the Republic of Serbia. Serbian nationals returning from outbreak hotspots will be quarantined from between 14 to 28 days. From May 12, 2020, foreign nationals can enter the Republic of Serbia under two conditions - a negative PCR test for coronavirus not older than 72 hours and a permit issued by a commission consisting of representatives of the Ministry of Health, Ministry of Construction, Transport and Infrastructure, Ministry of Foreign Affairs and the Ministry of the Interior. This permit is issued by the Serbian embassy or consulate in the country from which a foreign national arrives."
+    "updated": "From August 15, 2020, foreign nationals arriving from Bulgaria, Croatia, North Macedonia, or Romania must carry proof of a negative result for COVID-19 issued no more than 48 hours prior to departure using a polymerase chain reaction (PCR) test. This policy does not apply to lawful residents, diplomats, children under 12, or persons transiting through Serbia who remain within Serbian jurisdiction for less than 12 hours."
   },
   {
     "continent": "",
@@ -1158,8 +1158,8 @@
     "continent": "",
     "iso_alpha2": "SO",
     "name": "Somalia",
-    "score": "Entry prohibited",
-    "updated": "From March 18, 2020, all land border checkpoints are closed and all international flights are suspended."
+    "score": "Partially restricted",
+    "updated": "From August 3, 2020, all persons traveling to Somalia must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure. A nightly curfew is in effect in Mogadishu from 20:00 (8:00 p.m.) to 05:00 (5:00 a.m.) and all travel into the city is prohibited during those hours."
   },
   {
     "continent": "",
@@ -1292,7 +1292,7 @@
     "iso_alpha2": "TZ",
     "name": "Tanzania",
     "score": "Partially restricted",
-    "updated": "All persons arriving in Tanzania must carry proof of a negative test result for COVID-19 issued no more than 72 hours prior to travel by an accredited laboratory or testing provider. Persons showing symptoms consistent with COVID-19 may be required to undergo additional testing upon arrival."
+    "updated": "All persons arriving in Tanzania are subject to enhanced screening for COVID-19. Persons displaying symptoms consistent with COVID-19 are subject to additional testing requirements."
   },
   {
     "continent": "",
