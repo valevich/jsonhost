@@ -50,7 +50,7 @@
       "AwayTeam": "Nashville SC",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  MLS App ,  …"
     }
   ],
   "day2": [
@@ -75,10 +75,10 @@
       "HomeTeam": "Celtic",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "KR *Qualifying Round 2020/2021 SportKlub 1 Serbia ,  Sportklub 1 Croatia",
+      "AwayTeam": "KR *Qualifying Round 2020/2021 SportKlub 1 Serbia ,  Sportklub 1 Croatia ,  …",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "2:45pm   Celtic vs KR *Qualifying Round 2020/2021 SportKlub 1 Serbia ,  Sportklub 1 Croatia"
+      "TVChannels": "2:45pm   Celtic vs KR *Qualifying Round 2020/2021 SportKlub 1 Serbia ,  Sportklub 1 Croatia ,  …"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -247,13 +247,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "UEFA Europa League: Final *Final CBS Sports Network ,  fuboTV ,  …",
+      "HomeTeam": "Sevilla FC",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "3:00pm   UEFA Europa League: Final *Final CBS Sports Network ,  fuboTV ,  …",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+      "AwayTeam": "Inter/Shaktar *UEFA Europa League: Final CBS Sports Network ,  fuboTV ,  …",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "3:00pm   UEFA Europa League: Final *Final CBS Sports Network ,  fuboTV ,  …"
+      "TVChannels": "vs Inter/Shaktar *UEFA Europa League: Final CBS Sports Network ,  fuboTV ,  …"
     },
     {
       "LeagueName": "French Ligue 1",
