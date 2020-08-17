@@ -150,6 +150,71 @@
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Molde",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "KuPS *Qualifying Round 2020/2021 VG+",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:00pm   Molde vs KuPS *Qualifying Round 2020/2021 VG+"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "12:30pm",
+      "GameState": "",
+      "HomeTeam": "Flora",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Sūduva *Qualifying Round 2020/2021 ETV 2",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:30pm   Flora vs Sūduva *Qualifying Round 2020/2021 ETV 2"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Celje",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Dundalk *Qualifying Round 2020/2021 RTE 2 ,  RTE Player",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   Celje vs Dundalk *Qualifying Round 2020/2021 RTE 2 ,  RTE Player"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Maccabi Tel Aviv",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Riga *Qualifying Round 2020/2021 Sport 1",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   Maccabi Tel Aviv vs Riga *Qualifying Round 2020/2021 Sport 1"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Dinamo Tbilisi",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Tirana *Qualifying Round 2020/2021",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   Dinamo Tbilisi vs Tirana *Qualifying Round 2020/2021"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "2:00pm",
       "GameState": "",
       "HomeTeam": "Budućnost",
@@ -168,10 +233,49 @@
       "HomeTeam": "Ferencváros",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Djurgården *Qualifying Round 2020/2021 Sport 2 CZ/SK ,  DIGI GO",
+      "AwayTeam": "Djurgården *Qualifying Round 2020/2021 Sport 2 CZ/SK ,  Duna World ,  DIGI GO",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "2:00pm   Ferencváros vs Djurgården *Qualifying Round 2020/2021 Sport 2 CZ/SK ,  DIGI GO"
+      "TVChannels": "2:00pm   Ferencváros vs Djurgården *Qualifying Round 2020/2021 Sport 2 CZ/SK ,  Duna World ,  DIGI GO"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "KÍ",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Slovan Bratislava *Qualifying Round 2020/2021 Dvojka",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   KÍ vs Slovan Bratislava *Qualifying Round 2020/2021 Dvojka"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "Connah's Quay",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Sarajebo *Qualifying Round 2020/2021 BBC Wales",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   Connah's Quay vs Sarajebo *Qualifying Round 2020/2021 BBC Wales"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "Sheriff",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Fola Esch *Qualifying Round 2020/2021",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   Sheriff vs Fola Esch *Qualifying Round 2020/2021"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -185,6 +289,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
       "TVChannels": "*Semi Final 2 fuboTV ,  TUDN USA ,  Univision ,  …"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Floriana",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "CFR Cluj *Qualifying Round 2020/2021",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "3:00pm   Floriana vs CFR Cluj *Qualifying Round 2020/2021"
     }
   ],
   "day4": [
