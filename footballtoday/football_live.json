@@ -436,6 +436,19 @@
       "TVChannels": "LeagueHeader"
     },
     {
+      "LeagueName": "French Ligue 1",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Bordeaux",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
+      "AwayTeam": "Nantes",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
+      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
+    },
+    {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "",
@@ -514,19 +527,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "11:00am",
-      "GameState": "",
-      "HomeTeam": "Bordeaux",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
-      "AwayTeam": "Nantes",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -626,13 +626,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "UEFA Champions League: Final *Final CBS Sports Network ,  fuboTV ,  T…",
+      "HomeTeam": "PSG",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "3:00pm   UEFA Champions League: Final *Final CBS Sports Network ,  fuboTV ,  T…",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "AwayTeam": "TBD *Final CBS Sports Network ,  fuboTV ,  T…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "3:00pm   UEFA Champions League: Final *Final CBS Sports Network ,  fuboTV ,  T…"
+      "TVChannels": "vs TBD *Final CBS Sports Network ,  fuboTV ,  T…"
     },
     {
       "LeagueName": "French Ligue 1",
