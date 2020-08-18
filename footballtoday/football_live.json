@@ -1,8 +1,8 @@
 {
   "today": [
     {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
@@ -14,17 +14,108 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Qarabağ",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Sileks *Qualifying Round 2020/2021 CBC Sport Azerbaijan",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:00pm   Qarabağ vs Sileks *Qualifying Round 2020/2021 CBC Sport Azerbaijan"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Legia Warszawa",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Linfield *Qualifying Round 2020/2021 TVP Sport ,  TVP Sport Live Streaming ,  Ca…",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   Legia Warszawa vs Linfield *Qualifying Round 2020/2021 TVP Sport ,  TVP Sport Live Streaming ,  Ca…"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "2:45pm",
+      "GameState": "",
+      "HomeTeam": "Celtic",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "KR *Qualifying Round 2020/2021 SportKlub 1 Serbia ,  Sportklub 1 Croatia ,  …",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:45pm   Celtic vs KR *Qualifying Round 2020/2021 SportKlub 1 Serbia ,  Sportklub 1 Croatia ,  …"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Inter",
-      "HomeGoals": "5",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-      "AwayTeam": "Shakhtar Donetsk",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/493.png",
-      "TVChannels": "*Semi Final 2 fuboTV ,  TUDN USA ,  UniMás ,  TUDN.com ,  Univ…"
+      "GameState": "",
+      "HomeTeam": "RB Leipzig",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+      "AwayTeam": "PSG",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "TVChannels": "*Semi Final 1 fuboTV ,  TUDN USA ,  Univision ,  …"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Crvena Zvezda",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Europa *Qualifying Round 2020/2021 RTS 1 ,  Sport 1 Hungary ,  Sportbox.ru ,  Match…",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "3:00pm   Crvena Zvezda vs Europa *Qualifying Round 2020/2021 RTS 1 ,  Sport 1 Hungary ,  Sportbox.ru ,  Match…"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Brest",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+      "AwayTeam": "Astana *Qualifying Round 2020/2021 Qazsport",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Astana *Qualifying Round 2020/2021 Qazsport"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "8:00pm",
+      "GameState": "",
+      "HomeTeam": "Toronto FC",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
+      "AwayTeam": "Vancouver Whitecaps",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ],
   "day2": [
@@ -246,10 +337,10 @@
       "HomeTeam": "Columbus Crew",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-      "AwayTeam": "Chicago Fire ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …",
+      "AwayTeam": "Chicago Fire ESPN+ ,  fuboTV ,  ESPN App ,  …",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Chicago Fire ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "TVChannels": "vs Chicago Fire ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -461,7 +552,7 @@
       "AwayTeam": "Nashville SC",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -660,7 +751,7 @@
       "AwayTeam": "Columbus Crew",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  YES Network ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     }
   ]
 }
