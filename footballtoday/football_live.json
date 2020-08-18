@@ -30,38 +30,38 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "1:00pm",
-      "GameState": "73 ",
+      "GameState": "FT ",
       "HomeTeam": "Legia Warszawa",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "",
       "AwayTeam": "Linfield *Qualifying Round 2020/2021 TVP Sport ,  TVP Sport Live Streaming ,  Ca…",
       "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "1:00pm 73 '   Legia Warszawa  0 - 0  Linfield *Qualifying Round 2020/2021 TVP Sport ,  TVP Sport Live Streaming ,  Ca…"
+      "TVChannels": "1:00pm FT   Legia Warszawa  1 - 0  Linfield *Qualifying Round 2020/2021 TVP Sport ,  TVP Sport Live Streaming ,  Ca…"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "2:45pm",
-      "GameState": "",
+      "GameState": "45 ",
       "HomeTeam": "Celtic",
-      "HomeGoals": "",
+      "HomeGoals": "3",
       "HomeLogo": "",
       "AwayTeam": "KR *Qualifying Round 2020/2021 SportKlub 1 Serbia ,  Sportklub 1 Croatia ,  …",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "2:45pm   Celtic vs KR *Qualifying Round 2020/2021 SportKlub 1 Serbia ,  Sportklub 1 Croatia ,  …"
+      "TVChannels": "2:45pm 45 '   Celtic  3 - 0  KR *Qualifying Round 2020/2021 SportKlub 1 Serbia ,  Sportklub 1 Croatia ,  …"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "",
+      "GameState": "29 ",
       "HomeTeam": "RB Leipzig",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
       "AwayTeam": "PSG",
-      "AwayGoals": "",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
       "TVChannels": "*Semi Final 1 fuboTV ,  TUDN USA ,  Univision ,  …"
     },
@@ -69,27 +69,27 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "",
+      "GameState": "28 ",
       "HomeTeam": "Crvena Zvezda",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Europa *Qualifying Round 2020/2021 RTS 1 ,  Sport 1 Hungary ,  Sportbox.ru ,  Match…",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "3:00pm   Crvena Zvezda vs Europa *Qualifying Round 2020/2021 RTS 1 ,  Sport 1 Hungary ,  Sportbox.ru ,  Match…"
+      "TVChannels": "3:00pm 28 '   Crvena Zvezda  0 - 0  Europa *Qualifying Round 2020/2021 RTS 1 ,  Sport 1 Hungary ,  Sportbox.ru ,  Match…"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "30 ",
+      "GameState": "73 ",
       "HomeTeam": "Brest",
-      "HomeGoals": "3",
+      "HomeGoals": "5",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
       "AwayTeam": "Astana *Qualifying Round 2020/2021 Qazsport",
-      "AwayGoals": "0",
+      "AwayGoals": "2",
       "AwayLogo": "",
-      "TVChannels": "3 - 0  Astana *Qualifying Round 2020/2021 Qazsport"
+      "TVChannels": "5 - 2  Astana *Qualifying Round 2020/2021 Qazsport"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -304,6 +304,45 @@
   ],
   "day3": [
     {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "Glentoran",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "HB *Preliminary Round 2020/2021 BBC Sport Web",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   Glentoran vs HB *Preliminary Round 2020/2021 BBC Sport Web"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "2:30pm",
+      "GameState": "",
+      "HomeTeam": "Coleraine",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "La Fiorita *Preliminary Round 2020/2021 BBC Sport Web",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:30pm   Coleraine vs La Fiorita *Preliminary Round 2020/2021 BBC Sport Web"
+    },
+    {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "",
@@ -404,10 +443,10 @@
       "HomeTeam": "Marseille",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-      "AwayTeam": "Saint-Étienne beIN SPORTS ,  fuboTV ,  Fanatiz…",
+      "AwayTeam": "Saint-Étienne DAZN ,  BT Sport ESPN ,  Digi Sport 1 ,  Digi…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Saint-Étienne beIN SPORTS ,  fuboTV ,  Fanatiz…"
+      "TVChannels": "vs Saint-Étienne DAZN ,  BT Sport ESPN ,  Digi Sport 1 ,  Digi…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -642,10 +681,10 @@
       "HomeTeam": "Montpellier",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-      "AwayTeam": "Lyon",
+      "AwayTeam": "Roma",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "TVChannels": "nais beIN SPORTS ,  fuboTV ,  Fanatiz…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+      "TVChannels": "nia ,  Ring.b…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -684,7 +723,7 @@
       "AwayTeam": "Strasbourg",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-      "TVChannels": "beIN SPORTS ,  beIN SPORTS CONNECT ,  …"
+      "TVChannels": "beIN SPORTS ,  fuboTV ,  beIN SP…"
     },
     {
       "LeagueName": "French Ligue 1",
