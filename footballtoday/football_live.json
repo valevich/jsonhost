@@ -43,40 +43,40 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "2:45pm",
-      "GameState": "81 ",
+      "GameState": "FT ",
       "HomeTeam": "Celtic",
-      "HomeGoals": "5",
+      "HomeGoals": "6",
       "HomeLogo": "",
       "AwayTeam": "KR *Qualifying Round 2020/2021 SportKlub 1 Serbia ,  Sportklub 1 Croatia ,  …",
       "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "2:45pm 81 '   Celtic  5 - 0  KR *Qualifying Round 2020/2021 SportKlub 1 Serbia ,  Sportklub 1 Croatia ,  …"
+      "TVChannels": "2:45pm FT   Celtic  6 - 0  KR *Qualifying Round 2020/2021 SportKlub 1 Serbia ,  Sportklub 1 Croatia ,  …"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "65 ",
+      "GameState": "FT ",
       "HomeTeam": "RB Leipzig",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
       "AwayTeam": "PSG",
       "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-      "TVChannels": "*Semi Final 1 fuboTV ,  TUDN USA ,  Univision ,  …"
+      "TVChannels": "*Semi Final 1 fuboTV ,  TUDN USA ,  Univision ,  TUDN.com ,  Un…"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "65 ",
+      "GameState": "FT ",
       "HomeTeam": "Crvena Zvezda",
-      "HomeGoals": "3",
+      "HomeGoals": "5",
       "HomeLogo": "",
       "AwayTeam": "Europa *Qualifying Round 2020/2021 RTS 1 ,  Sport 1 Hungary ,  Sportbox.ru ,  Match…",
       "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "3:00pm 65 '   Crvena Zvezda  3 - 0  Europa *Qualifying Round 2020/2021 RTS 1 ,  Sport 1 Hungary ,  Sportbox.ru ,  Match…"
+      "TVChannels": "3:00pm FT   Crvena Zvezda  5 - 0  Europa *Qualifying Round 2020/2021 RTS 1 ,  Sport 1 Hungary ,  Sportbox.ru ,  Match…"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -231,10 +231,10 @@
       "HomeTeam": "Ferencváros",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Djurgården *Qualifying Round 2020/2021 Sport 2 CZ/SK ,  Viaplay Denmark ,  Duna Wor…",
+      "AwayTeam": "Djurgården *Qualifying Round 2020/2021 Sport 2 CZ/SK ,  Viaplay Denmark ,  Viaplay…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "2:00pm   Ferencváros vs Djurgården *Qualifying Round 2020/2021 Sport 2 CZ/SK ,  Viaplay Denmark ,  Duna Wor…"
+      "TVChannels": "2:00pm   Ferencváros vs Djurgården *Qualifying Round 2020/2021 Sport 2 CZ/SK ,  Viaplay Denmark ,  Viaplay…"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -434,19 +434,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Marseille",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-      "AwayTeam": "Saint-Étienne DAZN ,  BT Sport ESPN ,  Digi Sport 1 ,  Digi…",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Saint-Étienne DAZN ,  BT Sport ESPN ,  Digi Sport 1 ,  Digi…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -697,7 +684,7 @@
       "AwayTeam": "Angers",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-      "TVChannels": "SCO Digi Sport 3 Hungary ,  DAZN ,  Téléfoot"
+      "TVChannels": "SCO Viaplay Denmark ,  Viaplay Sweden ,  Viaplay N…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -710,7 +697,7 @@
       "AwayTeam": "Brest",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-      "TVChannels": "Téléfoot"
+      "TVChannels": "Viaplay Denmark ,  Viaplay Sweden ,  Viaplay N…"
     },
     {
       "LeagueName": "French Ligue 1",
