@@ -284,7 +284,7 @@
     "iso_alpha2": "CR",
     "name": "Costa Rica",
     "score": "Partially restricted",
-    "updated": "From August 1, 2020, foreign nationals are prohibited from entering Costa Rica. This policy does not apply to citizens from countries or regions in the European Union, countries or regions associated with the Schengen Area, Canada, and the United Kingdom. All persons traveling to Costa Rica must provide travel information via a digital form, must show proof of a negative result for COVID-19 issued no more than 48 hours prior to departure using a polymerase china reaction (PCR) test, and must have travel insurance sufficient to cover all expenses related to quarantine and/or treatment due to acute illnesses such as COVID-19. Persons who do not meet these requirements will be prohibited from boarding flights bound for Costa Rica."
+    "updated": "From August 13, 2020, foreign nationals are prohibited from entering Costa Rica. This policy does not apply to citizens from countries or regions in the European Union, countries or regions associated with the Schengen Area, Australia, Canada, China, Japan, New Zealand, Singapore, South Korea, Thailand, United Kingdom, or Uruguay. All persons traveling to Costa Rica must provide travel information via a digital form, must show proof of a negative result for COVID-19 issued no more than 48 hours prior to departure using a polymerase china reaction (PCR) test, and must have travel insurance sufficient to cover all expenses related to quarantine and/or treatment due to acute illnesses such as COVID-19. Persons who do not meet these requirements will be prohibited from boarding flights bound for Costa Rica."
   },
   {
     "continent": "",
@@ -753,7 +753,7 @@
     "iso_alpha2": "LT",
     "name": "Lithuania",
     "score": "Partially restricted",
-    "updated": "From August 7, 2020, foreign nationals are prohibited from entering Lithuania. This policy does not apply to persons who reside in countries or regions in the European Union (with the exception of Belgium, Bulgaria, Croatia, Czech Republic, Iceland, Luxembourg, Malta, Netherlands, Portugal, Romania, Spain, and Sweden), countries or regions associated with the Schengen Area, or the United Kingdom, provided the rate of COVID-19 infections in those locations has not exceeded 25 cases per 100,000 inhabitants during the 14 days prior to arrival in Lithuania according to the Lithuanian State Commander of National Emergency Operations. Persons arriving from Austria, Croatia, Cyprus, France, Poland, or Switzerland must undergo a 14-day quarantine upon arrival. More information is available at the following URL: https://koronastop.lrv.lt/en/"
+    "updated": "From August 17, 2020, foreign nationals are prohibited from entering Lithuania. This policy does not apply to citizens and legal residents from countries or regions in the European Union, countries or regions associated with the Schengen Area, or the United Kingdom. Persons arriving from locations where the rate of COVID-19 infections exceeds 16 cases per 100,000 inhabitants during the 14 days prior to arrival in Lithuania according to the Lithuanian State Commander of National Emergency Operations must self-isolate for 14 days upon arrival. Persons arriving from locations where the rate of COVID-19 infections exceeds 25 cases per 100,000 inhabitants during the 14 days prior to arrival in Lithuania must provide proof of a negative COVID-19 test result issued no more than 72 hours prior to departure. More information is available at the following URL: https://koronastop.lrv.lt/en/"
   },
   {
     "continent": "",
@@ -906,8 +906,8 @@
     "continent": "",
     "iso_alpha2": "MZ",
     "name": "Mozambique",
-    "score": "Entry prohibited",
-    "updated": "The Mozambican government has suspended the issuing of new visas and all previously-issued visas are no longer valid. A state of emergency is in effect and all persons returning from abroad or who have been in contact with persons known to have COVID-19 must undergo a 14-day quarantine. All commercial flights are suspended until at least September 6, 2020."
+    "score": "Partially restricted",
+    "updated": "Persons traveling to Mozambique must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test performed in the country or region of departure. Persons must, at their own expense, self-isolate for 10 days upon arrival at their homes or other suitable accommodation. Afterwards, they must undergo an additional PCR test. Persons unable to afford the additional PCR test may elect to self-isolate for a full 14 days. Most land border checkpoints remain closed."
   },
   {
     "continent": "",
@@ -1103,7 +1103,7 @@
     "iso_alpha2": "SC",
     "name": "Seychelles",
     "score": "Partially restricted",
-    "updated": "From August 1, 2020, the Seychelles government will designate countries / regions as either low-risk, medium-risk, or high-risk for COVID-19:1) Persons arriving from low-risk locations must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. If a PCR test is not available, a rapid antigen test (RAT) may be substituted. Low-risk locations include the following: Belgium, China, Cyprus, Estonia, Finland, Iceland, Hungary, Ireland, Japan, Latvia, Lithuania, Malta, Mauritius, Netherlands, New Zealand, Norway, Thailand;2) Persons arriving from medium-risk locations must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Medium-risk locations include the following: Austria, Canada, Cuba, Czech Republic, Denmark, France, Germany, Greece, Italy, Luxembourg, Malaysia, Monaco, Singapore, Slovakia, Slovenia, South Korea, Spain, Sri Lanka, Switzerland, United Arab Emirates;3) Persons in high-risk locations are prohibited from entering Seychelles.More information is available at the following URL: http://tourism.gov.sc/"
+    "updated": "From August 17, 2020, foreign nationals are prohibited from visiting the Seychelles. This policy does not apply to persons traveling from the following countries or regions: Austria, Canada, China, Cyprus, Denmark, Estonia, Finland, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Malaysia, Mauritius, Monaco, New Zealand, Norway, Portugal, Slovakia, Slovenia, South Korea, Sir Lanka, Switzerland, Thailand, Tunisia, or Untied Arab Emirates. Persons arriving in the Seychelles must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Results should submitted using the official form provided at the following URL: http://tourism.gov.sc/wp-content/uploads/2020/05/Submission-of-Covid-test-result-to-PHA-updated.pdf and afterwards emailed directly to health authorities at visitor@health.gov.sc . More information is available at the following URL: http://tourism.gov.sc/"
   },
   {
     "continent": "",
