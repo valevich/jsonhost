@@ -120,6 +120,190 @@
   ],
   "day2": [
     {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "11:00am",
+      "GameState": "",
+      "HomeTeam": "Ararat-Armenia",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Omonia Nicosia *Qualifying Round 2020/2021 Sport 1 Hungary ,  Sport 2 CZ/SK ,  Sportbox…",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "11:00am   Ararat-Armenia vs Omonia Nicosia *Qualifying Round 2020/2021 Sport 1 Hungary ,  Sport 2 CZ/SK ,  Sportbox…"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Molde",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "KuPS *Qualifying Round 2020/2021 VG+",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:00pm   Molde vs KuPS *Qualifying Round 2020/2021 VG+"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "12:30pm",
+      "GameState": "",
+      "HomeTeam": "Flora",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Sūduva *Qualifying Round 2020/2021 ETV 2",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:30pm   Flora vs Sūduva *Qualifying Round 2020/2021 ETV 2"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Celje",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Dundalk *Qualifying Round 2020/2021 RTE 2 ,  RTE Player",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   Celje vs Dundalk *Qualifying Round 2020/2021 RTE 2 ,  RTE Player"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Maccabi Tel Aviv",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Riga *Qualifying Round 2020/2021 Sport 1",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   Maccabi Tel Aviv vs Riga *Qualifying Round 2020/2021 Sport 1"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Dinamo Tbilisi",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Tirana *Qualifying Round 2020/2021",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   Dinamo Tbilisi vs Tirana *Qualifying Round 2020/2021"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "Budućnost",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Ludogorets *Qualifying Round 2020/2021 Arena Sport BIH ,  Diema Sport ,  Play Diema…",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   Budućnost vs Ludogorets *Qualifying Round 2020/2021 Arena Sport BIH ,  Diema Sport ,  Play Diema…"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "Ferencváros",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Djurgården *Qualifying Round 2020/2021 Sport 2 CZ/SK ,  Viaplay Denmark ,  Viaplay…",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   Ferencváros vs Djurgården *Qualifying Round 2020/2021 Sport 2 CZ/SK ,  Viaplay Denmark ,  Viaplay…"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "KÍ",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Slovan Bratislava *Qualifying Round 2020/2021 Dvojka",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   KÍ vs Slovan Bratislava *Qualifying Round 2020/2021 Dvojka"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "Connah's Quay",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Sarajebo *Qualifying Round 2020/2021 BBC Wales",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   Connah's Quay vs Sarajebo *Qualifying Round 2020/2021 BBC Wales"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "Sheriff",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Fola Esch *Qualifying Round 2020/2021",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   Sheriff vs Fola Esch *Qualifying Round 2020/2021"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Lyon",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+      "AwayTeam": "Bayern Munich",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+      "TVChannels": "*Semi Final 2 fuboTV ,  TUDN USA ,  Univision ,  …"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Floriana",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "CFR Cluj *Qualifying Round 2020/2021",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "3:00pm   Floriana vs CFR Cluj *Qualifying Round 2020/2021"
+    }
+  ],
+  "day3": [
+    {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "",
@@ -211,7 +395,7 @@
       "TVChannels": "ESPN+ ,  fuboTV ,  NBCSports…"
     }
   ],
-  "day3": [
+  "day4": [
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
@@ -263,6 +447,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
       "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
+    },
+    {
+      "LeagueName": "French Ligue 1",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Marseille",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+      "AwayTeam": "Roma",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+      "TVChannels": "nia ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -330,7 +527,7 @@
       "TVChannels": "MLSsoccer.com ,  MLS App ,  TSN App ,  TS…"
     }
   ],
-  "day4": [
+  "day5": [
     {
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
@@ -423,7 +620,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ],
-  "day5": [
+  "day6": [
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
@@ -568,7 +765,7 @@
       "TVChannels": "Fox Sports 1 ,  fuboTV ,  MLSsoccer…"
     }
   ],
-  "day6": [
+  "day7": [
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
@@ -593,112 +790,6 @@
       "AwayTeam": "Columbus Crew",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
-    }
-  ],
-  "day7": [
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "PAOK",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Beşiktaş *2nd Qualifying Round 2020/2021 D-Smart GO ,  Spor Smart",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "3:00pm   PAOK vs Beşiktaş *2nd Qualifying Round 2020/2021 D-Smart GO ,  Spor Smart"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:00pm",
-      "GameState": "",
-      "HomeTeam": "DC United",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png",
-      "AwayTeam": "New England ESPN+ ,  fuboTV ,  NBCSports…",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs New England ESPN+ ,  fuboTV ,  NBCSports…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:30pm",
-      "GameState": "",
-      "HomeTeam": "Chicago Fire",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "FC Cincinnati",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:30pm",
-      "GameState": "",
-      "HomeTeam": "Philadelphia Union",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
-      "AwayTeam": "NY Red Bulls",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:00pm",
-      "GameState": "",
-      "HomeTeam": "Montreal Impact",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
-      "AwayTeam": "Vancouver Whitecaps",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
-      "TVChannels": "MLSsoccer.com ,  MLS App ,  TSN App ,  TS…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:30pm",
-      "GameState": "",
-      "HomeTeam": "Sporting KC",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png",
-      "AwayTeam": "Houston Dynamo",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     }
   ]
