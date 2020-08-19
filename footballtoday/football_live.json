@@ -43,79 +43,79 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "12:30pm",
-      "GameState": "ET ",
+      "GameState": "FT ",
       "HomeTeam": "Flora",
       "HomeGoals": "1",
       "HomeLogo": "",
-      "AwayTeam": "Sūduva *Qualifying Round 2020/2021 ETV 2",
+      "AwayTeam": "P  Sūduva *Qualifying Round 2020/2021 ETV 2",
       "AwayGoals": "1",
       "AwayLogo": "",
-      "TVChannels": "12:30pm ET   Flora  1 - 1  Sūduva *Qualifying Round 2020/2021 ETV 2"
+      "TVChannels": "12:30pm FT   Flora  1 - 1 P  Sūduva *Qualifying Round 2020/2021 ETV 2"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "1:00pm",
-      "GameState": "74 ",
+      "GameState": "FT ",
       "HomeTeam": "Celje",
-      "HomeGoals": "1",
+      "HomeGoals": "3",
       "HomeLogo": "",
       "AwayTeam": "Dundalk *Qualifying Round 2020/2021 RTE 2 ,  RTE Player",
       "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "1:00pm 74 '   Celje  1 - 0  Dundalk *Qualifying Round 2020/2021 RTE 2 ,  RTE Player"
+      "TVChannels": "1:00pm FT   Celje  3 - 0  Dundalk *Qualifying Round 2020/2021 RTE 2 ,  RTE Player"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "1:00pm",
-      "GameState": "73 ",
+      "GameState": "FT ",
       "HomeTeam": "Maccabi Tel Aviv",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "",
       "AwayTeam": "Riga *Qualifying Round 2020/2021 Sport 1",
       "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "1:00pm 73 '   Maccabi Tel Aviv  1 - 0  Riga *Qualifying Round 2020/2021 Sport 1"
+      "TVChannels": "1:00pm FT   Maccabi Tel Aviv  2 - 0  Riga *Qualifying Round 2020/2021 Sport 1"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "1:00pm",
-      "GameState": "70 ",
+      "GameState": "FT ",
       "HomeTeam": "Dinamo Tbilisi",
       "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Tirana *Qualifying Round 2020/2021",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "",
-      "TVChannels": "1:00pm 70 '   Dinamo Tbilisi  0 - 1  Tirana *Qualifying Round 2020/2021"
+      "TVChannels": "1:00pm FT   Dinamo Tbilisi  0 - 2  Tirana *Qualifying Round 2020/2021"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "2:00pm",
-      "GameState": "29 ",
+      "GameState": "72 ",
       "HomeTeam": "Budućnost",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "",
       "AwayTeam": "Ludogorets *Qualifying Round 2020/2021 Arena Sport BIH ,  Diema Sport ,  Play Diema…",
       "AwayGoals": "2",
       "AwayLogo": "",
-      "TVChannels": "2:00pm 29 '   Budućnost  0 - 2  Ludogorets *Qualifying Round 2020/2021 Arena Sport BIH ,  Diema Sport ,  Play Diema…"
+      "TVChannels": "2:00pm 72 '   Budućnost  1 - 2  Ludogorets *Qualifying Round 2020/2021 Arena Sport BIH ,  Diema Sport ,  Play Diema…"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "2:00pm",
-      "GameState": "73 ",
+      "GameState": "FT ",
       "HomeTeam": "Ferencváros",
       "HomeGoals": "2",
       "HomeLogo": "",
       "AwayTeam": "Djurgården *Qualifying Round 2020/2021 Sport 2 CZ/SK ,  Viaplay Denmark ,  Viaplay…",
       "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "2:00pm 73 '   Ferencváros  2 - 0  Djurgården *Qualifying Round 2020/2021 Sport 2 CZ/SK ,  Viaplay Denmark ,  Viaplay…"
+      "TVChannels": "2:00pm FT   Ferencváros  2 - 0  Djurgården *Qualifying Round 2020/2021 Sport 2 CZ/SK ,  Viaplay Denmark ,  Viaplay…"
     }
   ],
   "day2": [
