@@ -492,6 +492,45 @@
   ],
   "day6": [
     {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Celje",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Molde",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2715.png",
+      "TVChannels": "*Qualifying Round 2020/2021 VG+"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "1:30pm",
+      "GameState": "",
+      "HomeTeam": "Ludogorets",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Midtjylland *Qualifying Round 2020/2021 TV3+ HD ,  Viaplay Denmark",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:30pm   Ludogorets vs Midtjylland *Qualifying Round 2020/2021 TV3+ HD ,  Viaplay Denmark"
+    },
+    {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "",
@@ -609,6 +648,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "12:00pm   Apollon vs Saburtalo *Qualifying Round 2020/2021 Cytavision Sports 1 ,  Cytavision on the Go"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "AGF",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Honka *Qualifying Round 2020/2021 6'eren ,  Eurosport Player Denmark",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   AGF vs Honka *Qualifying Round 2020/2021 6'eren ,  Eurosport Player Denmark"
     },
     {
       "LeagueName": "UEFA Europa League",
