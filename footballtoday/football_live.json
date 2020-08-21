@@ -652,6 +652,19 @@
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Bodø / Glimt",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Kauno Žalgiris *Qualifying Round 2020/2021 Direktesport",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:00pm   Bodø / Glimt vs Kauno Žalgiris *Qualifying Round 2020/2021 Direktesport"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "1:00pm",
       "GameState": "",
       "HomeTeam": "AGF",
@@ -661,6 +674,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "1:00pm   AGF vs Honka *Qualifying Round 2020/2021 6'eren ,  Eurosport Player Denmark"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Rosenborg",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/438.png",
+      "AwayTeam": "Breidablik",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8250.png",
+      "TVChannels": "VG+"
     },
     {
       "LeagueName": "UEFA Europa League",
