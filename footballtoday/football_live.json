@@ -392,7 +392,7 @@
       "GameState": "",
       "HomeTeam": "Celje",
       "HomeGoals": "",
-      "HomeLogo": "",
+      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/slovenia/logos/celje.png",
       "AwayTeam": "Molde",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2715.png",
@@ -405,11 +405,11 @@
       "GameState": "",
       "HomeTeam": "Ludogorets",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Midtjylland *Qualifying Round 2020/2021 TV3+ HD ,  Viaplay Denmark",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/13018.png",
+      "AwayTeam": "FC Midtjylland",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "1:30pm   Ludogorets vs Midtjylland *Qualifying Round 2020/2021 TV3+ HD ,  Viaplay Denmark"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/572.png",
+      "TVChannels": "*Qualifying Round 2020/2021 TV3+ HD ,  Viaplay Denmark"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -524,11 +524,11 @@
       "GameState": "",
       "HomeTeam": "Apollon",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Saburtalo *Qualifying Round 2020/2021 Cytavision Sports 1 ,  Cytavision on the Go",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/525.png",
+      "AwayTeam": "Saburtalo Tbilisi",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "12:00pm   Apollon vs Saburtalo *Qualifying Round 2020/2021 Cytavision Sports 1 ,  Cytavision on the Go"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20025.png",
+      "TVChannels": "*Qualifying Round 2020/2021 Cytavision Sports 1 ,  Cytavision on the Go"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -537,11 +537,11 @@
       "GameState": "",
       "HomeTeam": "Bodø / Glimt",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Kauno Žalgiris *Qualifying Round 2020/2021 Direktesport",
+      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/norway/logos/bodo-glimt.png",
+      "AwayTeam": "Kauno Žalgiris",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "12:00pm   Bodø / Glimt vs Kauno Žalgiris *Qualifying Round 2020/2021 Direktesport"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/523.png",
+      "TVChannels": "*Qualifying Round 2020/2021 Direktesport"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -550,11 +550,11 @@
       "GameState": "",
       "HomeTeam": "AGF",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Honka *Qualifying Round 2020/2021 6'eren ,  Eurosport Player Denmark",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7853.png",
+      "AwayTeam": "FC Honka",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "1:00pm   AGF vs Honka *Qualifying Round 2020/2021 6'eren ,  Eurosport Player Denmark"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4495.png",
+      "TVChannels": "*Qualifying Round 2020/2021 6'eren ,  Eurosport Player Denmark"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -576,11 +576,11 @@
       "GameState": "",
       "HomeTeam": "Servette",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Ružomberok *Qualifying Round 2020/2021 RTS 2 ,  RTS Sport",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20032.png",
+      "AwayTeam": "MFK Ružomberok",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "2:15pm   Servette vs Ružomberok *Qualifying Round 2020/2021 RTS 2 ,  RTS Sport"
+      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/slovakia/logos/ruzomberok.png",
+      "TVChannels": "*Qualifying Round 2020/2021 RTS 2 ,  RTS Sport"
     }
   ],
   "day7": [
