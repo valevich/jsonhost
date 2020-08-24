@@ -1,0 +1,678 @@
+{
+  "premier-league": [
+    {
+        "playername": "Jamie Vardy",
+        "playerlink": "https://www.livesoccertv.com/player/j-vardy/135178/",
+        "playerteam": "Leicester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+        "playergoals": 23,
+        "playerassists": 4
+    },
+    {
+        "playername": "Pierre-Emerick Aubameyang",
+        "playerlink": "https://www.livesoccertv.com/player/p-aubameyang/37777/",
+        "playerteam": "Arsenal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/arsenal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "playergoals": 22,
+        "playerassists": 2
+    },
+    {
+        "playername": "Daniel William John Ings",
+        "playerlink": "https://www.livesoccertv.com/player/d-ings/120917/",
+        "playerteam": "Southampton",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/southampton/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+        "playergoals": 22,
+        "playerassists": 1
+    },
+    {
+        "playername": "Raheem Shaquille Sterling",
+        "playerlink": "https://www.livesoccertv.com/player/r-sterling/135689/",
+        "playerteam": "Manchester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "playergoals": 20,
+        "playerassists": 0
+    },
+    {
+        "playername": "Mohamed  Salah Ghaly",
+        "playerlink": "https://www.livesoccertv.com/player/mohamed-salah/120240/",
+        "playerteam": "Liverpool",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "playergoals": 19,
+        "playerassists": 3
+    },
+    {
+        "playername": "Harry Kane",
+        "playerlink": "https://www.livesoccertv.com/player/h-kane/134501/",
+        "playerteam": "Tottenham Hotspur",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+        "playergoals": 18,
+        "playerassists": 2
+    },
+    {
+        "playername": "Sadio Mané",
+        "playerlink": "https://www.livesoccertv.com/player/s-mane/167200/",
+        "playerteam": "Liverpool",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "playergoals": 18,
+        "playerassists": 0
+    },
+    {
+        "playername": "Raúl Alonso Jiménez Rodríguez",
+        "playerlink": "https://www.livesoccertv.com/player/r-jimenez/172740/",
+        "playerteam": "Wolverhampton Wanderers",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/wolverhampton-wanderers/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+        "playergoals": 17,
+        "playerassists": 4
+    },
+    {
+        "playername": "Anthony Martial",
+        "playerlink": "https://www.livesoccertv.com/player/a-martial/176833/",
+        "playerteam": "Manchester United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "playergoals": 17,
+        "playerassists": 0
+    },
+    {
+        "playername": "Marcus Rashford",
+        "playerlink": "https://www.livesoccertv.com/player/m-rashford/308286/",
+        "playerteam": "Manchester United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "playergoals": 17,
+        "playerassists": 6
+    },
+    {
+        "playername": "Sergio Leonel Agüero del Castillo",
+        "playerlink": "https://www.livesoccertv.com/player/s-aguero/3184/",
+        "playerteam": "Manchester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "playergoals": 16,
+        "playerassists": 2
+    },
+    {
+        "playername": "Tammy Bakumo-Abraham",
+        "playerlink": "https://www.livesoccertv.com/player/t-abraham/280385/",
+        "playerteam": "Chelsea",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/chelsea/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+        "playergoals": 15,
+        "playerassists": 0
+    },
+    {
+        "playername": "Gabriel Fernando de Jesus",
+        "playerlink": "https://www.livesoccertv.com/player/gabriel-jesus/277489/",
+        "playerteam": "Manchester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "playergoals": 14,
+        "playerassists": 0
+    },
+    {
+        "playername": "Chris Wood",
+        "playerlink": "https://www.livesoccertv.com/player/c-wood/77051/",
+        "playerteam": "Burnley",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/burnley/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+        "playergoals": 14,
+        "playerassists": 1
+    },
+    {
+        "playername": "Dominic Calvert-Lewin",
+        "playerlink": "https://www.livesoccertv.com/player/d-calvert-lewin/258776/",
+        "playerteam": "Everton",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/everton/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+        "playergoals": 13,
+        "playerassists": 0
+    }
+  ],
+  "primera-division": [
+    {
+        "playername": "Lionel Andrés Messi Cuccittini",
+        "playerlink": "https://www.livesoccertv.com/player/l-messi/252/",
+        "playerteam": "Barcelona",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "playergoals": 25,
+        "playerassists": 5
+    },
+    {
+        "playername": "Karim Benzema",
+        "playerlink": "https://www.livesoccertv.com/player/k-benzema/1728/",
+        "playerteam": "Real Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "playergoals": 21,
+        "playerassists": 5
+    },
+    {
+        "playername": "Gerard Moreno Balaguero",
+        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
+        "playerteam": "Villarreal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "playergoals": 18,
+        "playerassists": 1
+    },
+    {
+        "playername": "Luis Alberto Suárez Díaz",
+        "playerlink": "https://www.livesoccertv.com/player/l-suarez/2423/",
+        "playerteam": "Barcelona",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "playergoals": 16,
+        "playerassists": 1
+    },
+    {
+        "playername": "Raúl García Escudero",
+        "playerlink": "https://www.livesoccertv.com/player/raul-garcia/3603/",
+        "playerteam": "Athletic Club",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/athletic-bilbao/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "playergoals": 15,
+        "playerassists": 7
+    },
+    {
+        "playername": "Iago Aspas Juncal",
+        "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
+        "playerteam": "Celta Vigo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "playergoals": 14,
+        "playerassists": 5
+    },
+    {
+        "playername": "Lucas Ariel Ocampos",
+        "playerlink": "https://www.livesoccertv.com/player/l-ocampos/151549/",
+        "playerteam": "Sevilla",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/sevilla/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+        "playergoals": 14,
+        "playerassists": 5
+    },
+    {
+        "playername": "Ante Budimir",
+        "playerlink": "https://www.livesoccertv.com/player/a-budimir/36677/",
+        "playerteam": "Mallorca",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/mallorca/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
+        "playergoals": 13,
+        "playerassists": 2
+    },
+    {
+        "playername": "Álvaro Borja Morata Martín",
+        "playerlink": "https://www.livesoccertv.com/player/alvaro-morata/96328/",
+        "playerteam": "Atletico Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "playergoals": 12,
+        "playerassists": 2
+    },
+    {
+        "playername": "Santiago Cazorla González",
+        "playerlink": "https://www.livesoccertv.com/player/santi-cazorla/18235/",
+        "playerteam": "Villarreal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "playergoals": 11,
+        "playerassists": 8
+    },
+    {
+        "playername": "Willian José da Silva",
+        "playerlink": "https://www.livesoccertv.com/player/willian-jose/85665/",
+        "playerteam": "Real Sociedad",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+        "playergoals": 11,
+        "playerassists": 0
+    },
+    {
+        "playername": "Roger Martí Salvador",
+        "playerlink": "https://www.livesoccertv.com/player/roger-marti/182383/",
+        "playerteam": "Levante",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "playergoals": 11,
+        "playerassists": 4
+    },
+    {
+        "playername": "Jaime Mata Arnaiz",
+        "playerlink": "https://www.livesoccertv.com/player/jaime-mata/170318/",
+        "playerteam": "Getafe",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/getafe/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+        "playergoals": 11,
+        "playerassists": 3
+    },
+    {
+        "playername": "Lucas Pérez Martínez",
+        "playerlink": "https://www.livesoccertv.com/player/lucas-perez/105111/",
+        "playerteam": "Deportivo Alavés",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/deportivo-alaves/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+        "playergoals": 11,
+        "playerassists": 5
+    },
+    {
+        "playername": "Sergio Ramos García",
+        "playerlink": "https://www.livesoccertv.com/player/sergio-ramos/459/",
+        "playerteam": "Real Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "playergoals": 11,
+        "playerassists": 6
+    }
+  ],
+  "serie-a": [
+    {
+        "playername": "Ciro Immobile",
+        "playerlink": "https://www.livesoccertv.com/player/c-immobile/75297/",
+        "playerteam": "Lazio",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/lazio-roma/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+        "playergoals": 36,
+        "playerassists": 14
+    },
+    {
+        "playername": "Cristiano Ronaldo dos Santos Aveiro",
+        "playerlink": "https://www.livesoccertv.com/player/cristiano-ronaldo/515/",
+        "playerteam": "Juventus",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/juventus/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+        "playergoals": 31,
+        "playerassists": 12
+    },
+    {
+        "playername": "Romelu Lukaku Menama",
+        "playerlink": "https://www.livesoccertv.com/player/r-lukaku/79627/",
+        "playerteam": "Internazionale",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+        "playergoals": 23,
+        "playerassists": 6
+    },
+    {
+        "playername": "Francesco Caputo",
+        "playerlink": "https://www.livesoccertv.com/player/f-caputo/63860/",
+        "playerteam": "Sassuolo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+        "playergoals": 21,
+        "playerassists": 2
+    },
+    {
+        "playername": "João Pedro Geraldino dos Santos Galvão",
+        "playerlink": "https://www.livesoccertv.com/player/joao-pedro/115191/",
+        "playerteam": "Cagliari",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/cagliari/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+        "playergoals": 18,
+        "playerassists": 4
+    },
+    {
+        "playername": "Luis Fernando Muriel Fruto",
+        "playerlink": "https://www.livesoccertv.com/player/l-muriel/83663/",
+        "playerteam": "Atalanta",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+        "playergoals": 18,
+        "playerassists": 6
+    },
+    {
+        "playername": "Duván Esteban Zapata Banguera",
+        "playerlink": "https://www.livesoccertv.com/player/d-zapata/33409/",
+        "playerteam": "Atalanta",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+        "playergoals": 18,
+        "playerassists": 1
+    },
+    {
+        "playername": "Andrea Belotti",
+        "playerlink": "https://www.livesoccertv.com/player/a-belotti/186733/",
+        "playerteam": "Torino",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/torino/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+        "playergoals": 16,
+        "playerassists": 7
+    },
+    {
+        "playername": "Edin Džeko",
+        "playerlink": "https://www.livesoccertv.com/player/e-dzeko/20721/",
+        "playerteam": "Roma",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+        "playergoals": 16,
+        "playerassists": 0
+    },
+    {
+        "playername": "Josip Iličić",
+        "playerlink": "https://www.livesoccertv.com/player/j-ilicic/74672/",
+        "playerteam": "Atalanta",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+        "playergoals": 15,
+        "playerassists": 0
+    },
+    {
+        "playername": "Domenico Berardi",
+        "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
+        "playerteam": "Sassuolo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+        "playergoals": 14,
+        "playerassists": 2
+    },
+    {
+        "playername": "Marco Mancosu",
+        "playerlink": "https://www.livesoccertv.com/player/m-mancosu/10077/",
+        "playerteam": "Lecce",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/lecce/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
+        "playergoals": 14,
+        "playerassists": 9
+    },
+    {
+        "playername": "Lautaro Javier Martínez",
+        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
+        "playerteam": "Internazionale",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+        "playergoals": 14,
+        "playerassists": 2
+    },
+    {
+        "playername": "Andreas Evald Cornelius",
+        "playerlink": "https://www.livesoccertv.com/player/a-cornelius/174112/",
+        "playerteam": "Parma",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/parma-fc/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+        "playergoals": 12,
+        "playerassists": 0
+    },
+    {
+        "playername": "A. Petagna",
+        "playerlink": "https://www.livesoccertv.com/player/a-petagna/224544/",
+        "playerteam": "SPAL",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/spal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3958.png",
+        "playergoals": 12,
+        "playerassists": 5
+    }
+  ],
+  "ligue-1": [
+    {
+        "playername": "Amine Gouiri",
+        "playerlink": "https://www.livesoccertv.com/player/a-gouiri/334272/",
+        "playerteam": "Nice",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/nice/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
+        "playername": "B. Badiashile",
+        "playerlink": "https://www.livesoccertv.com/player/b-mukinayi/369796/",
+        "playerteam": "Monaco",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "playergoals": 1,
+        "playerassists": 0
+    },
+    {
+        "playername": "Jonathan Bamba",
+        "playerlink": "https://www.livesoccertv.com/player/j-bamba/249220/",
+        "playerteam": "Lille",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "playergoals": 1,
+        "playerassists": 0
+    },
+    {
+        "playername": "Mehdi Chahiri",
+        "playerlink": "https://www.livesoccertv.com/player/m-chahiri/254785/",
+        "playerteam": "Strasbourg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/strasbourg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+        "playergoals": 1,
+        "playerassists": 0
+    },
+    {
+        "playername": "Damien Da Silva",
+        "playerlink": "https://www.livesoccertv.com/player/d-da-silva/44832/",
+        "playerteam": "Rennes",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/stade-rennes/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+        "playergoals": 1,
+        "playerassists": 0
+    },
+    {
+        "playername": "Ahoueke Steeve Kévin Denkey",
+        "playerlink": "https://www.livesoccertv.com/player/a-denkey/344004/",
+        "playerteam": "Nîmes",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/nimes/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
+        "playergoals": 1,
+        "playerassists": 0
+    },
+    {
+        "playername": "Boulaye Dia",
+        "playerlink": "https://www.livesoccertv.com/player/b-dia/360970/",
+        "playerteam": "Reims",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/reims/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
+        "playergoals": 1,
+        "playerassists": 0
+    },
+    {
+        "playername": "A. Disasi",
+        "playerlink": "https://www.livesoccertv.com/player/a-disasi/302976/",
+        "playerteam": "Monaco",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "playergoals": 1,
+        "playerassists": 0
+    },
+    {
+        "playername": "A. Grbić",
+        "playerlink": "https://www.livesoccertv.com/player/a-grbic/218920/",
+        "playerteam": "Lorient",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lorient/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+        "playergoals": 1,
+        "playerassists": 1
+    },
+    {
+        "playername": "P. Hamel",
+        "playerlink": "https://www.livesoccertv.com/player/p-hamel/236971/",
+        "playerteam": "Lorient",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lorient/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+        "playergoals": 1,
+        "playerassists": 0
+    },
+    {
+        "playername": "G. Kakuta",
+        "playerlink": "https://www.livesoccertv.com/player/g-kakuta/92854/",
+        "playerteam": "Lens",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lens/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+        "playergoals": 1,
+        "playerassists": 1
+    },
+    {
+        "playername": "Moussa Koné",
+        "playerlink": "https://www.livesoccertv.com/player/m-kone/297016/",
+        "playerteam": "Nîmes",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/nimes/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
+        "playergoals": 1,
+        "playerassists": 0
+    },
+    {
+        "playername": "B. Meling",
+        "playerlink": "https://www.livesoccertv.com/player/b-meling/264614/",
+        "playerteam": "Nîmes",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/nimes/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
+        "playergoals": 1,
+        "playerassists": 0
+    },
+    {
+        "playername": "Romain Philippoteaux",
+        "playerlink": "https://www.livesoccertv.com/player/r-philippoteaux/210144/",
+        "playerteam": "Nîmes",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/nimes/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
+        "playergoals": 1,
+        "playerassists": 0
+    }
+  ],
+  "bundesliga": [
+    {
+        "playername": "Robert Lewandowski",
+        "playerlink": "https://www.livesoccertv.com/player/r-lewandowski/41443/",
+        "playerteam": "Bayern Munich",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "playergoals": 34,
+        "playerassists": 5
+    },
+    {
+        "playername": "Timo Werner",
+        "playerlink": "https://www.livesoccertv.com/player/t-werner/197553/",
+        "playerteam": "RB Leipzig",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/rb-leipzig/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+        "playergoals": 28,
+        "playerassists": 3
+    },
+    {
+        "playername": "Jadon Sancho",
+        "playerlink": "https://www.livesoccertv.com/player/j-sancho/332787/",
+        "playerteam": "Borussia Dortmund",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+        "playergoals": 17,
+        "playerassists": 0
+    },
+    {
+        "playername": "Wout Weghorst",
+        "playerlink": "https://www.livesoccertv.com/player/w-weghorst/207339/",
+        "playerteam": "Wolfsburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+        "playergoals": 16,
+        "playerassists": 4
+    },
+    {
+        "playername": "Rouwen Hennings",
+        "playerlink": "https://www.livesoccertv.com/player/r-hennings/2147/",
+        "playerteam": "Fortuna Dusseldorf",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/fortuna-d-sseldorf/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9707.png",
+        "playergoals": 15,
+        "playerassists": 4
+    },
+    {
+        "playername": "Jhon Andrés Córdoba Copete",
+        "playerlink": "https://www.livesoccertv.com/player/j-cordoba/134471/",
+        "playerteam": "Köln",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/1-fc-koln/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+        "playergoals": 13,
+        "playerassists": 0
+    },
+    {
+        "playername": "Erling Håland",
+        "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
+        "playerteam": "Borussia Dortmund",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+        "playergoals": 13,
+        "playerassists": 0
+    },
+    {
+        "playername": "Florian Niederlechner",
+        "playerlink": "https://www.livesoccertv.com/player/f-niederlechner/162772/",
+        "playerteam": "Augsburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/fc-augsburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+        "playergoals": 13,
+        "playerassists": 1
+    },
+    {
+        "playername": "Robin Quaison",
+        "playerlink": "https://www.livesoccertv.com/player/r-quaison/165341/",
+        "playerteam": "Mainz 05",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/1-fsv-mainz-05/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+        "playergoals": 13,
+        "playerassists": 1
+    },
+    {
+        "playername": "Sebastian Andersson",
+        "playerlink": "https://www.livesoccertv.com/player/s-andersson/112038/",
+        "playerteam": "Union Berlin",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/union-berlin/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+        "playergoals": 12,
+        "playerassists": 1
+    },
+    {
+        "playername": "Serge  Gnabry",
+        "playerlink": "https://www.livesoccertv.com/player/s-gnabry/175333/",
+        "playerteam": "Bayern Munich",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "playergoals": 12,
+        "playerassists": 0
+    },
+    {
+        "playername": "Kai Havertz",
+        "playerlink": "https://www.livesoccertv.com/player/k-havertz/322955/",
+        "playerteam": "Bayer Leverkusen",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+        "playergoals": 12,
+        "playerassists": 1
+    },
+    {
+        "playername": "Andrej Kramarić",
+        "playerlink": "https://www.livesoccertv.com/player/a-kramaric/83705/",
+        "playerteam": "Hoffenheim",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+        "playergoals": 12,
+        "playerassists": 2
+    },
+    {
+        "playername": "André Miguel Valente Silva",
+        "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
+        "playerteam": "Eintracht Frankfurt",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "playergoals": 12,
+        "playerassists": 1
+    },
+    {
+        "playername": "Nils Petersen",
+        "playerlink": "https://www.livesoccertv.com/player/n-petersen/16443/",
+        "playerteam": "Freiburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/sc-freiburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+        "playergoals": 11,
+        "playerassists": 1
+    }
+  ]
+}
