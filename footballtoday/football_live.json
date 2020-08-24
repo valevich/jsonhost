@@ -121,7 +121,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "10:00pm",
-      "GameState": "4 '",
+      "GameState": "46 ",
       "HomeTeam": "Portland Timbers",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
@@ -156,7 +156,7 @@
       "AwayTeam": "Crvena Zvezda",
       "AwayGoals": "",
       "AwayLogo": "https://cdn.livesoccertv.com/images/teams/serbia/logos/crvena-zvezda.png",
-      "TVChannels": "*Qualifying Round 2020/2021 Sportbox.ru ,  Match! Football 1 ,  matchtv.ru"
+      "TVChannels": "*Qualifying Round 2020/2021 Arena Sport 1 Serbia ,  Arena Sport 1 ,  Sport…"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -170,6 +170,32 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1895.png",
       "TVChannels": "*2nd Qualifying Round 2020/2021 D-Smart GO ,  Kanal D ,  Open TV"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Trakai",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/17864.png",
+      "AwayTeam": "Derry City",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Derry City"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -340,7 +366,7 @@
       "AwayTeam": "Roma",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-      "TVChannels": "nia"
+      "TVChannels": "nia ,  Arena Sport 1"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -379,7 +405,33 @@
       "AwayTeam": "Celtic",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/256.png",
-      "TVChannels": "vs Ferencváros *Qualifying Round 2020/2021 Celtic TV ,  Premier Sports 1 ,  Sportbox.ru ,  M4…"
+      "TVChannels": "vs Ferencváros *Qualifying Round 2020/2021 Celtic TV ,  Premier Sports 1 ,  Arena Sport…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:30pm",
+      "GameState": "",
+      "HomeTeam": "Progrès Niedercorn",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Zeta",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:30pm   Progrès Niedercorn vs Zeta"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -607,6 +659,45 @@
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Neftçi",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Shkupi",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/19252.png",
+      "TVChannels": ""
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Alashkert",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Renova",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:00pm   Alashkert vs Renova"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Sumqayıt",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Škendija 79",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:00pm   Sumqayıt vs Škendija 79"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:30pm",
       "GameState": "",
       "HomeTeam": "Fehérvár",
@@ -616,6 +707,32 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "12:30pm   Fehérvár vs Bohemians *Qualifying Round 2020/2021 M4 Sports"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:30pm",
+      "GameState": "",
+      "HomeTeam": "Olimpija",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Víkingur Reykjavík",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:30pm   Olimpija vs Víkingur Reykjavík"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:30pm",
+      "GameState": "",
+      "HomeTeam": "Videoton",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Bohemians",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:30pm   Videoton vs Bohemians"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -698,6 +815,97 @@
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Žalgiris",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Paide",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   Žalgiris vs Paide"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Vaduz",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Hibernians",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2499.png",
+      "TVChannels": ""
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Keşla FK",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Laçi",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   Keşla FK vs Laçi"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Lokomotivi Tbilisi",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "CS U Craiova",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   Lokomotivi Tbilisi vs CS U Craiova"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:15pm",
+      "GameState": "",
+      "HomeTeam": "FH",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "DAC",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:15pm   FH vs DAC"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:30pm",
+      "GameState": "",
+      "HomeTeam": "The New Saints",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/576.png",
+      "AwayTeam": "Žilina",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Žilina"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:30pm",
+      "GameState": "",
+      "HomeTeam": "Shakhtyor",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Sfîntul Gheorghe",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:30pm   Shakhtyor vs Sfîntul Gheorghe"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "1:45pm",
       "GameState": "",
       "HomeTeam": "Hapoel Be'er Sheva",
@@ -750,6 +958,58 @@
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "Valletta",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2698.png",
+      "AwayTeam": "Bala Town",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Bala Town"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "B36",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Levadia",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   B36 vs Levadia"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "Kukësi",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Slavia Sofia",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   Kukësi vs Slavia Sofia"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "Petrocub",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Bačka Topola",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   Petrocub vs Bačka Topola"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "2:15pm",
       "GameState": "",
       "HomeTeam": "Servette",
@@ -759,6 +1019,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://cdn.livesoccertv.com/images/teams/slovakia/logos/ruzomberok.png",
       "TVChannels": "*Qualifying Round 2020/2021 SRF zwei ,  RTS 2 ,  RTS Sport"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "2:30pm",
+      "GameState": "",
+      "HomeTeam": "FCsb",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/484.png",
+      "AwayTeam": "Shirak",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": ":30pm   FCSB vs Shirak"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -789,6 +1062,19 @@
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "2:45pm",
+      "GameState": "",
+      "HomeTeam": "Maribor",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Coleraine",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2723.png",
+      "TVChannels": ""
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "3:00pm",
       "GameState": "",
       "HomeTeam": "Lech Poznań",
@@ -811,6 +1097,32 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "3:00pm   Honvéd vs Inter Turku *Qualifying Round 2020/2021 M4 Sports"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Partizan",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Rīgas FS Arena Sport 1 Serbia",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "3:00pm   Partizan vs Rīgas FS Arena Sport 1 Serbia"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Shamrock Rovers",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2564.png",
+      "AwayTeam": "Ilves",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Ilves"
     }
   ],
   "day5": [
