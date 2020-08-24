@@ -121,12 +121,12 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "10:00pm",
-      "GameState": "",
+      "GameState": "4 '",
       "HomeTeam": "Portland Timbers",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
       "AwayTeam": "Seattle Sounders",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
       "TVChannels": "Fox Sports 1 ,  fuboTV ,  MLSsoccer…"
     }
@@ -503,6 +503,32 @@
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "10:00am",
+      "GameState": "",
+      "HomeTeam": "Ventspils",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Dinamo-Auto",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "10:00am   Ventspils vs Dinamo-Auto"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "10:00am",
+      "GameState": "",
+      "HomeTeam": "Ordabasy",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Botoşani",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "10:00am   Ordabasy vs Botoşani"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "10:30am",
       "GameState": "",
       "HomeTeam": "Teuta Durrës",
@@ -525,6 +551,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "10:30am   Borac Banja Luka vs Sutjeska *Qualifying Round 2020/2021 Arena Sport BIH"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "10:30am",
+      "GameState": "",
+      "HomeTeam": "Nõmme Kalju",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Mura",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "10:30am   Nõmme Kalju vs Mura"
     },
     {
       "LeagueName": "UEFA Europa League",
