@@ -161,6 +161,19 @@
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "10:30am",
+      "GameState": "",
+      "HomeTeam": "AZ",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Viktoria Plzeň *Qualifying Round 2020/2021 Arena Sport 1 Serbia ,  ČT Sport ,  Arena Spo…",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "10:30am   AZ vs Viktoria Plzeň *Qualifying Round 2020/2021 Arena Sport 1 Serbia ,  ČT Sport ,  Arena Spo…"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "12:00pm",
       "GameState": "",
       "HomeTeam": "Celje",
@@ -169,7 +182,7 @@
       "AwayTeam": "Molde",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2715.png",
-      "TVChannels": "*Qualifying Round 2020/2021 VG+"
+      "TVChannels": "*Qualifying Round 2020/2021 Sportklub 6 Serbia ,  Sportklub 6 Croatia ,  VG+"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -205,10 +218,10 @@
       "HomeTeam": "Lokomotiva Zagreb",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Rapid Wien *Qualifying Round 2020/2021 ORF eins ,  Arena Sport 2 ,  ORF TVthek",
+      "AwayTeam": "Rapid Wien *Qualifying Round 2020/2021 ORF eins ,  Arena Sport 2 ,  Sport 2 Ukraine ,  …",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "1:00pm   Lokomotiva Zagreb vs Rapid Wien *Qualifying Round 2020/2021 ORF eins ,  Arena Sport 2 ,  ORF TVthek"
+      "TVChannels": "1:00pm   Lokomotiva Zagreb vs Rapid Wien *Qualifying Round 2020/2021 ORF eins ,  Arena Sport 2 ,  Sport 2 Ukraine ,  …"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -610,10 +623,10 @@
       "HomeTeam": "Olimpija",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Víkingur Reykjavík",
+      "AwayTeam": "Víkingur Reykjavík Stöð 2 Sport 3",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "12:30pm   Olimpija vs Víkingur Reykjavík"
+      "TVChannels": "12:30pm   Olimpija vs Víkingur Reykjavík Stöð 2 Sport 3"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -639,7 +652,7 @@
       "AwayTeam": "Breidablik",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8250.png",
-      "TVChannels": "VG+"
+      "TVChannels": "Stöð 2 Sport 2 ,  VG+"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -766,10 +779,10 @@
       "HomeTeam": "FH",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "DAC",
+      "AwayTeam": "DAC Stöð 2 Sport",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "1:15pm   FH vs DAC"
+      "TVChannels": "1:15pm   FH vs DAC Stöð 2 Sport"
     },
     {
       "LeagueName": "UEFA Europa League",
