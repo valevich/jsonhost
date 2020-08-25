@@ -148,6 +148,19 @@
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "2:15pm",
+      "GameState": "",
+      "HomeTeam": "Young Boys",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2722.png",
+      "AwayTeam": "KÍ",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs KÍ"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Celtic",
@@ -384,6 +397,19 @@
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "11:30am",
+      "GameState": "",
+      "HomeTeam": "Lincoln Red Imps",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/17856.png",
+      "AwayTeam": "UT Pétange",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs UT Pétange"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:00pm",
       "GameState": "",
       "HomeTeam": "Apollon",
@@ -601,6 +627,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "1:00pm   Lokomotivi Tbilisi vs CS U Craiova"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Gjilani",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "APOEL",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   Gjilani vs APOEL"
     },
     {
       "LeagueName": "UEFA Europa League",
