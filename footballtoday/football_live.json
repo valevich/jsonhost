@@ -17,20 +17,20 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "10:30am",
-      "GameState": "81 ",
-      "HomeTeam": "AZ",
-      "HomeGoals": "0",
+      "GameState": "Bre",
+      "HomeTeam": "k   AZ",
+      "HomeGoals": "1",
       "HomeLogo": "",
       "AwayTeam": "Viktoria Plzeň *Qualifying Round 2020/2021 Arena Sport 1 Serbia ,  ČT Sport ,  Arena Spo…",
       "AwayGoals": "1",
       "AwayLogo": "",
-      "TVChannels": "10:30am 81 '   AZ  0 - 1  Viktoria Plzeň *Qualifying Round 2020/2021 Arena Sport 1 Serbia ,  ČT Sport ,  Arena Spo…"
+      "TVChannels": "10:30am Break   AZ  1 - 1  Viktoria Plzeň *Qualifying Round 2020/2021 Arena Sport 1 Serbia ,  ČT Sport ,  Arena Spo…"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "12:00pm",
-      "GameState": "5 '",
+      "GameState": "21 ",
       "HomeTeam": "Celje",
       "HomeGoals": "0",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/slovenia/logos/celje.png",
@@ -43,7 +43,7 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "12:00pm",
-      "GameState": "6 '",
+      "GameState": "22 ",
       "HomeTeam": "Sūduva",
       "HomeGoals": "0",
       "HomeLogo": "",
@@ -56,14 +56,14 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "12:00pm",
-      "GameState": "8 '",
+      "GameState": "24 ",
       "HomeTeam": "Qarabağ",
       "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Sheriff *Qualifying Round 2020/2021 CBC Sport Azerbaijan",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "",
-      "TVChannels": "12:00pm 8 '   Qarabağ  0 - 0  Sheriff *Qualifying Round 2020/2021 CBC Sport Azerbaijan"
+      "TVChannels": "12:00pm 24 '   Qarabağ  0 - 1  Sheriff *Qualifying Round 2020/2021 CBC Sport Azerbaijan"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -816,10 +816,10 @@
       "HomeTeam": "Motherwell",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Glentoran",
+      "AwayTeam": "Glentoran *Qualifying Round 2020/2021 Premier Player HD ,  Premier Sports 2 ,  Pr…",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5309.png",
-      "TVChannels": "*Qualifying Round 2020/2021 Premier Player HD ,  Premier Sports 2 ,  Pr…"
+      "AwayLogo": "",
+      "TVChannels": "2:45pm   Motherwell vs Glentoran *Qualifying Round 2020/2021 Premier Player HD ,  Premier Sports 2 ,  Pr…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -829,10 +829,10 @@
       "HomeTeam": "Maribor",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Coleraine",
+      "AwayTeam": "Coleraine SportKlub 1 Slovenia",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2723.png",
-      "TVChannels": "SportKlub 1 Slovenia"
+      "AwayLogo": "",
+      "TVChannels": "2:45pm   Maribor vs Coleraine SportKlub 1 Slovenia"
     },
     {
       "LeagueName": "UEFA Europa League",
