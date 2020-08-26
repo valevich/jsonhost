@@ -17,14 +17,14 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "10:30am",
-      "GameState": "",
+      "GameState": "HT ",
       "HomeTeam": "AZ",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Viktoria Plzeň *Qualifying Round 2020/2021 Arena Sport 1 Serbia ,  ČT Sport ,  Arena Spo…",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "10:30am   AZ vs Viktoria Plzeň *Qualifying Round 2020/2021 Arena Sport 1 Serbia ,  ČT Sport ,  Arena Spo…"
+      "TVChannels": "10:30am HT   AZ  0 - 0  Viktoria Plzeň *Qualifying Round 2020/2021 Arena Sport 1 Serbia ,  ČT Sport ,  Arena Spo…"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -999,12 +999,12 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Lens",
+      "HomeTeam": "Strasbourg",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-      "AwayTeam": "PSG",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+      "AwayTeam": "Nice",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
       "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
     },
     {
@@ -1216,19 +1216,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
       "TVChannels": "Viaplay Denmark ,  Viaplay Sweden ,  Viaplay N…"
-    },
-    {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "11:00am",
-      "GameState": "",
-      "HomeTeam": "Strasbourg",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-      "AwayTeam": "Nice",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
     },
     {
       "LeagueName": "French Ligue 1",
