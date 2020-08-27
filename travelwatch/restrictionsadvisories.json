@@ -18,7 +18,7 @@
     "iso_alpha2": "AG",
     "name": "Antigua and Barbuda",
     "score": "Partially restricted",
-    "updated": "From July 1, 2020, all persons arriving in Antigua and Barbuda by air must carry documentation issued no more than 7 days prior to departure showing a negative result for COVID-19 using a real time reverse transcription polymerase chain reaction (RT-PCR) test. Persons arriving by sea are subject to quarantine measures in accordance with guidelines established by local health authorities. Passengers disembarking in Antigua and Barbuda must complete a health declaration and undergo a health screening for symptoms of COVID-19. All persons, regardless of their mode of transportation, will be monitored for COVID-19 for up to 14 days following their arrival in accordance with local health guidelines."
+    "updated": "From July 1, 2020, all persons arriving in Antigua and Barbuda by air must carry documentation issued no more than 7 days prior to departure showing a negative result for COVID-19 using a real time reverse transcription polymerase chain reaction (RT-PCR) test. Persons arriving by sea are subject to quarantine measures in accordance with guidelines established by local health authorities. Passengers disembarking in Antigua and Barbuda must complete a health declaration and undergo a health screening for symptoms of COVID-19. All persons, regardless of their mode of transportation, will be monitored for COVID-19 for up to 14 days following their arrival in accordance with local health guidelines. More information is available at the following URL: https://visitantiguabarbuda.com/travel-advisory/"
   },
   {
     "continent": "",
@@ -347,7 +347,7 @@
     "iso_alpha2": "DM",
     "name": "Dominica",
     "score": "Entry prohibited",
-    "updated": "International passenger flights are suspended. The Dominican government has announced a plan to reopen the country’s borders beginning in July, 2020."
+    "updated": "All persons traveling to Dominica must fill in and submit a health questionnaire online at least 24 hours prior to departure and obtain a notification of clearance to travel. Upon arrival, all persons must present their notification for inspection as well as proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction test. Health questionnaire forms are available at the following URL: http://domcovid19.dominica.gov.dm . Health questionnaires and additional information are available at the following URL: https://discoverdominica.com/travel-advisory-for-dominica"
   },
   {
     "continent": "",
@@ -452,7 +452,7 @@
     "iso_alpha2": "GD",
     "name": "Grenada",
     "score": "Entry prohibited",
-    "updated": "A curfew is imposed from March 30 until further notice, every person shall remain confined to their place of residence. All airports and seaports are closed, no person shall be permitted to enter, including transiting through Grenada."
+    "updated": "All persons arriving in Grenada must have pre-booked accommodations. More information is available at the following URL: https://www.puregrenada.com/travel-advisory"
   },
   {
     "continent": "",
@@ -1334,7 +1334,7 @@
     "iso_alpha2": "VC",
     "name": "Saint Vincent and the Grenadines",
     "score": "Partially restricted",
-    "updated": "All persons having been in mainland China, Hong Kong SAR, Macau SAR, Singapore, Japan, South Korea in the last 14 days will be denied entry."
+    "updated": "All persons arriving in Saint Vincent and the Grenadines must observe strict health control measures upon arrival."
   },
   {
     "continent": "",
