@@ -626,13 +626,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
       "GameTime": "2:30pm",
       "GameState": "",
-      "HomeTeam": "Leverstock Green",
+      "HomeTeam": "Leighton Town",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Wembley",
+      "AwayTeam": "Abingdon United",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "2:30pm   Leverstock Green vs Wembley"
+      "TVChannels": "2:30pm   Leighton Town vs Abingdon United"
     },
     {
       "LeagueName": "English FA Cup",
@@ -646,6 +646,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "2:30pm   Crowborough Athletic vs Crawley Down Gatwick"
+    },
+    {
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "2:30pm",
+      "GameState": "",
+      "HomeTeam": "Buckland Athletic",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Bitton",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:30pm   Buckland Athletic vs Bitton"
     },
     {
       "LeagueName": "English FA Cup",
@@ -1861,6 +1874,19 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
       "GameTime": "2:45pm",
       "GameState": "",
+      "HomeTeam": "Leverstock Green",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Wembley",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:45pm   Leverstock Green vs Wembley"
+    },
+    {
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "2:45pm",
+      "GameState": "",
       "HomeTeam": "Tuffley Rovers",
       "HomeGoals": "",
       "HomeLogo": "",
@@ -1972,19 +1998,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "5pm   Risborough Rangers vs Longlevens"
-    },
-    {
-      "LeagueName": "English FA Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Leighton Town",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Abingdon United",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "2:45pm   Leighton Town vs Abingdon United"
     },
     {
       "LeagueName": "English FA Cup",
@@ -2739,19 +2752,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "2:45pm   Odd Down vs Helston Athletic"
-    },
-    {
-      "LeagueName": "English FA Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Buckland Athletic",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Bitton",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "2:45pm   Buckland Athletic vs Bitton"
     },
     {
       "LeagueName": "English FA Cup",
