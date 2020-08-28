@@ -340,7 +340,7 @@
     "iso_alpha2": "DK",
     "name": "Denmark",
     "score": "Partially restricted",
-    "updated": "From August 13, 2020, foreign nationals are prohibited from entering Denmark. This policy does not apply to persons arriving from countries or regions in the European Union (with the exception of Belgium, Bulgaria, Luxembourg, Romania, and Spain) countries or regions associated with the Schengen Area, Australia, Canada, Japan, New Zealand, South Korea, Thailand, Tunisia, and Uruguay. Foreign nationals seeking to travel to Denmark must have a worthy purpose or present documentation showing a minimum stay of 6 nights. This policy does not apply to persons arriving from Norway, the provinces of Scania, Halland, or Blekinge in Sweden, or the state of Schleswig-Holstein in Germany. Health screening will occur at border checkpoints and persons exhibiting symptoms of illness will be denied entry. Additional information is available at the following URL: https://politi.dk/en/coronavirus-in-denmark/travelling-in-or-out-of-denmark/is-my-country-open-or-banned"
+    "updated": "From August 13, 2020, foreign nationals are prohibited from entering Denmark. This policy does not apply to persons arriving from countries or regions in the European Union (with the exception of Belgium, Bulgaria, Luxembourg, Malta, Romania, and Spain) countries or regions associated with the Schengen Area (with the exception of Andorra and Monaco), Australia, Canada, Georgia, Japan, New Zealand, South Korea, Thailand, Tunisia, and Uruguay. Foreign nationals seeking to travel to Denmark must have a worthy purpose or present documentation showing a minimum stay of 6 nights. This policy does not apply to persons arriving from Norway, the provinces of Scania, Halland, or Blekinge in Sweden, or the state of Schleswig-Holstein in Germany. Health screening will occur at border checkpoints and persons exhibiting symptoms of illness will be denied entry. Additional information is available at the following URL: https://politi.dk/en/coronavirus-in-denmark/travelling-in-or-out-of-denmark/is-my-country-open-or-banned"
   },
   {
     "continent": "",
@@ -382,7 +382,7 @@
     "iso_alpha2": "EG",
     "name": "Egypt",
     "score": "Partially restricted",
-    "updated": "From August 15, 2020, foreign nations must present proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Upon arrival, all persons must undergo temperature screening and must comply with all relevant epidemic prevention measures."
+    "updated": "From September 1, 2020, all persons (including Egyptian nationals) must present proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. This policy does not apply to those age six or under. Upon arrival, all persons must undergo temperature screening and must comply with all relevant epidemic prevention measures."
   },
   {
     "continent": "",
@@ -627,7 +627,7 @@
     "iso_alpha2": "JO",
     "name": "Jordan",
     "score": "Entry prohibited",
-    "updated": "From August 5, 2020, all persons arriving in Jordan are subject to testing for COVID-19 upon arrival."
+    "updated": "Foreign nationals are prohibited from entering Jordan and all international passenger flights are suspended. This policy does not apply to diplomats and personnel from international organizations provided they self-isolate for 14 days upon arrival. A nationwide curfew is in effect until further notice."
   },
   {
     "continent": "",
@@ -1299,7 +1299,7 @@
     "iso_alpha2": "UA",
     "name": "Ukraine",
     "score": "Entry prohibited",
-    "updated": "From June 15, 2020, international flights to Ukraine have resumed. Foreign nationals must provide proof of medical insurance sufficient to cover any expenses related to treatment for COVID-19 while in Ukraine. Persons traveling from countries deemed to have a high prevalence of COVID-19 infections must self-isolate upon arrival."
+    "updated": "From August 28, 2020, foreign nationals are prohibited from entering Ukraine. This policy provides exceptions for certain categories of persons. Foreign nationals granted entry to Ukraine must carry medical insurance sufficient to cover any costs associated with the detection and treatment of COVID-19 for the duration of their stay in Ukraine. A full list of policy exemptions is available at the following URL: https://www.kmu.gov.ua/en/news/uryad-utochniv-kategoriyi-inozemciv-yaki-zmozhut-vyizhdzhati-v-ukrayinu-v-period-obmezhen"
   },
   {
     "continent": "",
