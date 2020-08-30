@@ -95,12 +95,12 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:30pm",
-      "GameState": "",
+      "GameState": "HT ",
       "HomeTeam": "FC Cincinnati",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
       "AwayTeam": "Columbus Crew",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     },
@@ -108,12 +108,12 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:30pm",
-      "GameState": "",
+      "GameState": "45 ",
       "HomeTeam": "Philadelphia Union",
-      "HomeGoals": "",
+      "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
       "AwayTeam": "DC United",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     },
@@ -121,12 +121,12 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:30pm",
-      "GameState": "",
+      "GameState": "45 ",
       "HomeTeam": "NYFC",
-      "HomeGoals": "",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
       "AwayTeam": "Chicago Fire",
-      "AwayGoals": "",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
@@ -134,12 +134,12 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "8:00pm",
-      "GameState": "",
+      "GameState": "1 '",
       "HomeTeam": "NE Revolution",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
       "AwayTeam": "NY Red Bulls",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
       "TVChannels": "Fox Sports 1 ,  fuboTV ,  NBCSports…"
     },
@@ -330,8 +330,8 @@
   ],
   "day3": [
     {
-      "LeagueName": "English FA Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "LeagueName": "No League Games",
+      "LeagueLogo": "",
       "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
@@ -341,7 +341,7 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    }
+    },    {      "LeagueName": "Today",      "LeagueLogo": "",      "GameTime": "",      "GameState": "",      "HomeTeam": "",      "HomeGoals": "",      "HomeLogo": "",      "AwayTeam": "",      "AwayGoals": "",      "AwayLogo": "",      "TVChannels": "LeagueHeader"    }
   ],
   "day4": [
     {
@@ -531,8 +531,8 @@
   ],
   "day6": [
     {
-      "LeagueName": "English FA Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "LeagueName": "No League Games",
+      "LeagueLogo": "",
       "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
@@ -542,12 +542,12 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    }
+    },    {      "LeagueName": "Today",      "LeagueLogo": "",      "GameTime": "",      "GameState": "",      "HomeTeam": "",      "HomeGoals": "",      "HomeLogo": "",      "AwayTeam": "",      "AwayGoals": "",      "AwayLogo": "",      "TVChannels": "LeagueHeader"    }
   ],
   "day7": [
     {
-      "LeagueName": "German Bundesliga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+      "LeagueName": "No League Games Today",
+      "LeagueLogo": "",
       "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
