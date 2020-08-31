@@ -1,8 +1,8 @@
 {
   "today": [
     {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+      "LeagueName": "No League Games",
+      "LeagueLogo": "",
       "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
@@ -14,86 +14,8 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "7:00am",
-      "GameState": "FT ",
-      "HomeTeam": "Stade de Reims",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-      "AwayTeam": "Lille",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-      "TVChannels": "DIRECTV Sports Puerto Rico ,  DIRECT…"
-    },
-    {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "9:00am",
-      "GameState": "FT ",
-      "HomeTeam": "Angers",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-      "AwayTeam": "Bordeaux",
-      "AwayGoals": "2",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
-      "TVChannels": "Arena Sport 3 Serbia ,  Digi Sport 2 Roma…"
-    },
-    {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "9:00am",
-      "GameState": "FT ",
-      "HomeTeam": "Metz",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
-      "AwayTeam": "Monaco",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz USA ,  …"
-    },
-    {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "9:00am",
-      "GameState": "FT ",
-      "HomeTeam": "Nantes",
-      "HomeGoals": "2",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-      "AwayTeam": "Nimes",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
-      "TVChannels": "Viaplay Denmark ,  Viaplay Sweden ,  Viaplay N…"
-    },
-    {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "9:00am",
-      "GameState": "FT ",
-      "HomeTeam": "Sai",
-      "HomeGoals": "n",
-      "HomeLogo": "",
-      "AwayTeam": "Lorient",
-      "AwayGoals": "t",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-      "TVChannels": "Arena Sport 4 Serbia ,  Viaplay Denmark ,  Vi…"
-    },
-    {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "3:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Brest",
-      "HomeGoals": "2",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-      "AwayTeam": "Marseille",
-      "AwayGoals": "3",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz USA ,  be…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
       "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
@@ -103,32 +25,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:30pm",
-      "GameState": "FT ",
-      "HomeTeam": "Nashville SC",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
-      "AwayTeam": "Inter Miami",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  MLS App ,  …"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "10:00pm",
-      "GameState": "HT ",
-      "HomeTeam": "Seattle Sounders",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
-      "AwayTeam": "Los Angeles FC",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png",
-      "TVChannels": "Fox Sports 1 ,  fuboTV ,  MLSsoccer…"
     }
   ],
   "day2": [
@@ -619,7 +515,7 @@
       "AwayTeam": "Armenia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/579.png",
-      "TVChannels": "fuboTV ,  TUDN USA ,  ESPN App ,  …"
+      "TVChannels": "fuboTV ,  TUDN USA ,  ESPN App ,  T…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -632,7 +528,7 @@
       "AwayTeam": "England",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/448.png",
-      "TVChannels": "ABC ,  fuboTV ,  TUDN USA ,  ABC App ,  …"
+      "TVChannels": "ABC ,  fuboTV ,  TUDN USA ,  TU…"
     },
     {
       "LeagueName": "UEFA Nations League",
