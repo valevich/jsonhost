@@ -1,8 +1,8 @@
 {
   "today": [
     {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
@@ -14,17 +14,17 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "8:00pm",
       "GameState": "",
-      "HomeTeam": "",
+      "HomeTeam": "Toronto FC",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
+      "AwayTeam": "Montreal Impact",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ],
   "day2": [
@@ -65,7 +65,7 @@
       "AwayTeam": "Philadelphia Union",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -117,7 +117,7 @@
       "AwayTeam": "Minnesota Utd",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -381,7 +381,7 @@
       "AwayTeam": "Bosnia And Herzegovina",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/452.png",
-      "TVChannels": "osnia and Herzegovina fuboTV ,  ESPN App ,  DAZN ,  RAI Uno ,  TV…"
+      "TVChannels": "osnia and Herzegovina DAZN ,  RAI Uno ,  TV2 Sport  ,  Sport TV3 ,  S…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -684,7 +684,7 @@
       "AwayTeam": "Bulgaria",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/462.png",
-      "TVChannels": "ESPN3 ,  TUDN USA ,  ESPN App ,  ESPN2…"
+      "TVChannels": "fuboTV ,  ESPN3 ,  TUDN USA ,  ESPN…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -697,7 +697,7 @@
       "AwayTeam": "Russia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/454.png",
-      "TVChannels": "TUDN USA ,  DAZN ,  Sport TV1 ,  Sport 1 ,  Matc…"
+      "TVChannels": "fuboTV ,  TUDN USA ,  TUDN.com ,  D…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -749,7 +749,7 @@
       "AwayTeam": "Ukraine",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/457.png",
-      "TVChannels": "TUDN USA ,  UniMás ,  DAZN ,  Sport TV1 ,  …"
+      "TVChannels": "fuboTV ,  TUDN USA ,  UniMás ,  …"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -827,7 +827,7 @@
       "AwayTeam": "Philadelphia Union",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  M…"
     },
     {
       "LeagueName": "Major League Soccer",
