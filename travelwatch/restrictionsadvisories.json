@@ -157,8 +157,8 @@
     "continent": "",
     "iso_alpha2": "BO",
     "name": "Bolivia",
-    "score": "Entry prohibited",
-    "updated": "Foreign nationals are prohibited from entering Bolivia until at least September 30, 2020. This policy does not apply to legal residents, diplomats, members of special missions or international organizations, technical specialists, and persons transporting goods or cargo."
+    "score": "Partially restricted",
+    "updated": "From September 1, 2020, persons arriving in Bolivia via air must show proof of a negative test result for COVID-19 issued no more than 7 days prior to departure and confirmed by a local Bolivian embassy or consulate where the test was performed. All land and river border checkpoints remain closed."
   },
   {
     "continent": "",
@@ -227,8 +227,8 @@
     "continent": "",
     "iso_alpha2": "CG",
     "name": "Republic of the Congo",
-    "score": "Entry prohibited",
-    "updated": "All air, land, river, and sea border checkpoints are closed to passenger traffic. A state of emergency is in effect until at least July 10, 2020."
+    "score": "Partially restricted",
+    "updated": "From August 24, 2020, persons arriving in the Republic of the Congo must undergo a reverse transcription polymerase chain reaction (RT-PCR) test for COVID-19 upon arrival. This policy does not apply to persons who carry proof of a negative RT-PCR test result issued no more than 72 hours prior to departure. Persons who test positive on arrival will be transferred to a designated location for treatment. All other persons must self-isolate for 14 days. A daily curfew is in effect from 22:00 (10:00 p.m.) to 05:00 (5:00 a.m.) nationwide, expect for Brazzaville and Pointe-Noire where curfew begins at 20:00 (8:00 p.m.)."
   },
   {
     "continent": "",
@@ -956,7 +956,7 @@
     "iso_alpha2": "NP",
     "name": "Nepal",
     "score": "Partially restricted",
-    "updated": "All international flights are suspended and all land border checkpoints with India and China are closed until at least September 16, 2020. Persons wishing to enter Nepal must first visit a Nepali embassy or consulate abroad, which will decide whether to issue a visa after inspecting an applicant's health certificate. All persons arriving in Nepal will be screened for COVID-19 at Tribhuvan International Airport and those granted entry must self-isolate for 14 days. Nepal has halted all mountaineering expeditions and revoked all already-issued or to be-issued permits for the 2020 climbing season."
+    "updated": "From September 1, 2020, persons arriving in Nepal on scheduled international flights must carry the following documents: 1) a valid visa or entry permit, 2) proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test, 3) a completed online form from the Nepal COVID-19 Crisis Management Center (CCMC) showing the bar code, and 4) proof of a minimum 7-night hotel booking. Priority will be given to repatriation flights, lawful residents, diplomats, and international aid officials."
   },
   {
     "continent": "",
@@ -1103,7 +1103,7 @@
     "iso_alpha2": "SC",
     "name": "Seychelles",
     "score": "Partially restricted",
-    "updated": "From August 17, 2020, foreign nationals are prohibited from visiting the Seychelles. This policy does not apply to persons traveling from the following countries or regions: Austria, Canada, China, Cyprus, Denmark, Estonia, Finland, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Malaysia, Mauritius, Monaco, New Zealand, Norway, Portugal, Slovakia, Slovenia, South Korea, Sir Lanka, Switzerland, Thailand, Tunisia, or Untied Arab Emirates. Persons arriving in the Seychelles must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Results should submitted using the official form provided at the following URL: http://tourism.gov.sc/wp-content/uploads/2020/05/Submission-of-Covid-test-result-to-PHA-updated.pdf and afterwards emailed directly to health authorities at visitor@health.gov.sc . More information is available at the following URL: http://tourism.gov.sc/"
+    "updated": "From August 31, 2020, foreign nationals are prohibited from visiting the Seychelles. This policy does not apply to persons traveling from the following countries or regions: Austria, Cambodia, Canada, China, Cyprus, Denmark, Estonia, Finland, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Malaysia, Mauritius, Monaco, New Zealand, Norway, Portugal, Qatar, Singapore, Slovakia, Slovenia, Sri Lanka, Switzerland, Thailand, orUnited Arab EmiratesPersons arriving in the Seychelles must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Results should submitted using the official form provided at the following URL: http://tourism.gov.sc/wp-content/uploads/2020/05/Submission-of-Covid-test-result-to-PHA-updated.pdf and afterwards emailed directly to health authorities at visitor@health.gov.sc . More information is available at the following URL: http://tourism.gov.sc/"
   },
   {
     "continent": "",
