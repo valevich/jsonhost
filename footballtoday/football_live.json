@@ -656,7 +656,7 @@
       "AwayTeam": "Bulgaria",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/462.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  ESPN…"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN3 ,  TU…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -912,26 +912,13 @@
       "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
       "GameTime": "2:45pm",
       "GameState": "",
-      "HomeTeam": "Bosnia And Herzegovina",
+      "HomeTeam": "Albania",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/452.png",
-      "AwayTeam": "Poland",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/585.png",
+      "AwayTeam": "Lithuania",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/471.png",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/460.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  TUDN.com ,  …"
-    },
-    {
-      "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Netherlands",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/449.png",
-      "AwayTeam": "Italy",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/162.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  ESPN…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -951,12 +938,12 @@
       "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
       "GameTime": "2:45pm",
       "GameState": "",
-      "HomeTeam": "Northern Ireland",
+      "HomeTeam": "Bosnia And Herzegovina",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/586.png",
-      "AwayTeam": "Norway",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/452.png",
+      "AwayTeam": "Poland",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/464.png",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/471.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  TUDN.com ,  …"
     },
     {
@@ -990,12 +977,25 @@
       "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
       "GameTime": "2:45pm",
       "GameState": "",
-      "HomeTeam": "Albania",
+      "HomeTeam": "Netherlands",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/585.png",
-      "AwayTeam": "Lithuania",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/449.png",
+      "AwayTeam": "Italy",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/460.png",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/162.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  ESPN…"
+    },
+    {
+      "LeagueName": "UEFA Nations League",
+      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "GameTime": "2:45pm",
+      "GameState": "",
+      "HomeTeam": "Northern Ireland",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/586.png",
+      "AwayTeam": "Norway",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/464.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  TUDN.com ,  …"
     }
   ],
