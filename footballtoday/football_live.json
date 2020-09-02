@@ -16,15 +16,145 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "7:00pm",
+      "GameState": "",
+      "HomeTeam": "Atlanta United",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
+      "AwayTeam": "Inter Miami",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
+      "TVChannels": "Fox Sports 1 ,  fuboTV ,  FOX Deportes ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "7:30pm",
+      "GameState": "",
+      "HomeTeam": "FC Cincinnati",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
+      "AwayTeam": "Chicago Fire",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "7:30pm",
+      "GameState": "",
+      "HomeTeam": "Columbus Crew",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
+      "AwayTeam": "Philadelphia Union",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "7:30pm",
+      "GameState": "",
+      "HomeTeam": "NY Red Bulls",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
+      "AwayTeam": "DC United",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  M…"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "8:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Toronto FC",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
-      "AwayTeam": "Montreal Impact",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
-      "TVChannels": "ESPN App ,  MLSsoccer.com ,  MLS App ,  TSN Ap…"
+      "GameState": "",
+      "HomeTeam": "Houston Dynamo",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png",
+      "AwayTeam": "Minnesota Utd",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "8:00pm",
+      "GameState": "",
+      "HomeTeam": "NE Revolution",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
+      "AwayTeam": "NYFC",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  NBCSports…"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "8:30pm",
+      "GameState": "",
+      "HomeTeam": "Sporting KC",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png",
+      "AwayTeam": "FC Dallas",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "8:30pm",
+      "GameState": "",
+      "HomeTeam": "Nashville SC",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
+      "AwayTeam": "Orlando City",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "9:30pm",
+      "GameState": "",
+      "HomeTeam": "Real Salt Lake",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png",
+      "AwayTeam": "Seattle Sounders",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "10:30pm",
+      "GameState": "",
+      "HomeTeam": "Los Angeles FC",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png",
+      "AwayTeam": "SJ Earthquakes",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  ESPN…"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "10:30pm",
+      "GameState": "",
+      "HomeTeam": "Portland Timbers",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
+      "AwayTeam": "LA Galaxy",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ],
   "day2": [
@@ -65,7 +195,7 @@
       "AwayTeam": "Malta",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/453.png",
-      "TVChannels": "ESPN+ ,  ESPNPlay Caribbean ,  DAZN ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  ESPNPlay Caribbe…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -104,7 +234,7 @@
       "AwayTeam": "Serbia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
-      "TVChannels": "ESPN+ ,  ESPNPlay Caribbean ,  DAZN ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  ESPNPlay Caribbe…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -117,7 +247,7 @@
       "AwayTeam": "Hungary",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/480.png",
-      "TVChannels": "ESPN+ ,  DIRECTV Sports Puerto Ri…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DIRECTV Sports…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -130,7 +260,7 @@
       "AwayTeam": "Republic Of Ireland",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/476.png",
-      "TVChannels": "ESPN+ ,  DIRECTV Sports Puerto Ri…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DIRECTV Sports…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -143,7 +273,7 @@
       "AwayTeam": "Wales",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/578.png",
-      "TVChannels": "ESPN+ ,  DIRECTV Sports Puerto Ri…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DIRECTV Sports…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -156,7 +286,7 @@
       "AwayTeam": "Kosovo",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/18272.png",
-      "TVChannels": "ESPN+ ,  ESPNPlay Caribbean ,  DAZN ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  ESPNPlay Caribbe…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -169,7 +299,7 @@
       "AwayTeam": "Greece",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/455.png",
-      "TVChannels": "ESPN+ ,  DIRECTV Sports Puerto Ri…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DIRECTV Sports…"
     }
   ],
   "day3": [
@@ -210,7 +340,7 @@
       "AwayTeam": "Albania",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/585.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  SuperSport 2 Digitalb ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  SuperSport…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -223,7 +353,7 @@
       "AwayTeam": "Bosnia And Herzegovina",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/452.png",
-      "TVChannels": "osnia and Herzegovina ESPN+ ,  DAZN ,  RAI Uno ,  TV2 Sport  ,  …"
+      "TVChannels": "osnia and Herzegovina ESPN+ ,  ESPN App ,  DAZN ,  RAI Uno ,  TV…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -236,7 +366,7 @@
       "AwayTeam": "Poland",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/471.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  ESPN…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -262,7 +392,7 @@
       "AwayTeam": "Northern Ireland",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/586.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  Pro TV ,  OLL.tv ,  TV2 Sum…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Pro TV ,  OLL.t…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -275,7 +405,7 @@
       "AwayTeam": "Ael",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8357.png",
-      "TVChannels": "2:45pm   Scotland vs Israel ESPN+ ,  DIRECTV Sports Puerto Ri…"
+      "TVChannels": "2:45pm   Scotland vs Israel ESPN+ ,  ESPN App ,  DIRECTV Sports…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -288,7 +418,7 @@
       "AwayTeam": "Czech Republic",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/450.png",
-      "TVChannels": "ESPN+ ,  DIRECTV Sports Puerto Ri…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DIRECTV Sports…"
     }
   ],
   "day4": [
@@ -316,7 +446,7 @@
       "AwayTeam": "San Marino",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/588.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  Sport TV2 ,  Cosmote Sp…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sport TV2 ,  …"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -355,7 +485,7 @@
       "AwayTeam": "Luxembourg",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/582.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  Sport TV4 ,  Sportbox.ru ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sport TV4 ,  Sp…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -368,7 +498,7 @@
       "AwayTeam": "Montenegro",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6775.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  Cosmote Sport 3 HD ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Cosmote Spo…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -381,7 +511,7 @@
       "AwayTeam": "Georgia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/584.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  Sport 2 ,  1TV ,  OLL.tv"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sport 2 ,  1TV"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -394,7 +524,7 @@
       "AwayTeam": "Belgium",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/459.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  Kanal 5 Denmark ,  Sport…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Kanal 5 Denm…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -420,7 +550,7 @@
       "AwayTeam": "France",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/478.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  TV4 Sweden ,  TV2 Sport…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TV4 Sweden ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -513,7 +643,7 @@
       "AwayTeam": "Faroe Islands",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/447.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  Sport TV2 ,  Cosmote Sp…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sport TV2 ,  …"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -526,7 +656,7 @@
       "AwayTeam": "Bulgaria",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/462.png",
-      "TVChannels": "fuboTV ,  TUDN USA ,  ESPN App ,  T…"
+      "TVChannels": "fuboTV ,  TUDN USA ,  TUDN.com ,  …"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -539,7 +669,7 @@
       "AwayTeam": "Russia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/454.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  ESPN…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -552,7 +682,7 @@
       "AwayTeam": "Finland",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/458.png",
-      "TVChannels": "fuboTV ,  ESPN App ,  DAZN ,  Sport TV2 ,  6…"
+      "TVChannels": "DAZN ,  Sport TV2 ,  6'eren ,  Sport 1 Hungary ,  …"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -565,7 +695,7 @@
       "AwayTeam": "Moldova",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/483.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  Sport TV3 ,  Sport 2 ,  Co…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sport TV3 ,  S…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -578,7 +708,7 @@
       "AwayTeam": "Latvia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/456.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  TV3 Sport ,  TV2 Sumo ,  C…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TV3 Sport ,  …"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -591,7 +721,7 @@
       "AwayTeam": "Ukraine",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/457.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  ESPN…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -604,7 +734,7 @@
       "AwayTeam": "Germany",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/481.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  ZDF ,  S…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  ZDF ,  DAZN ,  Sport T…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -630,7 +760,7 @@
       "AwayTeam": "Greece",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/455.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  Sport TV4 ,  SuperSport…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sport TV4 ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -656,7 +786,7 @@
       "AwayTeam": "NYFC",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  YES Network ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -747,7 +877,7 @@
       "AwayTeam": "Los Angeles FC",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png",
-      "TVChannels": "ESPN+ ,  TUDN USA ,  ESPN App ,  ML…"
+      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  ESPN…"
     }
   ],
   "day6": [
@@ -788,7 +918,7 @@
       "AwayTeam": "Poland",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/471.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  Sport TV2 ,  TVP Sport ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sport TV2 ,  …"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -801,7 +931,7 @@
       "AwayTeam": "Italy",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/162.png",
-      "TVChannels": "ESPN+ ,  TUDN USA ,  DAZN ,  Sport TV1 ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  ESPN…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -814,7 +944,7 @@
       "AwayTeam": "Romania",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/473.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  ORF eins ,  Pro TV ,  TV2 S…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ORF eins ,  Pro…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -827,7 +957,7 @@
       "AwayTeam": "Norway",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/464.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  Sport TV3 ,  TV 2 Norwa…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sport TV3 ,  …"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -853,7 +983,7 @@
       "AwayTeam": "Slovakia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/468.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  Jednotka ,  TV2 Sumo ,  C Mo…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Jednotka ,  TV2…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -866,7 +996,7 @@
       "AwayTeam": "Lithuania",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/460.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  SuperSport 2 Digitalb ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  SuperSport…"
     }
   ],
   "day7": [
@@ -907,7 +1037,7 @@
       "AwayTeam": "North Macedonia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/463.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  Sport TV2 ,  SuperSport…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sport TV2 ,  …"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -920,7 +1050,7 @@
       "AwayTeam": "Iceland",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/470.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  Sport TV4 ,  La Une ,  TV2…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sport TV4 ,  L…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -959,7 +1089,7 @@
       "AwayTeam": "Croatia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/477.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  Cuatro ,  Sport TV2 ,  Supe…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Cuatro ,  Sport…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -972,7 +1102,7 @@
       "AwayTeam": "Montenegro",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6775.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  TV2 Sumo ,  C More Play ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TV2 Sumo ,  C…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -985,7 +1115,7 @@
       "AwayTeam": "Liechtenstein",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/589.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  SMtv San Marino ,  TV2…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  SMtv San Ma…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -998,7 +1128,7 @@
       "AwayTeam": "Portugal",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/482.png",
-      "TVChannels": "ESPN+ ,  DAZN ,  Sport TV1 ,  RTP 1 ,  TV4…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sport TV1 ,  …"
     }
   ]
 }
