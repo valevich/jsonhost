@@ -141,7 +141,7 @@
       "AwayTeam": "SJ Earthquakes",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  ESPN…"
+      "TVChannels": "fuboTV ,  TUDN USA ,  ESPN App ,  Un…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -537,7 +537,7 @@
       "AwayTeam": "Croatia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/477.png",
-      "TVChannels": "ABC ,  fuboTV ,  TUDN USA ,  Uni…"
+      "TVChannels": "ABC ,  fuboTV ,  ESPN3 ,  TUDN…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -786,7 +786,7 @@
       "AwayTeam": "NYFC",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+      "TVChannels": "fuboTV ,  ESPN App ,  YES Network ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -799,7 +799,7 @@
       "AwayTeam": "Philadelphia Union",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  M…"
+      "TVChannels": "fuboTV ,  ESPN App ,  MLSsoccer.com ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -825,7 +825,7 @@
       "AwayTeam": "FC Cincinnati",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "TVChannels": "ESPN App ,  MLSsoccer.com ,  WSTR Star…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -838,7 +838,7 @@
       "AwayTeam": "Real Salt Lake",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "TVChannels": "ESPN App ,  MLSsoccer.com ,  SKOR…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1044,6 +1044,19 @@
       "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
       "GameTime": "2:45pm",
       "GameState": "",
+      "HomeTeam": "San Marino",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/588.png",
+      "AwayTeam": "Liechtenstein",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/589.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  SMtv San Ma…"
+    },
+    {
+      "LeagueName": "UEFA Nations League",
+      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "GameTime": "2:45pm",
+      "GameState": "",
       "HomeTeam": "Belgium",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/459.png",
@@ -1051,19 +1064,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/470.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sport TV4 ,  L…"
-    },
-    {
-      "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Cyprus",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/445.png",
-      "AwayTeam": "Azerbaijan",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/581.png",
-      "TVChannels": "ESPN3 ,  ESPN App ,  DAZN ,  RIK 2 ,  TV2…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -1096,32 +1096,6 @@
       "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
       "GameTime": "2:45pm",
       "GameState": "",
-      "HomeTeam": "Luxembourg",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/582.png",
-      "AwayTeam": "Montenegro",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6775.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TV2 Sumo ,  C…"
-    },
-    {
-      "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "San Marino",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/588.png",
-      "AwayTeam": "Liechtenstein",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/589.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  SMtv San Ma…"
-    },
-    {
-      "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
       "HomeTeam": "Sweden",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/466.png",
@@ -1129,6 +1103,32 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/482.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sport TV1 ,  …"
+    },
+    {
+      "LeagueName": "UEFA Nations League",
+      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "GameTime": "2:45pm",
+      "GameState": "",
+      "HomeTeam": "Cyprus",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/445.png",
+      "AwayTeam": "Azerbaijan",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/581.png",
+      "TVChannels": "ESPN3 ,  ESPN App ,  DAZN ,  RIK 2 ,  TV2…"
+    },
+    {
+      "LeagueName": "UEFA Nations League",
+      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "GameTime": "2:45pm",
+      "GameState": "",
+      "HomeTeam": "Luxembourg",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/582.png",
+      "AwayTeam": "Montenegro",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6775.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TV2 Sumo ,  C…"
     }
   ]
 }
