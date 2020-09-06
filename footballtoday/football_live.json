@@ -173,25 +173,25 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "9:30pm",
-      "GameState": "HT ",
+      "GameState": "90 ",
       "HomeTeam": "Vancouver Whitecaps",
-      "HomeGoals": "1",
+      "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
       "AwayTeam": "Toronto FC",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  MLS App ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "10:30pm",
-      "GameState": "",
+      "GameState": "HT ",
       "HomeTeam": "SJ Earthquakes",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
       "AwayTeam": "Colorado Rapids",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
