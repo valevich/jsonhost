@@ -17,27 +17,27 @@
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
       "GameTime": "12:00pm",
-      "GameState": "71 ",
+      "GameState": "FT ",
       "HomeTeam": "Armenia",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/579.png",
       "AwayTeam": "Estonia",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/444.png",
-      "TVChannels": "fuboTV ,  ESPN3 ,  ESPN App ,  …"
+      "TVChannels": "fuboTV ,  ESPN3 ,  ESPN App ,  TUDN.com ,  TUDNx…"
     },
     {
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
       "GameTime": "12:00pm",
-      "GameState": "70 ",
+      "GameState": "FT ",
       "HomeTeam": "Georgia",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/584.png",
       "AwayTeam": "North Macedonia",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/463.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  TUDN.com ,  TUDNx…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -578,7 +578,7 @@
       "AwayTeam": "Houston Dynamo",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png",
-      "TVChannels": "MLSsoccer.com ,  MLS App ,  TUDN R…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -814,7 +814,7 @@
       "AwayTeam": "LA Galaxy",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png",
-      "TVChannels": "fuboTV ,  TUDN USA ,  UniMás ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  ESPN…"
     }
   ],
   "day7": [
