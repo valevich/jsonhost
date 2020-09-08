@@ -17,9 +17,9 @@
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
       "GameTime": "12:00pm",
-      "GameState": "29 ",
+      "GameState": "71 ",
       "HomeTeam": "Armenia",
-      "HomeGoals": "0",
+      "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/579.png",
       "AwayTeam": "Estonia",
       "AwayGoals": "0",
@@ -30,12 +30,12 @@
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
       "GameTime": "12:00pm",
-      "GameState": "28 ",
+      "GameState": "70 ",
       "HomeTeam": "Georgia",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/584.png",
       "AwayTeam": "North Macedonia",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/463.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
@@ -102,7 +102,7 @@
       "AwayTeam": "Portugal",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/482.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  U…"
+      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  ESPN…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -814,7 +814,7 @@
       "AwayTeam": "LA Galaxy",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png",
-      "TVChannels": "MLSsoccer.com ,  MLS App ,  ESPNPlay C…"
+      "TVChannels": "fuboTV ,  TUDN USA ,  UniMás ,  …"
     }
   ],
   "day7": [
@@ -836,19 +836,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Sheffield Utd",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-      "AwayTeam": "Wolves",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
       "HomeTeam": "Brighton",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
@@ -856,6 +843,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
       "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  …"
+    },
+    {
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Sheffield Utd",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
+      "AwayTeam": "Wolves",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
