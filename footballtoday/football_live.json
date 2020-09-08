@@ -684,7 +684,7 @@
       "AwayTeam": "Stade de Reims",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-      "TVChannels": "Téléfoot Stadium 1 ,  DAZN ,  QQ Sports Live ,  …"
+      "TVChannels": "Téléfoot Stadium 1 ,  QQ Sports Live ,  PPT…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -697,7 +697,7 @@
       "AwayTeam": "Brest",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-      "TVChannels": "Téléfoot Stadium 2 ,  DAZN ,  QQ Sports Live ,  …"
+      "TVChannels": "Téléfoot Stadium 2 ,  QQ Sports Live ,  PPT…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -710,7 +710,7 @@
       "AwayTeam": "Lens",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-      "TVChannels": "Téléfoot Stadium 3 ,  DAZN ,  QQ Sports Live ,  …"
+      "TVChannels": "Téléfoot Stadium 3 ,  QQ Sports Live ,  PPT…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -836,19 +836,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Brighton",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-      "AwayTeam": "Chelsea",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  …"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
       "HomeTeam": "Sheffield Utd",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
@@ -856,6 +843,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
       "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
+    },
+    {
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Brighton",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+      "AwayTeam": "Chelsea",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -881,7 +881,7 @@
       "AwayTeam": "Real Betis",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
     }
   ]
 }
