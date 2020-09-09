@@ -368,7 +368,7 @@
       "AwayTeam": "Columbus Crew",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  ESPN…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -433,7 +433,7 @@
       "AwayTeam": "Atlanta United",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
-      "TVChannels": "ESPN App ,  MLSsoccer.com ,  MLS App ,  C…"
+      "TVChannels": "ESPN App ,  MLSsoccer.com ,  Fox Sports…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -514,6 +514,45 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "10:00am",
+      "GameState": "",
+      "HomeTeam": "Real Valladolid",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
+      "AwayTeam": "Real Sociedad",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "12:30pm",
+      "GameState": "",
+      "HomeTeam": "Villarreal",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+      "AwayTeam": "Huesca beIN SPORTS ,  fuboTV ,  Fanatiz…",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Huesca beIN SPORTS ,  fuboTV ,  Fanatiz…"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Valencia",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+      "AwayTeam": "Levante",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN SP…"
     },
     {
       "LeagueName": "French Ligue 1",
