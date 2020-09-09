@@ -386,6 +386,19 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "3:30pm",
+      "GameState": "",
+      "HomeTeam": "Chicago Fire",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png",
+      "AwayTeam": "Columbus Crew",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:00pm",
       "GameState": "",
       "HomeTeam": "DC United",
@@ -408,19 +421,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:30pm",
-      "GameState": "",
-      "HomeTeam": "Chicago Fire",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png",
-      "AwayTeam": "Columbus Crew",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -728,7 +728,7 @@
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "3:00pm",
+      "GameTime": "1:00pm",
       "GameState": "",
       "HomeTeam": "Sheffield Utd",
       "HomeGoals": "",
@@ -741,7 +741,7 @@
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "3:00pm",
+      "GameTime": "3:15pm",
       "GameState": "",
       "HomeTeam": "Brighton",
       "HomeGoals": "",
