@@ -130,7 +130,7 @@
     "iso_alpha2": "BH",
     "name": "Bahrain",
     "score": "Partially restricted",
-    "updated": "Foreign nationals are prohibited from entering Bahrain via air. All persons granted entry to Bahrain are required to self-isolate for 14 days. All visa-on-arrival services are suspended."
+    "updated": "From September 4, 2020, foreign nationals are prohibited from entering Bahrain. This policy does not apply to lawful residents, citizens from countries or regions in the Gulf Cooperation Council (GCC) who are eligible for visa-free travel to Bahrain, persons eligible to obtain a visa on arrival, persons holding a valid eVisa, diplomats, military personnel, airline crew members, or persons who hold official, service, or United Nations passports. Upon arrival, all persons must, at their own expense, undergo a polymerase chain reaction (PCR) test for COVID-19 and self-isolate while awaiting their test results. Persons intending to remain in Bahrain for more than 10 days must undergo an addition PCR test on the 10th day following arrival. The Bahraini government has announced the resumption of visa-on-arrival services for 68 countries and regions. To determine their eligibility, travelers should visit the following URL: https://evisa.gov.bh/"
   },
   {
     "continent": "",
@@ -242,7 +242,7 @@
     "iso_alpha2": "CI",
     "name": "Côte d'Ivoire",
     "score": "Partially restricted",
-    "updated": "From July 1, 2020, international flights have resumed. Persons arriving in Côte d'Ivoire must undergo strict health screening for COVID-19. All land border checkpoints remain closed until at least July 15, 2020."
+    "updated": "All persons arriving in Ivory Coast must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test."
   },
   {
     "continent": "",
@@ -571,7 +571,7 @@
     "iso_alpha2": "IE",
     "name": "Ireland",
     "score": "Partially restricted",
-    "updated": "All persons (including Irish nationals) must submit, prior to arrival, a COVID-19 Passenger Locator Form and must, upon arrival, self-isolate for 14 days. This policy does not apply to diplomats or essential supply chain workers. Failure to submit the locator form is considered an offense. Forms are available at the following web address: https://www.gov.ie/en/publication/e885b2-covid-19-coronavirus-travel-advice/"
+    "updated": "All persons (including Irish nationals) must submit, prior to arrival, a COVID-19 Passenger Locator Form and must, upon arrival, self-isolate for 14 days. This policy does not apply to diplomats, essential supply chain workers, or persons arriving from a very limited set of locations. Failure to submit the locator form is considered an offense. Locator forms and information on exempted locations is available at the following URL: https://www.gov.ie/en/publication/e885b2-covid-19-coronavirus-travel-advice/"
   },
   {
     "continent": "",
@@ -627,7 +627,7 @@
     "iso_alpha2": "JO",
     "name": "Jordan",
     "score": "Entry prohibited",
-    "updated": "Foreign nationals are prohibited from entering Jordan and all international passenger flights are suspended. This policy does not apply to diplomats and personnel from international organizations provided they self-isolate for 14 days upon arrival. A nationwide curfew is in effect until further notice."
+    "updated": "From September 8, 2020, persons arriving from countries or regions deemed green by Jordanian authorities must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Travelers must have spent the 14 days prior to departure within the green country or region and must, at their own expense, undergo an additional PCR test for COVID-19 upon arrival in Jordan. Persons arriving from yellow countries or regions must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a PCR test. Such persons must, at their own espense, undergo an additional PCR test for COVID-19 and a 7-day quarantine at a designated facility upon arrival. A third PCR test will be administered near the end of the quarantine period and persons who again test negative will be released to self-isolate for the next 7 days. Persons arriving from red countries or regions will undergo the same procedures as apply to yellow locations; however, they must also wear an electronic monitoring bracelet during their self-isolation period. A nationwide curfew is in effect until further notice."
   },
   {
     "continent": "",
@@ -662,7 +662,7 @@
     "iso_alpha2": "KM",
     "name": "Comoros",
     "score": "Entry prohibited",
-    "updated": "All travelers from coronavirus affected countries or regions will not be allowed entry. All international commercial flights have been suspended until further notice."
+    "updated": "From September 7, 2020, all persons arriving in Comoros must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test."
   },
   {
     "continent": "",
@@ -914,7 +914,7 @@
     "iso_alpha2": "NA",
     "name": "Namibia",
     "score": "Entry prohibited",
-    "updated": "Air, land, and sea border checkpoints are closed to non-essential travel. From June 30, 2020, all persons (including Namibian nationals) must undergo testing for COVID-19 upon arrival and quarantine in a designated facility at their own expense."
+    "updated": "Persons arriving in Namibia must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Travelers with valid PCR test results are not subject to quarantine; however, they must undergo an additional PCR test on the 5th day following their arrival. All international flights are required to arrive at Hosea Kutako International Airport (WDH) in Windhoek. All land border checkpoints are closed. This policy does not apply to persons holding a valid work permit."
   },
   {
     "continent": "",
@@ -928,7 +928,7 @@
     "iso_alpha2": "NG",
     "name": "Nigeria",
     "score": "Partially restricted",
-    "updated": "All persons entering Nigeria must have proof issued no more than 14 days prior to departure of a negative result for COVID-19 using a polymerase chain reaction (PCR) test. Nigerian authorities recommend travelers get tested no more than 5 days prior to departure for Nigeria. All persons must provide verifiable information on a Health Declaration/Self-Reporting Form and a Sample Collection Time Allocation Form while en route to Nigeria. All persons must self-isolate for 14-days upon arrival and must remain in the same city/state they used as a port of entry for the duration of their self-isolation period. International flights are suspended and domestic interstate travel is prohibited. This policy does not apply to the movement of goods or the provision of services."
+    "updated": "All persons entering Nigeria must have proof of a negative result for COVID-19 issued no more than 14 days prior to departure using a polymerase chain reaction (PCR) test. Nigerian authorities recommend travelers undergo testing no more than 5 days prior to departure for Nigeria. All persons must provide verifiable information on a Health Declaration/Self-Reporting Form and a Sample Collection Time Allocation Form while en route to Nigeria. Upon arrival, all persons must self-isolate for 14-days upon arrival and must remain in the same city/state they used as a port of entry for the duration of their self-isolation period. From September 3, 2020, the Nigerian government has begun easing lockdown restrictions. Detailed information is available at the following URL: https://covid19.ncdc.gov.ng/guideline/"
   },
   {
     "continent": "",
@@ -1117,7 +1117,7 @@
     "iso_alpha2": "SE",
     "name": "Sweden",
     "score": "Partially restricted",
-    "updated": "From June 15, 2020, foreign nationals are prohibited from entering Sweden. The policy does not apply to foreign nationals arriving from countries or regions within the European Union, countries or regions associated with the Schengen Area, or the United Kingdom. Further exemptions exist for persons with particularly urgent needs, persons who are to carry out essential functions in Sweden such as healthcare professionals, staff transporting goods, and persons with imperative family reasons."
+    "updated": "Foreign nationals are prohibited from entering Sweden. The policy does not apply to foreign nationals arriving from countries or regions within the European Union, countries or regions associated with the Schengen Area, or the United Kingdom. Further exemptions exist for persons with particularly urgent needs, persons who are to carry out essential functions in Sweden such as healthcare professionals, staff transporting goods, and persons with imperative family reasons."
   },
   {
     "continent": "",
@@ -1327,7 +1327,7 @@
     "iso_alpha2": "UZ",
     "name": "Uzbekistan",
     "score": "Entry prohibited",
-    "updated": "All air and land border checkpoints are closed to foreign nationals until further notice. This policy does not apply to lawful residents."
+    "updated": "Foreign nationals are prohibited from entering Uzbekistan. This policy does not apply to persons arriving via regularly scheduled flights from Belarus, Kazakhstan, Russia, Turkey, United Arab Emirates, or the United States. Travelers must present proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test and undergo a 14-day quarantine upon arrival in Uzbekistan. All land border checkpoints are closed except those on the border with Kyrgyzstan."
   },
   {
     "continent": "",
