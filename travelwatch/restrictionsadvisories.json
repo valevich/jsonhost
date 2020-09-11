@@ -144,7 +144,7 @@
     "iso_alpha2": "BJ",
     "name": "Benin",
     "score": "Partially restricted",
-    "updated": "From March 19, 2020, unnecessary travel to Benin is prohibited. All persons seeking to enter will be screened for COVID-19 and those showing symptoms will be quarantined. Persons arriving at Cotonou Cadjehoun Airport will be tested for COVID-19 with a second test to be administered after 15 days. Those who test positive will be sent to quarantine at designated facilities."
+    "updated": "All non-essential travel to Benin is prohibited. Persons seeking to enter Benin must undergo screening for COVID-19 and those exhibiting symptoms will be quarantined. Persons arriving at Cotonou Cadjehoun Airport (COO) must, at their own expense, undergo testing for COVID-19 upon arrival and again after 15 days. The cost of testing is 50,000 West African CFA francs. Persons who test positive will be sent to designated facilities for quarantine and treatment. All travelers must complete the health declaration form found at the following URL prior to arrival in Benin: https://centresurveillancesanitaire.bj/"
   },
   {
     "continent": "",
@@ -290,8 +290,8 @@
     "continent": "",
     "iso_alpha2": "CU",
     "name": "Cuba",
-    "score": "Normal",
-    "updated": "From March 24 to June 30, 2020, all travelers are prohibited from entering Cuba, except for Cuban citizens and foreigners living in Cuba for work, those allowed entry have to be isolated for 14 days; foreign tourists are allowed leaving Cuba; only cargo flights and ships are allowed to enter Cuba, and their crew are subject to medical monitoring."
+    "score": "Entry prohibited",
+    "updated": "Foreign nationals are prohibited from entering Cuba until further notice. This policy does not apply to foreign workers employed in Cuba. All persons allowed to enter must undergo a 14-day quarantine. Cargo flights and shipments are permitted; however, crew members aboard such vessels are subject to health monitoring."
   },
   {
     "continent": "",
@@ -459,7 +459,7 @@
     "iso_alpha2": "GE",
     "name": "Georgia",
     "score": "Partially restricted",
-    "updated": "From July 9, 2020, foreign nationals are prohibited from entering Georgia. This policy does not apply to citizens or lawful residents from Estonia, France, Germany, Latvia, or Lithuania provided such persons arrive via a direct flight from one of those countries. Foreign nationals must undergo thermal screening upon arrival and persons who register a temperature above 37°C (98.6°F) must directly undergo a polymerase chain reaction (PCR) test for COVID-19. PCR testing is also mandatory for any individual who, within 14 days of their arrival in Georgia, has traveled to a country / region outside the European Union, or a country / region designated by the World Health Organization as high-risk for COVID-19. Additional exemptions exist for persons traveling to Georgia for business provided such persons submit the appropriate documentation and gain a requisite permit from Georgian authorities prior to departure. Business travelers must, at their own expense, undergo PCR testing for COVID-19 every 72 hours or undergo a mandatory 14-day quarantine. This policy does not apply to business travelers from Estonia, France, Germany, Latvia, or Lithuania."
+    "updated": "Foreign nationals are prohibited from entering Georgia. This policy does not apply to nationals and permanent residents of the following countries/regions provided they arrive via air from one of these locations: Croatia, Cyprus, Estonia, France, Germany, Greece, Italy, Latvia, Lithuania, Luxemburg, Netherlands, Poland, Portugal, Romania, Spain, and Sweden. Additional exemptions exist for persons traveling from other locations for business reasons provided they receive special permission from relevant authorities in Georgia prior to departure. Business travelers must, at their own expense, undergo polymerase chain reaction (PCR) testing for COVID-19 every 72 hours or complete a 14-day quarantine.Nationals and permanent residents from Estonia, France, Germany, Latvia, and Lithuania who arrive via air from one of those locations must fill in an online form detailing their travel history during the 14 days prior to their departure and undergo a PCR test for COVID-19 upon arrival in Georgia. Nationals and permanent residents from Croatia, Cyprus, Greece, Italy, Luxemburg, Netherlands, Poland, Portugal, Romania, Spain, and Sweden must additionally undergo a 14-day quarantine at their own expense. Health declaration forms are available at the following URL: https://stopcov.ge/en"
   },
   {
     "continent": "",
@@ -508,7 +508,7 @@
     "iso_alpha2": "GT",
     "name": "Guatemala",
     "score": "Entry prohibited",
-    "updated": "All air, land, and sea border checkpoints are closed to foreign nationals. This policy does not apply to lawful residents. A nightly curfew is in effect nationwide between 21:00 (9:00 p.m.) and 05:00 (5:00 p.m.)."
+    "updated": "From September 18, 2020, all persons entering Guatemala via air must present proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test or undergo a 14-day quarantine upon arrival. All air and sea border checkpoints are closed to foreign nationals and non-residents. A nightly curfew is in effect nationwide from 21:00 (9:00 p.m.) to 05:00 (5:00 a.m.)."
   },
   {
     "continent": "",
@@ -626,7 +626,7 @@
     "continent": "",
     "iso_alpha2": "JO",
     "name": "Jordan",
-    "score": "Entry prohibited",
+    "score": "Partially restricted",
     "updated": "From September 8, 2020, persons arriving from countries or regions deemed green by Jordanian authorities must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Travelers must have spent the 14 days prior to departure within the green country or region and must, at their own expense, undergo an additional PCR test for COVID-19 upon arrival in Jordan. Persons arriving from yellow countries or regions must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a PCR test. Such persons must, at their own espense, undergo an additional PCR test for COVID-19 and a 7-day quarantine at a designated facility upon arrival. A third PCR test will be administered near the end of the quarantine period and persons who again test negative will be released to self-isolate for the next 7 days. Persons arriving from red countries or regions will undergo the same procedures as apply to yellow locations; however, they must also wear an electronic monitoring bracelet during their self-isolation period. A nationwide curfew is in effect until further notice."
   },
   {
@@ -661,7 +661,7 @@
     "continent": "",
     "iso_alpha2": "KM",
     "name": "Comoros",
-    "score": "Entry prohibited",
+    "score": "Partially restricted",
     "updated": "From September 7, 2020, all persons arriving in Comoros must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test."
   },
   {
@@ -781,7 +781,7 @@
     "iso_alpha2": "MA",
     "name": "Morocco",
     "score": "Entry prohibited",
-    "updated": "All international passenger flights are suspended. A nationwide state of emergency is in effect until at least September 10, 2020. Moroccan nationals are legal residents seeking to return from abroad must provide test results from both a polymerase chain reaction (PCR) test and a serology test upon arrival."
+    "updated": "All air, land, and sea border checkpoints are closed. A state of emergency is in effect nationwide until at least October 10, 2020. This policy does not apply to shipments of cargo."
   },
   {
     "continent": "",
@@ -913,7 +913,7 @@
     "continent": "",
     "iso_alpha2": "NA",
     "name": "Namibia",
-    "score": "Entry prohibited",
+    "score": "Partially restricted",
     "updated": "Persons arriving in Namibia must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Travelers with valid PCR test results are not subject to quarantine; however, they must undergo an additional PCR test on the 5th day following their arrival. All international flights are required to arrive at Hosea Kutako International Airport (WDH) in Windhoek. All land border checkpoints are closed. This policy does not apply to persons holding a valid work permit."
   },
   {
@@ -1054,7 +1054,7 @@
     "iso_alpha2": "QA",
     "name": "Qatar",
     "score": "Entry prohibited",
-    "updated": "Entry into Qatar is currently only permitted for Qatari nationals. Entry requirements for Qatari nationals returning between 15 June and 15 September, 2020:  -Confirmed reservation at a government-approved quarantine hotel for a period of 14 days.-Entry into Hamad International Airport will not be permitted without a confirmed quarantine reservation.-Bookings can be made at Discover Qatar in Partnership with Qatar Airways Holidays.Beginning on 1 August, select Qatar ID (QID) holders will be permitted to return to Qatar. Entry requirements for QID holders returning between 1 August and 15 September, 2020: -Government authorization to travel to Qatar; -Confirmed reservation at a government-approved quarantine hotel for a period of 14 days.-QID holders are advised not to book a quarantine package until approval to return to Qatar has been confirmed."
+    "updated": "Foreign nationals are prohibited from entering Qatar. Qatari nationals and Qatar ID (QID) holders returning from abroad must have a confirmed 14-day reservation at a government-approved quarantine hotel. Bookings should be made online at the Discover Qatar website. Failure to secure a booking prior to arrival may result in a denial of permission to enter Qatar. Persons holding a QID are advised not to book a quarantine package before receiving approval to return to Qatar. Additional information is available at the following URL: https://portal.www.gov.qa/wps/portal/qsports/home"
   },
   {
     "continent": "",
@@ -1326,7 +1326,7 @@
     "continent": "",
     "iso_alpha2": "UZ",
     "name": "Uzbekistan",
-    "score": "Entry prohibited",
+    "score": "Partially restricted",
     "updated": "Foreign nationals are prohibited from entering Uzbekistan. This policy does not apply to persons arriving via regularly scheduled flights from Belarus, Kazakhstan, Russia, Turkey, United Arab Emirates, or the United States. Travelers must present proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test and undergo a 14-day quarantine upon arrival in Uzbekistan. All land border checkpoints are closed except those on the border with Kyrgyzstan."
   },
   {
