@@ -17,14 +17,14 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
-      "GameState": "73 ",
+      "GameState": "FT ",
       "HomeTeam": "Bordeaux",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
       "AwayTeam": "Lyon",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "TVChannels": "nais beIN SPORTS ,  fuboTV ,  Fanatiz…"
+      "TVChannels": "nais beIN SPORTS ,  fuboTV ,  Fanatiz USA ,  …"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -775,7 +775,7 @@
       "AwayTeam": "Young Boys",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2722.png",
-      "TVChannels": ""
+      "TVChannels": "TV3+ HD ,  Viaplay Denmark"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1063,7 +1063,7 @@
       "AwayTeam": "FC Copenhagen",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/909.png",
-      "TVChannels": ""
+      "TVChannels": "6'eren ,  Eurosport Player Denmark"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1190,10 +1190,10 @@
       "HomeTeam": "Lokomotivi Tbilisi",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Dinamo Moskva",
+      "AwayTeam": "Sweden",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "1:00pm   Lokomotivi Tbilisi vs Dinamo Moskva"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/466.png",
+      "TVChannels": ",  V Sport Premium"
     },
     {
       "LeagueName": "UEFA Europa League",
