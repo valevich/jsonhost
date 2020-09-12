@@ -573,10 +573,10 @@
       "HomeTeam": "Dynamo Kyiv",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "AZ Arena Sport 3",
+      "AwayTeam": "AZ Sport TV2 ,  Arena Sport 3",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "1:00pm   Dynamo Kyiv vs AZ Arena Sport 3"
+      "TVChannels": "1:00pm   Dynamo Kyiv vs AZ Sport TV2 ,  Arena Sport 3"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -589,7 +589,7 @@
       "AwayTeam": "Benfica",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1929.png",
-      "TVChannels": "TVI ,  Arena Sport 2 ,  Cablenet Sports 2 ,  Wa…"
+      "TVChannels": "TVI ,  Arena Sport 2 ,  Cablenet Sports 2 ,  ESP…"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -602,7 +602,7 @@
       "AwayTeam": "Serbia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
-      "TVChannels": ",  Arena Sport 4 ,  Spor…"
+      "TVChannels": ",  Arena S…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -863,10 +863,10 @@
       "HomeTeam": "Kaisar",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "APOEL Cablenet Sports 1",
+      "AwayTeam": "APOEL Sport TV1 ,  Cablenet Sports 1",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "8:00am   Kaisar vs APOEL Cablenet Sports 1"
+      "TVChannels": "8:00am   Kaisar vs APOEL Sport TV1 ,  Cablenet Sports 1"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -899,13 +899,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "10:00am",
       "GameState": "",
-      "HomeTeam": "Armenia",
+      "HomeTeam": "Teuta Durrës",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/579.png",
-      "AwayTeam": "Fola Esch",
+      "HomeLogo": "",
+      "AwayTeam": "Granada",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Fola Esch"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
+      "TVChannels": "SuperSport 2 Digitalb ,  Movistar+ ,  Movistar…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -925,13 +925,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "10:00am",
       "GameState": "",
-      "HomeTeam": "Teuta Durrës",
+      "HomeTeam": "Armenia",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Granada",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/579.png",
+      "AwayTeam": "Fola Esch",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-      "TVChannels": "SuperSport 2 Digitalb ,  Movistar+ ,  Movistar…"
+      "AwayLogo": "",
+      "TVChannels": "vs Fola Esch"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -977,19 +977,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:00pm",
       "GameState": "",
-      "HomeTeam": "Bodø / Glimt",
-      "HomeGoals": "",
-      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/norway/logos/bodo-glimt.png",
-      "AwayTeam": "Žalgiris Direktesport ,  VG+",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Žalgiris Direktesport ,  VG+"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "12:00pm",
-      "GameState": "",
       "HomeTeam": "IFK Göteborg",
       "HomeGoals": "",
       "HomeLogo": "",
@@ -1029,6 +1016,19 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:00pm",
       "GameState": "",
+      "HomeTeam": "Bodø / Glimt",
+      "HomeGoals": "",
+      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/norway/logos/bodo-glimt.png",
+      "AwayTeam": "Žalgiris Direktesport ,  VG+",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Žalgiris Direktesport ,  VG+"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
       "HomeTeam": "Trakai",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/17864.png",
@@ -1036,19 +1036,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "vs Slovan Liberec"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "12:30pm",
-      "GameState": "",
-      "HomeTeam": "Flora",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12146.png",
-      "AwayTeam": "KR",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs KR"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1066,15 +1053,15 @@
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "1:00pm",
+      "GameTime": "12:30pm",
       "GameState": "",
-      "HomeTeam": "Cska Sofia",
+      "HomeTeam": "Flora",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10834.png",
-      "AwayTeam": "BATE",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12146.png",
+      "AwayTeam": "KR",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "CSKA Sofia vs BATE"
+      "TVChannels": "vs KR"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1094,13 +1081,26 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "1:00pm",
       "GameState": "",
-      "HomeTeam": "Hibernians",
+      "HomeTeam": "Cska Sofia",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2499.png",
-      "AwayTeam": "Videoton",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10834.png",
+      "AwayTeam": "BATE",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Videoton"
+      "TVChannels": "CSKA Sofia vs BATE"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Sfîntul Gheorghe",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Partizan",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   Sfîntul Gheorghe vs Partizan"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1120,19 +1120,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "1:00pm",
       "GameState": "",
-      "HomeTeam": "Lokomotivi Tbilisi",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Sweden",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/466.png",
-      "TVChannels": ",  V Sport Premium"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
       "HomeTeam": "OFI",
       "HomeGoals": "",
       "HomeLogo": "",
@@ -1146,6 +1133,32 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "1:00pm",
       "GameState": "",
+      "HomeTeam": "Hibernians",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2499.png",
+      "AwayTeam": "Videoton",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Videoton"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Lokomotivi Tbilisi",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Sweden",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/466.png",
+      "TVChannels": ",  V Sport Premium"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
       "HomeTeam": "Riga",
       "HomeGoals": "",
       "HomeLogo": "",
@@ -1153,19 +1166,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8591.png",
       "TVChannels": ""
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Sfîntul Gheorghe",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Partizan",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "1:00pm   Sfîntul Gheorghe vs Partizan"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1198,6 +1198,45 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "2:00pm",
       "GameState": "",
+      "HomeTeam": "Piast Gliwice",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9657.png",
+      "AwayTeam": "Hartberg",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Hartberg"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "Shamrock Rovers",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2564.png",
+      "AwayTeam": "Milan",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+      "TVChannels": "Sport 2 CZ/SK ,  DIGI GO ,  VG+ ,  Watch ES…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "Standard Liège",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Bala Town S4C Clic",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   Standard Liège vs Bala Town S4C Clic"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
       "HomeTeam": "Borac Banja Luka",
       "HomeGoals": "",
       "HomeLogo": "",
@@ -1205,6 +1244,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "2:00pm   Borac Banja Luka vs Rio Ave Sport TV1 ,  Sport TV LIVE"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "Sileks",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Drita",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   Sileks vs Drita"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1235,54 +1287,15 @@
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:00pm",
+      "GameTime": "2:30pm",
       "GameState": "",
-      "HomeTeam": "Piast Gliwice",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9657.png",
-      "AwayTeam": "Hartberg",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Hartberg"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:00pm",
-      "GameState": "",
-      "HomeTeam": "Shamrock Rovers",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2564.png",
-      "AwayTeam": "Milan",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "TVChannels": "Sport 2 CZ/SK ,  DIGI GO ,  VG+ ,  Watch ES…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:00pm",
-      "GameState": "",
-      "HomeTeam": "Sileks",
+      "HomeTeam": "Viking",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Drita",
+      "AwayTeam": "Aberdeen",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "2:00pm   Sileks vs Drita"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:00pm",
-      "GameState": "",
-      "HomeTeam": "Standard Liège",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Bala Town S4C Clic",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "2:00pm   Standard Liège vs Bala Town S4C Clic"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/263.png",
+      "TVChannels": "VG+"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1300,19 +1313,6 @@
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:30pm",
-      "GameState": "",
-      "HomeTeam": "Viking",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Aberdeen",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/263.png",
-      "TVChannels": "VG+"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "DAC",
@@ -1322,19 +1322,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7922.png",
       "TVChannels": ""
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Linfield",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2555.png",
-      "AwayTeam": "Floriana",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Floriana"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1361,6 +1348,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
       "TVChannels": ""
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "2:45pm",
+      "GameState": "",
+      "HomeTeam": "Linfield",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2555.png",
+      "AwayTeam": "Floriana",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Floriana"
     },
     {
       "LeagueName": "UEFA Europa League",
