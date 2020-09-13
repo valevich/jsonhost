@@ -337,10 +337,10 @@
       "HomeTeam": "Dynamo Kyiv",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "AZ Sport TV2 ,  Arena Sport 3 ,  Sport TV LIVE",
+      "AwayTeam": "AZ Sport TV2 ,  Sport 1 CZ/SK ,  Arena Sport 3 ,  …",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "1:00pm   Dynamo Kyiv vs AZ Sport TV2 ,  Arena Sport 3 ,  Sport TV LIVE"
+      "TVChannels": "1:00pm   Dynamo Kyiv vs AZ Sport TV2 ,  Sport 1 CZ/SK ,  Arena Sport 3 ,  …"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -366,7 +366,7 @@
       "AwayTeam": "Serbia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
-      "TVChannels": ",  Arena S…"
+      "TVChannels": ",  Sport…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -420,7 +420,7 @@
       "AwayTeam": "Crvena Zvezda",
       "AwayGoals": "",
       "AwayLogo": "https://cdn.livesoccertv.com/images/teams/serbia/logos/crvena-zvezda.png",
-      "TVChannels": "PrimeTel"
+      "TVChannels": "Sport 2 CZ/SK ,  PrimeTel"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -508,10 +508,10 @@
       "HomeTeam": "Hammarby",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Lech Poznań",
+      "AwayTeam": "Lech Poznań Sport 2 CZ/SK",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "1:00pm   Hammarby vs Lech Poznań"
+      "TVChannels": "1:00pm   Hammarby vs Lech Poznań Sport 2 CZ/SK"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -669,7 +669,7 @@
       "AwayTeam": "Granada",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-      "TVChannels": "SuperSport 2 Digitalb ,  Movistar+ ,  Movistar…"
+      "TVChannels": "SuperSport 2 Digitalb ,  Sport 2 CZ/SK ,  Mo…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1284,7 +1284,7 @@
       "AwayTeam": "West Bromwich",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-      "TVChannels": "wich Albion Peacock ,  DAZN ,  RUSH ,  Viaplay Denmark ,  …"
+      "TVChannels": "wich Albion Peacock ,  DAZN ,  RUSH ,  TV3 Sport ,  Viapl…"
     },
     {
       "LeagueName": "English Premier League",
