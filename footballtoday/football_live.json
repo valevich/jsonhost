@@ -62,10 +62,10 @@
       "HomeTeam": "Dynamo Kyiv",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "AZ Sport TV2 ,  Sport 1 CZ/SK ,  Arena Sport 3 ,  …",
+      "AwayTeam": "Serbia",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "1:00pm   Dynamo Kyiv vs AZ Sport TV2 ,  Sport 1 CZ/SK ,  Arena Sport 3 ,  …"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
+      "TVChannels": ",  Sport…"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -78,7 +78,7 @@
       "AwayTeam": "Benfica",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1929.png",
-      "TVChannels": "TVI ,  Match Premier ,  Arena Sport 2 ,  Sportbox…"
+      "TVChannels": "TVI ,  Arena Sport 2 Serbia ,  Match Premier ,  …"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -88,10 +88,10 @@
       "HomeTeam": "Gent",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Serbia",
+      "AwayTeam": "Rapid Wien Sport TV1 ,  ORF eins ,  Arena Sport 3 Serbi…",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
-      "TVChannels": ",  ORF ein…"
+      "AwayLogo": "",
+      "TVChannels": "2:30pm   Gent vs Rapid Wien Sport TV1 ,  ORF eins ,  Arena Sport 3 Serbi…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -145,7 +145,7 @@
       "AwayTeam": "Crvena Zvezda",
       "AwayGoals": "",
       "AwayLogo": "https://cdn.livesoccertv.com/images/teams/serbia/logos/crvena-zvezda.png",
-      "TVChannels": "RTS 1 ,  Sport 2 CZ/SK ,  PrimeTel ,  DIGI G…"
+      "TVChannels": "Arena Sport 1 Serbia ,  RTS 1 ,  Sport 2 C…"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -381,7 +381,7 @@
       "AwayTeam": "Hajduk Split",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/489.png",
-      "TVChannels": "SuperSport 4 Digitalb"
+      "TVChannels": "Arena Sport 1 Serbia ,  SuperSport 4 Digi…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -472,7 +472,7 @@
       "AwayTeam": "FC Copenhagen",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/909.png",
-      "TVChannels": "6'eren ,  Eurosport Player Denmark"
+      "TVChannels": "Arena Sport 4 Serbia ,  6'eren ,  Eurosport Pl…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -485,7 +485,7 @@
       "AwayTeam": "Tottenham",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-      "TVChannels": "Match Premier ,  Sport 2 CZ/SK ,  Viaplay No…"
+      "TVChannels": "Arena Sport 2 Serbia ,  Match Premier ,  Sp…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -534,10 +534,10 @@
       "HomeTeam": "Olimpija",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Zrinjski",
+      "AwayTeam": "Serbia",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "12:30pm   Olimpija vs Zrinjski"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
+      "TVChannels": ""
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -586,10 +586,10 @@
       "HomeTeam": "Sfîntul Gheorghe",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Partizan",
+      "AwayTeam": "Serbia",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "1:00pm   Sfîntul Gheorghe vs Partizan"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
+      "TVChannels": ""
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1269,7 +1269,7 @@
       "AwayTeam": "Bordeaux",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
-      "TVChannels": "Viaplay Denmark ,  Viaplay Sweden ,  Viaplay N…"
+      "TVChannels": "Arena Sport 3 Serbia ,  Viaplay Denmark ,  Vi…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1570,7 +1570,7 @@
       "AwayTeam": "Saint-Etienne",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-      "TVChannels": "DAZN ,  Canal+ France ,  Viaplay Denmark ,  Viap…"
+      "TVChannels": "DAZN ,  Canal+ France ,  Arena Sport 3 Serbi…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1583,7 +1583,7 @@
       "AwayTeam": "Lille",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-      "TVChannels": "TV5 Monde ,  TV5 ,  DAZN ,  Viaplay Denmark ,  Via…"
+      "TVChannels": "TV5 Monde ,  TV5 ,  DAZN ,  Arena Sport 3 Serb…"
     },
     {
       "LeagueName": "Major League Soccer",
