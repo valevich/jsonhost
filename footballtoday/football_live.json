@@ -173,12 +173,12 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "8:30pm",
-      "GameState": "",
+      "GameState": "HT ",
       "HomeTeam": "Sporting KC",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png",
       "AwayTeam": "Minnesota Utd",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
@@ -1765,7 +1765,7 @@
       "AwayTeam": "Saint-Etienne",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-      "TVChannels": "DAZN ,  Viaplay Denmark ,  Viaplay Sweden ,  Via…"
+      "TVChannels": "DAZN ,  Canal+ France ,  Viaplay Denmark ,  Viap…"
     },
     {
       "LeagueName": "French Ligue 1",
