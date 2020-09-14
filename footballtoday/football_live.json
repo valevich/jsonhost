@@ -30,14 +30,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:15pm",
-      "GameState": "50 ",
+      "GameState": "FT ",
       "HomeTeam": "Brighton",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
       "AwayTeam": "Chelsea",
-      "AwayGoals": "1",
+      "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  RUSH ,  Sk…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  RUSH ,  Sky Spo…"
     }
   ],
   "day2": [
@@ -1008,19 +1008,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png",
       "TVChannels": "MLSsoccer.com ,  ESPNLA 710 A…"
-    },
-    {
-      "LeagueName": "German Bundesliga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     }
   ],
   "day6": [
