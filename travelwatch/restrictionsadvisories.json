@@ -32,7 +32,7 @@
     "iso_alpha2": "AM",
     "name": "Armenia",
     "score": "Partially restricted",
-    "updated": "From August 12, 2020, foreign nationals arriving in Armenia by air must undergo screening for COVID-19 and self-isolate for 14 days. Persons who, at their own expense, undergo a polymerase chain reaction (PCR) test for COVID-19 may, upon confirmation of a negative result, end their self-isolation period early. Entry restrictions remain in place at all land border checkpoints until further notice."
+    "updated": "From September 11, 2020, all persons arriving in Armenia are subject to screening for COVID-19 performed by the Healthcare and Labor Inspectorate. Persons exhibited symptoms consistent with COVID-19 will be hospitalized for treatment. All others must self-isolate for 14 days or, during the self-isolation period, undergo a polymerase chain reaction (PCR) test for COVID-19. Those who test negative may end their self-isolation. All land border checkpoints are closed to foreign nationals. This policy does not apply to family members of Armenia nationals and lawful residents, representative of diplomatic missions, consular posts, international organizations, or their family members, persons arriving to attend the funeral or memorial service of a close relative, crews on cross-border cargo transportation, and persons granted special permission on a case-by-case basis by the local commander of the border guard."
   },
   {
     "continent": "",
@@ -88,7 +88,7 @@
     "iso_alpha2": "BA",
     "name": "Bosnia and Herzegovina",
     "score": "Partially restricted",
-    "updated": "From July 16, 2020, Citizens of the EU member-countries and Schengen Agreement member-countries, as well as persons holding a multiply Schengen visa or EU countries’ visa, or an appropriate stay permit in the EU counties or Schengen zone countries, a negative covid-19 PCR test result no older than 48 hours will be required upon entry."
+    "updated": "From September 10, 2020, foreign nationals arriving in Bosnia and Herzegovina must hold proof of a negative test result for COVID-19 issued no more than 48 hours prior to departure."
   },
   {
     "continent": "",
@@ -151,7 +151,7 @@
     "iso_alpha2": "BN",
     "name": "Brunei Darussalam",
     "score": "Normal",
-    "updated": "From March 24, 2020, foreign nationals are prohibited from entering or transiting through Brunei. The Bruneian government has suspended the issuing of new visas."
+    "updated": "Foreign nationals are prohibited from entering or transiting through Brunei Darussalam. From September 15, 2020, the following categories of persons may apply for an Entry Pass to travel to Brunei Darussalam: essential business or official travelers, students, persons traveling for medical treatment, and persons traveling for compassionate or other special circumstances such as family reunions with Bruneian nationals or lawful residents. All persons traveling with an Entry Pass must hold proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test and self-isolate for up to 14 days upon arrival. Additional information is available at the following URL: http://www.pmo.gov.bn/travelportal/Home.aspx"
   },
   {
     "continent": "",
@@ -214,7 +214,7 @@
     "iso_alpha2": "CD",
     "name": "Democratic Republic of the Congo",
     "score": "Partially restricted",
-    "updated": "From March 20, all flights from countries at risk have been suspended, except cargo. All passengers residing in countries at risk have to postpone their travel to DRC. All travelers will be screened, suspected cases will be subject to a 14-day quarantine, those tested positive will be transferred to hospitals."
+    "updated": "All persons arriving in the Democratic Republic of the Congo must hold proof of a negative test result for COVID-19 issued no more than 72 hours prior to departure. Persons departing Kinshasa for destinations abroad must present their travel documents at the National Institute for Biomedical Research (INRB) 72 hours prior to scheduled departure in order to undergo a polymerase chain reaction (PCR) test for COVID-19."
   },
   {
     "continent": "",
@@ -465,8 +465,8 @@
     "continent": "",
     "iso_alpha2": "GH",
     "name": "Ghana",
-    "score": "Entry prohibited",
-    "updated": "From March 22, 2020, all air, land, and sea border checkpoints are closed until further notice. This policy does not apply to goods, supplies, or cargo."
+    "score": "Partially restricted",
+    "updated": "From September 1, 2020, persons arriving at Kotoka International Airport (ACC) in Accra must hold proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test performed by an accredited laboratory. This policy does not apply to persons returning to Ghana within 7 days of their last departure. Upon arrival, all persons age 5 and older must, at their own expense of US$150, undergo an additional test for COVID-19. Persons who test positive will be transferred to a hospital for treatment."
   },
   {
     "continent": "",
@@ -522,7 +522,7 @@
     "iso_alpha2": "GY",
     "name": "Guyana",
     "score": "Entry prohibited",
-    "updated": "All airports shall be closed to all international flights except for outgoing flights, cargo flights, medical evacuation flights, technical stops for fuel only, and special authorized flights."
+    "updated": "All international flights are suspended until further notice."
   },
   {
     "continent": "",
@@ -592,7 +592,7 @@
     "iso_alpha2": "IQ",
     "name": "Iraq",
     "score": "Partially restricted",
-    "updated": "From July 30, 2020, all persons (including Iraqi nationals) must have proof of a negative result for COVID-19 issued no more than 48 hours prior to departure using a polymerase chain reaction (PCR) test. A nationwide curfew is in effect everyday between 18:00 (6:00 p.m.) and 05:00 (5:00 a.m.). An additional 24-hour curfew is in effect nationwide on Thursdays, Fridays, and Saturdays. All travel between Iraqi provinces is suspended and all gatherings are prohibited in all forms."
+    "updated": "From September 12, 2020, all persons (including Iraqi nationals) must have proof of a negative result for COVID-19 issued no more than 48 hours prior to departure using a polymerase chain reaction (PCR) test. Land border checkpoints are closed to passenger transport."
   },
   {
     "continent": "",
@@ -857,8 +857,8 @@
     "continent": "",
     "iso_alpha2": "MR",
     "name": "Mauritania",
-    "score": "Entry prohibited",
-    "updated": "All travelers will be quarantined  for 14 days. The borders with neighboring countries are closed, 6 border crossings remain open. All travelers will undergo temperature check at entry points. From March 17, all flights to Mauritania will be suspended."
+    "score": "Partially restricted",
+    "updated": "From September 10, 2020, foreign nationals arriving via air must hold proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. All persons will undergo temperature screening upon arrival. Most land border checkpoints are closed."
   },
   {
     "continent": "",
@@ -872,7 +872,7 @@
     "iso_alpha2": "MU",
     "name": "Mauritius",
     "score": "Entry prohibited",
-    "updated": "Foreign nationals are prohibited from entering Mauritius. From May 31, 2020, domestic restrictions on movement will be eased and normal activities will gradually resume."
+    "updated": "Foreign nationals are prohibited from entering Mauritius. Mauritian nationals returning from abroad must undergo health screening and a 14-day quarantine upon arrival. Land border checkpoints are closed to all non-residents."
   },
   {
     "continent": "",
@@ -934,8 +934,8 @@
     "continent": "",
     "iso_alpha2": "NI",
     "name": "Nicaragua",
-    "score": "Entry prohibited",
-    "updated": "From April 9, 2020, all international flights are suspended. All persons seeking to enter Nicaragua will be screened for COVID-19. Those exhibiting symptoms must undergo quarantine."
+    "score": "Partially restricted",
+    "updated": "All persons traveling to Nicaragua must hold proof of a negative test result for COVID-19 issued no more than 72 hours prior to departure. Upon arrival, travelers must undergo health screening. Persons exhibiting symptoms consistent with COVID-19 will be quarantined."
   },
   {
     "continent": "",
@@ -1376,7 +1376,7 @@
     "iso_alpha2": "ZA",
     "name": "South Africa",
     "score": "Entry prohibited",
-    "updated": "The ban on passenger vessels and cruise liners remains in place. Limited domestic air travel for business purposes will be allowed, subject to restrictions on the number of flights per day and authorization based on the reason for travel. Borders will remain closed to international travel, except for the repatriation of South African nationals and foreign citizens."
+    "updated": "All air, land, and sea border checkpoints are closed to passenger traffic. This policy does not apply to the repatriation of South African nationals and legal permanent residents."
   },
   {
     "continent": "",
