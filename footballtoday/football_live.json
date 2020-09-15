@@ -1,8 +1,8 @@
 {
   "today": [
     {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
@@ -14,30 +14,43 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "1:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Sheffield Utd",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-      "AwayTeam": "Wolves",
-      "AwayGoals": "2",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  NBC Sports…"
+      "GameState": "",
+      "HomeTeam": "Dynamo Kyiv",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Serbia",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
+      "TVChannels": ",  Sport…"
     },
     {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "3:15pm",
-      "GameState": "FT ",
-      "HomeTeam": "Brighton",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-      "AwayTeam": "Chelsea",
-      "AwayGoals": "3",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  RUSH ,  Sky Spo…"
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "PAOK",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Benfica",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1929.png",
+      "TVChannels": "BTV Online ,  Benfica TV ,  TVI ,  Arena Sport…"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "2:30pm",
+      "GameState": "",
+      "HomeTeam": "Gent",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Rapid Wien Sport TV1 ,  ORF eins ,  Arena Sport 3 Serbi…",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:30pm   Gent vs Rapid Wien Sport TV1 ,  ORF eins ,  Arena Sport 3 Serbi…"
     }
   ],
   "day2": [
@@ -418,7 +431,7 @@
       "AwayTeam": "FC Copenhagen",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/909.png",
-      "TVChannels": "Arena Sport 4 Serbia ,  6'eren ,  Arena Sport…"
+      "TVChannels": "Arena Sport 4 Serbia ,  6'eren ,  MaxTV Go ,  A…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -454,10 +467,10 @@
       "HomeTeam": "Olimpija",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Zrinjski Arena Sport 2 ,  Arena Sport BIH ,  Arena Sp…",
+      "AwayTeam": "Zrinjski Arena Sport 2 ,  MaxTV Go ,  Arena Sport BIH ,  …",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "12:30pm   Olimpija vs Zrinjski Arena Sport 2 ,  Arena Sport BIH ,  Arena Sp…"
+      "TVChannels": "12:30pm   Olimpija vs Zrinjski Arena Sport 2 ,  MaxTV Go ,  Arena Sport BIH ,  …"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -483,7 +496,7 @@
       "AwayTeam": "Serbia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
-      "TVChannels": ",  Arena Sport 3"
+      "TVChannels": ",  Arena Sport 3 ,  Max…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -662,10 +675,10 @@
       "HomeTeam": "Aris",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11553.png",
-      "AwayTeam": "Kolos Kovalivka Futbol 1",
+      "AwayTeam": "Kolos Kovalivka Futbol 1 ,  OLL.tv ,  footballua.tv",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Kolos Kovalivka Futbol 1"
+      "TVChannels": "vs Kolos Kovalivka Futbol 1 ,  OLL.tv ,  footballua.tv"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1412,7 +1425,7 @@
       "AwayTeam": "Burnley",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-      "TVChannels": "NBCSN ,  Peacock ,  DAZN ,  RUSH ,  BBC Spor…"
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -1555,7 +1568,7 @@
       "AwayTeam": "PSG",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-      "TVChannels": "beIN SPORTS ,  beIN SPORTS en Español ,  …"
+      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1581,7 +1594,7 @@
       "AwayTeam": "Stade de Reims",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-      "TVChannels": "fuboTV ,  beIN SPORTS CONNECT ,  …"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1594,7 +1607,7 @@
       "AwayTeam": "Angers",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-      "TVChannels": "SCO fuboTV ,  beIN SPORTS CONNECT ,  …"
+      "TVChannels": "SCO fuboTV ,  Fanatiz USA ,  beIN…"
     },
     {
       "LeagueName": "French Ligue 1",
