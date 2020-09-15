@@ -30,25 +30,25 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "2:00pm",
-      "GameState": "72 ",
+      "GameState": "FT ",
       "HomeTeam": "PAOK",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/greece/logos/paok-saloniki.png",
       "AwayTeam": "Benfica",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1929.png",
-      "TVChannels": "fuboTV ,  Benfica TV INT. ,  Fubo…"
+      "TVChannels": "fuboTV ,  Benfica TV INT. ,  Fubo Sports Net…"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "2:30pm",
-      "GameState": "HT ",
+      "GameState": "FT ",
       "HomeTeam": "Gent",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/belgium/logos/gent.png",
       "AwayTeam": "Rapid Wien",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://cdn.livesoccertv.com/images/teams/austria/logos/rapid-wien.png",
       "TVChannels": "Sport TV1 ,  ORF eins ,  Arena Sport 3 Serbi…"
     }
@@ -506,10 +506,10 @@
       "HomeTeam": "Cska Sofia",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10834.png",
-      "AwayTeam": "BATE",
+      "AwayTeam": "BATE Diema Sport ,  Play Diema Xtra",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "CSKA Sofia vs BATE"
+      "TVChannels": "CSKA Sofia vs BATE Diema Sport ,  Play Diema Xtra"
     },
     {
       "LeagueName": "UEFA Europa League",
