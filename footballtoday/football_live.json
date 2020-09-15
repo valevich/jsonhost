@@ -37,7 +37,7 @@
       "AwayTeam": "Benfica",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1929.png",
-      "TVChannels": "Benfica TV INT. ,  BTV Online ,  Benfi…"
+      "TVChannels": "fuboTV ,  Benfica TV INT. ,  BTV…"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -740,10 +740,10 @@
       "HomeTeam": "Coleraine",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Motherwell",
+      "AwayTeam": "Motherwell BBC Sport Web",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "2:30pm   Coleraine vs Motherwell"
+      "TVChannels": "2:30pm   Coleraine vs Motherwell BBC Sport Web"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -805,10 +805,10 @@
       "HomeTeam": "Linfield",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2555.png",
-      "AwayTeam": "Floriana",
+      "AwayTeam": "Floriana BBC Sport Web",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Floriana"
+      "TVChannels": "vs Floriana BBC Sport Web"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -835,6 +835,32 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/479.png",
       "TVChannels": ",  Viaplay Sweden ,  Viaplay N…"
+    },
+    {
+      "LeagueName": "French Ligue 1",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "French Ligue 1",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Marseille",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+      "AwayTeam": "Saint-Etienne",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
+      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
     }
   ],
   "day4": [
