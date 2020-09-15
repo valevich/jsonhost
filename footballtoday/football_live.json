@@ -17,12 +17,12 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "1:00pm",
-      "GameState": "",
+      "GameState": "27 ",
       "HomeTeam": "Dynamo Kyiv",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/ukraine/logos/dynamo-kyiv.png",
       "AwayTeam": "Serbia",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
       "TVChannels": ",  Sport…"
     },
@@ -431,7 +431,7 @@
       "AwayTeam": "FC Copenhagen",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/909.png",
-      "TVChannels": "Arena Sport 4 Serbia ,  6'eren ,  MaxTV Go ,  A…"
+      "TVChannels": "Sport TV2 ,  Arena Sport 4 Serbia ,  6'eren ,  …"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -994,7 +994,7 @@
       "AwayTeam": "West Bromwich",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-      "TVChannels": "wich Albion Peacock ,  DAZN ,  RUSH ,  Canal+ Sport ,  Co…"
+      "TVChannels": "wich Albion Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  …"
     },
     {
       "LeagueName": "English Premier League",
@@ -1007,7 +1007,7 @@
       "AwayTeam": "Fulham",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  TV2 Sport  ,  Spo…"
+      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  …"
     },
     {
       "LeagueName": "English Premier League",
@@ -1137,7 +1137,7 @@
       "AwayTeam": "Arminia Bielefeld",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Cosmote Sport 3 H…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sky Sport Bundesl…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -1150,7 +1150,7 @@
       "AwayTeam": "Augsburg",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  BT Sport ESPN ,  Vi…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sky Sport Bundesl…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -1163,7 +1163,7 @@
       "AwayTeam": "Hoffenheim",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Viaplay Denmark ,  Vi…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sky Sport Bundesl…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -1176,7 +1176,7 @@
       "AwayTeam": "Hertha BSC",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Fo…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  S…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -1189,7 +1189,7 @@
       "AwayTeam": "Freiburg",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Viaplay Denmark ,  Vi…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sky Sport Bundesl…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -1412,7 +1412,7 @@
       "AwayTeam": "Tottenham",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sport TV2 ,  Canal…"
+      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  …"
     },
     {
       "LeagueName": "English Premier League",
@@ -1425,7 +1425,7 @@
       "AwayTeam": "Brighton",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Canal+ France ,  S…"
+      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  …"
     },
     {
       "LeagueName": "English Premier League",
@@ -1568,7 +1568,7 @@
       "AwayTeam": "Bayer Leverkusen",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Di…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  S…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1726,7 +1726,7 @@
       "AwayTeam": "Sheffield Utd",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sport TV2 ,  Viapl…"
+      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  …"
     },
     {
       "LeagueName": "English Premier League",
