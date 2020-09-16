@@ -16,41 +16,197 @@
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "1:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Dynamo Kyiv",
-      "HomeGoals": "2",
-      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/ukraine/logos/dynamo-kyiv.png",
-      "AwayTeam": "Serbia",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
-      "TVChannels": ",  Sport 1…"
+      "GameTime": "11:00am",
+      "GameState": "",
+      "HomeTeam": "Omonia Nicosia",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Crvena Zvezda",
+      "AwayGoals": "",
+      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/serbia/logos/crvena-zvezda.png",
+      "TVChannels": "Arena Sport 1 Serbia ,  RTS 1 ,  Sport 1 Hun…"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "2:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "PAOK",
-      "HomeGoals": "2",
-      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/greece/logos/paok-saloniki.png",
-      "AwayTeam": "Benfica",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1929.png",
-      "TVChannels": "fuboTV ,  Benfica TV INT. ,  Fubo Sports Net…"
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Ferencváros",
+      "HomeGoals": "",
+      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/hungary/logos/ferencvaros.png",
+      "AwayTeam": "Dinamo Zagreb",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/597.png",
+      "TVChannels": "Arena Sport 1 ,  Sport 2 Ukraine ,  Sportbox.ru ,  …"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Maccabi Tel Aviv",
+      "HomeGoals": "",
+      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/israel/logos/maccabi-tel-aviv.png",
+      "AwayTeam": "Brest",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+      "TVChannels": "Sport 1 ,  Sport 1 Ukraine"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Qarabağ",
+      "HomeGoals": "",
+      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/azerbaijan/logos/qaraba.png",
+      "AwayTeam": "Molde",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2715.png",
+      "TVChannels": "CBC Sport Azerbaijan ,  VG+"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "2:30pm",
-      "GameState": "FT ",
-      "HomeTeam": "Gent",
-      "HomeGoals": "2",
-      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/belgium/logos/gent.png",
-      "AwayTeam": "Rapid Wien",
-      "AwayGoals": "1",
-      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/austria/logos/rapid-wien.png",
-      "TVChannels": "Sport TV1 ,  ORF eins ,  Arena Sport 3 Serbi…"
+      "GameState": "",
+      "HomeTeam": "FC Midtjylland",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/572.png",
+      "AwayTeam": "Young Boys",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2722.png",
+      "TVChannels": "RSI La 2 ,  SRF zwei ,  TV3+ HD ,  RTS 2 ,  Viapl…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:30pm",
+      "GameState": "",
+      "HomeTeam": "Progrès Niedercorn",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Willem II RTL 7",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:30pm   Progrès Niedercorn vs Willem II RTL 7"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Hammarby",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Lech Poznań Polsat Sport ,  Sport 2 CZ/SK ,  Sport 2 ,  IP…",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   Hammarby vs Lech Poznań Polsat Sport ,  Sport 2 CZ/SK ,  Sport 2 ,  IP…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "B36",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "The New Saints",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/576.png",
+      "TVChannels": ""
+    },
+    {
+      "LeagueName": "French Ligue 1",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "French Ligue 1",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "PSG",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "AwayTeam": "Metz",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
+      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "8:30pm",
+      "GameState": "",
+      "HomeTeam": "FC Dallas",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
+      "AwayTeam": "Colorado Rapids",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "9:30pm",
+      "GameState": "",
+      "HomeTeam": "Vancouver Whitecaps",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
+      "AwayTeam": "Montreal Impact",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "9:30pm",
+      "GameState": "",
+      "HomeTeam": "SJ Earthquakes",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
+      "AwayTeam": "Portland Timbers",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
+      "TVChannels": "Fox Sports 1 ,  ESPN+ ,  fuboTV ,  ES…"
     }
   ],
   "day2": [
@@ -650,7 +806,7 @@
       "AwayTeam": "Saint-Etienne",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-      "TVChannels": "DAZN ,  BT Sport 1 ,  DAZN ,  DAZN ,  DAZN"
+      "TVChannels": "DAZN ,  Viaplay Denmark ,  Viaplay Sweden ,  Via…"
     }
   ],
   "day3": [
@@ -1031,7 +1187,7 @@
       "AwayTeam": "Monaco",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-      "TVChannels": "DAZN ,  DAZN ,  DAZN"
+      "TVChannels": "DAZN ,  Viaplay Denmark ,  Viaplay Sweden ,  Via…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1083,7 +1239,7 @@
       "AwayTeam": "Inter Miami",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
-      "TVChannels": "ESPN+ ,  MLSsoccer.com ,  MLS App ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1096,7 +1252,7 @@
       "AwayTeam": "FC Cincinnati",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
-      "TVChannels": "ESPN+ ,  MLSsoccer.com ,  MSG ,  Red B…"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  M…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1109,7 +1265,7 @@
       "AwayTeam": "Toronto FC",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
-      "TVChannels": "ESPN+ ,  MLSsoccer.com ,  MLS App ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1122,7 +1278,7 @@
       "AwayTeam": "Nashville SC",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
-      "TVChannels": "SC ESPN+ ,  MLSsoccer.com ,  MLS App ,  …"
+      "TVChannels": "SC ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1135,7 +1291,7 @@
       "AwayTeam": "Chicago Fire",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png",
-      "TVChannels": "ESPN+ ,  MLSsoccer.com ,  MLS App ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1148,7 +1304,7 @@
       "AwayTeam": "Minnesota Utd",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
-      "TVChannels": "ESPN+ ,  MLSsoccer.com ,  SKO…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1161,7 +1317,7 @@
       "AwayTeam": "Vancouver Whitecaps",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
-      "TVChannels": "ESPN+ ,  MLSsoccer.com ,  MLS App ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1174,7 +1330,7 @@
       "AwayTeam": "Portland Timbers",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
-      "TVChannels": "ESPN+ ,  MLSsoccer.com ,  750 The…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1187,7 +1343,7 @@
       "AwayTeam": "Colorado Rapids",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png",
-      "TVChannels": "ESPN+ ,  MLSsoccer.com ,  Al…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ],
   "day5": [
@@ -1501,7 +1657,7 @@
       "AwayTeam": "Philadelphia Union",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
-      "TVChannels": "ESPN+ ,  MLSsoccer.com ,  MLS App ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ],
   "day6": [
