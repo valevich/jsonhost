@@ -30,20 +30,20 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "1:00pm",
-      "GameState": "72 ",
+      "GameState": "FT ",
       "HomeTeam": "Ferencváros",
       "HomeGoals": "2",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/hungary/logos/ferencvaros.png",
       "AwayTeam": "Dinamo Zagreb",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/597.png",
-      "TVChannels": "B/R Live ,  Arena Sport 1 ,  Sport 2 Ukra…"
+      "TVChannels": "B/R Live ,  Arena Sport 1 ,  Sport 2 Ukraine ,  Sp…"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "1:00pm",
-      "GameState": "72 ",
+      "GameState": "FT ",
       "HomeTeam": "Maccabi Tel Aviv",
       "HomeGoals": "1",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/israel/logos/maccabi-tel-aviv.png",
@@ -56,7 +56,7 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "1:00pm",
-      "GameState": "71 ",
+      "GameState": "ET ",
       "HomeTeam": "Qarabağ",
       "HomeGoals": "0",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/azerbaijan/logos/qaraba.png",
@@ -69,12 +69,12 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "2:30pm",
-      "GameState": "",
+      "GameState": "HT ",
       "HomeTeam": "FC Midtjylland",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/572.png",
       "AwayTeam": "Young Boys",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2722.png",
       "TVChannels": "RSI La 2 ,  SRF zwei ,  TV3+ HD ,  RTS 2 ,  Viapl…"
     },
@@ -108,22 +108,22 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "1:00pm",
-      "GameState": "72 ",
+      "GameState": "FT ",
       "HomeTeam": "Hammarby",
       "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Lech Poznań Polsat Sport ,  Sport 2 CZ/SK ,  Sport 2 ,  IP…",
-      "AwayGoals": "1",
+      "AwayGoals": "3",
       "AwayLogo": "",
-      "TVChannels": "1:00pm 72 '   Hammarby  0 - 1  Lech Poznań Polsat Sport ,  Sport 2 CZ/SK ,  Sport 2 ,  IP…"
+      "TVChannels": "1:00pm FT   Hammarby  0 - 3  Lech Poznań Polsat Sport ,  Sport 2 CZ/SK ,  Sport 2 ,  IP…"
     },
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "2:00pm",
-      "GameState": "29 ",
+      "GameState": "69 ",
       "HomeTeam": "B36",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "",
       "AwayTeam": "The New Saints",
       "AwayGoals": "0",
@@ -147,12 +147,12 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
-      "GameState": "",
+      "GameState": "28 ",
       "HomeTeam": "PSG",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
       "AwayTeam": "Metz",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
       "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
     },
@@ -585,7 +585,7 @@
       "AwayTeam": "Milan",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "TVChannels": "sportdigital ,  Sport 2 CZ/SK ,  Sport 2 ,  DAZ…"
+      "TVChannels": "sportdigital ,  Sport 2 CZ/SK ,  Sport 2 ,  Spor…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -728,7 +728,7 @@
       "AwayTeam": "Stade de Reims",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-      "TVChannels": "SRF zwei ,  RTS 2 ,  RTS Sport"
+      "TVChannels": "SRF zwei ,  RTS 2 ,  RTS Sport ,  RMC Sport 1 ,  …"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -966,7 +966,7 @@
       "AwayTeam": "Crystal Palace",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-      "TVChannels": "fuboTV ,  NBCSports.com ,  NB…"
+      "TVChannels": "Peacock ,  MUTV App ,  DAZN ,  RUSH ,  Sky S…"
     },
     {
       "LeagueName": "English Premier League",
@@ -1397,7 +1397,7 @@
       "AwayTeam": "Liverpool",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "TVChannels": "fuboTV ,  USA Network ,  DAZN ,  RUS…"
+      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  …"
     },
     {
       "LeagueName": "English Premier League",
@@ -1698,7 +1698,7 @@
       "AwayTeam": "Manchester City",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
+      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
