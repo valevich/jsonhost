@@ -121,12 +121,12 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "2:00pm",
-      "GameState": "ET ",
-      "HomeTeam": "B36",
+      "GameState": "FT ",
+      "HomeTeam": "B36  P",
       "HomeGoals": "1",
       "HomeLogo": "",
       "AwayTeam": "The New Saints",
-      "AwayGoals": "2",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/576.png",
       "TVChannels": ""
     },
@@ -147,14 +147,14 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
-      "GameState": "70 ",
+      "GameState": "FT ",
       "HomeTeam": "PSG",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
       "AwayTeam": "Metz",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
-      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
+      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz USA ,  be…"
     },
     {
       "LeagueName": "Major League Soccer",
