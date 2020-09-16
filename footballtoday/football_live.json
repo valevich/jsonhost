@@ -17,12 +17,12 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "11:00am",
-      "GameState": "",
+      "GameState": "29 ",
       "HomeTeam": "Omonia Nicosia",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Crvena Zvezda",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://cdn.livesoccertv.com/images/teams/serbia/logos/crvena-zvezda.png",
       "TVChannels": "Arena Sport 1 Serbia ,  RTS 1 ,  Sport 1 Hun…"
     },
@@ -556,10 +556,10 @@
       "HomeTeam": "Maccabi Haifa",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/611.png",
-      "AwayTeam": "Kairat",
+      "AwayTeam": "Kairat Sport 2",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Kairat"
+      "TVChannels": "vs Kairat Sport 2"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -966,7 +966,7 @@
       "AwayTeam": "Crystal Palace",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
+      "TVChannels": "fuboTV ,  NBCSports.com ,  NB…"
     },
     {
       "LeagueName": "English Premier League",
