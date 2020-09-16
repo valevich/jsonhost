@@ -368,7 +368,7 @@
     "iso_alpha2": "EC",
     "name": "Ecuador",
     "score": "Partially restricted",
-    "updated": "From June 1, 2020, persons returning from abroad must undergo rapid-result testing for COVID-19. Those who test positive will be isolated and undergo an additional polymerase chain reaction (PCR) test for confirmation. Upon arrival, all persons must undergo a period of Mandatory Preventive Isolation (APO). All land border checkpoints are closed. A nationwide curfew is in effect and inter-provincial land transportation is suspended in certain areas until at least September 15, 2020."
+    "updated": "From September 15, 2020, all persons arriving in Ecuador must have proof of a negative result for COVID-19 issued no more than 10 days prior to departure using a polymerase chain reaction (PCR) test and cannot be exhibiting symptoms consistent with COVID-19. Upon arrival, all persons must undergo additional rapid-result testing for COVID-19 and a period of Mandatory Preventive Isolation (APO). Those who test positive will be isolated and given a PCR test for confirmation. All land and sea border checkpoints are closed."
   },
   {
     "continent": "",
@@ -578,7 +578,7 @@
     "iso_alpha2": "IL",
     "name": "Israel",
     "score": "Entry prohibited",
-    "updated": "From March 18, 2020, foreign nationals are prohibited from entering Israel. This policy does not apply to Israeli citizens or residents."
+    "updated": "All border checkpoints are closed to non-Israeli nationals and non-residents. From September 18, 2020, a lockdown is in effect nationwide until at least October 11, 2020. More information is available at the following URL: https://govextra.gov.il/ministry-of-health/corona/corona-virus-en/"
   },
   {
     "continent": "",
@@ -753,7 +753,7 @@
     "iso_alpha2": "LT",
     "name": "Lithuania",
     "score": "Partially restricted",
-    "updated": "From August 17, 2020, foreign nationals are prohibited from entering Lithuania. This policy does not apply to citizens and legal residents from countries or regions in the European Union, countries or regions associated with the Schengen Area, or the United Kingdom. Persons arriving from locations where the rate of COVID-19 infections exceeds 16 cases per 100,000 inhabitants during the 14 days prior to arrival in Lithuania according to the Lithuanian State Commander of National Emergency Operations must self-isolate for 14 days upon arrival. Persons arriving from locations where the rate of COVID-19 infections exceeds 25 cases per 100,000 inhabitants during the 14 days prior to arrival in Lithuania must provide proof of a negative COVID-19 test result issued no more than 72 hours prior to departure. More information is available at the following URL: https://koronastop.lrv.lt/en/"
+    "updated": "Foreign nationals are prohibited from entering Lithuania. This policy does not apply to citizens and legal residents from countries or regions in the European Union, countries or regions associated with the Schengen Area, or the United Kingdom. Prior to boarding transportation bound for Lithuania, all persons must submit an online form to the National Public Health Center containing their personal information for contact tracing purposes. A confirmation QR code must be presented at the time of boarding. Forms are available online at the following URL: https://keleiviams.nvsc.lt/en/formPersons arriving from locations where the rate of COVID-19 infections exceeds 16 cases per 100,000 inhabitants during the 14 days prior to arrival in Lithuania according to the Lithuanian State Commander of National Emergency Operations must self-isolate for 14 days upon arrival. Persons arriving from locations where the rate of COVID-19 infections exceeds 25 cases per 100,000 inhabitants during the 14 days prior to arrival in Lithuania must provide proof of a negative COVID-19 test result issued no more than 72 hours prior to departure. More information is available at the following URL: https://koronastop.lrv.lt/en/"
   },
   {
     "continent": "",
@@ -914,7 +914,7 @@
     "iso_alpha2": "NA",
     "name": "Namibia",
     "score": "Partially restricted",
-    "updated": "Persons arriving in Namibia must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Travelers with valid PCR test results are not subject to quarantine; however, they must undergo an additional PCR test on the 5th day following their arrival. All international flights are required to arrive at Hosea Kutako International Airport (WDH) in Windhoek. All land border checkpoints are closed. This policy does not apply to persons holding a valid work permit."
+    "updated": "Persons arriving in Namibia must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Those with valid PCR test results are not subject to quarantine; however, they must undergo an additional PCR test on the 5th day following their arrival. Persons traveling to Namibia for tourism must hold medical insurance valid in Namibia with coverage sufficient for any unexpected health-related expenses. Additionally, they must complete a health declaration form and provide a full travel itinerary to airport officials upon arrival. All international flights are required to arrive at Hosea Kutako International Airport (WDH) in Windhoek. All land border checkpoints are closed except to persons holding a valid work permit. Heath declaration forms and additional information is available at the following URL: http://www.namibiatourism.com.na/page/tourism-revival-initiative"
   },
   {
     "continent": "",
@@ -1089,7 +1089,7 @@
     "iso_alpha2": "SA",
     "name": "Saudi Arabia",
     "score": "Entry prohibited",
-    "updated": "From June 1 to June 21, 2020, domestic flights will be resumed gradually, mosques, restaurants and cafes will be reopened. Work attendance will also be permitted, but Umrah pilgrimage will remain temporarily suspended.The suspension of international flights will continue until further notice."
+    "updated": "From September 15, 2020, foreign nationals are prohibited from entering Saudi Arabia. This policy does not apply to the following categories of persons: those holding both a valid residence permit (iqama) and an exit/re-entry visa, those holding a valid work visa, and those holding a visa for professional or family visitation. Before boarding flights bound for Saudi Arabia, persons in these categories must present proof of a negative result for COVID-19 issued no more than 48 hours prior to departure using a polymerase chain reaction (PCR) test. Upon arrival, they must register with Saudi authorities and strictly quarantine for 7 days."
   },
   {
     "continent": "",
@@ -1131,7 +1131,7 @@
     "iso_alpha2": "SI",
     "name": "Slovenia",
     "score": "Partially restricted",
-    "updated": "From July 4, 2020, foreign nationals are prohibited from entering Slovenia. This policy does not apply to persons arriving from Austria, Belgium, Cyprus, Czechia (with the exception of the Moravian-Silesian Region), Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Malta, Netherlands, Norway, Slovakia, Spain, or Switzerland. Persons arriving from other countries or regions in the European Union or the United Kingdom must self-isolate for 14 days upon arrival."
+    "updated": "The Slovenia government shall classify countries / regions based on determinations by Slovenian authorities. Nationals and lawful residents from green locations may enter Slovenia without restriction and / or quarantine. Persons arriving from yellow locations must undergo a 10-day quarantine upon arrival. This policy does not apply to foreign nationals holding valid temporary or permanent residence in Slovenia, persons traveling from countries / regions in the European Union or countries / regions associated with the Schengen Area provided such persons can prove they have not visited any red locations. All persons arriving from red locations, regardless of their status, must undergo a 10-day quarantine upon arrival in Slovenia. Additional information and a current list of location designations is available at the following URL: https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/"
   },
   {
     "continent": "",
@@ -1187,7 +1187,7 @@
     "iso_alpha2": "SV",
     "name": "El Salvador",
     "score": "Normal",
-    "updated": "From March 22, 2020, foreign nationals are prohibited from entering El Salvador. This policy does not apply to legal residents or accredited diplomats. A nationwide stay-at-home order is in place."
+    "updated": "All persons traveling to Salvador must adhere to measures implemented to prevent the spread of COVID-19. More information is available at the following URL: www.cepa.gob.sv"
   },
   {
     "continent": "",
