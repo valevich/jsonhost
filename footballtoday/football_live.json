@@ -1506,8 +1506,8 @@
   ],
   "day6": [
     {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
@@ -1519,17 +1519,43 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "",
+      "HomeTeam": "Krasnodar",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11336.png",
+      "AwayTeam": "PAOK",
+      "AwayGoals": "",
+      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/greece/logos/paok-saloniki.png",
+      "TVChannels": "*Play-offs CBS All Access ,  Arena Sport 1 Serbia ,  …"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Slavia Praha",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "",
+      "AwayTeam": "FC Midtjylland",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/572.png",
+      "TVChannels": "*Play-offs CBS All Access ,  Arena Sport BIH ,  Zi…"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Maccabi Tel Aviv",
+      "HomeGoals": "",
+      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/israel/logos/maccabi-tel-aviv.png",
+      "AwayTeam": "Salzburg *Play-offs CBS All Access ,  Arena Sport 3 Serb…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
+      "TVChannels": "vs Salzburg *Play-offs CBS All Access ,  Arena Sport 3 Serb…"
     }
   ],
   "day7": [
