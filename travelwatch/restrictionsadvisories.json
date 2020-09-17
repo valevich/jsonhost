@@ -627,7 +627,7 @@
     "iso_alpha2": "JO",
     "name": "Jordan",
     "score": "Partially restricted",
-    "updated": "From September 8, 2020, persons arriving from countries or regions deemed green by Jordanian authorities must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Travelers must have spent the 14 days prior to departure within the green country or region and must, at their own expense, undergo an additional PCR test for COVID-19 upon arrival in Jordan. Persons arriving from yellow countries or regions must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a PCR test. Such persons must, at their own espense, undergo an additional PCR test for COVID-19 and a 7-day quarantine at a designated facility upon arrival. A third PCR test will be administered near the end of the quarantine period and persons who again test negative will be released to self-isolate for the next 7 days. Persons arriving from red countries or regions will undergo the same procedures as apply to yellow locations; however, they must also wear an electronic monitoring bracelet during their self-isolation period. A nationwide curfew is in effect until further notice."
+    "updated": "From September 8, 2020, persons arriving from countries or regions deemed green by Jordanian authorities must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Travelers must have spent the 14 days prior to departure within the green country or region and must, at their own expense, undergo an additional PCR test for COVID-19 upon arrival in Jordan. Persons arriving from yellow countries or regions must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a PCR test. Such persons must, at their own expense, undergo an additional PCR test for COVID-19 and must self-isolate for 7 days upon arrival. A third PCR test will be administered near the end of the self-isolation period. Persons arriving from red countries or regions will undergo the same procedures as apply to yellow locations; however, they must also wear an electronic monitoring bracelet during their self-isolation period. A nationwide curfew is in effect until further notice.Persons seeking to travel from restricted locations must register with Jordanian authorities and obtain approval prior to booking flights to Jordan. All other persons much submit a travel declaration online prior to departure. Travel declaration forms are available at the following URL: https://www.visitjordan.gov.jo/form/"
   },
   {
     "continent": "",
@@ -753,7 +753,7 @@
     "iso_alpha2": "LT",
     "name": "Lithuania",
     "score": "Partially restricted",
-    "updated": "Foreign nationals are prohibited from entering Lithuania. This policy does not apply to citizens and legal residents from countries or regions in the European Union, countries or regions associated with the Schengen Area, or the United Kingdom. Prior to boarding transportation bound for Lithuania, all persons must submit an online form to the National Public Health Center containing their personal information for contact tracing purposes. A confirmation QR code must be presented at the time of boarding. Forms are available online at the following URL: https://keleiviams.nvsc.lt/en/formPersons arriving from locations where the rate of COVID-19 infections exceeds 16 cases per 100,000 inhabitants during the 14 days prior to arrival in Lithuania according to the Lithuanian State Commander of National Emergency Operations must self-isolate for 14 days upon arrival. Persons arriving from locations where the rate of COVID-19 infections exceeds 25 cases per 100,000 inhabitants during the 14 days prior to arrival in Lithuania must provide proof of a negative COVID-19 test result issued no more than 72 hours prior to departure. More information is available at the following URL: https://koronastop.lrv.lt/en/"
+    "updated": "Foreign nationals are prohibited from entering Lithuania. This policy does not apply to citizens and legal residents from countries or regions in the European Union, countries or regions associated with the Schengen Area, or the United Kingdom. Prior to boarding transportation bound for Lithuania, all persons must submit an online form to the National Public Health Center containing their personal information for contact tracing purposes. A confirmation QR code must be presented at the time of boarding. Forms are available online at the following URL: https://keleiviams.nvsc.lt/en/formPersons arriving from locations where the rate of COVID-19 infections exceeds 25 cases per 100,000 inhabitants during the 14 days prior to arrival in Lithuania according to the Lithuanian State Commander of National Emergency Operations must provide proof of a negative COVID-19 test result issued no more than 72 hours prior to departure and self-isolate for 14 days upon arrival. A current list of locations subject to this requirement is available from Lithuanian authorities at the following URL: https://koronastop.lrv.lt/en/"
   },
   {
     "continent": "",
@@ -787,8 +787,8 @@
     "continent": "",
     "iso_alpha2": "MD",
     "name": "Moldova",
-    "score": "Entry prohibited",
-    "updated": "From March 17, 2020, foreign nationals are prohibited from entering Moldova. This policy does not apply to lawful residents, accredited diplomats, and those with pre-coordinated transit permits. Persons entering Moldova must self-quarantine for two weeks. Local authorities will verify compliance with these measures."
+    "score": "Partially restricted",
+    "updated": "From September 1, 2020, persons in countries or regions deemed by the Moldovan Ministry of Health, Labor and Social Protection as being at high-risk for the transmission of COVID-19 are prohibited from entering Moldovia. Persons traveling from countries or regions deemed low-risk must undergo temperature screening upon arrival. Any person who has visited or transited through a high-risk location must complete a health questionnaire and sign a declaration stating they intend to comply with a mandatory 14-day self-isolation requirement. An official list of high-risk locations is available from Moldovan authorities at the following URL: https://msmps.gov.md/wp-content/uploads/2020/09/Lista-Tarilor_Zona-Rosie_11.09.2020-744x1024.jpg"
   },
   {
     "continent": "",
@@ -1011,15 +1011,15 @@
     "continent": "",
     "iso_alpha2": "PK",
     "name": "Pakistan",
-    "score": "Normal",
-    "updated": "From June 20, 2020, international flights have resumed at Pakistani airports with the exception of Gwadar International Airport (GWD) and Turbat International Airport (TUK). Certain domestic flight operations (including scheduled and charter flights) have resumed between the following locations: Karachi, Lahore, Islamabad, Peshawar, Quetta, Gilgit, and Skardu."
+    "score": "Partially restricted",
+    "updated": "All persons arriving in Pakistan from abroad must fill in a Personal Declaration of Origin and Health form and present it to authorities for inspection upon arrival. Travelers also must undergo health screening and a 14-day quarantine. More information is available at the following URL: http://www.tourism.gov.pk/covid_19_main_new.html"
   },
   {
     "continent": "",
     "iso_alpha2": "PL",
     "name": "Poland",
     "score": "Partially restricted",
-    "updated": "From June 13, 2020, foreign nationals are prohibited from entering Poland. This policy does not apply to nationals from countries and regions in the European Union or countries and regions associated with the Schengen Area. Nationals from Belarus, Russia, and Ukraine may enter Poland provided they are the spouse or child of a Polish national or hold a valid Polish work permit. Passenger rail service to destinations outside the European Union is suspended."
+    "updated": "Foreign nationals are prohibited from entering Poland. This policy does not apply to nationals from countries and regions in the European Union or countries and regions associated with the Schengen Area. Nationals from Belarus, Russia, and Ukraine may enter Poland provided they are the spouse or child of a Polish national or hold a valid Polish work permit. Passenger rail service to destinations outside the European Union is suspended. From September 10, 2020, international flights from certain countries / regions are prohibited from landing in Poland until at least September 29, 2020. An official list of these locations is available from Polish authorities at the following URL: https://www.gov.pl/web/coronavirus/travel"
   },
   {
     "continent": "",
