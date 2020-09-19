@@ -43,14 +43,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "12:30pm",
-      "GameState": "HT ",
+      "GameState": "FT ",
       "HomeTeam": "Manchester Utd",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
       "AwayTeam": "Crystal Palace",
-      "AwayGoals": "1",
+      "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-      "TVChannels": "Peacock ,  MUTV App ,  DAZN ,  RUSH ,  Sky S…"
+      "TVChannels": "Peacock ,  MUTV App ,  DAZN ,  RUSH ,  Sky Sport…"
     },
     {
       "LeagueName": "English Premier League",
@@ -95,14 +95,14 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "12:30pm",
-      "GameState": "HT ",
+      "GameState": "FT ",
       "HomeTeam": "Getafe",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
       "AwayTeam": "Osasuna",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
+      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz USA ,  be…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -134,14 +134,14 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "12:00pm",
-      "GameState": "64 ",
+      "GameState": "FT ",
       "HomeTeam": "Fiorentina",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
       "AwayTeam": "Torino",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN Ca…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN Caribbe…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -238,14 +238,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "12:30pm",
-      "GameState": "HT ",
+      "GameState": "FT ",
       "HomeTeam": "Borussia Dortmund",
-      "HomeGoals": "1",
+      "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
       "AwayTeam": "Borussia Monchengladbach",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
     },
     {
       "LeagueName": "French Ligue 1",
