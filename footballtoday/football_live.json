@@ -1,6 +1,32 @@
 {
   "today": [
     {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00am",
+      "GameState": "FT ",
+      "HomeTeam": "Riga",
+      "HomeGoals": "1",
+      "HomeLogo": "",
+      "AwayTeam": "Tre Fiori",
+      "AwayGoals": "0",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8591.png",
+      "TVChannels": ""
+    },
+    {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "",
@@ -69,9 +95,9 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "10:00pm",
-      "GameState": "21 ",
+      "GameState": "61 ",
       "HomeTeam": "Seattle Sounders",
-      "HomeGoals": "0",
+      "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
       "AwayTeam": "Los Angeles FC",
       "AwayGoals": "0",
@@ -568,6 +594,32 @@
       "TVChannels": "Piraeus vs Omonia Nicosia *Play-offs fuboTV ,  TUDNxtra ,  CBS All…"
     },
     {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Apollon",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/525.png",
+      "AwayTeam": "Lech Poznań",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Lech Poznań"
+    },
+    {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "",
@@ -752,8 +804,8 @@
   ],
   "day6": [
     {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "LeagueName": "No League Games",
+      "LeagueLogo": "",
       "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
@@ -765,30 +817,17 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "12:00pm",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
-      "HomeTeam": "Viktoria Plzeň",
+      "HomeTeam": "",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Denmark",
+      "AwayTeam": "",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/479.png",
-      "TVChannels": ""
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:30pm",
-      "GameState": "",
-      "HomeTeam": "St. Gallen",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Aek Athens",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/887.png",
-      "TVChannels": "St. Gallen vs AEK Athens RSI La 2 ,  SRF zwei ,  RTS 2 ,  RTS Sport"
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ],
   "day7": [
