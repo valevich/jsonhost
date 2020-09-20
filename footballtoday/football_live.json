@@ -43,7 +43,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "11:30am",
-      "GameState": "83 ",
+      "GameState": "FT ",
       "HomeTeam": "Chelsea",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
@@ -77,58 +77,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "10:00am",
-      "GameState": "FT ",
-      "HomeTeam": "Huesca",
-      "HomeGoals": "0",
-      "HomeLogo": "",
-      "AwayTeam": "Cádiz beIN SPORTS ,  fuboTV ,  Fanatiz USA ,  be…",
-      "AwayGoals": "2",
-      "AwayLogo": "",
-      "TVChannels": "10:00am FT   Huesca  0 - 2  Cádiz beIN SPORTS ,  fuboTV ,  Fanatiz USA ,  be…"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "12:30pm",
-      "GameState": "40 ",
-      "HomeTeam": "Real Betis",
-      "HomeGoals": "2",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-      "AwayTeam": "Real Valladolid",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN SP…"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "12:30pm",
-      "GameState": "40 ",
-      "HomeTeam": "Granada",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-      "AwayTeam": "Alavés",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  DIRECT…"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Real Sociedad",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-      "AwayTeam": "Real Madrid",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -173,7 +121,7 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "12:00pm",
-      "GameState": "50 ",
+      "GameState": "62 ",
       "HomeTeam": "Sassuolo",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
@@ -225,7 +173,7 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "12:00pm",
-      "GameState": "54 ",
+      "GameState": "67 ",
       "HomeTeam": "Wolfsburg",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
@@ -1411,10 +1359,10 @@
       "HomeTeam": "Valencia",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-      "AwayTeam": "Huesca fuboTV ,  Fanatiz USA ,  beIN…",
+      "AwayTeam": "Huesca",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Huesca fuboTV ,  Fanatiz USA ,  beIN…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -1489,10 +1437,10 @@
       "HomeTeam": "Sampdoria",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-      "AwayTeam": "Benevento ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Spor…",
+      "AwayTeam": "Benevento ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Digi S…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Benevento ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Spor…"
+      "TVChannels": "vs Benevento ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Digi S…"
     },
     {
       "LeagueName": "Italian Serie A",
