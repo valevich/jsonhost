@@ -95,7 +95,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "12:30pm",
-      "GameState": "56 ",
+      "GameState": "61 ",
       "HomeTeam": "Real Betis",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
@@ -108,7 +108,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "12:30pm",
-      "GameState": "61 ",
+      "GameState": "66 ",
       "HomeTeam": "Granada",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
@@ -173,7 +173,7 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "12:00pm",
-      "GameState": "88 ",
+      "GameState": "90 ",
       "HomeTeam": "Sassuolo",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
@@ -225,7 +225,7 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "12:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Wolfsburg",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
@@ -1375,7 +1375,7 @@
       "AwayTeam": "Southampton",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sport TV2 ,  SKY…"
+      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -1423,7 +1423,7 @@
       "GameState": "",
       "HomeTeam": "Elche",
       "HomeGoals": "",
-      "HomeLogo": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
       "AwayTeam": "Real Sociedad",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
@@ -1489,10 +1489,10 @@
       "HomeTeam": "Sampdoria",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-      "AwayTeam": "Benevento ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Digi S…",
+      "AwayTeam": "Benevento",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Benevento ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Digi S…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Digi S…"
     },
     {
       "LeagueName": "Italian Serie A",
