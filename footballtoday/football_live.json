@@ -739,15 +739,15 @@
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "00:00",
-      "GameState": "FCS",
-      "HomeTeam": "vs Slovan Libere",
-      "HomeGoals": "c",
-      "HomeLogo": "",
-      "AwayTeam": "FCsb",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/484.png",
-      "TVChannels": ":00   FCSB vs Slovan Liberec"
+      "GameTime": "00:00am",
+      "GameState": "",
+      "HomeTeam": "FCsb",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/484.png",
+      "AwayTeam": "Slovan Liberec",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": ":00am   FCSB vs Slovan Liberec"
     },
     {
       "LeagueName": "UEFA Europa League",
