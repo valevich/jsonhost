@@ -514,6 +514,19 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "5:00pm",
+      "GameState": "",
+      "HomeTeam": "NE Revolution",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
+      "AwayTeam": "Montreal Impact",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
+      "TVChannels": "fuboTV ,  NBCSports.com ,  NB…"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:00pm",
       "GameState": "",
       "HomeTeam": "NYFC",
@@ -536,19 +549,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:30pm",
-      "GameState": "",
-      "HomeTeam": "NE Revolution",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
-      "AwayTeam": "Montreal Impact",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
-      "TVChannels": "fuboTV ,  NBCSports.com ,  NB…"
     },
     {
       "LeagueName": "Major League Soccer",
