@@ -17,7 +17,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "1:00pm",
-      "GameState": "68 ",
+      "GameState": "83 ",
       "HomeTeam": "Aston Villa",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
@@ -82,12 +82,12 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "2:30pm",
-      "GameState": "",
+      "GameState": "14 ",
       "HomeTeam": "Bochum",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/121.png",
       "AwayTeam": "St. Pauli",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/270.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  Sky Sport Bundesl…"
     }
@@ -1713,7 +1713,7 @@
       "AwayTeam": "Atlanta United",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
-      "TVChannels": "MLSsoccer.com ,  MLS App ,  ESPNPlay C…"
+      "TVChannels": "MLSsoccer.com ,  Fox Sports South…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1726,7 +1726,7 @@
       "AwayTeam": "Columbus Crew",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-      "TVChannels": "MLSsoccer.com ,  MLS App ,  TSN App ,  TS…"
+      "TVChannels": "MLSsoccer.com ,  Fox Sports Ohio ,  MLS…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1739,7 +1739,7 @@
       "AwayTeam": "Inter Miami",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
-      "TVChannels": "MLSsoccer.com ,  MLS App ,  ESPNPlay C…"
+      "TVChannels": "MLSsoccer.com ,  WPHL-TV PHL1…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1752,7 +1752,7 @@
       "AwayTeam": "Real Salt Lake",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png",
-      "TVChannels": "MLSsoccer.com ,  SKOR North ,  MLS…"
+      "TVChannels": "MLSsoccer.com ,  KMYU Utah ,  Fox Sports…"
     },
     {
       "LeagueName": "Major League Soccer",
