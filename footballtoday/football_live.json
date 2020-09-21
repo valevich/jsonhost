@@ -30,14 +30,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:15pm",
-      "GameState": "87 ",
+      "GameState": "FT ",
       "HomeTeam": "Wolves",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
       "AwayTeam": "Manchester City",
-      "AwayGoals": "2",
+      "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  …"
+      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  Sport…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -446,7 +446,7 @@
       "AwayTeam": "Celje",
       "AwayGoals": "",
       "AwayLogo": "https://cdn.livesoccertv.com/images/teams/slovenia/logos/celje.png",
-      "TVChannels": "SportKlub 3 Serbia ,  Sportklub 3 Croatia"
+      "TVChannels": "SportKlub 3 Serbia ,  Sportklub 3 Croatia ,  …"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -563,7 +563,7 @@
       "AwayTeam": "Croatia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/477.png",
-      "TVChannels": ""
+      "TVChannels": ",  …"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -823,7 +823,7 @@
       "AwayTeam": "Bodø / Glimt",
       "AwayGoals": "",
       "AwayLogo": "https://cdn.livesoccertv.com/images/teams/norway/logos/bodo-glimt.png",
-      "TVChannels": "Sportklub 2 Croatia ,  SportKlub 2 Serbia"
+      "TVChannels": "Sportklub 2 Croatia ,  Sportklub 2 Slovenia ,  …"
     },
     {
       "LeagueName": "UEFA Europa League",
