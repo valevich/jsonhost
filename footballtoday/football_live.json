@@ -30,7 +30,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:15pm",
-      "GameState": "44 ",
+      "GameState": "HT ",
       "HomeTeam": "Wolves",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
@@ -56,7 +56,7 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "54 ",
+      "GameState": "69 ",
       "HomeTeam": "Milan",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
@@ -82,12 +82,12 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "2:30pm",
-      "GameState": "72 ",
+      "GameState": "87 ",
       "HomeTeam": "Bochum",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/121.png",
       "AwayTeam": "St. Pauli",
-      "AwayGoals": "0",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/270.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  Sky Sport Bundesl…"
     }
@@ -485,7 +485,7 @@
       "AwayTeam": "Stade de Reims",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-      "TVChannels": ""
+      "TVChannels": "RMC Sport 1 ,  RMC Sport en direct"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1269,7 +1269,7 @@
       "AwayTeam": "Metz",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
-      "TVChannels": "DAZN ,  Arena Sport 2 Serbia ,  SuperSport…"
+      "TVChannels": "DAZN ,  Canal+ France ,  Arena Sport 2 Serbi…"
     },
     {
       "LeagueName": "Major League Soccer",
