@@ -30,9 +30,9 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:15pm",
-      "GameState": "72 ",
+      "GameState": "87 ",
       "HomeTeam": "Wolves",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
       "AwayTeam": "Manchester City",
       "AwayGoals": "2",
@@ -446,7 +446,7 @@
       "AwayTeam": "Celje",
       "AwayGoals": "",
       "AwayLogo": "https://cdn.livesoccertv.com/images/teams/slovenia/logos/celje.png",
-      "TVChannels": ""
+      "TVChannels": "SportKlub 3 Serbia ,  Sportklub 3 Croatia"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -560,10 +560,10 @@
       "HomeTeam": "Mura",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "PSV",
+      "AwayTeam": "Croatia",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "1:00pm   Mura vs PSV"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/477.png",
+      "TVChannels": ""
     },
     {
       "LeagueName": "UEFA Europa League",
