@@ -220,10 +220,10 @@
       "HomeTeam": "Apollon",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/525.png",
-      "AwayTeam": "Lech Poznań",
+      "AwayTeam": "Serbia",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Lech Poznań"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
+      "TVChannels": ",  Arena Sport BIH"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -732,7 +732,7 @@
       "AwayTeam": "Tottenham",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-      "TVChannels": ""
+      "TVChannels": "SuperSport 2 Digitalb"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -846,10 +846,10 @@
       "HomeTeam": "Rijeka",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2988.png",
-      "AwayTeam": "Kolos Kovalivka",
+      "AwayTeam": "Kolos Kovalivka Arena Sport 2",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Kolos Kovalivka"
+      "TVChannels": "vs Kolos Kovalivka Arena Sport 2"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1126,7 +1126,7 @@
       "AwayTeam": "Benevento",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Digi S…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Super…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1256,7 +1256,7 @@
       "AwayTeam": "Stade Rennes",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-      "TVChannels": "DAZN ,  Viaplay Denmark ,  Viaplay Sweden ,  Via…"
+      "TVChannels": "DAZN ,  Arena Sport 4 Serbia ,  Arena Sport…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1269,7 +1269,7 @@
       "AwayTeam": "Metz",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
-      "TVChannels": "DAZN ,  Viaplay Denmark ,  Viaplay Sweden ,  Via…"
+      "TVChannels": "DAZN ,  Arena Sport 2 Serbia ,  SuperSport…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1492,7 +1492,7 @@
       "AwayTeam": "Udinese",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  C More Play ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Arena Sport…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1583,7 +1583,7 @@
       "AwayTeam": "Nice",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-      "TVChannels": "Viaplay Denmark ,  Viaplay Sweden ,  Viaplay N…"
+      "TVChannels": "Arena Sport 2 Serbia ,  Viaplay Denmark ,  Vi…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1609,7 +1609,7 @@
       "AwayTeam": "Strasbourg",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-      "TVChannels": "DAZN ,  Viaplay Denmark ,  Viaplay Sweden ,  Via…"
+      "TVChannels": "DAZN ,  Arena Sport 4 Serbia ,  Arena Sport…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1648,7 +1648,7 @@
       "AwayTeam": "Lyon",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "TVChannels": "nais DAZN ,  Viaplay Denmark ,  Viaplay Sweden ,  Via…"
+      "TVChannels": "nais DAZN ,  Arena Sport 4 Serbia ,  Arena Sport…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1661,7 +1661,7 @@
       "AwayTeam": "PSG",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-      "TVChannels": "TV5 Monde ,  TV5 ,  DAZN ,  Viaplay Denmark ,  Via…"
+      "TVChannels": "TV5 Monde ,  TV5 ,  DAZN ,  Arena Sport 2 Serb…"
     },
     {
       "LeagueName": "Major League Soccer",
