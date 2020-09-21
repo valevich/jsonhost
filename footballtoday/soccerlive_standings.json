@@ -114,6 +114,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Aston Villa",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "played": 1,
+        "wins": 1,
+        "draws": 0,
+        "lossess": 0,
+        "goalsfor": 1,
+        "goalsagainst": 0,
+        "goalsdiff": "+1",
+        "points": 3,
+        "form": "'W'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "played": 2,
@@ -127,7 +141,7 @@
         "form": "'WL'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 2,
@@ -141,7 +155,7 @@
         "form": "'LW'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "played": 2,
@@ -153,20 +167,6 @@
         "goalsdiff": "-1",
         "points": 3,
         "form": "'LW'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Aston Villa",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 0,
-        "wins": 0,
-        "draws": 0,
-        "lossess": 0,
-        "goalsfor": 0,
-        "goalsagainst": 0,
-        "goalsdiff": "0",
-        "points": 0,
-        "form": "''"
     },
     {
         "teamrank": 13,
@@ -212,20 +212,6 @@
     },
     {
         "teamrank": 16,
-        "teamname": "Sheffield United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 1,
-        "wins": 0,
-        "draws": 0,
-        "lossess": 1,
-        "goalsfor": 0,
-        "goalsagainst": 2,
-        "goalsdiff": "-2",
-        "points": 0,
-        "form": "'L'"
-    },
-    {
-        "teamrank": 17,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "played": 2,
@@ -234,6 +220,20 @@
         "lossess": 2,
         "goalsfor": 1,
         "goalsagainst": 4,
+        "goalsdiff": "-3",
+        "points": 0,
+        "form": "'LL'"
+    },
+    {
+        "teamrank": 17,
+        "teamname": "Sheffield United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
+        "played": 2,
+        "wins": 0,
+        "draws": 0,
+        "lossess": 2,
+        "goalsfor": 0,
+        "goalsagainst": 3,
         "goalsdiff": "-3",
         "points": 0,
         "form": "'LL'"
