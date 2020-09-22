@@ -1,9 +1,9 @@
 {
-  "today": [
+    },
     {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "Monday Sep. 21, 2020",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -12,91 +12,13 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "1:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Aston Villa",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-      "AwayTeam": "Sheffield Utd",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  Sport…"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "3:15pm",
-      "GameState": "FT ",
-      "HomeTeam": "Wolves",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-      "AwayTeam": "Manchester City",
-      "AwayGoals": "3",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  Sport…"
-    },
-    {
-      "LeagueName": "Italian Serie A",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
-      "GameTime": "Monday Sep. 21, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Italian Serie A",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
-      "GameTime": "2:45pm",
-      "GameState": "FT ",
-      "HomeTeam": "Milan",
-      "HomeGoals": "2",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "AwayTeam": "Bologna",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPNPlay Ca…"
-    },
-    {
-      "LeagueName": "German Bundesliga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
-      "GameTime": "Monday Sep. 21, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "German Bundesliga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
-      "GameTime": "2:30pm",
-      "GameState": "FT ",
-      "HomeTeam": "Bochum",
-      "HomeGoals": "2",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/121.png",
-      "AwayTeam": "St. Pauli",
-      "AwayGoals": "2",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/270.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sky Sport Bundesliga 1 ,  …"
     }
   ],
-  "day2": [
+    },
     {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "Wednesday Sep. 23, 2020",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -105,260 +27,13 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Molde",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2715.png",
-      "AwayTeam": "Ferencváros",
-      "AwayGoals": "",
-      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/hungary/logos/ferencvaros.png",
-      "TVChannels": "*Play-offs CBS Sports Network ,  fuboTV ,  …"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Gent",
-      "HomeGoals": "",
-      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/belgium/logos/gent.png",
-      "AwayTeam": "Dynamo Kyiv",
-      "AwayGoals": "",
-      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/ukraine/logos/dynamo-kyiv.png",
-      "TVChannels": "*Play-offs fuboTV ,  Galavision ,  Univision NO…"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Olympiakos",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/435.png",
-      "AwayTeam": "Omonia Nicosia *Play-offs fuboTV ,  TUDN USA ,  TUDN.com ,  …",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "Piraeus vs Omonia Nicosia *Play-offs fuboTV ,  TUDN USA ,  TUDN.com ,  …"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "Wednesday Sep. 23, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "12:00pm",
-      "GameState": "",
-      "HomeTeam": "Apollon",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/525.png",
-      "AwayTeam": "Serbia",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
-      "TVChannels": ",  Arena Sport BIH"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "Wednesday Sep. 23, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "5:00pm",
-      "GameState": "",
-      "HomeTeam": "NE Revolution",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
-      "AwayTeam": "Montreal Impact",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
-      "TVChannels": "fuboTV ,  NBCSports.com ,  NB…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:00pm",
-      "GameState": "",
-      "HomeTeam": "NYFC",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
-      "AwayTeam": "Toronto FC",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
-      "TVChannels": "fuboTV ,  YES Network ,  FOX…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:00pm",
-      "GameState": "",
-      "HomeTeam": "Atlanta United",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
-      "AwayTeam": "FC Dallas",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
-      "TVChannels": "fuboTV ,  ESPN App ,  FOX Sports…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:30pm",
-      "GameState": "",
-      "HomeTeam": "Sporting KC",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png",
-      "AwayTeam": "Orlando City",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png",
-      "TVChannels": "Fox Sports 1 ,  fuboTV ,  FOX Spor…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:30pm",
-      "GameState": "",
-      "HomeTeam": "Columbus Crew",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-      "AwayTeam": "Minnesota Utd",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
-      "TVChannels": "MLSsoccer.com ,  Fox Sports Ohio ,  Fox S…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:30pm",
-      "GameState": "",
-      "HomeTeam": "FC Cincinnati",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
-      "AwayTeam": "Philadelphia Union",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
-      "TVChannels": "MLSsoccer.com ,  WPHL-TV PHL1…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:30pm",
-      "GameState": "",
-      "HomeTeam": "Chicago Fire",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png",
-      "AwayTeam": "Houston Dynamo",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:00pm",
-      "GameState": "",
-      "HomeTeam": "Inter Miami",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
-      "AwayTeam": "NY Red Bulls",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  M…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:30pm",
-      "GameState": "",
-      "HomeTeam": "Nashville SC",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
-      "AwayTeam": "DC United",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png",
-      "TVChannels": "MLSsoccer.com ,  WJLA-TV ,  MLS A…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "9:00pm",
-      "GameState": "",
-      "HomeTeam": "Colorado Rapids",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png",
-      "AwayTeam": "SJ Earthquakes",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
-      "TVChannels": "MLSsoccer.com ,  NBC Sports Cali…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "9:30pm",
-      "GameState": "",
-      "HomeTeam": "Real Salt Lake",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png",
-      "AwayTeam": "LA Galaxy",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "10:00pm",
-      "GameState": "",
-      "HomeTeam": "Portland Timbers",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
-      "AwayTeam": "Seattle Sounders",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
-      "TVChannels": "MLSsoccer.com ,  JOEtv - KZJO Seatt…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "10:30pm",
-      "GameState": "",
-      "HomeTeam": "Los Angeles FC",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png",
-      "AwayTeam": "Vancouver Whitecaps",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ],
-  "day3": [
+    },
     {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "Thursday Sep. 24, 2020",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -367,455 +42,13 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "10:00am",
-      "GameState": "",
-      "HomeTeam": "Armenia",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/579.png",
-      "AwayTeam": "Celje",
-      "AwayGoals": "",
-      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/slovenia/logos/celje.png",
-      "TVChannels": "SportKlub 3 Serbia ,  Sportklub 3 Croatia ,  …"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "11:30am",
-      "GameState": "",
-      "HomeTeam": "KuPS",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Sūduva",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "11:30am   KuPS vs Sūduva"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "12:00pm",
-      "GameState": "",
-      "HomeTeam": "Videoton",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Stade de Reims",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-      "TVChannels": "RMC Sport 1 ,  RMC Sport en direct"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "12:00pm",
-      "GameState": "",
-      "HomeTeam": "Viktoria Plzeň",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Denmark",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/479.png",
-      "TVChannels": ",  Viaplay Iceland"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "12:30pm",
-      "GameState": "",
-      "HomeTeam": "Rostov",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Maccabi Haifa",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/611.png",
-      "TVChannels": "Match Premier ,  Sportbox.ru ,  Match TV ,  matchtv…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Beşiktaş",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Rio Ave",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "1:00pm   Beşiktaş vs Rio Ave"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Cska Sofia",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10834.png",
-      "AwayTeam": "B36",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "CSKA Sofia vs B36"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Djurgården",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "CFR Cluj",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "1:00pm   Djurgården vs CFR Cluj"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Malmö FF",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Lokomotiva Zagreb Arena Sport 4",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "1:00pm   Malmö FF vs Lokomotiva Zagreb Arena Sport 4"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Mura",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Croatia",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/477.png",
-      "TVChannels": ",  …"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Riga",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Celtic",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/256.png",
-      "TVChannels": ""
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Rosenborg",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/438.png",
-      "AwayTeam": "Alanyaspor",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Alanyaspor"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Sporting Charleroi",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Partizan",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "1:00pm   Sporting Charleroi vs Partizan"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "1:30pm",
-      "GameState": "",
-      "HomeTeam": "FCsb",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/484.png",
-      "AwayTeam": "Slovan Liberec",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": ":30pm   FCSB vs Slovan Liberec"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "1:30pm",
-      "GameState": "",
-      "HomeTeam": "Hapoel Be'er Sheva",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Motherwell",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "1:30pm   Hapoel Be'er Sheva vs Motherwell"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:00pm",
-      "GameState": "",
-      "HomeTeam": "APOEL",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Zrinjski",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "2:00pm   APOEL vs Zrinjski"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:00pm",
-      "GameState": "",
-      "HomeTeam": "Galatasaray",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/432.png",
-      "AwayTeam": "Hajduk Split",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/489.png",
-      "TVChannels": "B/R Live ,  Arena Sport 3"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:00pm",
-      "GameState": "",
-      "HomeTeam": "Granada",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-      "AwayTeam": "Lokomotivi Tbilisi",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Lokomotivi Tbilisi"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:00pm",
-      "GameState": "",
-      "HomeTeam": "KÍ",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Dinamo Tbilisi",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/498.png",
-      "TVChannels": ""
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:00pm",
-      "GameState": "",
-      "HomeTeam": "FC Copenhagen",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/909.png",
-      "AwayTeam": "Piast Gliwice",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9657.png",
-      "TVChannels": ""
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:00pm",
-      "GameState": "",
-      "HomeTeam": "Sarajevo",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Budućnost",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "2:00pm   Sarajevo vs Budućnost"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:00pm",
-      "GameState": "",
-      "HomeTeam": "Sheriff",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Dundalk",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2559.png",
-      "TVChannels": ""
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:00pm",
-      "GameState": "",
-      "HomeTeam": "Škendija 79",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Tottenham",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-      "TVChannels": "B/R Live ,  SuperSport 2 Digitalb ,  Okk…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:00pm",
-      "GameState": "",
-      "HomeTeam": "Standard Liège",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Vojvodina",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "2:00pm   Standard Liège vs Vojvodina"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:15pm",
-      "GameState": "",
-      "HomeTeam": "Wolfsburg",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-      "AwayTeam": "Desna B/R Live ,  Futbol 1",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Desna B/R Live ,  Futbol 1"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:30pm",
-      "GameState": "",
-      "HomeTeam": "FC Basel",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/989.png",
-      "AwayTeam": "Anorthosis",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Anorthosis"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:30pm",
-      "GameState": "",
-      "HomeTeam": "Floriana",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Flora",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12146.png",
-      "TVChannels": ""
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:30pm",
-      "GameState": "",
-      "HomeTeam": "Lask Linz",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4411.png",
-      "AwayTeam": "DAC",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LASK Linz vs DAC"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:30pm",
-      "GameState": "",
-      "HomeTeam": "Legia Warszawa",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Drita",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "2:30pm   Legia Warszawa vs Drita"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:30pm",
-      "GameState": "",
-      "HomeTeam": "Milan",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "AwayTeam": "Bodø / Glimt",
-      "AwayGoals": "",
-      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/norway/logos/bodo-glimt.png",
-      "TVChannels": "Sportklub 2 Croatia ,  Sportklub 2 Slovenia ,  …"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:30pm",
-      "GameState": "",
-      "HomeTeam": "St. Gallen",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Aek Athens",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/887.png",
-      "TVChannels": "St. Gallen vs AEK Athens RSI La 2 ,  SRF zwei ,  RTS 2 ,  RTS Sport"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Rijeka",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2988.png",
-      "AwayTeam": "Kolos Kovalivka Arena Sport 2 ,  Futbol 2",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Kolos Kovalivka Arena Sport 2 ,  Futbol 2"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Sporting Cp",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2250.png",
-      "AwayTeam": "Aberdeen",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/263.png",
-      "TVChannels": ""
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Willem II",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Angers",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-      "TVChannels": "0pm   Willem II vs Rangers"
     }
   ],
-  "day4": [
+    },
     {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "Friday Sep. 25, 2020",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -824,71 +57,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Eibar",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-      "AwayTeam": "Athletic Club",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beI…"
-    },
-    {
-      "LeagueName": "German Bundesliga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
-      "GameTime": "Friday Sep. 25, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "German Bundesliga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
-      "GameTime": "2:30pm",
-      "GameState": "",
-      "HomeTeam": "Hertha BSC",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
-      "AwayTeam": "Eintracht",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
-    },
-    {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "Friday Sep. 25, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Lille",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-      "AwayTeam": "Nantes",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
     }
   ],
   "day5": [
@@ -981,7 +149,7 @@
       "AwayTeam": "Getafe",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beI…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -994,7 +162,7 @@
       "AwayTeam": "Huesca",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beI…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -1007,7 +175,7 @@
       "AwayTeam": "Real Sociedad",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beI…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -1020,7 +188,7 @@
       "AwayTeam": "Real Madrid",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beI…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1347,7 +515,7 @@
       "AwayTeam": "Levante",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beI…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -1360,7 +528,7 @@
       "AwayTeam": "Granada",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beI…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -1373,7 +541,7 @@
       "AwayTeam": "Celta de Vigo",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beI…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -1386,7 +554,7 @@
       "AwayTeam": "Villarreal",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beI…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1633,7 +801,7 @@
       "AwayTeam": "Montreal Impact",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
-      "TVChannels": "MLSsoccer.com ,  MSG ,  Red Bulls Radio ,  …"
+      "TVChannels": "fuboTV ,  MLSsoccer.com ,  MSG ,  Red B…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1659,7 +827,7 @@
       "AwayTeam": "Atlanta United",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
-      "TVChannels": "MLSsoccer.com ,  Fox Sports South…"
+      "TVChannels": "fuboTV ,  FOX Sports GO ,  ML…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1672,7 +840,7 @@
       "AwayTeam": "Columbus Crew",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-      "TVChannels": "MLSsoccer.com ,  Fox Sports Ohio ,  MLS…"
+      "TVChannels": "fuboTV ,  FOX Sports GO ,  ML…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1698,7 +866,7 @@
       "AwayTeam": "Real Salt Lake",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png",
-      "TVChannels": "MLSsoccer.com ,  KMYU Utah ,  Fox Sports…"
+      "TVChannels": "fuboTV ,  FOX Sports GO ,  ML…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1711,7 +879,7 @@
       "AwayTeam": "Orlando City",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png",
-      "TVChannels": "MLSsoccer.com ,  Fox Sports Southwest ,  …"
+      "TVChannels": "fuboTV ,  FOX Sports GO ,  ML…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1750,7 +918,7 @@
       "AwayTeam": "SJ Earthquakes",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
-      "TVChannels": "MLSsoccer.com ,  Estrella TV ,  NBC…"
+      "TVChannels": "fuboTV ,  MLSsoccer.com ,  Estrella…"
     },
     {
       "LeagueName": "Major League Soccer",
