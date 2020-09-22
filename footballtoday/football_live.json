@@ -371,19 +371,6 @@
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "00:00am",
-      "GameState": "",
-      "HomeTeam": "FCsb",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/484.png",
-      "AwayTeam": "Slovan Liberec",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": ":00am   FCSB vs Slovan Liberec"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "10:00am",
       "GameState": "",
       "HomeTeam": "Armenia",
@@ -553,15 +540,15 @@
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "1:00pm",
+      "GameTime": "1:30pm",
       "GameState": "",
-      "HomeTeam": "Willem II",
+      "HomeTeam": "FCsb",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Angers",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/484.png",
+      "AwayTeam": "Slovan Liberec",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-      "TVChannels": "0pm   Willem II vs Rangers"
+      "AwayLogo": "",
+      "TVChannels": ":30pm   FCSB vs Slovan Liberec"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -809,6 +796,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/263.png",
       "TVChannels": ""
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Willem II",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Angers",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
+      "TVChannels": "0pm   Willem II vs Rangers"
     }
   ],
   "day4": [
