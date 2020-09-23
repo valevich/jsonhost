@@ -820,6 +820,32 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  SiriusXM FC ,  DAZN ,  …"
+    },
+    {
+      "LeagueName": "UEFA Super Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/1272.png",
+      "GameTime": "Thursday Sep. 24, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Super Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/1272.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Bayern Munich",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+      "AwayTeam": "Sevilla FC",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+      "TVChannels": "CBS Sports Network ,  fuboTV ,  T…"
     }
   ],
   "day3": [
