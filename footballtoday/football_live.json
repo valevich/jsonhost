@@ -743,7 +743,7 @@
       "AwayTeam": "Atalanta",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPNPl…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -782,7 +782,7 @@
       "AwayTeam": "Fiorentina",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPNPl…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN Ca…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -1187,7 +1187,7 @@
       "AwayTeam": "Juventus",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPNPl…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN Ca…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -1252,7 +1252,7 @@
       "AwayTeam": "Nice",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-      "TVChannels": "Arena Sport 2 Serbia ,  Arena Sport 3 ,  Viap…"
+      "TVChannels": "ESPNPlay Caribbean ,  Arena Sport 2 Serb…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1553,7 +1553,33 @@
       "AwayTeam": "Parma",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPNPlay C…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Caribb…"
+    },
+    {
+      "LeagueName": "German Bundesliga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+      "GameTime": "Monday Sep. 28, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "German Bundesliga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+      "GameTime": "2:30pm",
+      "GameState": "",
+      "HomeTeam": "Paderborn",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Hamburger SV ESPN+ ,  Sky Go ,  BT Sport 2 ,  Digi Spor…",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:30pm   Paderborn vs Hamburger SV ESPN+ ,  Sky Go ,  BT Sport 2 ,  Digi Spor…"
     }
   ],
   "day6": [
