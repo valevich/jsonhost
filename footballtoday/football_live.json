@@ -24,26 +24,26 @@
       "AwayTeam": "Celje",
       "AwayGoals": "r",
       "AwayLogo": "https://cdn.livesoccertv.com/images/teams/slovenia/logos/celje.png",
-      "TVChannels": "SportKlub 1 Slovenia ,  SportKlub 3 Serbi…"
+      "TVChannels": "SportKlub 1 Slovenia ,  Sport 2 Ukraine ,  S…"
     },
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "11:30am",
-      "GameState": "45 ",
+      "GameState": "HT ",
       "HomeTeam": "KuPS",
       "HomeGoals": "1",
       "HomeLogo": "",
-      "AwayTeam": "Sūduva",
+      "AwayTeam": "Sūduva Ruutu+ ,  LRT Plius",
       "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "11:30am 45 '   KuPS  1 - 0  Sūduva"
+      "TVChannels": "11:30am HT   KuPS  1 - 0  Sūduva Ruutu+ ,  LRT Plius"
     },
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:00pm",
-      "GameState": "14 ",
+      "GameState": "29 ",
       "HomeTeam": "Viktoria Plzeň",
       "HomeGoals": "0",
       "HomeLogo": "",
@@ -56,14 +56,14 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:00pm",
-      "GameState": "15 ",
+      "GameState": "30 ",
       "HomeTeam": "Videoton",
       "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Stade de Reims",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-      "TVChannels": "M4 Sports ,  RMC Sport 1 ,  RMC Sport en dir…"
+      "TVChannels": "M4 Sports ,  Arena Sport 2 Slovakia ,  RMC S…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -76,7 +76,7 @@
       "AwayTeam": "Maccabi Haifa",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/611.png",
-      "TVChannels": "Sport 1 ,  Match Premier ,  Sportbox.ru ,  Match T…"
+      "TVChannels": "Sport 1 ,  Match Premier ,  Sportbox.ru ,  Arena…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -138,10 +138,10 @@
       "HomeTeam": "Sporting Charleroi",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Partizan",
+      "AwayTeam": "Serbia",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "1:00pm   Sporting Charleroi vs Partizan"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
+      "TVChannels": ",  RTS 1 ,  Eleven Pro…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -167,7 +167,7 @@
       "AwayTeam": "Celtic",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/256.png",
-      "TVChannels": "Celtic TV ,  Premier Player HD ,  Premier Spo…"
+      "TVChannels": "Celtic TV ,  LTV7 Latvia ,  Premier Player H…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -190,10 +190,10 @@
       "HomeTeam": "FCsb",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/484.png",
-      "AwayTeam": "Slovan Liberec",
+      "AwayTeam": "Slovan Liberec Nova Sport 1 ,  Prima TV",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": ":30pm   FCSB vs Slovan Liberec"
+      "TVChannels": ":30pm   FCSB vs Slovan Liberec Nova Sport 1 ,  Prima TV"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -203,10 +203,10 @@
       "HomeTeam": "Hapoel Be'er Sheva",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Motherwell Sport 2",
+      "AwayTeam": "Motherwell Motherwell TV ,  Sport 2",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "1:30pm   Hapoel Be'er Sheva vs Motherwell Sport 2"
+      "TVChannels": "1:30pm   Hapoel Be'er Sheva vs Motherwell Motherwell TV ,  Sport 2"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -219,7 +219,7 @@
       "AwayTeam": "Hajduk Split",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/489.png",
-      "TVChannels": "B/R Live ,  sportdigital ,  Arena Sport 3 ,  …"
+      "TVChannels": "B/R Live ,  sportdigital ,  Arena Sport 3…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -242,10 +242,10 @@
       "HomeTeam": "APOEL",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Zrinjski Cablenet Sports 1",
+      "AwayTeam": "Serbia",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "2:00pm   APOEL vs Zrinjski Cablenet Sports 1"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
+      "TVChannels": ",  Cablenet Sports 1"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -255,10 +255,10 @@
       "HomeTeam": "Standard Liège",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Vojvodina RTS 2 ,  VOOsport World 1",
+      "AwayTeam": "Serbia",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "2:00pm   Standard Liège vs Vojvodina RTS 2 ,  VOOsport World 1"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
+      "TVChannels": ",  RTS 2 ,  VO…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -268,10 +268,10 @@
       "HomeTeam": "Granada",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-      "AwayTeam": "Lokomotivi Tbilisi",
+      "AwayTeam": "Lokomotivi Tbilisi Gol ,  Silk Universal",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Lokomotivi Tbilisi"
+      "TVChannels": "vs Lokomotivi Tbilisi Gol ,  Silk Universal"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -323,7 +323,7 @@
       "AwayTeam": "Dinamo Tbilisi",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/498.png",
-      "TVChannels": ""
+      "TVChannels": "KvF"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -333,10 +333,10 @@
       "HomeTeam": "Wolfsburg",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-      "AwayTeam": "Desna B/R Live ,  Sport1 ,  Futbol 1 ,  OLL.tv ,  Movi…",
+      "AwayTeam": "Desna B/R Live ,  Sport1 ,  Futbol 1 ,  OLL.tv ,  Ar…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Desna B/R Live ,  Sport1 ,  Futbol 1 ,  OLL.tv ,  Movi…"
+      "TVChannels": "vs Desna B/R Live ,  Sport1 ,  Futbol 1 ,  OLL.tv ,  Ar…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -349,7 +349,7 @@
       "AwayTeam": "Bodø / Glimt",
       "AwayGoals": "",
       "AwayLogo": "https://cdn.livesoccertv.com/images/teams/norway/logos/bodo-glimt.png",
-      "TVChannels": "Sport 1 CZ/SK ,  MaxTV Go ,  Sportklub 2 Cr…"
+      "TVChannels": "Sport 1 CZ/SK ,  Sport 2 ,  MaxTV Go ,  Sportk…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -359,10 +359,10 @@
       "HomeTeam": "Legia Warszawa",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Drita TVP2 ,  TVP Sport Live Streaming",
+      "AwayTeam": "Drita SuperSport 3 Digitalb ,  TVP2 ,  TVP Sport…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "2:30pm   Legia Warszawa vs Drita TVP2 ,  TVP Sport Live Streaming"
+      "TVChannels": "2:30pm   Legia Warszawa vs Drita SuperSport 3 Digitalb ,  TVP2 ,  TVP Sport…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -372,10 +372,10 @@
       "HomeTeam": "Lask Linz",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4411.png",
-      "AwayTeam": "DAC ORF eins ,  ORF TVthek",
+      "AwayTeam": "DAC ORF eins ,  Dvojka ,  ORF TVthek",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "LASK Linz vs DAC ORF eins ,  ORF TVthek"
+      "TVChannels": "LASK Linz vs DAC ORF eins ,  Dvojka ,  ORF TVthek"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -414,7 +414,7 @@
       "AwayTeam": "Flora",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12146.png",
-      "TVChannels": ""
+      "TVChannels": "ETV 2 ,  TVM 2"
     },
     {
       "LeagueName": "UEFA Europa League",
