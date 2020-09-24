@@ -30,25 +30,25 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "11:30am",
-      "GameState": "30 ",
+      "GameState": "45 ",
       "HomeTeam": "KuPS",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "",
       "AwayTeam": "Sūduva",
       "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "11:30am 30 '   KuPS  0 - 0  Sūduva"
+      "TVChannels": "11:30am 45 '   KuPS  1 - 0  Sūduva"
     },
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:00pm",
-      "GameState": "",
+      "GameState": "14 ",
       "HomeTeam": "Viktoria Plzeň",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Denmark",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/479.png",
       "TVChannels": ",  Viapla…"
     },
@@ -56,12 +56,12 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:00pm",
-      "GameState": "",
+      "GameState": "15 ",
       "HomeTeam": "Videoton",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Stade de Reims",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
       "TVChannels": "M4 Sports ,  RMC Sport 1 ,  RMC Sport en dir…"
     },
@@ -652,7 +652,7 @@
       "AwayTeam": "Southampton",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-      "TVChannels": "DAZN ,  RUSH ,  Sport TV2 ,  Play Sports 2 ,  Cyt…"
+      "TVChannels": "DAZN ,  RUSH ,  Sport TV2 ,  Play Sports 2 ,  Sp…"
     },
     {
       "LeagueName": "Spanish La Liga",
