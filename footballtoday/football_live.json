@@ -161,6 +161,19 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "1:00pm",
       "GameState": "FT ",
+      "HomeTeam": "Floriana",
+      "HomeGoals": "0",
+      "HomeLogo": "",
+      "AwayTeam": "Flora",
+      "AwayGoals": "0",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12146.png",
+      "TVChannels": "ETV 2 ,  TVM 2"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:00pm",
+      "GameState": "FT ",
       "HomeTeam": "Riga",
       "HomeGoals": "0",
       "HomeLogo": "",
@@ -402,19 +415,6 @@
       "AwayGoals": "2",
       "AwayLogo": "",
       "TVChannels": "3 - 2  Anorthosis Teleclub Sport 2 / Sky Sport 2 ,  TeleCl…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:30pm",
-      "GameState": "FT ",
-      "HomeTeam": "Floriana",
-      "HomeGoals": "0",
-      "HomeLogo": "",
-      "AwayTeam": "Flora",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12146.png",
-      "TVChannels": "ETV 2 ,  TVM 2"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1699,6 +1699,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
       "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "3:30pm",
+      "GameState": "",
+      "HomeTeam": "Eibar",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
+      "AwayTeam": "Elche",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+      "TVChannels": ""
     },
     {
       "LeagueName": "Italian Serie A",
