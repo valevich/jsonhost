@@ -848,6 +848,20 @@
   "ligue-1": [
     {
         "teamrank": 1,
+        "teamname": "Lille",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "played": 5,
+        "wins": 3,
+        "draws": 2,
+        "lossess": 0,
+        "goalsfor": 6,
+        "goalsagainst": 2,
+        "goalsdiff": "+4",
+        "points": 11,
+        "form": "'WDWWD'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Saint-Étienne",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
         "played": 4,
@@ -861,7 +875,7 @@
         "form": "'DWWW'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Rennes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
         "played": 4,
@@ -875,7 +889,7 @@
         "form": "'WWWD'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Montpellier",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "played": 4,
@@ -889,7 +903,7 @@
         "form": "'WWWL'"
     },
     {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Lens",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
         "played": 4,
@@ -901,20 +915,6 @@
         "goalsdiff": "+2",
         "points": 9,
         "form": "'WWWL'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Lille",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "played": 4,
-        "wins": 2,
-        "draws": 2,
-        "lossess": 0,
-        "goalsfor": 4,
-        "goalsagainst": 2,
-        "goalsdiff": "+2",
-        "points": 8,
-        "form": "'DWWD'"
     },
     {
         "teamrank": 6,
@@ -1032,15 +1032,15 @@
         "teamrank": 14,
         "teamname": "Nantes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-        "played": 4,
+        "played": 5,
         "wins": 1,
         "draws": 2,
-        "lossess": 1,
+        "lossess": 2,
         "goalsfor": 5,
-        "goalsagainst": 5,
-        "goalsdiff": "0",
+        "goalsagainst": 7,
+        "goalsdiff": "-2",
         "points": 5,
-        "form": "'DLWD'"
+        "form": "'LDLWD'"
     },
     {
         "teamrank": 15,
