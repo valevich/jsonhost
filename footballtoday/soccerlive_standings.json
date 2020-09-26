@@ -100,20 +100,6 @@
     },
     {
         "teamrank": 8,
-        "teamname": "Brighton & Hove Albion",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-        "played": 2,
-        "wins": 1,
-        "draws": 0,
-        "lossess": 1,
-        "goalsfor": 4,
-        "goalsagainst": 3,
-        "goalsdiff": "+1",
-        "points": 3,
-        "form": "'WL'"
-    },
-    {
-        "teamrank": 9,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "played": 1,
@@ -127,7 +113,7 @@
         "form": "'W'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 9,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "played": 2,
@@ -139,6 +125,20 @@
         "goalsdiff": "0",
         "points": 3,
         "form": "'WL'"
+    },
+    {
+        "teamrank": 10,
+        "teamname": "Brighton & Hove Albion",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+        "played": 3,
+        "wins": 1,
+        "draws": 0,
+        "lossess": 2,
+        "goalsfor": 6,
+        "goalsagainst": 6,
+        "goalsdiff": "0",
+        "points": 3,
+        "form": "'LWL'"
     },
     {
         "teamrank": 11,
@@ -170,6 +170,20 @@
     },
     {
         "teamrank": 13,
+        "teamname": "Manchester United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "lossess": 1,
+        "goalsfor": 4,
+        "goalsagainst": 5,
+        "goalsdiff": "-1",
+        "points": 3,
+        "form": "'WL'"
+    },
+    {
+        "teamrank": 14,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "played": 2,
@@ -183,7 +197,7 @@
         "form": "'LW'"
     },
     {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "Burnley",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
         "played": 1,
@@ -192,20 +206,6 @@
         "lossess": 1,
         "goalsfor": 2,
         "goalsagainst": 4,
-        "goalsdiff": "-2",
-        "points": 0,
-        "form": "'L'"
-    },
-    {
-        "teamrank": 15,
-        "teamname": "Manchester United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "played": 1,
-        "wins": 0,
-        "draws": 0,
-        "lossess": 1,
-        "goalsfor": 1,
-        "goalsagainst": 3,
         "goalsdiff": "-2",
         "points": 0,
         "form": "'L'"
