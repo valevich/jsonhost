@@ -82,7 +82,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "7:00am",
-      "GameState": "12 ",
+      "GameState": "28 ",
       "HomeTeam": "Alavés",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
@@ -1276,26 +1276,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "1:00pm",
       "GameState": "",
-      "HomeTeam": "Rosenborg",
+      "HomeTeam": "Dinamo Zagreb",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/438.png",
-      "AwayTeam": "PSV",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/597.png",
+      "AwayTeam": "Flora",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs PSV"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Sporting Charleroi",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Lech Poznań",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "1:00pm   Sporting Charleroi vs Lech Poznań"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12146.png",
+      "TVChannels": ""
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1315,6 +1302,19 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "1:00pm",
       "GameState": "",
+      "HomeTeam": "Rosenborg",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/438.png",
+      "AwayTeam": "PSV",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs PSV"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
       "HomeTeam": "Slovan Liberec",
       "HomeGoals": "",
       "HomeLogo": "",
@@ -1328,13 +1328,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "1:00pm",
       "GameState": "",
-      "HomeTeam": "Dinamo Zagreb",
+      "HomeTeam": "Sporting Charleroi",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/597.png",
-      "AwayTeam": "Flora",
+      "HomeLogo": "",
+      "AwayTeam": "Lech Poznań",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12146.png",
-      "TVChannels": ""
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   Sporting Charleroi vs Lech Poznań"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1367,12 +1367,12 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "2:00pm",
       "GameState": "",
-      "HomeTeam": "Sarajevo",
+      "HomeTeam": "FC Copenhagen",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Celtic",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/909.png",
+      "AwayTeam": "Rijeka",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/256.png",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2988.png",
       "TVChannels": ""
     },
     {
@@ -1393,12 +1393,12 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "2:00pm",
       "GameState": "",
-      "HomeTeam": "FC Copenhagen",
+      "HomeTeam": "Sarajevo",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/909.png",
-      "AwayTeam": "Rijeka",
+      "HomeLogo": "",
+      "AwayTeam": "Celtic",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2988.png",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/256.png",
       "TVChannels": ""
     },
     {
@@ -1413,19 +1413,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "2:00pm   Standard Liège vs Videoton"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:30pm",
-      "GameState": "",
-      "HomeTeam": "Young Boys",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2722.png",
-      "AwayTeam": "Tirana",
-      "AwayGoals": "",
-      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/albania/logos/tirana.png",
-      "TVChannels": "RTS 2 ,  RTS Sport"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1452,6 +1439,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "vs KÍ"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "2:30pm",
+      "GameState": "",
+      "HomeTeam": "Young Boys",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2722.png",
+      "AwayTeam": "Tirana",
+      "AwayGoals": "",
+      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/albania/logos/tirana.png",
+      "TVChannels": "RTS 2 ,  RTS Sport"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1484,19 +1484,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Sporting Cp",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2250.png",
-      "AwayTeam": "Lask Linz",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4411.png",
-      "TVChannels": "Sporting CP vs LASK Linz Sport TV1"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
       "HomeTeam": "Rio Ave",
       "HomeGoals": "",
       "HomeLogo": "",
@@ -1504,6 +1491,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
       "TVChannels": "Sport TV2 ,  DAZN"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Sporting Cp",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2250.png",
+      "AwayTeam": "Lask Linz",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4411.png",
+      "TVChannels": "Sporting CP vs LASK Linz Sport TV1"
     },
     {
       "LeagueName": "UEFA Europa League",
