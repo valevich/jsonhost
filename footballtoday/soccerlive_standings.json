@@ -650,6 +650,34 @@
     },
     {
         "teamrank": 7,
+        "teamname": "Lazio",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+        "played": 1,
+        "wins": 1,
+        "draws": 0,
+        "lossess": 0,
+        "goalsfor": 2,
+        "goalsagainst": 0,
+        "goalsdiff": "+2",
+        "points": 3,
+        "form": "'W'"
+    },
+    {
+        "teamrank": 8,
+        "teamname": "Benevento",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
+        "played": 1,
+        "wins": 1,
+        "draws": 0,
+        "lossess": 0,
+        "goalsfor": 3,
+        "goalsagainst": 2,
+        "goalsdiff": "+1",
+        "points": 3,
+        "form": "'W'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
         "played": 1,
@@ -663,7 +691,7 @@
         "form": "'W'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 10,
         "teamname": "Sassuolo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
         "played": 1,
@@ -677,21 +705,21 @@
         "form": "'D'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 11,
         "teamname": "Cagliari",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-        "played": 1,
+        "played": 2,
         "wins": 0,
         "draws": 1,
-        "lossess": 0,
+        "lossess": 1,
         "goalsfor": 1,
-        "goalsagainst": 1,
-        "goalsdiff": "0",
+        "goalsagainst": 3,
+        "goalsdiff": "-2",
         "points": 1,
-        "form": "'D'"
+        "form": "'LD'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 12,
         "teamname": "Spezia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
         "played": 0,
@@ -705,7 +733,7 @@
         "form": "''"
     },
     {
-        "teamrank": 11,
+        "teamrank": 13,
         "teamname": "Udinese",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
         "played": 0,
@@ -719,37 +747,9 @@
         "form": "''"
     },
     {
-        "teamrank": 12,
-        "teamname": "Benevento",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
-        "played": 0,
-        "wins": 0,
-        "draws": 0,
-        "lossess": 0,
-        "goalsfor": 0,
-        "goalsagainst": 0,
-        "goalsdiff": "0",
-        "points": 0,
-        "form": "''"
-    },
-    {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Internazionale",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "played": 0,
-        "wins": 0,
-        "draws": 0,
-        "lossess": 0,
-        "goalsfor": 0,
-        "goalsagainst": 0,
-        "goalsdiff": "0",
-        "points": 0,
-        "form": "''"
-    },
-    {
-        "teamrank": 14,
-        "teamname": "Lazio",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
         "played": 0,
         "wins": 0,
         "draws": 0,
@@ -818,20 +818,6 @@
     },
     {
         "teamrank": 19,
-        "teamname": "Sampdoria",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-        "played": 1,
-        "wins": 0,
-        "draws": 0,
-        "lossess": 1,
-        "goalsfor": 0,
-        "goalsagainst": 3,
-        "goalsdiff": "-3",
-        "points": 0,
-        "form": "'L'"
-    },
-    {
-        "teamrank": 20,
         "teamname": "Torino",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
         "played": 2,
@@ -841,6 +827,20 @@
         "goalsfor": 2,
         "goalsagainst": 5,
         "goalsdiff": "-3",
+        "points": 0,
+        "form": "'LL'"
+    },
+    {
+        "teamrank": 20,
+        "teamname": "Sampdoria",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
+        "played": 2,
+        "wins": 0,
+        "draws": 0,
+        "lossess": 2,
+        "goalsfor": 2,
+        "goalsagainst": 6,
+        "goalsdiff": "-4",
         "points": 0,
         "form": "'LL'"
     }
