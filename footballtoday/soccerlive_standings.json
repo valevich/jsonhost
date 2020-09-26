@@ -848,6 +848,20 @@
   "ligue-1": [
     {
         "teamrank": 1,
+        "teamname": "Rennes",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+        "played": 5,
+        "wins": 4,
+        "draws": 1,
+        "lossess": 0,
+        "goalsfor": 12,
+        "goalsagainst": 5,
+        "goalsdiff": "+7",
+        "points": 13,
+        "form": "'WWWWD'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Lille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "played": 5,
@@ -861,32 +875,18 @@
         "form": "'WDWWD'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Saint-Étienne",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-        "played": 4,
+        "played": 5,
         "wins": 3,
         "draws": 1,
-        "lossess": 0,
+        "lossess": 1,
         "goalsfor": 8,
-        "goalsagainst": 2,
-        "goalsdiff": "+6",
-        "points": 10,
-        "form": "'DWWW'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Rennes",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-        "played": 4,
-        "wins": 3,
-        "draws": 1,
-        "lossess": 0,
-        "goalsfor": 9,
         "goalsagainst": 5,
-        "goalsdiff": "+4",
+        "goalsdiff": "+3",
         "points": 10,
-        "form": "'WWWD'"
+        "form": "'LDWWW'"
     },
     {
         "teamrank": 4,
