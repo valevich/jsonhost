@@ -396,17 +396,17 @@
     },
     {
         "teamrank": 9,
-        "teamname": "Osasuna",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+        "teamname": "Levante",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 2,
         "wins": 1,
         "draws": 0,
         "lossess": 1,
-        "goalsfor": 2,
-        "goalsagainst": 1,
-        "goalsdiff": "+1",
+        "goalsfor": 5,
+        "goalsagainst": 5,
+        "goalsdiff": "0",
         "points": 3,
-        "form": "'LW'"
+        "form": "'WL'"
     },
     {
         "teamrank": 10,
@@ -424,6 +424,20 @@
     },
     {
         "teamrank": 11,
+        "teamname": "Osasuna",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+        "played": 3,
+        "wins": 1,
+        "draws": 0,
+        "lossess": 2,
+        "goalsfor": 3,
+        "goalsagainst": 4,
+        "goalsdiff": "-1",
+        "points": 3,
+        "form": "'LLW'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
         "played": 3,
@@ -437,7 +451,7 @@
         "form": "'DLD'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "played": 2,
@@ -451,7 +465,7 @@
         "form": "'LD'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 3,
@@ -465,7 +479,7 @@
         "form": "'DLL'"
     },
     {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "Real Valladolid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
         "played": 2,
@@ -479,7 +493,7 @@
         "form": "'LD'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Barcelona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
         "played": 0,
@@ -493,7 +507,7 @@
         "form": "''"
     },
     {
-        "teamrank": 16,
+        "teamrank": 17,
         "teamname": "Atlético Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
         "played": 0,
@@ -507,7 +521,7 @@
         "form": "''"
     },
     {
-        "teamrank": 17,
+        "teamrank": 18,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
         "played": 0,
@@ -519,20 +533,6 @@
         "goalsdiff": "0",
         "points": 0,
         "form": "''"
-    },
-    {
-        "teamrank": 18,
-        "teamname": "Levante",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "played": 1,
-        "wins": 0,
-        "draws": 0,
-        "lossess": 1,
-        "goalsfor": 2,
-        "goalsagainst": 4,
-        "goalsdiff": "-2",
-        "points": 0,
-        "form": "'L'"
     },
     {
         "teamrank": 19,
