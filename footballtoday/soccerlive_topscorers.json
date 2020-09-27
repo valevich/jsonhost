@@ -284,6 +284,24 @@
         "playerassists": 0
     },
     {
+        "playername": "L. Caldirola",
+        "playerlink": "https://www.livesoccertv.com/player/l-caldirola/92890/",
+        "playerteam": "Benevento",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/benevento/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
+        "playername": "G. Castrovilli",
+        "playerlink": "https://www.livesoccertv.com/player/g-castrovilli/278211/",
+        "playerteam": "Fiorentina",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/fiorentina/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
         "playername": "Z. Ibrahimović",
         "playerlink": "https://www.livesoccertv.com/player/z-ibrahimovic/301/",
         "playerteam": "Milan",
@@ -311,11 +329,29 @@
         "playerassists": 0
     },
     {
-        "playername": "G. Castrovilli",
-        "playerlink": "https://www.livesoccertv.com/player/g-castrovilli/278211/",
+        "playername": "F. Chiesa",
+        "playerlink": "https://www.livesoccertv.com/player/f-chiesa/333338/",
         "playerteam": "Fiorentina",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/fiorentina/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+        "playergoals": 1,
+        "playerassists": 0
+    },
+    {
+        "playername": "Omar Colley",
+        "playerlink": "https://www.livesoccertv.com/player/o-colley/200463/",
+        "playerteam": "Sampdoria",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/sampdoria/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
+        "playergoals": 1,
+        "playerassists": 0
+    },
+    {
+        "playername": "D. D'Ambrosio",
+        "playerlink": "https://www.livesoccertv.com/player/d-d-apos-ambrosio/103166/",
+        "playerteam": "Internazionale",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "playergoals": 1,
         "playerassists": 0
     },
@@ -365,47 +401,11 @@
         "playerassists": 0
     },
     {
-        "playername": "L. Insigne",
-        "playerlink": "https://www.livesoccertv.com/player/l-insigne/104026/",
-        "playerteam": "Napoli",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "D. Kulusevski",
-        "playerlink": "https://www.livesoccertv.com/player/d-kulusevski/387968/",
-        "playerteam": "Juventus",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/juventus/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "D. Mertens",
-        "playerlink": "https://www.livesoccertv.com/player/d-mertens/49664/",
-        "playerteam": "Napoli",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "L. Muriel",
-        "playerlink": "https://www.livesoccertv.com/player/l-muriel/83663/",
-        "playerteam": "Atalanta",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "G. Pandev",
-        "playerlink": "https://www.livesoccertv.com/player/g-pandev/4205/",
-        "playerteam": "Genoa",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/genoa/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+        "playername": "C. Immobile",
+        "playerlink": "https://www.livesoccertv.com/player/c-immobile/75297/",
+        "playerteam": "Lazio",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/lazio-roma/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
         "playergoals": 1,
         "playerassists": 0
     }
