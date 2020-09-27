@@ -72,6 +72,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Leeds United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+        "played": 3,
+        "wins": 2,
+        "draws": 0,
+        "lossess": 1,
+        "goalsfor": 8,
+        "goalsagainst": 7,
+        "goalsdiff": "+1",
+        "points": 6,
+        "form": "'WWL'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 3,
@@ -85,7 +99,7 @@
         "form": "'DLW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 2,
@@ -99,7 +113,7 @@
         "form": "'WL'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "played": 1,
@@ -113,7 +127,7 @@
         "form": "'W'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "played": 1,
@@ -125,20 +139,6 @@
         "goalsdiff": "+1",
         "points": 3,
         "form": "'W'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Leeds United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-        "played": 2,
-        "wins": 1,
-        "draws": 0,
-        "lossess": 1,
-        "goalsfor": 7,
-        "goalsagainst": 7,
-        "goalsdiff": "0",
-        "points": 3,
-        "form": "'WL'"
     },
     {
         "teamrank": 11,
@@ -254,20 +254,6 @@
     },
     {
         "teamrank": 19,
-        "teamname": "Sheffield United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 2,
-        "wins": 0,
-        "draws": 0,
-        "lossess": 2,
-        "goalsfor": 0,
-        "goalsagainst": 3,
-        "goalsdiff": "-3",
-        "points": 0,
-        "form": "'LL'"
-    },
-    {
-        "teamrank": 20,
         "teamname": "Fulham",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
         "played": 2,
@@ -279,6 +265,20 @@
         "goalsdiff": "-4",
         "points": 0,
         "form": "'LL'"
+    },
+    {
+        "teamrank": 20,
+        "teamname": "Sheffield United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
+        "played": 3,
+        "wins": 0,
+        "draws": 0,
+        "lossess": 3,
+        "goalsfor": 0,
+        "goalsagainst": 4,
+        "goalsdiff": "-4",
+        "points": 0,
+        "form": "'LLL'"
     }
   ],
   "primera-division": [
@@ -946,6 +946,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Nice",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+        "played": 5,
+        "wins": 2,
+        "draws": 1,
+        "lossess": 2,
+        "goalsfor": 5,
+        "goalsagainst": 7,
+        "goalsdiff": "-2",
+        "points": 7,
+        "form": "'DLLWW'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "PSG",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
         "played": 4,
@@ -959,7 +973,21 @@
         "form": "'WWLL'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
+        "teamname": "Bordeaux",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
+        "played": 5,
+        "wins": 1,
+        "draws": 3,
+        "lossess": 1,
+        "goalsfor": 3,
+        "goalsagainst": 2,
+        "goalsdiff": "+1",
+        "points": 6,
+        "form": "'DLDWD'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Brest",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
         "played": 4,
@@ -973,21 +1001,7 @@
         "form": "'WWLL'"
     },
     {
-        "teamrank": 10,
-        "teamname": "Nice",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-        "played": 4,
-        "wins": 2,
-        "draws": 0,
-        "lossess": 2,
-        "goalsfor": 5,
-        "goalsagainst": 7,
-        "goalsdiff": "-2",
-        "points": 6,
-        "form": "'LLWW'"
-    },
-    {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Angers SCO",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
         "played": 4,
@@ -1001,7 +1015,7 @@
         "form": "'LWLW'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Olympique Lyonnais",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "played": 4,
@@ -1013,20 +1027,6 @@
         "goalsdiff": "+2",
         "points": 5,
         "form": "'DLDW'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Bordeaux",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
-        "played": 4,
-        "wins": 1,
-        "draws": 2,
-        "lossess": 1,
-        "goalsfor": 3,
-        "goalsagainst": 2,
-        "goalsdiff": "+1",
-        "points": 5,
-        "form": "'LDWD'"
     },
     {
         "teamrank": 14,
