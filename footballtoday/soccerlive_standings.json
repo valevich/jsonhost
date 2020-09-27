@@ -566,6 +566,34 @@
   "serie-a": [
     {
         "teamrank": 1,
+        "teamname": "Napoli",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "played": 2,
+        "wins": 2,
+        "draws": 0,
+        "lossess": 0,
+        "goalsfor": 8,
+        "goalsagainst": 0,
+        "goalsdiff": "+8",
+        "points": 6,
+        "form": "'WW'"
+    },
+    {
+        "teamrank": 2,
+        "teamname": "Milan",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+        "played": 2,
+        "wins": 2,
+        "draws": 0,
+        "lossess": 0,
+        "goalsfor": 4,
+        "goalsagainst": 0,
+        "goalsdiff": "+4",
+        "points": 6,
+        "form": "'WW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Hellas Verona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
         "played": 2,
@@ -579,7 +607,7 @@
         "form": "'WW'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 4,
         "teamname": "Sassuolo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
         "played": 2,
@@ -593,21 +621,7 @@
         "form": "'WD'"
     },
     {
-        "teamrank": 3,
-        "teamname": "Genoa",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-        "played": 1,
-        "wins": 1,
-        "draws": 0,
-        "lossess": 0,
-        "goalsfor": 4,
-        "goalsagainst": 1,
-        "goalsdiff": "+3",
-        "points": 3,
-        "form": "'W'"
-    },
-    {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Juventus",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
         "played": 1,
@@ -621,7 +635,7 @@
         "form": "'W'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Atalanta",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
         "played": 1,
@@ -635,35 +649,7 @@
         "form": "'W'"
     },
     {
-        "teamrank": 6,
-        "teamname": "Napoli",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "played": 1,
-        "wins": 1,
-        "draws": 0,
-        "lossess": 0,
-        "goalsfor": 2,
-        "goalsagainst": 0,
-        "goalsdiff": "+2",
-        "points": 3,
-        "form": "'W'"
-    },
-    {
         "teamrank": 7,
-        "teamname": "Milan",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-        "played": 1,
-        "wins": 1,
-        "draws": 0,
-        "lossess": 0,
-        "goalsfor": 2,
-        "goalsagainst": 0,
-        "goalsdiff": "+2",
-        "points": 3,
-        "form": "'W'"
-    },
-    {
-        "teamrank": 8,
         "teamname": "Lazio",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
         "played": 1,
@@ -677,7 +663,7 @@
         "form": "'W'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 8,
         "teamname": "Internazionale",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "played": 1,
@@ -691,7 +677,7 @@
         "form": "'W'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 9,
         "teamname": "Benevento",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
         "played": 1,
@@ -705,7 +691,7 @@
         "form": "'W'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 10,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
         "played": 2,
@@ -715,6 +701,20 @@
         "goalsfor": 4,
         "goalsagainst": 4,
         "goalsdiff": "0",
+        "points": 3,
+        "form": "'LW'"
+    },
+    {
+        "teamrank": 11,
+        "teamname": "Genoa",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "lossess": 1,
+        "goalsfor": 4,
+        "goalsagainst": 7,
+        "goalsdiff": "-3",
         "points": 3,
         "form": "'LW'"
     },
@@ -790,20 +790,6 @@
     },
     {
         "teamrank": 17,
-        "teamname": "Crotone",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-        "played": 1,
-        "wins": 0,
-        "draws": 0,
-        "lossess": 1,
-        "goalsfor": 1,
-        "goalsagainst": 4,
-        "goalsdiff": "-3",
-        "points": 0,
-        "form": "'L'"
-    },
-    {
-        "teamrank": 18,
         "teamname": "Roma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
         "played": 1,
@@ -817,7 +803,7 @@
         "form": "'L'"
     },
     {
-        "teamrank": 19,
+        "teamrank": 18,
         "teamname": "Torino",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
         "played": 2,
@@ -831,7 +817,7 @@
         "form": "'LL'"
     },
     {
-        "teamrank": 20,
+        "teamrank": 19,
         "teamname": "Sampdoria",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
         "played": 2,
@@ -841,6 +827,20 @@
         "goalsfor": 2,
         "goalsagainst": 6,
         "goalsdiff": "-4",
+        "points": 0,
+        "form": "'LL'"
+    },
+    {
+        "teamrank": 20,
+        "teamname": "Crotone",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
+        "played": 2,
+        "wins": 0,
+        "draws": 0,
+        "lossess": 2,
+        "goalsfor": 1,
+        "goalsagainst": 6,
+        "goalsdiff": "-5",
         "points": 0,
         "form": "'LL'"
     }
@@ -1186,6 +1186,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Freiburg",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+        "played": 2,
+        "wins": 1,
+        "draws": 1,
+        "lossess": 0,
+        "goalsfor": 4,
+        "goalsagainst": 3,
+        "goalsdiff": "+1",
+        "points": 4,
+        "form": "'DW'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Arminia Bielefeld",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
         "played": 2,
@@ -1199,7 +1213,7 @@
         "form": "'WD'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Bayern München",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
         "played": 2,
@@ -1213,7 +1227,7 @@
         "form": "'LW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Stuttgart",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
         "played": 2,
@@ -1227,7 +1241,7 @@
         "form": "'WL'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Hertha BSC",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
         "played": 2,
@@ -1241,7 +1255,7 @@
         "form": "'LW'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Borussia Dortmund",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
         "played": 2,
@@ -1253,20 +1267,6 @@
         "goalsdiff": "+1",
         "points": 3,
         "form": "'LW'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Freiburg",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-        "played": 1,
-        "wins": 1,
-        "draws": 0,
-        "lossess": 0,
-        "goalsfor": 3,
-        "goalsagainst": 2,
-        "goalsdiff": "+1",
-        "points": 3,
-        "form": "'W'"
     },
     {
         "teamrank": 11,
@@ -1300,15 +1300,15 @@
         "teamrank": 13,
         "teamname": "Wolfsburg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "played": 1,
+        "played": 2,
         "wins": 0,
-        "draws": 1,
+        "draws": 2,
         "lossess": 0,
-        "goalsfor": 0,
-        "goalsagainst": 0,
+        "goalsfor": 1,
+        "goalsagainst": 1,
         "goalsdiff": "0",
-        "points": 1,
-        "form": "'D'"
+        "points": 2,
+        "form": "'DD'"
     },
     {
         "teamrank": 14,
