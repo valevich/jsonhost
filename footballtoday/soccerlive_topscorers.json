@@ -156,6 +156,15 @@
         "playerassists": 0
     },
     {
+        "playername": "Roberto López",
+        "playerlink": "https://www.livesoccertv.com/player/roberto-lopez/404727/",
+        "playerteam": "Real Sociedad",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
         "playername": "Morales",
         "playerlink": "https://www.livesoccertv.com/player/jose-luis-morales/211121/",
         "playerteam": "Levante",
@@ -172,6 +181,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
         "playergoals": 2,
         "playerassists": 1
+    },
+    {
+        "playername": "William Silva de Carvalho",
+        "playerlink": "https://www.livesoccertv.com/player/william-carvalho/134852/",
+        "playerteam": "Real Betis",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-betis/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "playergoals": 2,
+        "playerassists": 0
     },
     {
         "playername": "Manu Vallejo",
@@ -246,31 +264,13 @@
         "playerassists": 0
     },
     {
-        "playername": "Roberto López",
-        "playerlink": "https://www.livesoccertv.com/player/roberto-lopez/404727/",
+        "playername": "A. Januzaj",
+        "playerlink": "https://www.livesoccertv.com/player/a-januzaj/235819/",
         "playerteam": "Real Sociedad",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "Adrián López Álvarez",
-        "playerlink": "https://www.livesoccertv.com/player/adrian/5405/",
-        "playerteam": "Osasuna",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/osasuna/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "Darwin Daniel Machís Marcano",
-        "playerlink": "https://www.livesoccertv.com/player/d-machis/168144/",
-        "playerteam": "Granada",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/granada/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "playergoals": 1,
-        "playerassists": 0
+        "playerassists": 1
     }
   ],
   "serie-a": [
