@@ -1130,6 +1130,20 @@
   "bundesliga": [
     {
         "teamrank": 1,
+        "teamname": "Hoffenheim",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+        "played": 2,
+        "wins": 2,
+        "draws": 0,
+        "lossess": 0,
+        "goalsfor": 7,
+        "goalsagainst": 3,
+        "goalsdiff": "+4",
+        "points": 6,
+        "form": "'WW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Augsburg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
         "played": 2,
@@ -1143,7 +1157,7 @@
         "form": "'WW'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Eintracht Frankfurt",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
         "played": 2,
@@ -1157,7 +1171,7 @@
         "form": "'WD'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "RB Leipzig",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
         "played": 2,
@@ -1171,7 +1185,7 @@
         "form": "'DW'"
     },
     {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Arminia Bielefeld",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
         "played": 2,
@@ -1185,21 +1199,21 @@
         "form": "'WD'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Bayern München",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "played": 1,
+        "played": 2,
         "wins": 1,
         "draws": 0,
-        "lossess": 0,
-        "goalsfor": 8,
-        "goalsagainst": 0,
-        "goalsdiff": "+8",
+        "lossess": 1,
+        "goalsfor": 9,
+        "goalsagainst": 4,
+        "goalsdiff": "+5",
         "points": 3,
-        "form": "'W'"
+        "form": "'LW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Stuttgart",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
         "played": 2,
@@ -1213,7 +1227,7 @@
         "form": "'WL'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Hertha BSC",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
         "played": 2,
@@ -1227,7 +1241,7 @@
         "form": "'LW'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Borussia Dortmund",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
         "played": 2,
@@ -1239,20 +1253,6 @@
         "goalsdiff": "+1",
         "points": 3,
         "form": "'LW'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Hoffenheim",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "played": 1,
-        "wins": 1,
-        "draws": 0,
-        "lossess": 0,
-        "goalsfor": 3,
-        "goalsagainst": 2,
-        "goalsdiff": "+1",
-        "points": 3,
-        "form": "'W'"
     },
     {
         "teamrank": 10,
