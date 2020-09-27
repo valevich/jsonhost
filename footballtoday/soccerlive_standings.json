@@ -284,20 +284,6 @@
   "primera-division": [
     {
         "teamrank": 1,
-        "teamname": "Granada",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "played": 2,
-        "wins": 2,
-        "draws": 0,
-        "lossess": 0,
-        "goalsfor": 4,
-        "goalsagainst": 1,
-        "goalsdiff": "+3",
-        "points": 6,
-        "form": "'WW'"
-    },
-    {
-        "teamrank": 2,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "played": 3,
@@ -307,6 +293,20 @@
         "goalsfor": 5,
         "goalsagainst": 3,
         "goalsdiff": "+2",
+        "points": 6,
+        "form": "'LWW'"
+    },
+    {
+        "teamrank": 2,
+        "teamname": "Granada",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
+        "played": 3,
+        "wins": 2,
+        "draws": 0,
+        "lossess": 1,
+        "goalsfor": 5,
+        "goalsagainst": 7,
+        "goalsdiff": "-2",
         "points": 6,
         "form": "'LWW'"
     },
@@ -396,6 +396,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Atlético Madrid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "played": 1,
+        "wins": 1,
+        "draws": 0,
+        "lossess": 0,
+        "goalsfor": 6,
+        "goalsagainst": 1,
+        "goalsdiff": "+5",
+        "points": 3,
+        "form": "'W'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 2,
@@ -409,7 +423,7 @@
         "form": "'WL'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Cádiz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
         "played": 2,
@@ -423,7 +437,7 @@
         "form": "'WL'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Osasuna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
         "played": 3,
@@ -437,7 +451,7 @@
         "form": "'LLW'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 2,
@@ -451,7 +465,7 @@
         "form": "'WL'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
         "played": 3,
@@ -465,7 +479,7 @@
         "form": "'DLD'"
     },
     {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "played": 3,
@@ -479,7 +493,7 @@
         "form": "'LLD'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 3,
@@ -493,7 +507,7 @@
         "form": "'DLL'"
     },
     {
-        "teamrank": 16,
+        "teamrank": 17,
         "teamname": "Real Valladolid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
         "played": 2,
@@ -507,23 +521,9 @@
         "form": "'LD'"
     },
     {
-        "teamrank": 17,
+        "teamrank": 18,
         "teamname": "Barcelona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "played": 0,
-        "wins": 0,
-        "draws": 0,
-        "lossess": 0,
-        "goalsfor": 0,
-        "goalsagainst": 0,
-        "goalsdiff": "0",
-        "points": 0,
-        "form": "''"
-    },
-    {
-        "teamrank": 18,
-        "teamname": "Atlético Madrid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
         "played": 0,
         "wins": 0,
         "draws": 0,
@@ -1130,8 +1130,8 @@
   "bundesliga": [
     {
         "teamrank": 1,
-        "teamname": "",
-        "teamlogo": "",
+        "teamname": "Hoffenheim",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
         "played": 2,
         "wins": 2,
         "draws": 0,
