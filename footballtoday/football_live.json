@@ -810,7 +810,7 @@
       "AwayTeam": "Manchester City",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "TVChannels": "DAZN ,  Sport TV2 ,  Sport TV LIVE ,  DAZN ,  …"
+      "TVChannels": "DAZN ,  DAZN ,  Sport TV2 ,  Sport TV LIVE ,  …"
     },
     {
       "LeagueName": "English EFL Cup",
@@ -836,7 +836,7 @@
       "AwayTeam": "West Ham",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-      "TVChannels": "ESPN+ ,  ESPNPlay Caribbean ,  DAZN ,  …"
+      "TVChannels": "ESPN+ ,  DAZN ,  ESPNPlay Caribbean ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -875,7 +875,7 @@
       "AwayTeam": "Alavés",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beI…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -901,7 +901,7 @@
       "AwayTeam": "Elche",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beI…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -940,7 +940,7 @@
       "AwayTeam": "Spezia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  ESPNPlay Caribbe…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPNPlay C…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -953,7 +953,7 @@
       "AwayTeam": "Atalanta",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  TLN ,  ESPNPlay Car…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPNPl…"
     }
   ],
   "day5": [
@@ -1358,7 +1358,7 @@
       "AwayTeam": "Osasuna",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beI…"
     }
   ],
   "day6": [
@@ -1622,7 +1622,7 @@
       "AwayTeam": "Torino",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  TLN ,  DAZN ,  Sport T…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  DAZN"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1635,7 +1635,7 @@
       "AwayTeam": "Roma",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  TLN ,  DAZN ,  Sport T…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  DAZN"
     },
     {
       "LeagueName": "German Bundesliga",
