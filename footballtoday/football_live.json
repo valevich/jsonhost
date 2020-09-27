@@ -394,9 +394,9 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:00pm",
-      "GameState": "6 '",
+      "GameState": "21 ",
       "HomeTeam": "NY Red Bulls",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
       "AwayTeam": "Montreal Impact",
       "AwayGoals": "1",
@@ -407,7 +407,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:00pm",
-      "GameState": "6 '",
+      "GameState": "21 ",
       "HomeTeam": "DC United",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png",
@@ -797,7 +797,7 @@
       "AwayTeam": "Newcastle Utd",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-      "TVChannels": "DAZN ,  DAZN ,  Nova Sport 2 ,  Sky Sports Mai…"
+      "TVChannels": "DAZN ,  DAZN ,  Sport 2 ,  Nova Sport 2 ,  Sky Sp…"
     },
     {
       "LeagueName": "English EFL Cup",
@@ -1069,10 +1069,10 @@
       "HomeTeam": "Hapoel Be'er Sheva",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Viktoria Plzeň",
+      "AwayTeam": "Viktoria Plzeň Sport 2",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "1:30pm   Hapoel Be'er Sheva vs Viktoria Plzeň"
+      "TVChannels": "1:30pm   Hapoel Be'er Sheva vs Viktoria Plzeň Sport 2"
     },
     {
       "LeagueName": "UEFA Europa League",
