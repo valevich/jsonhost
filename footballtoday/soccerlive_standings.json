@@ -2,6 +2,20 @@
   "premier-league": [
     {
         "teamrank": 1,
+        "teamname": "Leicester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+        "played": 3,
+        "wins": 3,
+        "draws": 0,
+        "lossess": 0,
+        "goalsfor": 12,
+        "goalsagainst": 4,
+        "goalsdiff": "+8",
+        "points": 9,
+        "form": "'WWW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
         "played": 3,
@@ -13,20 +27,6 @@
         "goalsdiff": "+5",
         "points": 9,
         "form": "'WWW'"
-    },
-    {
-        "teamrank": 2,
-        "teamname": "Leicester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "played": 2,
-        "wins": 2,
-        "draws": 0,
-        "lossess": 0,
-        "goalsfor": 7,
-        "goalsagainst": 2,
-        "goalsdiff": "+5",
-        "points": 6,
-        "form": "'WW'"
     },
     {
         "teamrank": 3,
@@ -128,20 +128,6 @@
     },
     {
         "teamrank": 10,
-        "teamname": "Manchester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "played": 1,
-        "wins": 1,
-        "draws": 0,
-        "lossess": 0,
-        "goalsfor": 3,
-        "goalsagainst": 1,
-        "goalsdiff": "+2",
-        "points": 3,
-        "form": "'W'"
-    },
-    {
-        "teamrank": 11,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "played": 1,
@@ -155,7 +141,7 @@
         "form": "'W'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 11,
         "teamname": "Brighton & Hove Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
         "played": 3,
@@ -169,7 +155,7 @@
         "form": "'LWL'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 12,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
         "played": 2,
@@ -179,6 +165,20 @@
         "goalsfor": 3,
         "goalsagainst": 3,
         "goalsdiff": "0",
+        "points": 3,
+        "form": "'LW'"
+    },
+    {
+        "teamrank": 13,
+        "teamname": "Manchester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "lossess": 1,
+        "goalsfor": 5,
+        "goalsagainst": 6,
+        "goalsdiff": "-1",
         "points": 3,
         "form": "'LW'"
     },
