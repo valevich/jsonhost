@@ -438,6 +438,20 @@
     },
     {
         "teamrank": 12,
+        "teamname": "Athletic Club",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "lossess": 1,
+        "goalsfor": 2,
+        "goalsagainst": 3,
+        "goalsdiff": "-1",
+        "points": 3,
+        "form": "'WL'"
+    },
+    {
+        "teamrank": 13,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
         "played": 3,
@@ -451,21 +465,21 @@
         "form": "'DLD'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 2,
+        "played": 3,
         "wins": 0,
         "draws": 1,
-        "lossess": 1,
-        "goalsfor": 1,
-        "goalsagainst": 2,
-        "goalsdiff": "-1",
+        "lossess": 2,
+        "goalsfor": 2,
+        "goalsagainst": 4,
+        "goalsdiff": "-2",
         "points": 1,
-        "form": "'LD'"
+        "form": "'LLD'"
     },
     {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 3,
@@ -479,7 +493,7 @@
         "form": "'DLL'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Real Valladolid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
         "played": 2,
@@ -493,7 +507,7 @@
         "form": "'LD'"
     },
     {
-        "teamrank": 16,
+        "teamrank": 17,
         "teamname": "Barcelona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
         "played": 0,
@@ -507,7 +521,7 @@
         "form": "''"
     },
     {
-        "teamrank": 17,
+        "teamrank": 18,
         "teamname": "Atlético Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
         "played": 0,
@@ -521,7 +535,7 @@
         "form": "''"
     },
     {
-        "teamrank": 18,
+        "teamrank": 19,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
         "played": 0,
@@ -533,20 +547,6 @@
         "goalsdiff": "0",
         "points": 0,
         "form": "''"
-    },
-    {
-        "teamrank": 19,
-        "teamname": "Athletic Club",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "played": 1,
-        "wins": 0,
-        "draws": 0,
-        "lossess": 1,
-        "goalsfor": 0,
-        "goalsagainst": 2,
-        "goalsdiff": "-2",
-        "points": 0,
-        "form": "'L'"
     },
     {
         "teamrank": 20,
