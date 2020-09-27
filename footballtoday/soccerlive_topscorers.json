@@ -138,6 +138,15 @@
   ],
   "primera-division": [
     {
+        "playername": "Morales",
+        "playerlink": "https://www.livesoccertv.com/player/jose-luis-morales/211121/",
+        "playerteam": "Levante",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "Iago Aspas",
         "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
         "playerteam": "Celta Vigo",
@@ -161,15 +170,6 @@
         "playerteam": "Real Sociedad",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "Morales",
-        "playerlink": "https://www.livesoccertv.com/player/jose-luis-morales/211121/",
-        "playerteam": "Levante",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "playergoals": 2,
         "playerassists": 0
     },
