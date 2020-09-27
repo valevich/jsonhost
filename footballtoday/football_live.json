@@ -108,9 +108,9 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "10:00am",
-      "GameState": "HT ",
+      "GameState": "52 ",
       "HomeTeam": "Atletico Madrid",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
       "AwayTeam": "Granada",
       "AwayGoals": "0",
@@ -251,14 +251,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "68 ",
+      "GameState": "83 ",
       "HomeTeam": "Hoffenheim",
-      "HomeGoals": "2",
+      "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
       "AwayTeam": "Bayern Munich",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-      "TVChannels": "'   Hoffenheim  2 - 1  Bayern München ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+      "TVChannels": "'   Hoffenheim  3 - 1  Bayern München ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -355,12 +355,12 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "11:00am",
-      "GameState": "",
+      "GameState": "14 ",
       "HomeTeam": "Lorient",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
       "AwayTeam": "Lyon",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
       "TVChannels": "nais beIN SPORTS XTRA ,  DIRECTV Sports…"
     },
@@ -1007,7 +1007,7 @@
       "AwayTeam": "Flora",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12146.png",
-      "TVChannels": ""
+      "TVChannels": "Arena Sport 1"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1804,7 +1804,7 @@
       "AwayTeam": "Atlanta United",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
-      "TVChannels": "MLSsoccer.com ,  MLS App ,  C More Play ,  …"
+      "TVChannels": "MLSsoccer.com ,  MLS App ,  Arena Sport…"
     },
     {
       "LeagueName": "Major League Soccer",
