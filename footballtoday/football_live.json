@@ -30,9 +30,9 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
-      "GameState": "78 ",
+      "GameState": "FT ",
       "HomeTeam": "Liverpool",
-      "HomeGoals": "2",
+      "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
       "AwayTeam": "Arsenal",
       "AwayGoals": "1",
@@ -56,14 +56,14 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Bologna",
-      "HomeGoals": "3",
+      "HomeGoals": "4",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
       "AwayTeam": "Parma",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Caribb…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Caribbean ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -602,7 +602,7 @@
       "AwayTeam": "Rijeka",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2988.png",
-      "TVChannels": "Arena Sport 2"
+      "TVChannels": "Canal 9 Denmark ,  Arena Sport 2 ,  Dplay Denm…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -719,7 +719,7 @@
       "AwayTeam": "Maccabi Haifa",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/611.png",
-      "TVChannels": "Sport TV4 ,  Sport TV LIVE ,  SPOTV ON"
+      "TVChannels": "Sport TV4 ,  Canal 9 Denmark ,  Viaplay Norwa…"
     },
     {
       "LeagueName": "English EFL Cup",
@@ -758,7 +758,7 @@
       "AwayTeam": "Stoke City",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/336.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Digi S…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  V Spor…"
     },
     {
       "LeagueName": "English EFL Cup",
