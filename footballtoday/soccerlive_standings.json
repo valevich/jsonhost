@@ -44,6 +44,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Aston Villa",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "played": 2,
+        "wins": 2,
+        "draws": 0,
+        "lossess": 0,
+        "goalsfor": 4,
+        "goalsagainst": 0,
+        "goalsdiff": "+4",
+        "points": 6,
+        "form": "'WW'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "played": 2,
@@ -57,7 +71,7 @@
         "form": "'WW'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
         "played": 3,
@@ -71,7 +85,7 @@
         "form": "'LWW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "played": 3,
@@ -85,7 +99,7 @@
         "form": "'WWL'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 3,
@@ -99,7 +113,7 @@
         "form": "'DWL'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 3,
@@ -113,7 +127,7 @@
         "form": "'DLW'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "played": 3,
@@ -127,7 +141,7 @@
         "form": "'DLW'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "played": 3,
@@ -139,20 +153,6 @@
         "goalsdiff": "+1",
         "points": 3,
         "form": "'WLL'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Aston Villa",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 1,
-        "wins": 1,
-        "draws": 0,
-        "lossess": 0,
-        "goalsfor": 1,
-        "goalsagainst": 0,
-        "goalsdiff": "+1",
-        "points": 3,
-        "form": "'W'"
     },
     {
         "teamrank": 12,
@@ -254,20 +254,6 @@
     },
     {
         "teamrank": 19,
-        "teamname": "Fulham",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-        "played": 2,
-        "wins": 0,
-        "draws": 0,
-        "lossess": 2,
-        "goalsfor": 3,
-        "goalsagainst": 7,
-        "goalsdiff": "-4",
-        "points": 0,
-        "form": "'LL'"
-    },
-    {
-        "teamrank": 20,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
         "played": 3,
@@ -277,6 +263,20 @@
         "goalsfor": 0,
         "goalsagainst": 4,
         "goalsdiff": "-4",
+        "points": 0,
+        "form": "'LLL'"
+    },
+    {
+        "teamrank": 20,
+        "teamname": "Fulham",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+        "played": 3,
+        "wins": 0,
+        "draws": 0,
+        "lossess": 3,
+        "goalsfor": 3,
+        "goalsagainst": 10,
+        "goalsdiff": "-7",
         "points": 0,
         "form": "'LLL'"
     }
