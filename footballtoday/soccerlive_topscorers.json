@@ -275,6 +275,15 @@
   ],
   "serie-a": [
     {
+        "playername": "Cristiano Ronaldo",
+        "playerlink": "https://www.livesoccertv.com/player/cristiano-ronaldo/515/",
+        "playerteam": "Juventus",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/juventus/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+        "playergoals": 3,
+        "playerassists": 1
+    },
+    {
         "playername": "A. Belotti",
         "playerlink": "https://www.livesoccertv.com/player/a-belotti/186733/",
         "playerteam": "Torino",
@@ -309,6 +318,42 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
         "playergoals": 2,
         "playerassists": 1
+    },
+    {
+        "playername": "Hirving Rodrigo Lozano Bahena",
+        "playerlink": "https://www.livesoccertv.com/player/h-lozano/259658/",
+        "playerteam": "Napoli",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
+        "playername": "D. Mertens",
+        "playerlink": "https://www.livesoccertv.com/player/d-mertens/49664/",
+        "playerteam": "Napoli",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
+        "playername": "J. Veretout",
+        "playerlink": "https://www.livesoccertv.com/player/j-veretout/156122/",
+        "playerteam": "Roma",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+        "playergoals": 2,
+        "playerassists": 1
+    },
+    {
+        "playername": "Brahim Abdelkader Díaz",
+        "playerlink": "https://www.livesoccertv.com/player/brahim-diaz/312249/",
+        "playerteam": "Milan",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/ac-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+        "playergoals": 1,
+        "playerassists": 0
     },
     {
         "playername": "D. Berardi",
@@ -361,51 +406,6 @@
         "playerteam": "Sampdoria",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/sampdoria/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "D. D'Ambrosio",
-        "playerlink": "https://www.livesoccertv.com/player/d-d-apos-ambrosio/103166/",
-        "playerteam": "Internazionale",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "M. de Roon",
-        "playerlink": "https://www.livesoccertv.com/player/m-de-roon/110159/",
-        "playerteam": "Atalanta",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "G. Defrel",
-        "playerlink": "https://www.livesoccertv.com/player/g-defrel/159065/",
-        "playerteam": "Sassuolo",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "M. Destro",
-        "playerlink": "https://www.livesoccertv.com/player/m-destro/84885/",
-        "playerteam": "Genoa",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/genoa/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "Cristiano Ronaldo",
-        "playerlink": "https://www.livesoccertv.com/player/cristiano-ronaldo/515/",
-        "playerteam": "Juventus",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/juventus/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
         "playergoals": 1,
         "playerassists": 0
     }
