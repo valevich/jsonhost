@@ -394,9 +394,9 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:00pm",
-      "GameState": "50 ",
+      "GameState": "65 ",
       "HomeTeam": "NY Red Bulls",
-      "HomeGoals": "2",
+      "HomeGoals": "4",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
       "AwayTeam": "Montreal Impact",
       "AwayGoals": "1",
@@ -407,7 +407,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:00pm",
-      "GameState": "HT ",
+      "GameState": "59 ",
       "HomeTeam": "DC United",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png",
@@ -420,9 +420,9 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:30pm",
-      "GameState": "36 ",
+      "GameState": "HT ",
       "HomeTeam": "Chicago Fire",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png",
       "AwayTeam": "Atlanta United",
       "AwayGoals": "0",
@@ -433,12 +433,12 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:30pm",
-      "GameState": "36 ",
+      "GameState": "HT ",
       "HomeTeam": "Toronto FC",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
       "AwayTeam": "Columbus Crew",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
@@ -446,7 +446,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:30pm",
-      "GameState": "36 ",
+      "GameState": "HT ",
       "HomeTeam": "Philadelphia Union",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
@@ -459,7 +459,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "8:00pm",
-      "GameState": "6 '",
+      "GameState": "21 ",
       "HomeTeam": "Minnesota Utd",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
@@ -1908,7 +1908,7 @@
       "AwayTeam": "West Bromwich",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-      "TVChannels": "wich Albion DAZN ,  RUSH ,  Sport TV3 ,  Sport TV LIVE ,  …"
+      "TVChannels": "wich Albion DAZN ,  RUSH ,  Sport TV3 ,  TSN1 Malta ,  Spo…"
     },
     {
       "LeagueName": "English Premier League",
@@ -1934,7 +1934,7 @@
       "AwayTeam": "Fulham",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-      "TVChannels": "DAZN ,  RUSH ,  Sport TV2 ,  Sport TV LIVE ,  …"
+      "TVChannels": "DAZN ,  RUSH ,  Sport TV2 ,  TSN1 Malta ,  Spo…"
     },
     {
       "LeagueName": "English Premier League",
@@ -2077,7 +2077,7 @@
       "AwayTeam": "Bologna",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  TeleC…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  TSN7…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -2103,7 +2103,7 @@
       "AwayTeam": "Hellas Verona",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  TeleC…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  TSN6…"
     },
     {
       "LeagueName": "Italian Serie A",
