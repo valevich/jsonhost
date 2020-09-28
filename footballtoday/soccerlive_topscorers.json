@@ -549,6 +549,15 @@
   ],
   "bundesliga": [
     {
+        "playername": "A. Kramarić",
+        "playerlink": "https://www.livesoccertv.com/player/a-kramaric/83705/",
+        "playerteam": "Hoffenheim",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+        "playergoals": 5,
+        "playerassists": 2
+    },
+    {
         "playername": "N. Füllkrug",
         "playerlink": "https://www.livesoccertv.com/player/n-fullkrug/140296/",
         "playerteam": "Werder Bremen",
@@ -565,15 +574,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
         "playergoals": 3,
         "playerassists": 0
-    },
-    {
-        "playername": "A. Kramarić",
-        "playerlink": "https://www.livesoccertv.com/player/a-kramaric/83705/",
-        "playerteam": "Hoffenheim",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "playergoals": 3,
-        "playerassists": 1
     },
     {
         "playername": "E. Forsberg",
@@ -599,6 +599,15 @@
         "playerteam": "Stuttgart",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
+        "playername": "N. Petersen",
+        "playerlink": "https://www.livesoccertv.com/player/n-petersen/16443/",
+        "playerteam": "Freiburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/sc-freiburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
         "playergoals": 2,
         "playerassists": 0
     },
@@ -630,6 +639,24 @@
         "playerassists": 0
     },
     {
+        "playername": "E. Bičakčić",
+        "playerlink": "https://www.livesoccertv.com/player/e-bicakcic/104655/",
+        "playerteam": "Hoffenheim",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+        "playergoals": 1,
+        "playerassists": 0
+    },
+    {
+        "playername": "J. Brekalo",
+        "playerlink": "https://www.livesoccertv.com/player/j-brekalo/253444/",
+        "playerteam": "Wolfsburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+        "playergoals": 1,
+        "playerassists": 0
+    },
+    {
         "playername": "Marius Bülter",
         "playerlink": "https://www.livesoccertv.com/player/m-bulter/274184/",
         "playerteam": "Union Berlin",
@@ -653,33 +680,6 @@
         "playerteam": "Hertha BSC",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "J. Córdoba",
-        "playerlink": "https://www.livesoccertv.com/player/j-cordoba/134471/",
-        "playerteam": "Hertha BSC",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "Kerem Demirbay",
-        "playerlink": "https://www.livesoccertv.com/player/k-demirbay/205357/",
-        "playerteam": "Bayer Leverkusen",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "D. Didavi",
-        "playerlink": "https://www.livesoccertv.com/player/d-didavi/58698/",
-        "playerteam": "Stuttgart",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
         "playergoals": 1,
         "playerassists": 0
     }
