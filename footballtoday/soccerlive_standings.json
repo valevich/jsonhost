@@ -692,6 +692,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Bologna",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "lossess": 1,
+        "goalsfor": 4,
+        "goalsagainst": 3,
+        "goalsdiff": "+1",
+        "points": 3,
+        "form": "'WL'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
         "played": 2,
@@ -705,7 +719,7 @@
         "form": "'LW'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Genoa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
         "played": 2,
@@ -719,7 +733,7 @@
         "form": "'LW'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Cagliari",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
         "played": 2,
@@ -733,7 +747,7 @@
         "form": "'LD'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Roma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
         "played": 2,
@@ -747,7 +761,7 @@
         "form": "'DL'"
     },
     {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "Udinese",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
         "played": 1,
@@ -761,35 +775,7 @@
         "form": "'L'"
     },
     {
-        "teamrank": 15,
-        "teamname": "Bologna",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-        "played": 1,
-        "wins": 0,
-        "draws": 0,
-        "lossess": 1,
-        "goalsfor": 0,
-        "goalsagainst": 2,
-        "goalsdiff": "-2",
-        "points": 0,
-        "form": "'L'"
-    },
-    {
         "teamrank": 16,
-        "teamname": "Parma",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-        "played": 1,
-        "wins": 0,
-        "draws": 0,
-        "lossess": 1,
-        "goalsfor": 0,
-        "goalsagainst": 2,
-        "goalsdiff": "-2",
-        "points": 0,
-        "form": "'L'"
-    },
-    {
-        "teamrank": 17,
         "teamname": "Spezia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
         "played": 1,
@@ -803,7 +789,7 @@
         "form": "'L'"
     },
     {
-        "teamrank": 18,
+        "teamrank": 17,
         "teamname": "Torino",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
         "played": 2,
@@ -817,7 +803,7 @@
         "form": "'LL'"
     },
     {
-        "teamrank": 19,
+        "teamrank": 18,
         "teamname": "Sampdoria",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
         "played": 2,
@@ -831,9 +817,23 @@
         "form": "'LL'"
     },
     {
-        "teamrank": 20,
+        "teamrank": 19,
         "teamname": "Crotone",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
+        "played": 2,
+        "wins": 0,
+        "draws": 0,
+        "lossess": 2,
+        "goalsfor": 1,
+        "goalsagainst": 6,
+        "goalsdiff": "-5",
+        "points": 0,
+        "form": "'LL'"
+    },
+    {
+        "teamrank": 20,
+        "teamname": "Parma",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
         "played": 2,
         "wins": 0,
         "draws": 0,
