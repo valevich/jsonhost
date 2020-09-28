@@ -19,6 +19,15 @@
         "playerassists": 0
     },
     {
+        "playername": "P. Bamford",
+        "playerlink": "https://www.livesoccertv.com/player/p-bamford/172819/",
+        "playerteam": "Leeds United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/leeds-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "D. Ings",
         "playerlink": "https://www.livesoccertv.com/player/d-ings/120917/",
         "playerteam": "Southampton",
@@ -53,15 +62,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
         "playergoals": 3,
         "playerassists": 1
-    },
-    {
-        "playername": "P. Bamford",
-        "playerlink": "https://www.livesoccertv.com/player/p-bamford/172819/",
-        "playerteam": "Leeds United",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/leeds-united/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-        "playergoals": 2,
-        "playerassists": 0
     },
     {
         "playername": "Raúl Alonso Jiménez Rodríguez",
@@ -138,6 +138,15 @@
   ],
   "primera-division": [
     {
+        "playername": "Iago Aspas",
+        "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
+        "playerteam": "Celta Vigo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "Morales",
         "playerlink": "https://www.livesoccertv.com/player/jose-luis-morales/211121/",
         "playerteam": "Levante",
@@ -147,11 +156,20 @@
         "playerassists": 0
     },
     {
-        "playername": "Iago Aspas",
-        "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
-        "playerteam": "Celta Vigo",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "playername": "Ansu Fati",
+        "playerlink": "https://www.livesoccertv.com/player/anssumane-fati/407638/",
+        "playerteam": "Barcelona",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
+        "playername": "Kike",
+        "playerlink": "https://www.livesoccertv.com/player/kike/62297/",
+        "playerteam": "Eibar",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/eibar/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "playergoals": 2,
         "playerassists": 0
     },
@@ -174,6 +192,15 @@
         "playerassists": 0
     },
     {
+        "playername": "Unai López",
+        "playerlink": "https://www.livesoccertv.com/player/unai-lopez/213453/",
+        "playerteam": "Athletic Club",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/athletic-bilbao/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
         "playername": "Gerard Moreno",
         "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
         "playerteam": "Villarreal",
@@ -188,6 +215,15 @@
         "playerteam": "Real Betis",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-betis/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
+        "playername": "L. Suárez",
+        "playerlink": "https://www.livesoccertv.com/player/l-suarez/2423/",
+        "playerteam": "Atletico Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
         "playergoals": 2,
         "playerassists": 0
     },
@@ -210,6 +246,24 @@
         "playerassists": 0
     },
     {
+        "playername": "Á. Correa",
+        "playerlink": "https://www.livesoccertv.com/player/a-correa/230458/",
+        "playerteam": "Atletico Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "playergoals": 1,
+        "playerassists": 0
+    },
+    {
+        "playername": "Diego Costa",
+        "playerlink": "https://www.livesoccertv.com/player/diego-costa/61110/",
+        "playerteam": "Atletico Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "playergoals": 1,
+        "playerassists": 0
+    },
+    {
         "playername": "Gabriel Paulista",
         "playerlink": "https://www.livesoccertv.com/player/gabriel-paulista/108430/",
         "playerteam": "Valencia",
@@ -217,60 +271,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "playergoals": 1,
         "playerassists": 0
-    },
-    {
-        "playername": "N. Fekir",
-        "playerlink": "https://www.livesoccertv.com/player/n-fekir/172243/",
-        "playerteam": "Real Betis",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-betis/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "playergoals": 1,
-        "playerassists": 1
-    },
-    {
-        "playername": "Kike",
-        "playerlink": "https://www.livesoccertv.com/player/kike/62297/",
-        "playerteam": "Eibar",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/eibar/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "Rubén García",
-        "playerlink": "https://www.livesoccertv.com/player/ruben-garcia/211118/",
-        "playerteam": "Osasuna",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/osasuna/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "Y. Herrera",
-        "playerlink": "https://www.livesoccertv.com/player/y-herrera/292066/",
-        "playerteam": "Granada",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/granada/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "Míchel",
-        "playerlink": "https://www.livesoccertv.com/player/michel/69008/",
-        "playerteam": "Real Valladolid",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-valladolid/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "A. Januzaj",
-        "playerlink": "https://www.livesoccertv.com/player/a-januzaj/235819/",
-        "playerteam": "Real Sociedad",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "playergoals": 1,
-        "playerassists": 1
     }
   ],
   "serie-a": [
@@ -430,6 +430,33 @@
         "playerassists": 0
     },
     {
+        "playername": "W. Ben Yedder",
+        "playerlink": "https://www.livesoccertv.com/player/w-ben-yedder/126219/",
+        "playerteam": "Monaco",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
+        "playername": "A. Delort",
+        "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
+        "playerteam": "Montpellier",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
+        "playername": "Zinedine Ferhat",
+        "playerlink": "https://www.livesoccertv.com/player/z-ferhat/179225/",
+        "playerteam": "Nîmes",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/nimes/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "S. Guirassy",
         "playerlink": "https://www.livesoccertv.com/player/s-guirassy/237655/",
         "playerteam": "Rennes",
@@ -466,6 +493,24 @@
         "playerassists": 0
     },
     {
+        "playername": "Téji Savanier",
+        "playerlink": "https://www.livesoccertv.com/player/t-savanier/163323/",
+        "playerteam": "Montpellier",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playergoals": 3,
+        "playerassists": 2
+    },
+    {
+        "playername": "Yoane Wissa",
+        "playerlink": "https://www.livesoccertv.com/player/y-wissa/254639/",
+        "playerteam": "Lorient",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lorient/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+        "playergoals": 3,
+        "playerassists": 1
+    },
+    {
         "playername": "N. Aguerd",
         "playerlink": "https://www.livesoccertv.com/player/n-aguerd/297050/",
         "playerteam": "Rennes",
@@ -498,51 +543,6 @@
         "playerteam": "Lille",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "W. Ben Yedder",
-        "playerlink": "https://www.livesoccertv.com/player/w-ben-yedder/126219/",
-        "playerteam": "Monaco",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "Denis Bouanga",
-        "playerlink": "https://www.livesoccertv.com/player/denis-bouanga/277311/",
-        "playerteam": "Saint-Etienne",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/saint-etienne/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-        "playergoals": 2,
-        "playerassists": 1
-    },
-    {
-        "playername": "Duje Ćaleta-Car",
-        "playerlink": "https://www.livesoccertv.com/player/d-caleta-car/215453/",
-        "playerteam": "Olympique Marseille",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-marseille/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "G. Charbonnier",
-        "playerlink": "https://www.livesoccertv.com/player/g-charbonnier/75384/",
-        "playerteam": "Brest",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/brest/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "D. Congré",
-        "playerlink": "https://www.livesoccertv.com/player/d-congre/1418/",
-        "playerteam": "Montpellier",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "playergoals": 2,
         "playerassists": 0
     }
