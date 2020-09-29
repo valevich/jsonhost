@@ -109,7 +109,7 @@
     "iso_alpha2": "BE",
     "name": "Belgium",
     "score": "Partially restricted",
-    "updated": "From August 1, 2020, the Belgian government will designate countries / regions as either green (low risk), orange (moderate risk), or red (high risk) based on determinations by Belgian national health authorities. Persons arriving from green countries or regions may enter Belgium. Currently, this includes: Austria, the Czech Republic, Finland, France, Germany, Greece, Hungary, Italy, Liechtenstein, Malta, Netherlands, Norway, Poland, Slovenia, Slovakia, Switzerland, Spain, Portugal (with some exceptions), and United Kingdom (with some exceptions). Persons arriving from orange countries or regions must undergo testing for COVID-19 and quarantine upon arrival. Travel is prohibited from red countries or regions. Updated listings are available at the following URL: https://diplomatie.belgium.be/en . All persons entering Belgium with the intention to remain more than 48 hours must complete a passenger locator form within 48 hours of arrival via the following URL: https://travel.info-coronavirus.be/public-health-passenger-locator-formA nightly curfew is in effect in Antwerp province between the hours of 23:30 (11:30 p.m.) and 06:00 (6:00 a.m.). Face masks are mandatory in public spaces and all persons able to do so must work from home."
+    "updated": "From September 25, 2020, the Belgian government will designate countries / regions as either green (low risk), orange (moderate risk), or red (high risk) for COVID-19 infection based on determinations by Belgian national health authorities. Persons arriving from green countries or regions may enter Belgium. This includes persons traveling from Australia, Canada, Japan, New Zealand, Rwanda, South Korea, Thailand, and Uruguay. Persons arriving from orange countries or regions must undergo testing for COVID-19 and quarantine upon arrival. Travel is prohibited from red countries or regions. Updated listings are available at the following URL: https://diplomatie.belgium.be/enAll persons entering Belgium with the intention to remain more than 48 hours must complete a passenger locator form within 48 hours of arrival via the following URL: https://travel.info-coronavirus.be/public-health-passenger-locator-form"
   },
   {
     "continent": "",
@@ -221,7 +221,7 @@
     "iso_alpha2": "CF",
     "name": "Central African Republic",
     "score": "Entry prohibited",
-    "updated": "From March 26, 2020 foreign nationals having visited any country or region impacted by COVID-19 within 15 days of their arrival in the Central African Republic are prohibited from entry. This policy does not apply to diplomats and staff of humanitarian missions."
+    "updated": "Persons arriving at Bangui M'Poko International Airport (BFG) must complete a health questionnaire and undergo a 14-day quarantine. The wearing of face masks is mandatory in public spaces."
   },
   {
     "continent": "",
@@ -354,7 +354,7 @@
     "iso_alpha2": "DO",
     "name": "Dominican Republic",
     "score": "Normal",
-    "updated": "All persons arriving in or departing from the Dominican Republic may be asked to undergo health screening. From July 21, 2020, a curfew is in effect in most parts of the country. More information is available at the following URL: https://www.godominicanrepublic.com/newsroom/coronavirus/"
+    "updated": "From September 15, 2020, all persons arriving in the Dominican Republic will undergo temperature screening. Additionally, between 3% and 10% of arriving passengers will be randomly selected to undergo rapid testing for COVID-19. All persons exhibiting symptoms consistent with COVID-19 must undergo testing. Symptomatic persons and those who test positive will be isolated. All persons are required to fill in and submit a Traveler's Health Affidavit. More information is available at the following URL: https://www.godominicanrepublic.com/newsroom/coronavirus/"
   },
   {
     "continent": "",
@@ -466,7 +466,7 @@
     "iso_alpha2": "GH",
     "name": "Ghana",
     "score": "Partially restricted",
-    "updated": "From September 1, 2020, persons arriving at Kotoka International Airport (ACC) in Accra must hold proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test performed by an accredited laboratory. This policy does not apply to persons returning to Ghana within 7 days of their last departure. Upon arrival, all persons age 5 and older must, at their own expense of US$150, undergo an additional test for COVID-19. Persons who test positive will be transferred to a hospital for treatment."
+    "updated": "From September 1, 2020, persons arriving at Kotoka International Airport (ACC) in Accra must hold proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test performed by an accredited laboratory. This policy does not apply to persons returning to Ghana within 7 days of their last departure. Upon arrival, all persons age 5 and older must, at their own expense, undergo an additional test for COVID-19. Pre-payment for testing in the amount of US$150 must be made online prior to departure at the following URL: https://myfrontierhealthcare.com/Home/Ghana . Travelers must also submit a health declaration form online at the following URL: https://www.ghs-hdf.org/hdf/ ."
   },
   {
     "continent": "",
@@ -928,7 +928,7 @@
     "iso_alpha2": "NG",
     "name": "Nigeria",
     "score": "Partially restricted",
-    "updated": "All persons entering Nigeria must have proof of a negative result for COVID-19 issued no more than 14 days prior to departure using a polymerase chain reaction (PCR) test. Nigerian authorities recommend travelers undergo testing no more than 5 days prior to departure for Nigeria. All persons must provide verifiable information on a Health Declaration/Self-Reporting Form and a Sample Collection Time Allocation Form while en route to Nigeria. Upon arrival, all persons must self-isolate for 14-days upon arrival and must remain in the same city/state they used as a port of entry for the duration of their self-isolation period. From September 3, 2020, the Nigerian government has begun easing lockdown restrictions. Detailed information is available at the following URL: https://covid19.ncdc.gov.ng/guideline/"
+    "updated": "All persons entering Nigeria must have proof of a negative result for COVID-19 issued no more than 14 days prior to departure using a polymerase chain reaction (PCR) test. Nigerian authorities recommend travelers undergo testing no more than 5 days prior to departure. All persons must provide verifiable information on a Health Declaration/Self-Reporting Form and a Sample Collection Time Allocation Form while en route to Nigeria. Upon arrival, all persons must self-isolate for 14-days and must remain in the same city/state they used as a port of entry for the duration of their self-isolation period. Detailed information is available at the following URL: https://covid19.ncdc.gov.ng/guideline/"
   },
   {
     "continent": "",
@@ -977,7 +977,7 @@
     "iso_alpha2": "OM",
     "name": "Oman",
     "score": "Partially restricted",
-    "updated": "From July 26, 2020, foreign nationals are prohibited from entering Oman. Persons seeking to travel to Oman must obtain a permit from the Ministry of Foreign Affairs via an Omani embassy or consulate abroad, or through a domestic sponsor or the national air carriers Oman Air and Salam Air. Foreign nationals granted permission to enter Oman must self-isolate for 14 days and must show confirmation of suitable accommodation for self-isolation. This policy does not apply to air crews. Persons arriving in Oman must install the Tarassud+ mobile app and start the registration process prior to departure. Additionally, they must purchase a tracking bracelet for use during the self-isolation period at a cost of OMR 5 and carry medical insurance valid for their entire duration of stay in Oman."
+    "updated": "From October 1, 2020, foreign nationals are prohibited from entering Oman. This policy does not apply to persons holding a valid residence visa. Persons entering Oman must have proof of suitable accommodation where they will self-isolate for 14 days upon arrival and must also install the Tarassud+ mobile app and start the registration process prior to departure. Additionally, they must purchase a tracking bracelet for use during the self-isolation period at a cost of OMR 5 and carry medical insurance valid for their entire duration of stay in Oman.This policy does not apply to air crews."
   },
   {
     "continent": "",
@@ -1012,7 +1012,7 @@
     "iso_alpha2": "PK",
     "name": "Pakistan",
     "score": "Partially restricted",
-    "updated": "All persons arriving in Pakistan from abroad must fill in a Personal Declaration of Origin and Health form and present it to authorities for inspection upon arrival. Travelers also must undergo health screening and a 14-day quarantine. More information is available at the following URL: http://www.tourism.gov.pk/covid_19_main_new.html"
+    "updated": "From October 5, 2020, all persons arriving in Pakistan from abroad must carry proof of a negative result for COVID-19 issued no more than 96 hours prior to departure using a reverse transcription polymerase chain reaction (RT-PCR) test. This policy does not apply to persons arriving from certain countries or regions. Upon arrival, all persons must undergo health screening and provide contact information via the PassTrack mobile application on a web-based form. Additional information, including a list of locations exempted from testing requirements, is available at the following URL: http://covid.gov.pk/intl_travellers/current_policies"
   },
   {
     "continent": "",
@@ -1110,7 +1110,7 @@
     "iso_alpha2": "SD",
     "name": "Sudan",
     "score": "Entry prohibited",
-    "updated": "From March 16, the government has declared a state of health emergency and closed all airports, sea and land border, except for humanitarian mission, technical support and cargo."
+    "updated": "From September 1, 2020, all persons arriving in Sudan must have proof of a negative result for COVID-19 issued no more than 96 hours prior to departure using a polymerase chain reaction (PCR) test performed by a certified provider. This policy does not apply to children age 6 or under."
   },
   {
     "continent": "",
@@ -1138,7 +1138,7 @@
     "iso_alpha2": "SK",
     "name": "Slovakia",
     "score": "Partially restricted",
-    "updated": "From September 28, 2020, all persons arriving in Slovakia must self-isolate for a minimum of 10 days. Persons exhibiting symptoms consistent with COVID-19 are required to undergo testing no more than 5 days following arrival and must report their test results immediately to regional public health authorities. This policy does not apply to persons arriving from countries or regions designated by the Slovakian government as low risk for COVID-19. An official list of such locations is available at the following URL: https://korona.gov.sk/en/travelling-to-slovakia-and-covid19/"
+    "updated": "From September 28, 2020, all persons arriving in Slovakia must self-isolate and undergo testing for COVID-19. This policy does not apply to persons arriving from countries or regions designated by the Slovakian government as low risk for COVID-19. An official list of such locations is available at the following URL: https://korona.gov.sk/en/travelling-to-slovakia-and-covid19/"
   },
   {
     "continent": "",
