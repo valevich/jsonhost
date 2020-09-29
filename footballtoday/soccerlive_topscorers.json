@@ -46,6 +46,24 @@
         "playerassists": 1
     },
     {
+        "playername": "A. Lacazette",
+        "playerlink": "https://www.livesoccertv.com/player/a-lacazette/86665/",
+        "playerteam": "Arsenal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/arsenal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
+        "playername": "S. Mané",
+        "playerlink": "https://www.livesoccertv.com/player/s-mane/167200/",
+        "playerteam": "Liverpool",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "Neal Maupay",
         "playerlink": "https://www.livesoccertv.com/player/n-maupay/213470/",
         "playerteam": "Brighton & Hove Albion",
@@ -98,24 +116,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "playergoals": 2,
         "playerassists": 1
-    },
-    {
-        "playername": "A. Lacazette",
-        "playerlink": "https://www.livesoccertv.com/player/a-lacazette/86665/",
-        "playerteam": "Arsenal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/arsenal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "S. Mané",
-        "playerlink": "https://www.livesoccertv.com/player/s-mane/167200/",
-        "playerteam": "Liverpool",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "playergoals": 2,
-        "playerassists": 0
     },
     {
         "playername": "A. Mitrović",
