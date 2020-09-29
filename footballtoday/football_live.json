@@ -83,125 +83,6 @@
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "Tuesday Sep. 29, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Ferencváros",
-      "HomeGoals": "",
-      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/hungary/logos/ferencvaros.png",
-      "AwayTeam": "Molde",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2715.png",
-      "TVChannels": "fuboTV ,  TUDNxtra ,  CBS All…"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Dynamo Kyiv",
-      "HomeGoals": "",
-      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/ukraine/logos/dynamo-kyiv.png",
-      "AwayTeam": "Gent",
-      "AwayGoals": "",
-      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/belgium/logos/gent.png",
-      "TVChannels": "fuboTV ,  Galavision ,  Univision NO…"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Omonia Nicosia",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Olympiakos",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/435.png",
-      "TVChannels": "Piraeus fuboTV ,  TUDN USA ,  TUDN.com ,  …"
-    },
-    {
-      "LeagueName": "English EFL Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/41.png",
-      "GameTime": "Tuesday Sep. 29, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "English EFL Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/41.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Tottenham",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-      "AwayTeam": "Chelsea",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN2 Cari…"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "Tuesday Sep. 29, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Real Sociedad",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-      "AwayTeam": "Valencia",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "3:30pm",
-      "GameState": "",
-      "HomeTeam": "Getafe",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-      "AwayTeam": "Real Betis",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
-    }
-  ],
-  "day3": [
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "Wednesday Sep. 30, 2020",
       "GameState": "",
       "HomeTeam": "",
@@ -434,7 +315,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPNPl…"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
@@ -534,10 +415,10 @@
       "HomeTeam": "Sporting Charleroi",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Lech Poznań",
+      "AwayTeam": "Lech Poznań Polsat Sport ,  IPLA",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "1:00pm   Sporting Charleroi vs Lech Poznań"
+      "TVChannels": "1:00pm   Sporting Charleroi vs Lech Poznań Polsat Sport ,  IPLA"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -612,10 +493,10 @@
       "HomeTeam": "Standard Liège",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Videoton VOOsport World 1",
+      "AwayTeam": "Videoton M4 Sports ,  VOOsport World 1",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "2:00pm   Standard Liège vs Videoton VOOsport World 1"
+      "TVChannels": "2:00pm   Standard Liège vs Videoton M4 Sports ,  VOOsport World 1"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -737,19 +618,6 @@
     {
       "LeagueName": "English EFL Cup",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/41.png",
-      "GameTime": "12:30pm",
-      "GameState": "",
-      "HomeTeam": "Brentford",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/337.png",
-      "AwayTeam": "Fulham",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Digi S…"
-    },
-    {
-      "LeagueName": "English EFL Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/41.png",
       "GameTime": "2:00pm",
       "GameState": "",
       "HomeTeam": "Aston Villa",
@@ -839,7 +707,7 @@
       "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
@@ -919,7 +787,7 @@
       "TVChannels": "SCO beIN SPORTS ,  fuboTV ,  Fanatiz…"
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -1415,7 +1283,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -1896,6 +1764,34 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4411.png",
       "TVChannels": "Rapid Wien vs LASK Linz Sky Sport Austria 1 ,  Sky Go ,  Sky Ticket"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "No League Games Today",
+      "LeagueLogo": "",
+      "GameTime": "Monday Oct. 5, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ]
 }
