@@ -284,6 +284,20 @@
   "primera-division": [
     {
         "teamrank": 1,
+        "teamname": "Valencia",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+        "played": 4,
+        "wins": 2,
+        "draws": 1,
+        "lossess": 1,
+        "goalsfor": 7,
+        "goalsagainst": 5,
+        "goalsdiff": "+2",
+        "points": 7,
+        "form": "'WDLW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "played": 3,
@@ -297,7 +311,7 @@
         "form": "'LWW'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
         "played": 3,
@@ -311,21 +325,21 @@
         "form": "'LWW'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "played": 3,
+        "played": 4,
         "wins": 1,
         "draws": 2,
-        "lossess": 0,
+        "lossess": 1,
         "goalsfor": 4,
-        "goalsagainst": 1,
-        "goalsdiff": "+3",
+        "goalsagainst": 2,
+        "goalsdiff": "+2",
         "points": 5,
-        "form": "'WDD'"
+        "form": "'LWDD'"
     },
     {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "played": 3,
@@ -337,20 +351,6 @@
         "goalsdiff": "+1",
         "points": 5,
         "form": "'DWD'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Valencia",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-        "played": 3,
-        "wins": 1,
-        "draws": 1,
-        "lossess": 1,
-        "goalsfor": 6,
-        "goalsagainst": 5,
-        "goalsdiff": "+1",
-        "points": 4,
-        "form": "'DLW'"
     },
     {
         "teamrank": 6,
