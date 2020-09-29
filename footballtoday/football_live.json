@@ -1,74 +1,9 @@
 {
-  "today": [
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "Monday Sep. 28, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "12:45pm",
-      "GameState": "FT ",
-      "HomeTeam": "Fulham",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-      "AwayTeam": "Aston Villa",
-      "AwayGoals": "3",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 2/HD ,  Spor…"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "3:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Liverpool",
-      "HomeGoals": "3",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "AwayTeam": "Arsenal",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "TVChannels": "Peacock ,  SiriusXM FC ,  Arsenal Player ,  DAZN ,  …"
-    },
-    {
-      "LeagueName": "Italian Serie A",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
-      "GameTime": "Monday Sep. 28, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Italian Serie A",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
-      "GameTime": "2:45pm",
-      "GameState": "FT ",
-      "HomeTeam": "Bologna",
-      "HomeGoals": "4",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-      "AwayTeam": "Parma",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Caribbean ,  …"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "Monday Sep. 28, 2020",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -1150,7 +1085,7 @@
       "AwayTeam": "Atlanta United",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1228,7 +1163,7 @@
       "AwayTeam": "FC Cincinnati",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1267,7 +1202,7 @@
       "AwayTeam": "LA Galaxy",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  M…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1373,7 +1308,7 @@
       "AwayTeam": "Liverpool",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "TVChannels": "UNIVERSO ,  DAZN ,  RUSH ,  Sport TV2 ,  …"
+      "TVChannels": "fuboTV ,  UNIVERSO ,  DAZN ,  RUSH ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
