@@ -428,10 +428,10 @@
       "HomeTeam": "Hapoel Be'er Sheva",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Viktoria Plzeň Sport 2",
+      "AwayTeam": "Viktoria Plzeň Sport 2 ,  ČT Sport",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "1:30pm   Hapoel Be'er Sheva vs Viktoria Plzeň Sport 2"
+      "TVChannels": "1:30pm   Hapoel Be'er Sheva vs Viktoria Plzeň Sport 2 ,  ČT Sport"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -614,6 +614,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "English EFL Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/41.png",
+      "GameTime": "12:30pm",
+      "GameState": "",
+      "HomeTeam": "Brentford",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/337.png",
+      "AwayTeam": "Fulham",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Digi S…"
     },
     {
       "LeagueName": "English EFL Cup",
