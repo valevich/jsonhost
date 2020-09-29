@@ -284,6 +284,20 @@
   "primera-division": [
     {
         "teamrank": 1,
+        "teamname": "Getafe",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+        "played": 3,
+        "wins": 2,
+        "draws": 1,
+        "lossess": 0,
+        "goalsfor": 4,
+        "goalsagainst": 0,
+        "goalsdiff": "+4",
+        "points": 7,
+        "form": "'WDW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "played": 4,
@@ -297,21 +311,21 @@
         "form": "'WDLW'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 3,
+        "played": 4,
         "wins": 2,
         "draws": 0,
-        "lossess": 1,
+        "lossess": 2,
         "goalsfor": 5,
-        "goalsagainst": 3,
-        "goalsdiff": "+2",
+        "goalsagainst": 6,
+        "goalsdiff": "-1",
         "points": 6,
-        "form": "'LWW'"
+        "form": "'LLWW'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
         "played": 3,
@@ -325,7 +339,7 @@
         "form": "'LWW'"
     },
     {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "played": 4,
@@ -339,7 +353,7 @@
         "form": "'LWDD'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "played": 3,
@@ -353,7 +367,7 @@
         "form": "'DWD'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Real Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
         "played": 2,
@@ -365,20 +379,6 @@
         "goalsdiff": "+1",
         "points": 4,
         "form": "'WD'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Getafe",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-        "played": 2,
-        "wins": 1,
-        "draws": 1,
-        "lossess": 0,
-        "goalsfor": 1,
-        "goalsagainst": 0,
-        "goalsdiff": "+1",
-        "points": 4,
-        "form": "'DW'"
     },
     {
         "teamrank": 8,
