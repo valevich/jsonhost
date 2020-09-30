@@ -69,7 +69,7 @@
       "LeagueName": "English EFL Cup",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/41.png",
       "GameTime": "12:30pm",
-      "GameState": "36 ",
+      "GameState": "HT ",
       "HomeTeam": "Newport County",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/635.png",
@@ -134,7 +134,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "1:00pm",
-      "GameState": "8 '",
+      "GameState": "29 ",
       "HomeTeam": "Huesca",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
@@ -147,9 +147,9 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "1:00pm",
-      "GameState": "7 '",
+      "GameState": "27 ",
       "HomeTeam": "Villarreal",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
       "AwayTeam": "Alavés",
       "AwayGoals": "0",
@@ -199,7 +199,7 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "12:00pm",
-      "GameState": "47 ",
+      "GameState": "68 ",
       "HomeTeam": "Benevento",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
@@ -212,7 +212,7 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "12:00pm",
-      "GameState": "50 ",
+      "GameState": "71 ",
       "HomeTeam": "Udinese",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
@@ -280,13 +280,26 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "1:00pm",
       "GameState": "",
-      "HomeTeam": "Dinamo Zagreb",
+      "HomeTeam": "Rosenborg",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/597.png",
-      "AwayTeam": "Flora",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/438.png",
+      "AwayTeam": "PSV",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12146.png",
-      "TVChannels": "Arena Sport 1"
+      "AwayLogo": "",
+      "TVChannels": "vs PSV"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Sporting Charleroi",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Lech Poznań Polsat Sport ,  IPLA",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   Sporting Charleroi vs Lech Poznań Polsat Sport ,  IPLA"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -306,19 +319,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "1:00pm",
       "GameState": "",
-      "HomeTeam": "Rosenborg",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/438.png",
-      "AwayTeam": "PSV",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs PSV"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
       "HomeTeam": "Slovan Liberec",
       "HomeGoals": "",
       "HomeLogo": "",
@@ -332,13 +332,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "1:00pm",
       "GameState": "",
-      "HomeTeam": "Sporting Charleroi",
+      "HomeTeam": "Dinamo Zagreb",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Lech Poznań Polsat Sport ,  IPLA",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/597.png",
+      "AwayTeam": "Flora",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "1:00pm   Sporting Charleroi vs Lech Poznań Polsat Sport ,  IPLA"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12146.png",
+      "TVChannels": "Arena Sport 1"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -371,13 +371,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "2:00pm",
       "GameState": "",
-      "HomeTeam": "FC Copenhagen",
+      "HomeTeam": "Sarajevo",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/909.png",
-      "AwayTeam": "Rijeka",
+      "HomeLogo": "",
+      "AwayTeam": "Celtic",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2988.png",
-      "TVChannels": "Arena Sport 2 Serbia ,  Canal 9 Denmark ,  Ar…"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/256.png",
+      "TVChannels": ""
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -397,13 +397,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "2:00pm",
       "GameState": "",
-      "HomeTeam": "Sarajevo",
+      "HomeTeam": "FC Copenhagen",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Celtic",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/909.png",
+      "AwayTeam": "Rijeka",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/256.png",
-      "TVChannels": ""
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2988.png",
+      "TVChannels": "Arena Sport 2 Serbia ,  Canal 9 Denmark ,  Ar…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -417,6 +417,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "2:00pm   Standard Liège vs Videoton M4 Sports ,  VOOsport World 1"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "2:30pm",
+      "GameState": "",
+      "HomeTeam": "Young Boys",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2722.png",
+      "AwayTeam": "Tirana",
+      "AwayGoals": "",
+      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/albania/logos/tirana.png",
+      "TVChannels": "SRF zwei ,  RTS 2 ,  RTS Sport ,  RTSH Sport"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -443,19 +456,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "vs KÍ"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:30pm",
-      "GameState": "",
-      "HomeTeam": "Young Boys",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2722.png",
-      "AwayTeam": "Tirana",
-      "AwayGoals": "",
-      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/albania/logos/tirana.png",
-      "TVChannels": "SRF zwei ,  RTS 2 ,  RTS Sport ,  RTSH Sport"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -488,19 +488,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Rio Ave",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Milan",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "TVChannels": "Sport TV2 ,  Sport TV LIVE ,  DAZN"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
       "HomeTeam": "Sporting Cp",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2250.png",
@@ -508,6 +495,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4411.png",
       "TVChannels": "Sporting CP vs LASK Linz Sport TV1 ,  ORF eins ,  Sport TV LIVE ,  ORF…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Rio Ave",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Milan",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+      "TVChannels": "Sport TV2 ,  Sport TV LIVE ,  DAZN"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1752,7 +1752,7 @@
       "AwayTeam": "Minnesota Utd",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
-      "TVChannels": "fuboTV ,  FOX Sports GO ,  ML…   Australia - NPL Queensland   Austria - Regionalliga   Bahrain - Premier League   Brazil - Serie B   Brazil - Serie D   Colombia - Primera A   Croatia - Nogometni Cup   Denmark - DBU Pokalen   Ecuador - Primera A   Egypt - Premier League   England - National League   England - National League N / S   England - Non League Premier   England - Non League Division One   England - EFL Trophy   Germany - Regionalliga   Germany - Oberliga   Hong Kong - Hong Kong Premier League   Japan - J. League Cup   Mexico - Liga de Expansión MX   Morocco - Botola Pro   Netherlands - Eerste Divisie   Netherlands - KNVB Beker   Scotland - Scottish League Cup   Sweden - Svenska Cupen   Ukraine - Persha Liga   Wales - Premier League   World - Friendly   World - Club Friendly"
+      "TVChannels": "fuboTV ,  FOX Sports GO ,  ML…   Australia - NPL Queensland   Austria - Regionalliga   Bahrain - Premier League   Brazil - Serie B   Brazil - Serie D   Colombia - Primera A   Croatia - Nogometni Cup   Denmark - DBU Pokalen   Ecuador - Primera A   Egypt - Premier League   England - National League   England - National League N / S   England - Non League Premier   England - Non League Division One   England - EFL Trophy   Germany - Regionalliga   Germany - Oberliga   Hong Kong - Hong Kong Premier League   Japan - J. League Cup   Japan - J3 League   Mexico - Liga de Expansión MX   Morocco - Botola Pro   Netherlands - Eerste Divisie   Netherlands - KNVB Beker   Scotland - Scottish League Cup   Sweden - Svenska Cupen   Ukraine - Persha Liga   Wales - Premier League   World - Friendly   World - Club Friendly"
     }
   ]
 }
