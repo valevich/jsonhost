@@ -340,6 +340,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Barcelona",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "played": 2,
+        "wins": 2,
+        "draws": 0,
+        "lossess": 0,
+        "goalsfor": 7,
+        "goalsagainst": 0,
+        "goalsdiff": "+7",
+        "points": 6,
+        "form": "'WW'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
         "played": 2,
@@ -353,7 +367,7 @@
         "form": "'WW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "played": 4,
@@ -367,7 +381,7 @@
         "form": "'LLWW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Cádiz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
         "played": 4,
@@ -381,7 +395,7 @@
         "form": "'WLWL'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
         "played": 3,
@@ -395,7 +409,7 @@
         "form": "'LWW'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "played": 4,
@@ -409,21 +423,21 @@
         "form": "'LWDD'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "played": 3,
+        "played": 4,
         "wins": 1,
         "draws": 2,
-        "lossess": 0,
+        "lossess": 1,
         "goalsfor": 3,
-        "goalsagainst": 2,
-        "goalsdiff": "+1",
+        "goalsagainst": 5,
+        "goalsdiff": "-2",
         "points": 5,
-        "form": "'DWD'"
+        "form": "'LDWD'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Atlético Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
         "played": 2,
@@ -435,20 +449,6 @@
         "goalsdiff": "+5",
         "points": 4,
         "form": "'DW'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Barcelona",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "played": 1,
-        "wins": 1,
-        "draws": 0,
-        "lossess": 0,
-        "goalsfor": 4,
-        "goalsagainst": 0,
-        "goalsdiff": "+4",
-        "points": 3,
-        "form": "'W'"
     },
     {
         "teamrank": 13,
