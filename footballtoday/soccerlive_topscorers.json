@@ -138,6 +138,15 @@
   ],
   "primera-division": [
     {
+        "playername": "Paco Alcácer",
+        "playerlink": "https://www.livesoccertv.com/player/paco-alcacer/138913/",
+        "playerteam": "Villarreal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "Iago Aspas",
         "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
         "playerteam": "Celta Vigo",
@@ -163,6 +172,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "playergoals": 3,
         "playerassists": 0
+    },
+    {
+        "playername": "Gerard Moreno",
+        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
+        "playerteam": "Villarreal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "playergoals": 3,
+        "playerassists": 2
     },
     {
         "playername": "Ansu Fati",
@@ -201,15 +219,6 @@
         "playerassists": 0
     },
     {
-        "playername": "Gerard Moreno",
-        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
-        "playerteam": "Villarreal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "playergoals": 2,
-        "playerassists": 1
-    },
-    {
         "playername": "Ángel",
         "playerlink": "https://www.livesoccertv.com/player/angel/58720/",
         "playerteam": "Getafe",
@@ -246,11 +255,11 @@
         "playerassists": 0
     },
     {
-        "playername": "Paco Alcácer",
-        "playerlink": "https://www.livesoccertv.com/player/paco-alcacer/138913/",
-        "playerteam": "Villarreal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "playername": "L. Boyé",
+        "playerlink": "https://www.livesoccertv.com/player/l-boye/272467/",
+        "playerteam": "Elche",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/elche-cf/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
         "playergoals": 1,
         "playerassists": 0
     },
@@ -260,15 +269,6 @@
         "playerteam": "Atletico Madrid",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "Cucurella",
-        "playerlink": "https://www.livesoccertv.com/player/marc-cucurella/280312/",
-        "playerteam": "Getafe",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/getafe/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
         "playergoals": 1,
         "playerassists": 0
     }
