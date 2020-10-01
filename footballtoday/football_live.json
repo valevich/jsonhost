@@ -44,26 +44,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "1:00pm",
       "GameState": "FT ",
-      "HomeTeam": "Rosenborg",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/438.png",
-      "AwayTeam": "PSV SBS 6 ,  VG+",
-      "AwayGoals": "2",
-      "AwayLogo": "",
-      "TVChannels": "0 - 2  PSV SBS 6 ,  VG+"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "1:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Sporting Charleroi",
-      "HomeGoals": "1",
-      "HomeLogo": "",
-      "AwayTeam": "Lech Poznań Polsat Sport ,  IPLA ,  OneFootball App",
-      "AwayGoals": "2",
-      "AwayLogo": "",
-      "TVChannels": "1:00pm FT   Sporting Charleroi  1 - 2  Lech Poznań Polsat Sport ,  IPLA ,  OneFootball App"
+      "HomeTeam": "Dinamo Zagreb",
+      "HomeGoals": "3",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/597.png",
+      "AwayTeam": "Flora",
+      "AwayGoals": "1",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12146.png",
+      "TVChannels": "Arena Sport 3 Serbia ,  Arena Sport 1 ,  Max…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -83,6 +70,19 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "1:00pm",
       "GameState": "FT ",
+      "HomeTeam": "Rosenborg",
+      "HomeGoals": "0",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/438.png",
+      "AwayTeam": "PSV SBS 6 ,  VG+",
+      "AwayGoals": "2",
+      "AwayLogo": "",
+      "TVChannels": "0 - 2  PSV SBS 6 ,  VG+"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "1:00pm",
+      "GameState": "FT ",
       "HomeTeam": "Slovan Liberec",
       "HomeGoals": "1",
       "HomeLogo": "",
@@ -96,13 +96,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "1:00pm",
       "GameState": "FT ",
-      "HomeTeam": "Dinamo Zagreb",
-      "HomeGoals": "3",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/597.png",
-      "AwayTeam": "Flora",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12146.png",
-      "TVChannels": "Arena Sport 3 Serbia ,  Arena Sport 1 ,  Max…"
+      "HomeTeam": "Sporting Charleroi",
+      "HomeGoals": "1",
+      "HomeLogo": "",
+      "AwayTeam": "Lech Poznań Polsat Sport ,  IPLA ,  OneFootball App",
+      "AwayGoals": "2",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm FT   Sporting Charleroi  1 - 2  Lech Poznań Polsat Sport ,  IPLA ,  OneFootball App"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -135,13 +135,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "2:00pm",
       "GameState": "FT ",
-      "HomeTeam": "Sarajevo",
+      "HomeTeam": "FC Copenhagen",
       "HomeGoals": "0",
-      "HomeLogo": "",
-      "AwayTeam": "Celtic",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/909.png",
+      "AwayTeam": "Rijeka",
       "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/256.png",
-      "TVChannels": "Celtic TV ,  Arena Sport BIH"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2988.png",
+      "TVChannels": "Arena Sport 2 Serbia ,  6'eren ,  Arena Sport…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -161,13 +161,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "2:00pm",
       "GameState": "FT ",
-      "HomeTeam": "FC Copenhagen",
+      "HomeTeam": "Sarajevo",
       "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/909.png",
-      "AwayTeam": "Rijeka",
+      "HomeLogo": "",
+      "AwayTeam": "Celtic",
       "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2988.png",
-      "TVChannels": "Arena Sport 2 Serbia ,  6'eren ,  Arena Sport…"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/256.png",
+      "TVChannels": "Celtic TV ,  Arena Sport BIH"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -181,19 +181,6 @@
       "AwayGoals": "1",
       "AwayLogo": "",
       "TVChannels": "2:00pm FT   Standard Liège  3 - 1  Videoton M4 Sports ,  VOOsport World 1 ,  OneFootball…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "2:30pm",
-      "GameState": "FT ",
-      "HomeTeam": "Young Boys",
-      "HomeGoals": "3",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2722.png",
-      "AwayTeam": "Tirana",
-      "AwayGoals": "0",
-      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/albania/logos/tirana.png",
-      "TVChannels": "SRF zwei ,  RTS 2 ,  RTS Sport ,  RTSH Sport"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -220,6 +207,19 @@
       "AwayGoals": "1",
       "AwayLogo": "",
       "TVChannels": "3 - 1  KÍ RTE 2 ,  RTE Player"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "2:30pm",
+      "GameState": "FT ",
+      "HomeTeam": "Young Boys",
+      "HomeGoals": "3",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2722.png",
+      "AwayTeam": "Tirana",
+      "AwayGoals": "0",
+      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/albania/logos/tirana.png",
+      "TVChannels": "SRF zwei ,  RTS 2 ,  RTS Sport ,  RTSH Sport"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -251,19 +251,6 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "3:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Sporting Cp",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2250.png",
-      "AwayTeam": "Lask Linz",
-      "AwayGoals": "4",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4411.png",
-      "TVChannels": "FT   Sporting CP  1 - 4  LASK Linz Sport TV1 ,  ORF eins ,  Sport TV LIVE ,  ORF…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "3:00pm",
       "GameState": "ET ",
       "HomeTeam": "Rio Ave",
       "HomeGoals": "2",
@@ -272,6 +259,19 @@
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
       "TVChannels": "Sport TV2 ,  Sport 1 CZ/SK ,  Sport TV LI…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "FT ",
+      "HomeTeam": "Sporting Cp",
+      "HomeGoals": "1",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2250.png",
+      "AwayTeam": "Lask Linz",
+      "AwayGoals": "4",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4411.png",
+      "TVChannels": "FT   Sporting CP  1 - 4  LASK Linz Sport TV1 ,  ORF eins ,  Sport TV LIVE ,  ORF…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -381,7 +381,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:30pm",
-      "GameState": "74 ",
+      "GameState": "90 ",
       "HomeTeam": "Celta de Vigo",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
