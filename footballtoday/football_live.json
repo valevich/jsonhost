@@ -1274,8 +1274,8 @@
   ],
   "day7": [
     {
-      "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueName": "No League Games Today",
+      "LeagueLogo": "",
       "GameTime": "Thursday Oct. 8, 2020",
       "GameState": "",
       "HomeTeam": "",
@@ -1287,95 +1287,17 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
-      "GameTime": "2:45pm",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
-      "HomeTeam": "Bosnia And Herzegovina",
+      "HomeTeam": "",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/452.png",
-      "AwayTeam": "Netherlands",
+      "HomeLogo": "",
+      "AwayTeam": "",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/449.png",
-      "TVChannels": "fuboTV ,  ESPN App ,  TUDN.com ,  …"
-    },
-    {
-      "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Estonia",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/444.png",
-      "AwayTeam": "North Macedonia",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/463.png",
-      "TVChannels": "fuboTV ,  ESPN App ,  TUDN.com ,  …"
-    },
-    {
-      "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Ael",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8357.png",
-      "AwayTeam": "Czech Republic",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/450.png",
-      "TVChannels": "fuboTV ,  ESPN App ,  TUDN.com ,  …"
-    },
-    {
-      "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Northern Ireland",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/586.png",
-      "AwayTeam": "Austria",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/474.png",
-      "TVChannels": "fuboTV ,  ESPN App ,  TUDN.com ,  …"
-    },
-    {
-      "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Norway",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/464.png",
-      "AwayTeam": "Roma",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-      "TVChannels": "nia fuboTV ,  ESPN App ,  TUDN.com ,  …"
-    },
-    {
-      "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Poland",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/471.png",
-      "AwayTeam": "Italy",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/162.png",
-      "TVChannels": "fuboTV ,  ESPN App ,  TUDN.com ,  …"
-    },
-    {
-      "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "SCotland",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/580.png",
-      "AwayTeam": "Slovakia",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/468.png",
-      "TVChannels": "fuboTV ,  ESPN3 ,  ESPN App ,  …"
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ]
 }
