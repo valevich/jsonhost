@@ -452,6 +452,20 @@
     },
     {
         "teamrank": 13,
+        "teamname": "Eibar",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
+        "played": 5,
+        "wins": 1,
+        "draws": 1,
+        "lossess": 3,
+        "goalsfor": 4,
+        "goalsagainst": 6,
+        "goalsdiff": "-2",
+        "points": 4,
+        "form": "'WLLLD'"
+    },
+    {
+        "teamrank": 14,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 3,
@@ -465,7 +479,7 @@
         "form": "'LWL'"
     },
     {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "Osasuna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
         "played": 3,
@@ -479,7 +493,7 @@
         "form": "'LLW'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
         "played": 4,
@@ -493,7 +507,7 @@
         "form": "'DDLD'"
     },
     {
-        "teamrank": 16,
+        "teamrank": 17,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 3,
@@ -507,7 +521,7 @@
         "form": "'LWL'"
     },
     {
-        "teamrank": 17,
+        "teamrank": 18,
         "teamname": "Elche",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
         "played": 2,
@@ -521,32 +535,18 @@
         "form": "'WL'"
     },
     {
-        "teamrank": 18,
+        "teamrank": 19,
         "teamname": "Real Valladolid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-        "played": 4,
+        "played": 5,
         "wins": 0,
         "draws": 2,
-        "lossess": 2,
-        "goalsfor": 2,
-        "goalsagainst": 5,
-        "goalsdiff": "-3",
-        "points": 2,
-        "form": "'LDLD'"
-    },
-    {
-        "teamrank": 19,
-        "teamname": "Eibar",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 4,
-        "wins": 0,
-        "draws": 1,
         "lossess": 3,
-        "goalsfor": 2,
-        "goalsagainst": 5,
-        "goalsdiff": "-3",
-        "points": 1,
-        "form": "'LLLD'"
+        "goalsfor": 3,
+        "goalsagainst": 7,
+        "goalsdiff": "-4",
+        "points": 2,
+        "form": "'LLDLD'"
     },
     {
         "teamrank": 20,
