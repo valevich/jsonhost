@@ -30,7 +30,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "10:00am",
-      "GameState": "55 ",
+      "GameState": "70 ",
       "HomeTeam": "Everton",
       "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
@@ -95,7 +95,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "10:00am",
-      "GameState": "56 ",
+      "GameState": "71 ",
       "HomeTeam": "Atletico Madrid",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
@@ -199,66 +199,66 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "85 ",
+      "GameState": "FT ",
       "HomeTeam": "Borussia Dortmund",
-      "HomeGoals": "3",
+      "HomeGoals": "4",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
       "AwayTeam": "Freiburg",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
     },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "85 ",
+      "GameState": "FT ",
       "HomeTeam": "Eintracht",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
       "AwayTeam": "Hoffenheim",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World No…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World Now ,  Spo…"
     },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "86 ",
+      "GameState": "FT ",
       "HomeTeam": "Köln",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
       "AwayTeam": "Borussia M'gladbach",
       "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World No…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World Now ,  Spo…"
     },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "84 ",
+      "GameState": "FT ",
       "HomeTeam": "Werder Bremen",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
       "AwayTeam": "Arminia Bielefeld",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World No…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World Now ,  Spo…"
     },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "85 ",
+      "GameState": "FT ",
       "HomeTeam": "Stuttgart",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
       "AwayTeam": "Bayer Leverkusen",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sportsn…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -290,14 +290,14 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "11:00am",
-      "GameState": "14 ",
+      "GameState": "29 ",
       "HomeTeam": "Lens",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
       "AwayTeam": "Saint-Etienne",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-      "TVChannels": "'   Lens  0 - 0  Saint-Étienne beIN SPORTS XTRA ,  ESPN2 Caribbean ,  …"
+      "TVChannels": "'   Lens  1 - 0  Saint-Étienne beIN SPORTS XTRA ,  ESPN2 Caribbean ,  …"
     },
     {
       "LeagueName": "French Ligue 1",
