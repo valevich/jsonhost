@@ -128,7 +128,7 @@
       "AwayTeam": "Huesca",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  DIRECT…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -297,7 +297,7 @@
       "AwayTeam": "Saint-Etienne",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-      "TVChannels": "ens vs Saint-Étienne ESPN2 Caribbean ,  ESPNPlay Caribbean ,  …"
+      "TVChannels": "ens vs Saint-Étienne beIN SPORTS XTRA ,  ESPN2 Caribbean ,  …"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -310,7 +310,7 @@
       "AwayTeam": "Nantes",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-      "TVChannels": "TV5 Monde ,  TV5 ,  DIRECTV Sports Puerto…"
+      "TVChannels": "TV5 Monde ,  beIN SPORTS XTRA ,  TV5 ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -598,7 +598,7 @@
       "AwayTeam": "Celta de Vigo",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beI…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -871,7 +871,7 @@
       "AwayTeam": "Stade de Reims",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-      "TVChannels": "DIRECTV Sports Puerto Rico ,  DIRECT…"
+      "TVChannels": "beIN SPORTS XTRA ,  DIRECTV Sports…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -884,7 +884,7 @@
       "AwayTeam": "Marseille",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-      "TVChannels": "DAZN ,  V Sport Football ,  Arena Sport 2 Se…"
+      "TVChannels": "beIN SPORTS XTRA ,  DAZN ,  V Sport Foot…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1221,32 +1221,6 @@
     }
   ],
   "day7": [
-    {
-      "LeagueName": "No League Games Today",
-      "LeagueLogo": "",
-      "GameTime": "Friday Oct. 9, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
     {
       "LeagueName": "No League Games Today",
       "LeagueLogo": "",
