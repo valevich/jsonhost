@@ -566,6 +566,20 @@
   "serie-a": [
     {
         "teamrank": 1,
+        "teamname": "Sassuolo",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+        "played": 3,
+        "wins": 2,
+        "draws": 1,
+        "lossess": 0,
+        "goalsfor": 9,
+        "goalsagainst": 3,
+        "goalsdiff": "+6",
+        "points": 7,
+        "form": "'WWD'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Napoli",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
         "played": 2,
@@ -579,7 +593,7 @@
         "form": "'WW'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Atalanta",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
         "played": 2,
@@ -593,7 +607,7 @@
         "form": "'WW'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Internazionale",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "played": 2,
@@ -607,7 +621,7 @@
         "form": "'WW'"
     },
     {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Milan",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
         "played": 2,
@@ -621,7 +635,7 @@
         "form": "'WW'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Hellas Verona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
         "played": 2,
@@ -633,20 +647,6 @@
         "goalsdiff": "+4",
         "points": 6,
         "form": "'WW'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Sassuolo",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-        "played": 2,
-        "wins": 1,
-        "draws": 1,
-        "lossess": 0,
-        "goalsfor": 5,
-        "goalsagainst": 2,
-        "goalsdiff": "+3",
-        "points": 4,
-        "form": "'WD'"
     },
     {
         "teamrank": 7,
@@ -818,8 +818,8 @@
     },
     {
         "teamrank": 19,
-        "teamname": "Crotone",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
+        "teamname": "Parma",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
         "played": 2,
         "wins": 0,
         "draws": 0,
@@ -832,17 +832,17 @@
     },
     {
         "teamrank": 20,
-        "teamname": "Parma",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-        "played": 2,
+        "teamname": "Crotone",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
+        "played": 3,
         "wins": 0,
         "draws": 0,
-        "lossess": 2,
-        "goalsfor": 1,
-        "goalsagainst": 6,
-        "goalsdiff": "-5",
+        "lossess": 3,
+        "goalsfor": 2,
+        "goalsagainst": 10,
+        "goalsdiff": "-8",
         "points": 0,
-        "form": "'LL'"
+        "form": "'LLL'"
     }
   ],
   "ligue-1": [
