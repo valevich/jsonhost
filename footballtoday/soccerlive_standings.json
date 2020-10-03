@@ -862,6 +862,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Lens",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+        "played": 6,
+        "wins": 4,
+        "draws": 1,
+        "lossess": 1,
+        "goalsfor": 10,
+        "goalsagainst": 6,
+        "goalsdiff": "+4",
+        "points": 13,
+        "form": "'WDWWW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "PSG",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
         "played": 6,
@@ -875,7 +889,7 @@
         "form": "'WWWWL'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Lille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "played": 5,
@@ -889,7 +903,7 @@
         "form": "'WDWWD'"
     },
     {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Montpellier",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "played": 5,
@@ -901,20 +915,6 @@
         "goalsdiff": "+5",
         "points": 10,
         "form": "'DWWWL'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Saint-Étienne",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-        "played": 5,
-        "wins": 3,
-        "draws": 1,
-        "lossess": 1,
-        "goalsfor": 8,
-        "goalsagainst": 5,
-        "goalsdiff": "+3",
-        "points": 10,
-        "form": "'LDWWW'"
     },
     {
         "teamrank": 6,
@@ -932,17 +932,17 @@
     },
     {
         "teamrank": 7,
-        "teamname": "Lens",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-        "played": 5,
+        "teamname": "Saint-Étienne",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
+        "played": 6,
         "wins": 3,
         "draws": 1,
-        "lossess": 1,
+        "lossess": 2,
         "goalsfor": 8,
-        "goalsagainst": 6,
-        "goalsdiff": "+2",
+        "goalsagainst": 7,
+        "goalsdiff": "+1",
         "points": 10,
-        "form": "'DWWWL'"
+        "form": "'LLDWW'"
     },
     {
         "teamrank": 8,
