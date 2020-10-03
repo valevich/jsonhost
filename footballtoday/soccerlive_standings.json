@@ -44,6 +44,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Chelsea",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+        "played": 4,
+        "wins": 2,
+        "draws": 1,
+        "lossess": 1,
+        "goalsfor": 10,
+        "goalsagainst": 6,
+        "goalsdiff": "+4",
+        "points": 7,
+        "form": "'WDLW'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "played": 2,
@@ -57,7 +71,7 @@
         "form": "'WW'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "played": 3,
@@ -66,20 +80,6 @@
         "lossess": 1,
         "goalsfor": 6,
         "goalsagainst": 4,
-        "goalsdiff": "+2",
-        "points": 6,
-        "form": "'LWW'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Crystal Palace",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "played": 3,
-        "wins": 2,
-        "draws": 0,
-        "lossess": 1,
-        "goalsfor": 5,
-        "goalsagainst": 3,
         "goalsdiff": "+2",
         "points": 6,
         "form": "'LWW'"
@@ -100,6 +100,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Crystal Palace",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+        "played": 4,
+        "wins": 2,
+        "draws": 0,
+        "lossess": 2,
+        "goalsfor": 5,
+        "goalsagainst": 7,
+        "goalsdiff": "-2",
+        "points": 6,
+        "form": "'LLWW'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 3,
@@ -111,20 +125,6 @@
         "goalsdiff": "+2",
         "points": 4,
         "form": "'DWL'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Chelsea",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "played": 3,
-        "wins": 1,
-        "draws": 1,
-        "lossess": 1,
-        "goalsfor": 6,
-        "goalsagainst": 6,
-        "goalsdiff": "0",
-        "points": 4,
-        "form": "'DLW'"
     },
     {
         "teamrank": 10,
