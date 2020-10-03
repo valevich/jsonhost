@@ -502,6 +502,15 @@
         "playerassists": 2
     },
     {
+        "playername": "Ismaël Traoré",
+        "playerlink": "https://www.livesoccertv.com/player/i-traore/37991/",
+        "playerteam": "Angers SCO",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/angers/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "Y. Wissa",
         "playerlink": "https://www.livesoccertv.com/player/y-wissa/254639/",
         "playerteam": "Lorient",
@@ -534,15 +543,6 @@
         "playerteam": "Angers SCO",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/angers/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "J. Bamba",
-        "playerlink": "https://www.livesoccertv.com/player/j-bamba/249220/",
-        "playerteam": "Lille",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "playergoals": 2,
         "playerassists": 0
     }
