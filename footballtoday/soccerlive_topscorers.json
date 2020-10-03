@@ -275,6 +275,15 @@
   ],
   "serie-a": [
     {
+        "playername": "F. Caputo",
+        "playerlink": "https://www.livesoccertv.com/player/f-caputo/63860/",
+        "playerteam": "Sassuolo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+        "playergoals": 3,
+        "playerassists": 1
+    },
+    {
         "playername": "Cristiano Ronaldo",
         "playerlink": "https://www.livesoccertv.com/player/cristiano-ronaldo/515/",
         "playerteam": "Juventus",
@@ -318,6 +327,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
         "playergoals": 2,
         "playerassists": 0
+    },
+    {
+        "playername": "D. Berardi",
+        "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
+        "playerteam": "Sassuolo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+        "playergoals": 2,
+        "playerassists": 1
     },
     {
         "playername": "L. Caldirola",
@@ -388,24 +406,6 @@
         "playerteam": "Napoli",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "F. Quagliarella",
-        "playerlink": "https://www.livesoccertv.com/player/f-quagliarella/4297/",
-        "playerteam": "Sampdoria",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/sampdoria/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-        "playergoals": 2,
-        "playerassists": 1
-    },
-    {
-        "playername": "R. Soriano",
-        "playerlink": "https://www.livesoccertv.com/player/r-soriano/72442/",
-        "playerteam": "Bologna",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/bologna/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
         "playergoals": 2,
         "playerassists": 0
     }
