@@ -6,7 +6,7 @@
         "playerteam": "Everton",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/everton/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-        "playergoals": 5,
+        "playergoals": 6,
         "playerassists": 0
     },
     {
@@ -17,6 +17,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
         "playergoals": 5,
         "playerassists": 4
+    },
+    {
+        "playername": "Neal Maupay",
+        "playerlink": "https://www.livesoccertv.com/player/n-maupay/213470/",
+        "playerteam": "Brighton & Hove Albion",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/brighton-hove-albion/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+        "playergoals": 4,
+        "playerassists": 2
     },
     {
         "playername": "Son Heung-Min",
@@ -35,6 +44,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "playergoals": 3,
         "playerassists": 0
+    },
+    {
+        "playername": "Jorginho",
+        "playerlink": "https://www.livesoccertv.com/player/jorginho/142473/",
+        "playerteam": "Chelsea",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/chelsea/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+        "playergoals": 3,
+        "playerassists": 3
     },
     {
         "playername": "D. Ings",
@@ -62,15 +80,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "playergoals": 3,
         "playerassists": 0
-    },
-    {
-        "playername": "Neal Maupay",
-        "playerlink": "https://www.livesoccertv.com/player/n-maupay/213470/",
-        "playerteam": "Brighton & Hove Albion",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/brighton-hove-albion/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-        "playergoals": 3,
-        "playerassists": 2
     },
     {
         "playername": "Mohamed Salah",
@@ -125,15 +134,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
         "playergoals": 2,
         "playerassists": 1
-    },
-    {
-        "playername": "Callum Robinson",
-        "playerlink": "https://www.livesoccertv.com/player/c-robinson/176748/",
-        "playerteam": "West Bromwich Albion",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/west-bromwich-albion/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-        "playergoals": 2,
-        "playerassists": 0
     }
   ],
   "primera-division": [
@@ -264,13 +264,13 @@
         "playerassists": 0
     },
     {
-        "playername": "Á. Correa",
-        "playerlink": "https://www.livesoccertv.com/player/a-correa/230458/",
-        "playerteam": "Atletico Madrid",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "playername": "E. Burgos",
+        "playerlink": "https://www.livesoccertv.com/player/e-burgos/201770/",
+        "playerteam": "Eibar",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/eibar/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "playergoals": 1,
-        "playerassists": 0
+        "playerassists": 1
     }
   ],
   "serie-a": [
