@@ -566,6 +566,20 @@
   "serie-a": [
     {
         "teamrank": 1,
+        "teamname": "Atalanta",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+        "played": 3,
+        "wins": 3,
+        "draws": 0,
+        "lossess": 0,
+        "goalsfor": 13,
+        "goalsagainst": 5,
+        "goalsdiff": "+8",
+        "points": 9,
+        "form": "'WWW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Sassuolo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
         "played": 3,
@@ -579,7 +593,7 @@
         "form": "'WWD'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Napoli",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
         "played": 2,
@@ -589,20 +603,6 @@
         "goalsfor": 8,
         "goalsagainst": 0,
         "goalsdiff": "+8",
-        "points": 6,
-        "form": "'WW'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Atalanta",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "played": 2,
-        "wins": 2,
-        "draws": 0,
-        "lossess": 0,
-        "goalsfor": 8,
-        "goalsagainst": 3,
-        "goalsdiff": "+5",
         "points": 6,
         "form": "'WW'"
     },
@@ -778,15 +778,15 @@
         "teamrank": 16,
         "teamname": "Cagliari",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-        "played": 2,
+        "played": 3,
         "wins": 0,
         "draws": 1,
-        "lossess": 1,
-        "goalsfor": 1,
-        "goalsagainst": 3,
-        "goalsdiff": "-2",
+        "lossess": 2,
+        "goalsfor": 3,
+        "goalsagainst": 8,
+        "goalsdiff": "-5",
         "points": 1,
-        "form": "'LD'"
+        "form": "'LLD'"
     },
     {
         "teamrank": 17,
