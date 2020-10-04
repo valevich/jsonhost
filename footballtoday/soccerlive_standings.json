@@ -284,6 +284,20 @@
   "primera-division": [
     {
         "teamrank": 1,
+        "teamname": "Real Madrid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "played": 4,
+        "wins": 3,
+        "draws": 1,
+        "lossess": 0,
+        "goalsfor": 6,
+        "goalsagainst": 2,
+        "goalsdiff": "+4",
+        "points": 10,
+        "form": "'WWWD'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "played": 5,
@@ -297,7 +311,7 @@
         "form": "'WLLWW'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "played": 5,
@@ -311,7 +325,7 @@
         "form": "'WLWDD'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Villarreal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
         "played": 5,
@@ -323,20 +337,6 @@
         "goalsdiff": "-1",
         "points": 8,
         "form": "'DWLWD'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Real Madrid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "played": 3,
-        "wins": 2,
-        "draws": 1,
-        "lossess": 0,
-        "goalsfor": 4,
-        "goalsagainst": 2,
-        "goalsdiff": "+2",
-        "points": 7,
-        "form": "'WWD'"
     },
     {
         "teamrank": 5,
@@ -524,15 +524,15 @@
         "teamrank": 18,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "played": 3,
+        "played": 4,
         "wins": 1,
         "draws": 0,
-        "lossess": 2,
+        "lossess": 3,
         "goalsfor": 5,
-        "goalsagainst": 6,
-        "goalsdiff": "-1",
+        "goalsagainst": 8,
+        "goalsdiff": "-3",
         "points": 3,
-        "form": "'LWL'"
+        "form": "'LLWL'"
     },
     {
         "teamrank": 19,
@@ -1144,6 +1144,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Augsburg",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+        "played": 3,
+        "wins": 2,
+        "draws": 1,
+        "lossess": 0,
+        "goalsfor": 5,
+        "goalsagainst": 1,
+        "goalsdiff": "+4",
+        "points": 7,
+        "form": "'DWW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Eintracht Frankfurt",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
         "played": 3,
@@ -1157,7 +1171,7 @@
         "form": "'WWD'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Borussia Dortmund",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
         "played": 3,
@@ -1169,20 +1183,6 @@
         "goalsdiff": "+5",
         "points": 6,
         "form": "'WLW'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Augsburg",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-        "played": 2,
-        "wins": 2,
-        "draws": 0,
-        "lossess": 0,
-        "goalsfor": 5,
-        "goalsagainst": 1,
-        "goalsdiff": "+4",
-        "points": 6,
-        "form": "'WW'"
     },
     {
         "teamrank": 5,
@@ -1328,15 +1328,15 @@
         "teamrank": 15,
         "teamname": "Wolfsburg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "played": 2,
+        "played": 3,
         "wins": 0,
-        "draws": 2,
+        "draws": 3,
         "lossess": 0,
         "goalsfor": 1,
         "goalsagainst": 1,
         "goalsdiff": "0",
-        "points": 2,
-        "form": "'DD'"
+        "points": 3,
+        "form": "'DDD'"
     },
     {
         "teamrank": 16,
