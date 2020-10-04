@@ -134,7 +134,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "10:00am",
-      "GameState": "57 ",
+      "GameState": "72 ",
       "HomeTeam": "Levante",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
@@ -277,14 +277,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "86 ",
+      "GameState": "FT ",
       "HomeTeam": "Wolfsburg",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
       "AwayTeam": "Augsburg",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sportsn…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -381,9 +381,9 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "11:00am",
-      "GameState": "14 ",
+      "GameState": "29 ",
       "HomeTeam": "Stade Rennes",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
       "AwayTeam": "Stade de Reims",
       "AwayGoals": "1",
@@ -472,14 +472,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "11:00am",
-      "GameState": "14 ",
+      "GameState": "29 ",
       "HomeTeam": "Rapid Wien",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/austria/logos/rapid-wien.png",
       "AwayTeam": "Lask Linz",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4411.png",
-      "TVChannels": "14 '   Rapid Wien  1 - 0  LASK Linz Sky Sport Austria 1 ,  Sky Go ,  MaxTV Go ,  S…"
+      "TVChannels": "29 '   Rapid Wien  2 - 0  LASK Linz Sky Sport Austria 1 ,  Sky Go ,  MaxTV Go ,  S…"
     }
   ],
   "day2": [
