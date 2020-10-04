@@ -10,6 +10,15 @@
         "playerassists": 0
     },
     {
+        "playername": "Son Heung-Min",
+        "playerlink": "https://www.livesoccertv.com/player/son-heung-min/96227/",
+        "playerteam": "Tottenham Hotspur",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+        "playergoals": 6,
+        "playerassists": 0
+    },
+    {
         "playername": "J. Vardy",
         "playerlink": "https://www.livesoccertv.com/player/j-vardy/135178/",
         "playerteam": "Leicester City",
@@ -28,15 +37,6 @@
         "playerassists": 2
     },
     {
-        "playername": "Son Heung-Min",
-        "playerlink": "https://www.livesoccertv.com/player/son-heung-min/96227/",
-        "playerteam": "Tottenham Hotspur",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "playergoals": 4,
-        "playerassists": 0
-    },
-    {
         "playername": "C. Wilson",
         "playerlink": "https://www.livesoccertv.com/player/c-wilson/87664/",
         "playerteam": "Newcastle United",
@@ -51,6 +51,15 @@
         "playerteam": "Leeds United",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/leeds-united/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
+        "playername": "J. Bowen",
+        "playerlink": "https://www.livesoccertv.com/player/j-bowen/262798/",
+        "playerteam": "West Ham United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/west-ham-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "playergoals": 3,
         "playerassists": 0
     },
@@ -118,20 +127,11 @@
         "playerassists": 1
     },
     {
-        "playername": "J. Bowen",
-        "playerlink": "https://www.livesoccertv.com/player/j-bowen/262798/",
+        "playername": "M. Antonio",
+        "playerlink": "https://www.livesoccertv.com/player/m-antonio/73745/",
         "playerteam": "West Ham United",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/west-ham-united/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "Raúl Alonso Jiménez Rodríguez",
-        "playerlink": "https://www.livesoccertv.com/player/r-jimenez/172740/",
-        "playerteam": "Wolverhampton Wanderers",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/wolverhampton-wanderers/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
         "playergoals": 2,
         "playerassists": 0
     }
