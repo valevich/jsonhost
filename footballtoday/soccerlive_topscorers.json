@@ -421,6 +421,15 @@
         "playerassists": 3
     },
     {
+        "playername": "G. Kakuta",
+        "playerlink": "https://www.livesoccertv.com/player/g-kakuta/92854/",
+        "playerteam": "Lens",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lens/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+        "playergoals": 4,
+        "playerassists": 4
+    },
+    {
         "playername": "I. Ganago",
         "playerlink": "https://www.livesoccertv.com/player/i-ganago/364337/",
         "playerteam": "Lens",
@@ -473,15 +482,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
         "playergoals": 3,
         "playerassists": 0
-    },
-    {
-        "playername": "G. Kakuta",
-        "playerlink": "https://www.livesoccertv.com/player/g-kakuta/92854/",
-        "playerteam": "Lens",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/lens/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-        "playergoals": 3,
-        "playerassists": 3
     },
     {
         "playername": "I. Niane",
@@ -554,8 +554,17 @@
         "playerteam": "Hoffenheim",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "playergoals": 5,
+        "playergoals": 6,
         "playerassists": 2
+    },
+    {
+        "playername": "E. Håland",
+        "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
+        "playerteam": "Borussia Dortmund",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+        "playergoals": 4,
+        "playerassists": 1
     },
     {
         "playername": "N. Füllkrug",
@@ -576,6 +585,24 @@
         "playerassists": 0
     },
     {
+        "playername": "S. Kalajdzic",
+        "playerlink": "https://www.livesoccertv.com/player/s-kalajdzic/271246/",
+        "playerteam": "Stuttgart",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
+        "playername": "Bas Dost",
+        "playerlink": "https://www.livesoccertv.com/player/b-dost/59551/",
+        "playerteam": "Eintracht Frankfurt",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
         "playername": "E. Forsberg",
         "playerlink": "https://www.livesoccertv.com/player/e-forsberg/78673/",
         "playerteam": "RB Leipzig",
@@ -583,24 +610,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
         "playergoals": 2,
         "playerassists": 1
-    },
-    {
-        "playername": "E. Håland",
-        "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
-        "playerteam": "Borussia Dortmund",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-        "playergoals": 2,
-        "playerassists": 1
-    },
-    {
-        "playername": "S. Kalajdzic",
-        "playerlink": "https://www.livesoccertv.com/player/s-kalajdzic/271246/",
-        "playerteam": "Stuttgart",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-        "playergoals": 2,
-        "playerassists": 0
     },
     {
         "playername": "N. Petersen",
@@ -648,6 +657,15 @@
         "playerassists": 0
     },
     {
+        "playername": "L. Bittencourt",
+        "playerlink": "https://www.livesoccertv.com/player/l-bittencourt/150724/",
+        "playerteam": "Werder Bremen",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/werder-bremen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+        "playergoals": 1,
+        "playerassists": 0
+    },
+    {
         "playername": "J. Brekalo",
         "playerlink": "https://www.livesoccertv.com/player/j-brekalo/253444/",
         "playerteam": "Wolfsburg",
@@ -662,24 +680,6 @@
         "playerteam": "Union Berlin",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/union-berlin/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "D. Caligiuri",
-        "playerlink": "https://www.livesoccertv.com/player/d-caligiuri/54628/",
-        "playerteam": "Augsburg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/fc-augsburg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "Matheus Cunha",
-        "playerlink": "https://www.livesoccertv.com/player/matheus-cunha/359098/",
-        "playerteam": "Hertha BSC",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
         "playergoals": 1,
         "playerassists": 0
     }
