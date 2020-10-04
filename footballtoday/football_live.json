@@ -69,7 +69,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "11:30am",
-      "GameState": "64 ",
+      "GameState": "74 ",
       "HomeTeam": "Manchester Utd",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
@@ -147,12 +147,12 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "12:30pm",
-      "GameState": "23 ",
+      "GameState": "33 ",
       "HomeTeam": "Cádiz",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
       "AwayTeam": "Granada",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
       "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN SP…"
     },
@@ -472,14 +472,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "11:00am",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Rapid Wien",
-      "HomeGoals": "2",
+      "HomeGoals": "3",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/austria/logos/rapid-wien.png",
       "AwayTeam": "Lask Linz",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4411.png",
-      "TVChannels": "90 '   Rapid Wien  2 - 0  LASK Linz Sky Sport Austria 1 ,  Sky Go ,  MaxTV Go ,  S…"
+      "TVChannels": "FT   Rapid Wien  3 - 0  LASK Linz Sky Sport Austria 1 ,  Sky Go ,  MaxTV Go ,  S…"
     }
   ],
   "day2": [
