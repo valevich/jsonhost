@@ -69,7 +69,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "11:30am",
-      "GameState": "44 ",
+      "GameState": "HT ",
       "HomeTeam": "Manchester Utd",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
@@ -238,7 +238,7 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "12:00pm",
-      "GameState": "14 ",
+      "GameState": "24 ",
       "HomeTeam": "Milan",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
@@ -290,7 +290,7 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "12:00pm",
-      "GameState": "13 ",
+      "GameState": "23 ",
       "HomeTeam": "Bayern Munich",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
@@ -381,12 +381,12 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "11:00am",
-      "GameState": "57 ",
+      "GameState": "67 ",
       "HomeTeam": "Stade Rennes",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
       "AwayTeam": "Stade de Reims",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
       "TVChannels": "beIN SPORTS XTRA ,  DIRECTV Sports…"
     },
@@ -472,14 +472,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "11:00am",
-      "GameState": "50 ",
+      "GameState": "61 ",
       "HomeTeam": "Rapid Wien",
       "HomeGoals": "2",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/austria/logos/rapid-wien.png",
       "AwayTeam": "Lask Linz",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4411.png",
-      "TVChannels": "50 '   Rapid Wien  2 - 0  LASK Linz Sky Sport Austria 1 ,  Sky Go ,  MaxTV Go ,  S…"
+      "TVChannels": "61 '   Rapid Wien  2 - 0  LASK Linz Sky Sport Austria 1 ,  Sky Go ,  MaxTV Go ,  S…"
     }
   ],
   "day2": [
@@ -709,8 +709,60 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ],
+  "day5": [
+    {
+      "LeagueName": "No League Games",
+      "LeagueLogo": "",
+      "GameTime": "Thursday Oct. 8, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ],
+  "day6": [
+    {
+      "LeagueName": "No League Games",
+      "LeagueLogo": "",
+      "GameTime": "Friday Oct. 9, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ],
   "day7": [
