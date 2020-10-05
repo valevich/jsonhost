@@ -10,6 +10,24 @@
         "playerassists": 0
     },
     {
+        "playername": "Son Heung-Min",
+        "playerlink": "https://www.livesoccertv.com/player/son-heung-min/96227/",
+        "playerteam": "Tottenham Hotspur",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+        "playergoals": 6,
+        "playerassists": 0
+    },
+    {
+        "playername": "Mohamed Salah",
+        "playerlink": "https://www.livesoccertv.com/player/mohamed-salah/120240/",
+        "playerteam": "Liverpool",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "playergoals": 5,
+        "playerassists": 2
+    },
+    {
         "playername": "J. Vardy",
         "playerlink": "https://www.livesoccertv.com/player/j-vardy/135178/",
         "playerteam": "Leicester City",
@@ -26,15 +44,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
         "playergoals": 4,
         "playerassists": 2
-    },
-    {
-        "playername": "Son Heung-Min",
-        "playerlink": "https://www.livesoccertv.com/player/son-heung-min/96227/",
-        "playerteam": "Tottenham Hotspur",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "playergoals": 4,
-        "playerassists": 0
     },
     {
         "playername": "C. Wilson",
@@ -73,11 +82,29 @@
         "playerassists": 3
     },
     {
+        "playername": "",
+        "playerlink": "https://www.livesoccertv.com/player/j-grealish/175570/",
+        "playerteam": "Aston Villa",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/aston-villa/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "D. Ings",
         "playerlink": "https://www.livesoccertv.com/player/d-ings/120917/",
         "playerteam": "Southampton",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/southampton/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+        "playergoals": 3,
+        "playerassists": 1
+    },
+    {
+        "playername": "H. Kane",
+        "playerlink": "https://www.livesoccertv.com/player/h-kane/134501/",
+        "playerteam": "Tottenham Hotspur",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "playergoals": 3,
         "playerassists": 1
     },
@@ -106,33 +133,6 @@
         "playerteamlink": "https://www.livesoccertv.com/teams/england/everton/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
         "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "Mohamed Salah",
-        "playerlink": "https://www.livesoccertv.com/player/mohamed-salah/120240/",
-        "playerteam": "Liverpool",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "playergoals": 3,
-        "playerassists": 2
-    },
-    {
-        "playername": "W. Zaha",
-        "playerlink": "https://www.livesoccertv.com/player/w-zaha/110122/",
-        "playerteam": "Crystal Palace",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/crystal-palace/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "playergoals": 3,
-        "playerassists": 1
-    },
-    {
-        "playername": "M. Antonio",
-        "playerlink": "https://www.livesoccertv.com/player/m-antonio/73745/",
-        "playerteam": "West Ham United",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/west-ham-united/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-        "playergoals": 2,
         "playerassists": 0
     }
   ],
@@ -417,7 +417,7 @@
         "playerteam": "Metz",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/metz/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
-        "playergoals": 5,
+        "playergoals": 6,
         "playerassists": 1
     },
     {
@@ -464,6 +464,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "playergoals": 3,
         "playerassists": 0
+    },
+    {
+        "playername": "B. Dia",
+        "playerlink": "https://www.livesoccertv.com/player/b-dia/360970/",
+        "playerteam": "Reims",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/reims/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
+        "playergoals": 3,
+        "playerassists": 1
     },
     {
         "playername": "Z. Ferhat",
@@ -534,15 +543,6 @@
         "playerteam": "Monaco",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "S. Bahoken",
-        "playerlink": "https://www.livesoccertv.com/player/s-bahoken/159571/",
-        "playerteam": "Angers SCO",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/angers/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
         "playergoals": 2,
         "playerassists": 0
     }
