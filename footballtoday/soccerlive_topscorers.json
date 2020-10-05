@@ -10,15 +10,6 @@
         "playerassists": 0
     },
     {
-        "playername": "Son Heung-Min",
-        "playerlink": "https://www.livesoccertv.com/player/son-heung-min/96227/",
-        "playerteam": "Tottenham Hotspur",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "playergoals": 6,
-        "playerassists": 0
-    },
-    {
         "playername": "J. Vardy",
         "playerlink": "https://www.livesoccertv.com/player/j-vardy/135178/",
         "playerteam": "Leicester City",
@@ -35,6 +26,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
         "playergoals": 4,
         "playerassists": 2
+    },
+    {
+        "playername": "Son Heung-Min",
+        "playerlink": "https://www.livesoccertv.com/player/son-heung-min/96227/",
+        "playerteam": "Tottenham Hotspur",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+        "playergoals": 4,
+        "playerassists": 0
     },
     {
         "playername": "C. Wilson",
@@ -275,6 +275,15 @@
   ],
   "serie-a": [
     {
+        "playername": "A. Gómez",
+        "playerlink": "https://www.livesoccertv.com/player/a-gomez/13951/",
+        "playerteam": "Atalanta",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+        "playergoals": 4,
+        "playerassists": 0
+    },
+    {
         "playername": "F. Caputo",
         "playerlink": "https://www.livesoccertv.com/player/f-caputo/63860/",
         "playerteam": "Sassuolo",
@@ -302,17 +311,17 @@
         "playerassists": 0
     },
     {
-        "playername": "A. Gómez",
-        "playerlink": "https://www.livesoccertv.com/player/a-gomez/13951/",
-        "playerteam": "Atalanta",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+        "playername": "R. Lukaku",
+        "playerlink": "https://www.livesoccertv.com/player/r-lukaku/79627/",
+        "playerteam": "Internazionale",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "playergoals": 3,
         "playerassists": 0
     },
     {
-        "playername": "R. Lukaku",
-        "playerlink": "https://www.livesoccertv.com/player/r-lukaku/79627/",
+        "playername": "L. Martínez",
+        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
         "playerteam": "Internazionale",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
@@ -388,15 +397,6 @@
         "playerteam": "Napoli",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "L. Martínez",
-        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
-        "playerteam": "Internazionale",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "playergoals": 2,
         "playerassists": 0
     },
