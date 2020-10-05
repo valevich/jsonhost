@@ -1272,14 +1272,14 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/so.svg?v=9d99094196e9938b847fcbb22d6a0cb5d0b589ab&amp;cluster=4",
         "iso_alpha2": "so",
         "report1": "",
-        "report2": "somalia has reopened its airports.rnrntravelers flying to somalia will need to show proof of a negative  test, taken no more than 96 hours before travel.For those travelers flying to Somaliland, Egal International Airport has put in place additional measures to screen passengers arriving into Hargeisa by air, including temperature checks.rnrnPeople displaying symptoms linked to the virus may be transferred to a nearby isolation facility while further tests are carried out.upon departure, travelers will need to show proof of a negative  test, taken no more than 72 hours before travel is required for exit from somalia."
+        "report2": "somalia has reopened its airports.rnrntravelers flying to somalia will need to show proof of a negative  test, taken no more than 96 hours before travel.travelers who do not have a  negative test certificate are subject to a 14-day quarantine upon arrival in somalia.For those travelers flying to Somaliland, Egal International Airport has put in place additional measures to screen passengers arriving into Hargeisa by air, including temperature checks.People displaying symptoms linked to the virus may be transferred to a nearby isolation facility while further tests are carried out.upon departure, travelers will need to show proof of a negative  test, taken no more than 72 hours before travel is required for exit from somalia."
     },
     {
         "country": "South Africa",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/za.svg?v=2f19b8b2cc0d3a21a653bab9490d631ed9d13222&amp;cluster=4",
         "iso_alpha2": "za",
-        "report1": "South Africa has suspended all commercial flights into the country.",
-        "report2": "South Africa is expecting to reopen its borders to international commercial flights on October 1.South Africa has restricted the entry of all travelers who are not South African nationals and foreign nationals with valid residence permits.South Africa has suspended all flights into the country except for flights authorized by the Ministry of Transport and flights for medical evacuations, humanitarian aid, emergency landings or refueling stops.Travelers can transit without a visa to South African international airports on their way back to another country, providing they remain airside and have not been in any xe2x80x98high-riskxe2x80x99 countries since March 15, 2020. However, travelers should be aware that international flights from South Africa are limited.rnrnTravelers cannot transit South African airports on their way to third countries, if traveling from any xe2x80x98high riskxe2x80x99 countries.rnrnNationals of South Africa who arrive in the country will be subject to medical screenings including temperature measurements and will need to quarantine for 10 days. Airline crew will also be subject to quarantine laws as applicable.Travelers are now able to apply to self-isolate at a place of their choosing as long as it complies with the criteria set out by the Department of Health. This application must be submitted 72 hours prior to the intended date of travel to the Department of Health"
+        "report1": "",
+        "report2": "south africa has restarted commercial flights into the country. however, the south african authorities will not grant entry to anyone travelling from a <a href=-http://www.dha.gov.za/index.php/list-of-high-risk--countries->high-risk country</a> for tourism or leisure purposes.Travelers can only land at Cape Town (CPT), Durban (DUR) or Johannesburg (JNB)travelers must have a medical certificate with a negative  () test result taken within 72 hours prior to departure. travelers arriving in south africa are subject to medical screening and must install  alert south africa mobile app. those presenting with symptoms will be required to remain in quarantine until a  test is conducted.travelers without a medical certificate with a negative  () test result are subject to quarantine at a government-appointed facility at their own expense.rn"
     },
     {
         "country": "South Korea",
@@ -1453,8 +1453,8 @@
         "country": "Uganda",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ug.svg?v=c159781d4b1eab9d9bd937a5f4ba594f089e761c&amp;cluster=4",
         "iso_alpha2": "ug",
-        "report1": "Uganda has announced that Entebbe International Airport to reopen to regularly scheduled commercial flights effective October 1.",
-        "report2": "Uganda has announced that Entebbe International Airport to reopen to regularly scheduled commercial flights effective October 1.rnrnAircraft in a state of emergency, humanitarian aid and safety operations may still land.rnrnAll arriving travelers and airline crew members must undergo mandatory quarantine."
+        "report1": "",
+        "report2": "travelers must present a negative  test certificate issued within 72 hours before boarding the aircraft. travelers without a negative test certificate are not allowed to travel.travelers and airline crew are subject to medical screening. those presenting with symptoms of any infectious disease will be required to remain in quarantine until a  test is conducted and test results are returned.rn"
     },
     {
         "country": "Ukraine",
