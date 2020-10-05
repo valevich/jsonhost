@@ -192,6 +192,15 @@
         "playerassists": 2
     },
     {
+        "playername": "L. de Jong",
+        "playerlink": "https://www.livesoccertv.com/player/l-de-jong/65189/",
+        "playerteam": "Sevilla",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/sevilla/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
         "playername": "Kike",
         "playerlink": "https://www.livesoccertv.com/player/kike/62297/",
         "playerteam": "Eibar",
@@ -215,6 +224,15 @@
         "playerteam": "Athletic Club",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/athletic-bilbao/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
+        "playername": "Vinícius Júnior",
+        "playerlink": "https://www.livesoccertv.com/player/vinicius-junior/348793/",
+        "playerteam": "Real Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
         "playergoals": 2,
         "playerassists": 0
     },
@@ -251,24 +269,6 @@
         "playerteam": "Atletico Madrid",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "Tello",
-        "playerlink": "https://www.livesoccertv.com/player/cristian-tello/117074/",
-        "playerteam": "Real Betis",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-betis/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "Manu Vallejo",
-        "playerlink": "https://www.livesoccertv.com/player/manu-vallejo/316123/",
-        "playerteam": "Valencia",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/valencia/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "playergoals": 2,
         "playerassists": 0
     }
@@ -558,6 +558,15 @@
         "playerassists": 2
     },
     {
+        "playername": "R. Lewandowski",
+        "playerlink": "https://www.livesoccertv.com/player/r-lewandowski/41443/",
+        "playerteam": "Bayern Munich",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "playergoals": 5,
+        "playerassists": 2
+    },
+    {
         "playername": "E. Håland",
         "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
         "playerteam": "Borussia Dortmund",
@@ -591,6 +600,24 @@
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
         "playergoals": 3,
+        "playerassists": 0
+    },
+    {
+        "playername": "Matheus Cunha",
+        "playerlink": "https://www.livesoccertv.com/player/matheus-cunha/359098/",
+        "playerteam": "Hertha BSC",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
+        "playername": "J. Córdoba",
+        "playerlink": "https://www.livesoccertv.com/player/j-cordoba/134471/",
+        "playerteam": "Hertha BSC",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
+        "playergoals": 2,
         "playerassists": 0
     },
     {
@@ -653,33 +680,6 @@
         "playerteam": "Hoffenheim",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "L. Bittencourt",
-        "playerlink": "https://www.livesoccertv.com/player/l-bittencourt/150724/",
-        "playerteam": "Werder Bremen",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/werder-bremen/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "J. Brekalo",
-        "playerlink": "https://www.livesoccertv.com/player/j-brekalo/253444/",
-        "playerteam": "Wolfsburg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "M. Bülter",
-        "playerlink": "https://www.livesoccertv.com/player/m-bulter/274184/",
-        "playerteam": "Union Berlin",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/union-berlin/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
         "playergoals": 1,
         "playerassists": 0
     }
