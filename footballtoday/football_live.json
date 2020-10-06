@@ -31,34 +31,6 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "Tuesday Oct. 6, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:30pm",
-      "GameState": "",
-      "HomeTeam": "Nashville SC",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
-      "AwayTeam": "Minnesota Utd",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
-    }
-  ],
-  "day3": [
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "Wednesday Oct. 7, 2020",
       "GameState": "",
       "HomeTeam": "",
@@ -226,7 +198,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "No League Games",
       "LeagueLogo": "",
@@ -254,7 +226,7 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "No League Games",
       "LeagueLogo": "",
@@ -282,7 +254,7 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
@@ -453,7 +425,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
@@ -856,6 +828,34 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "No League Games Today",
+      "LeagueLogo": "",
+      "GameTime": "Monday Oct. 12, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ]
 }
