@@ -1,8 +1,8 @@
 {
   "today": [
     {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
+      "LeagueName": "UEFA Euro Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png",
       "GameTime": "Thursday Oct. 8, 2020",
       "GameState": "",
       "HomeTeam": "",
@@ -14,17 +14,108 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
+      "LeagueName": "UEFA Euro Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png",
+      "GameTime": "12:00pm",
+      "GameState": "FT ",
+      "HomeTeam": "Georgia",
+      "HomeGoals": "1",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/584.png",
+      "AwayTeam": "Belarus",
+      "AwayGoals": "0",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/583.png",
+      "TVChannels": "fuboTV ,  ESPN3 ,  ESPN App ,  TUDN.com ,  TUDNx…"
+    },
+    {
+      "LeagueName": "UEFA Euro Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png",
+      "GameTime": "2:45pm",
+      "GameState": "32 ",
+      "HomeTeam": "Bosnia And Herzegovina",
+      "HomeGoals": "1",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/452.png",
+      "AwayTeam": "Northern Ireland",
+      "AwayGoals": "0",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/586.png",
+      "TVChannels": "fuboTV ,  ESPN3 ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "UEFA Euro Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png",
+      "GameTime": "2:45pm",
+      "GameState": "33 ",
+      "HomeTeam": "Bulgaria",
+      "HomeGoals": "0",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/462.png",
+      "AwayTeam": "Hungary",
+      "AwayGoals": "1",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/480.png",
+      "TVChannels": "fuboTV ,  ESPN3 ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "UEFA Euro Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png",
+      "GameTime": "2:45pm",
+      "GameState": "33 ",
+      "HomeTeam": "Iceland",
+      "HomeGoals": "1",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/470.png",
+      "AwayTeam": "Roma",
+      "AwayGoals": "0",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+      "TVChannels": "nia fuboTV ,  ESPN3 ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "UEFA Euro Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png",
+      "GameTime": "2:45pm",
+      "GameState": "33 ",
+      "HomeTeam": "North Macedonia",
+      "HomeGoals": "1",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/463.png",
+      "AwayTeam": "Kosovo",
+      "AwayGoals": "1",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/18272.png",
+      "TVChannels": "fuboTV ,  ESPN3 ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "UEFA Euro Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png",
+      "GameTime": "2:45pm",
+      "GameState": "33 ",
+      "HomeTeam": "Norway",
+      "HomeGoals": "0",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/464.png",
+      "AwayTeam": "Serbia",
+      "AwayGoals": "0",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
+      "TVChannels": "ESPN2 ,  fuboTV ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "UEFA Euro Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png",
+      "GameTime": "2:45pm",
+      "GameState": "33 ",
+      "HomeTeam": "SCotland",
+      "HomeGoals": "0",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/580.png",
+      "AwayTeam": "Ael",
+      "AwayGoals": "0",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8357.png",
+      "TVChannels": "2:45pm 33 '   Scotland  0 - 0  Israel fuboTV ,  ESPN3 ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "UEFA Euro Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png",
+      "GameTime": "2:45pm",
+      "GameState": "33 ",
+      "HomeTeam": "Slovakia",
+      "HomeGoals": "0",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/468.png",
+      "AwayTeam": "Ireland Republic fuboTV ,  ESPN3 ,  ESPN App ,  …",
+      "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
+      "TVChannels": "0 - 0  Ireland Republic fuboTV ,  ESPN3 ,  ESPN App ,  …"
     }
   ],
   "day2": [
@@ -58,7 +149,7 @@
   "day3": [
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "Saturday Oct. 10, 2020",
       "GameState": "",
       "HomeTeam": "",
@@ -71,7 +162,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "9:00am",
       "GameState": "",
       "HomeTeam": "Luxembourg",
@@ -84,7 +175,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "9:00am",
       "GameState": "",
       "HomeTeam": "Montenegro",
@@ -97,7 +188,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
       "GameState": "",
       "HomeTeam": "Liechtenstein",
@@ -110,7 +201,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
       "GameState": "",
       "HomeTeam": "Faroe Islands",
@@ -123,7 +214,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Andorra",
@@ -136,7 +227,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Spain",
@@ -149,7 +240,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Ukraine",
@@ -229,7 +320,7 @@
   "day4": [
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "Sunday Oct. 11, 2020",
       "GameState": "",
       "HomeTeam": "",
@@ -242,12 +333,12 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "9:00am",
       "GameState": "",
-      "HomeTeam": "Republic Of Ireland",
+      "HomeTeam": "Ireland Republic",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/476.png",
+      "HomeLogo": "",
       "AwayTeam": "Wales",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/578.png",
@@ -255,7 +346,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "9:00am",
       "GameState": "",
       "HomeTeam": "Kazakhstan",
@@ -268,7 +359,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
       "GameState": "",
       "HomeTeam": "England",
@@ -281,7 +372,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
       "GameState": "",
       "HomeTeam": "Croatia",
@@ -294,7 +385,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
       "GameState": "",
       "HomeTeam": "Finland",
@@ -307,7 +398,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
       "GameState": "",
       "HomeTeam": "Armenia",
@@ -320,7 +411,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
       "GameState": "",
       "HomeTeam": "Lithuania",
@@ -333,7 +424,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
       "GameState": "",
       "HomeTeam": "Bosnia And Herzegovina",
@@ -346,7 +437,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
       "GameState": "",
       "HomeTeam": "Norway",
@@ -359,7 +450,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
       "GameState": "",
       "HomeTeam": "Estonia",
@@ -372,7 +463,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Iceland",
@@ -385,7 +476,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "France",
@@ -398,7 +489,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Russia",
@@ -411,7 +502,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Serbia",
@@ -424,7 +515,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Greece",
@@ -437,7 +528,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Kosovo",
@@ -450,7 +541,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Poland",
@@ -463,7 +554,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Ael",
@@ -476,7 +567,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "SCotland",
@@ -489,7 +580,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Northern Ireland",
@@ -662,7 +753,7 @@
   "day6": [
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "Tuesday Oct. 13, 2020",
       "GameState": "",
       "HomeTeam": "",
@@ -675,20 +766,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
-      "GameTime": "12:00pm",
-      "GameState": "",
-      "HomeTeam": "Latvia",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/456.png",
-      "AwayTeam": "Malta",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/453.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
-    },
-    {
-      "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
       "GameState": "",
       "HomeTeam": "Azerbaijan",
@@ -701,20 +779,20 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
-      "GameTime": "2:45pm",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
+      "GameTime": "12:00pm",
       "GameState": "",
-      "HomeTeam": "Liechtenstein",
+      "HomeTeam": "Latvia",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/589.png",
-      "AwayTeam": "San Marino",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/456.png",
+      "AwayTeam": "Malta",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/588.png",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/453.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Faroe Islands",
@@ -727,7 +805,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Germany",
@@ -740,20 +818,20 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
-      "HomeTeam": "Ukraine",
+      "HomeTeam": "Liechtenstein",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/457.png",
-      "AwayTeam": "Spain",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/589.png",
+      "AwayTeam": "San Marino",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/164.png",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/588.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Montenegro",
@@ -763,12 +841,25 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/582.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "UEFA Nations League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
+      "GameTime": "2:45pm",
+      "GameState": "",
+      "HomeTeam": "Ukraine",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/457.png",
+      "AwayTeam": "Spain",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/164.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     }
   ],
   "day7": [
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "Wednesday Oct. 14, 2020",
       "GameState": "",
       "HomeTeam": "",
@@ -781,20 +872,20 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
       "GameState": "",
       "HomeTeam": "Finland",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/458.png",
-      "AwayTeam": "Republic Of Ireland",
+      "AwayTeam": "Ireland Republic fuboTV ,  ESPN3 ,  TUDN USA ,  ESPN…",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/476.png",
-      "TVChannels": "fuboTV ,  ESPN3 ,  TUDN USA ,  ESPN…"
+      "AwayLogo": "",
+      "TVChannels": "vs Ireland Republic fuboTV ,  ESPN3 ,  TUDN USA ,  ESPN…"
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
       "GameState": "",
       "HomeTeam": "Lithuania",
@@ -807,7 +898,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "England",
@@ -820,7 +911,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Iceland",
@@ -833,7 +924,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Croatia",
@@ -846,7 +937,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Portugal",
@@ -859,7 +950,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Russia",
@@ -872,7 +963,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Turkey",
@@ -885,7 +976,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Bulgaria",
@@ -898,7 +989,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Greece",
@@ -911,7 +1002,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Moldova",
@@ -924,7 +1015,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Belarus",
@@ -937,7 +1028,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Italy",
@@ -950,7 +1041,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Poland",
@@ -963,7 +1054,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Norway",
@@ -976,7 +1067,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Roma",
@@ -989,7 +1080,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "SCotland",
@@ -1002,7 +1093,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Slovakia",
@@ -1015,7 +1106,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Estonia",
@@ -1028,7 +1119,7 @@
     },
     {
       "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "North Macedonia",
