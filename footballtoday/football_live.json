@@ -27,6 +27,19 @@
       "TVChannels": "LeagueHeader"
     }
   ],
+  "day2": [
+    {
+      "LeagueName": "No League Games",
+      "LeagueLogo": "",
+      "GameTime": "Friday Oct. 9, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     },
     {
       "LeagueName": "Today",
@@ -42,11 +55,11 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-    },
+  "day3": [
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
+      "LeagueName": "UEFA Nations League",
+      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "GameTime": "Saturday Oct. 10, 2020",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -55,6 +68,162 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Nations League",
+      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "GameTime": "9:00am",
+      "GameState": "",
+      "HomeTeam": "Luxembourg",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/582.png",
+      "AwayTeam": "Cyprus",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/445.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "UEFA Nations League",
+      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "GameTime": "9:00am",
+      "GameState": "",
+      "HomeTeam": "Montenegro",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6775.png",
+      "AwayTeam": "Azerbaijan",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/581.png",
+      "TVChannels": "fuboTV ,  ESPN3 ,  TUDN USA ,  ESPN…"
+    },
+    {
+      "LeagueName": "UEFA Nations League",
+      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Liechtenstein",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/589.png",
+      "AwayTeam": "Gibraltar",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/16721.png",
+      "TVChannels": "fuboTV ,  ESPN3 ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "UEFA Nations League",
+      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Faroe Islands",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/447.png",
+      "AwayTeam": "Latvia",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/456.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  ESPN…"
+    },
+    {
+      "LeagueName": "UEFA Nations League",
+      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "GameTime": "2:45pm",
+      "GameState": "",
+      "HomeTeam": "Andorra",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/587.png",
+      "AwayTeam": "Malta",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/453.png",
+      "TVChannels": "fuboTV ,  ESPN3 ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "UEFA Nations League",
+      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "GameTime": "2:45pm",
+      "GameState": "",
+      "HomeTeam": "Spain",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/164.png",
+      "AwayTeam": "Switzerland",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/475.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  ESPN…"
+    },
+    {
+      "LeagueName": "UEFA Nations League",
+      "LeagueLogo": "https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png",
+      "GameTime": "2:45pm",
+      "GameState": "",
+      "HomeTeam": "Ukraine",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/457.png",
+      "AwayTeam": "Germany",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/481.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "Saturday Oct. 10, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "5:00pm",
+      "GameState": "",
+      "HomeTeam": "Inter Miami",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
+      "AwayTeam": "Houston Dynamo",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png",
+      "TVChannels": "fuboTV ,  TUDN USA ,  UniMás ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "6:00pm",
+      "GameState": "",
+      "HomeTeam": "Atlanta United",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
+      "AwayTeam": "NY Red Bulls",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "7:00pm",
+      "GameState": "",
+      "HomeTeam": "Colorado Rapids",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png",
+      "AwayTeam": "LA Galaxy",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png",
+      "TVChannels": "fuboTV ,  TUDN USA ,  UniMás ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "10:00pm",
+      "GameState": "",
+      "HomeTeam": "Vancouver Whitecaps",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
+      "AwayTeam": "Real Salt Lake",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ],
   "day4": [
