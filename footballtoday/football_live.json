@@ -43,7 +43,7 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "8:30pm",
-      "GameState": "35 ",
+      "GameState": "HT ",
       "HomeTeam": "Gent",
       "HomeGoals": "1",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/belgium/logos/gent.png",
@@ -109,19 +109,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png",
       "GameTime": "2:45pm",
       "GameState": "FT ",
-      "HomeTeam": "North Macedonia",
-      "HomeGoals": "2",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/463.png",
-      "AwayTeam": "Kosovo",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/18272.png",
-      "TVChannels": "fuboTV ,  ESPN3 ,  ESPN App ,  TUDN.com ,  TUDNx…"
-    },
-    {
-      "LeagueName": "UEFA Euro Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png",
-      "GameTime": "2:45pm",
-      "GameState": "FT ",
       "HomeTeam": "Iceland",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/470.png",
@@ -129,6 +116,19 @@
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
       "TVChannels": "nia fuboTV ,  ESPN3 ,  ESPN App ,  TUDN.com ,  TUDNx…"
+    },
+    {
+      "LeagueName": "UEFA Euro Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png",
+      "GameTime": "2:45pm",
+      "GameState": "FT ",
+      "HomeTeam": "North Macedonia",
+      "HomeGoals": "2",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/463.png",
+      "AwayTeam": "Kosovo",
+      "AwayGoals": "1",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/18272.png",
+      "TVChannels": "fuboTV ,  ESPN3 ,  ESPN App ,  TUDN.com ,  TUDNx…"
     },
     {
       "LeagueName": "UEFA Euro Qualifying",
@@ -352,32 +352,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
-    },
-    {
-      "LeagueName": "German Bundesliga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
-      "GameTime": "Saturday Oct. 10, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Italian Serie A",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
-      "GameTime": "Saturday Oct. 10, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     }
   ],
   "day3": [
