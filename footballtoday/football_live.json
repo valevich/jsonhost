@@ -17,9 +17,9 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "6:30pm",
-      "GameState": "67 ",
+      "GameState": "82 ",
       "HomeTeam": "Paraguay",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/210.png",
       "AwayTeam": "Peru",
       "AwayGoals": "1",
@@ -30,12 +30,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "6:45pm",
-      "GameState": "52 ",
+      "GameState": "67 ",
       "HomeTeam": "Uruguay",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/212.png",
       "AwayTeam": "Chile",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/207.png",
       "TVChannels": "Fanatiz USA ,  FITE ,  Sport 1 ,  Sp…"
     },
@@ -819,6 +819,19 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
       "GameState": "",
+      "HomeTeam": "Latvia",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/456.png",
+      "AwayTeam": "Malta",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/453.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "UEFA Nations League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
       "HomeTeam": "Azerbaijan",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/581.png",
@@ -830,14 +843,14 @@
     {
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
-      "GameTime": "12:00pm",
+      "GameTime": "2:45pm",
       "GameState": "",
-      "HomeTeam": "Latvia",
+      "HomeTeam": "Liechtenstein",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/456.png",
-      "AwayTeam": "Malta",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/589.png",
+      "AwayTeam": "San Marino",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/453.png",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/588.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
     {
@@ -871,12 +884,12 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
-      "HomeTeam": "Liechtenstein",
+      "HomeTeam": "Ukraine",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/589.png",
-      "AwayTeam": "San Marino",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/457.png",
+      "AwayTeam": "Spain",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/588.png",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/164.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
     {
@@ -890,19 +903,6 @@
       "AwayTeam": "Luxembourg",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/582.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
-    },
-    {
-      "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Ukraine",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/457.png",
-      "AwayTeam": "Spain",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/164.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
     {
@@ -923,19 +923,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "4:00pm",
       "GameState": "",
-      "HomeTeam": "Bolivia",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/204.png",
-      "AwayTeam": "Gent",
-      "AwayGoals": "",
-      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/belgium/logos/gent.png",
-      "TVChannels": ":00pm   Bolivia vs Argentina Fanatiz USA ,  FITE ,  Sport 2 ,  be…"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "4:00pm",
-      "GameState": "",
       "HomeTeam": "Venezuela",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/213.png",
@@ -943,6 +930,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/210.png",
       "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "4:00pm",
+      "GameState": "",
+      "HomeTeam": "Bolivia",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/204.png",
+      "AwayTeam": "Gent",
+      "AwayGoals": "",
+      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/belgium/logos/gent.png",
+      "TVChannels": ":00pm   Bolivia vs Argentina Fanatiz USA ,  FITE ,  Sport 2 ,  be…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -1308,7 +1308,7 @@
       "AwayTeam": "NYFC",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  YES Network ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
