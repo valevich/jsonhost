@@ -17,12 +17,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "6:30pm",
-      "GameState": "52 ",
+      "GameState": "67 ",
       "HomeTeam": "Paraguay",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/210.png",
       "AwayTeam": "Peru",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/211.png",
       "TVChannels": "Fanatiz USA ,  FITE ,  Sport TV1 ,  S…"
     },
@@ -30,7 +30,7 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "6:45pm",
-      "GameState": "HT ",
+      "GameState": "52 ",
       "HomeTeam": "Uruguay",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/212.png",
@@ -171,47 +171,6 @@
     }
   ],
   "day2": [
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "Friday Oct. 9, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "7:30pm",
-      "GameState": "",
-      "HomeTeam": "Colombia",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/208.png",
-      "AwayTeam": "Venezuela",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/213.png",
-      "TVChannels": "Fanatiz USA ,  FITE ,  Sport 1 ,  Sp…"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "8:30pm",
-      "GameState": "",
-      "HomeTeam": "Brazil",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/205.png",
-      "AwayTeam": "Bolivia",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/204.png",
-      "TVChannels": "Fanatiz USA ,  FITE ,  SportKlub…"
-    }
-  ],
-  "day3": [
     {
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
@@ -395,7 +354,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
@@ -813,7 +772,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "No League Games",
       "LeagueLogo": "",
@@ -841,7 +800,7 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
@@ -1025,7 +984,7 @@
       "TVChannels": "Fanatiz USA ,  FITE ,  beIN Spor…"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
@@ -1480,6 +1439,34 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "No League Games Today",
+      "LeagueLogo": "",
+      "GameTime": "Thursday Oct. 15, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ]
 }
