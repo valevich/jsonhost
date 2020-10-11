@@ -43,27 +43,27 @@
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "England",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/448.png",
       "AwayTeam": "Belgium",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/459.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  ESPN…"
+      "TVChannels": "ESPN+ ,  fuboTV ,  TUDN USA ,  ESPN App ,  TUDN…"
     },
     {
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Croatia",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/477.png",
       "AwayTeam": "Sweden",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/466.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  TUDN.com ,  TUDNx…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -76,46 +76,46 @@
       "AwayTeam": "Bulgaria",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/462.png",
-      "TVChannels": "fuboTV ,  ESPN3 ,  ESPN App ,  …"
+      "TVChannels": "fuboTV ,  ESPN3 ,  ESPN App ,  TUDN.com ,  TUDNx…"
     },
     {
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Armenia",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/579.png",
       "AwayTeam": "Georgia",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/584.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  TUDN.com ,  TUDNx…"
     },
     {
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Lithuania",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/460.png",
       "AwayTeam": "Belarus",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/583.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  TUDN.com ,  TUDNx…"
     },
     {
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Bosnia And Herzegovina",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/452.png",
       "AwayTeam": "Netherlands",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/449.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  TUDN.com ,  TUDNx…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -128,7 +128,7 @@
       "AwayTeam": "Roma",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-      "TVChannels": "nia ESPN+ ,  fuboTV ,  ESPN App ,  …"
+      "TVChannels": "nia ESPN+ ,  fuboTV ,  ESPN App ,  TUDN.com ,  TUDNx…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -141,7 +141,7 @@
       "AwayTeam": "North Macedonia",
       "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/463.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  TUDN.com ,  TUDNx…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -272,6 +272,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/474.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "Sunday Oct. 11, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     },
     {
       "LeagueName": "Major League Soccer",
