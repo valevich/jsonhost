@@ -381,12 +381,12 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "10:00pm",
-      "GameState": "",
+      "GameState": "6 '",
       "HomeTeam": "Portland Timbers",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
       "AwayTeam": "SJ Earthquakes",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  M…"
     }
@@ -520,7 +520,7 @@
       "AwayTeam": "Gent",
       "AwayGoals": "",
       "AwayLogo": "https://cdn.livesoccertv.com/images/teams/belgium/logos/gent.png",
-      "TVChannels": ":00pm   Bolivia vs Argentina Fanatiz USA ,  FITE ,  Sport 2 ,  be…"
+      "TVChannels": ":00pm   Bolivia vs Argentina Fanatiz USA ,  FITE ,  SportKlub…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -546,7 +546,7 @@
       "AwayTeam": "Paraguay",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/210.png",
-      "TVChannels": "beIN SPORTS XTRA ,  beIN Sports MAX…"
+      "TVChannels": "beIN SPORTS XTRA ,  SportKlub 1 Serbi…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -1282,7 +1282,7 @@
       "AwayTeam": "Lazio",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Blue S…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Arena…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1412,7 +1412,7 @@
       "AwayTeam": "Lorient",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-      "TVChannels": "Viaplay Denmark ,  Viaplay Sweden ,  Viaplay N…"
+      "TVChannels": "Arena Sport 4 Serbia ,  Viaplay Denmark ,  Vi…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1425,7 +1425,7 @@
       "AwayTeam": "Bordeaux",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
-      "TVChannels": "DAZN ,  Viaplay Denmark ,  Viaplay Sweden ,  Via…"
+      "TVChannels": "DAZN ,  Arena Sport 2 Serbia ,  Arena Sport…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1674,7 +1674,7 @@
       "AwayTeam": "Cagliari",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Blue S…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Arena…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1765,7 +1765,7 @@
       "AwayTeam": "Lyon",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "TVChannels": "nais DAZN ,  Viaplay Denmark ,  Viaplay Sweden ,  Via…"
+      "TVChannels": "nais DAZN ,  Arena Sport 3 ,  Viaplay Denmark ,  Viap…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1830,7 +1830,7 @@
       "AwayTeam": "Lens",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-      "TVChannels": "OneSoccer ,  DAZN ,  Viaplay Denmark ,  Viaplay…"
+      "TVChannels": "OneSoccer ,  DAZN ,  Arena Sport 1 ,  Viaplay De…"
     },
     {
       "LeagueName": "Major League Soccer",
