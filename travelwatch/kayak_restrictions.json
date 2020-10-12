@@ -52,8 +52,8 @@
         "country": "Argentina",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ar.svg?v=212734ce6562b218f9258c5126b79ebb66004746&amp;cluster=4",
         "iso_alpha2": "ar",
-        "report1": "Argentina has restricted entry to most foreign travelers until at least October 11, except for nationals and residents, and repatriation, medical, and humanitarian flights.",
-        "report2": "Argentina has restricted entry to most foreign travelers until at least October 11, except for nationals and residents, and repatriation, medical, and humanitarian flights.Argentina suspended international passenger flights from the pandemic -affected areas- (Europe, the US, South Korea, Japan, China, and Iran) till further notice.Travelers eligible to enter Argentina are subject to a 14-day quarantine on arrival.Airlines operating repatriation flights must send all passenger information to ANAC 12 hours before departure. This information must contain the passenger list with travel document numbers, phone numbers, and addresses where each person declares that they will comply with the mandatory quarantine upon arrival."
+        "report1": "Argentina has restricted entry to most foreign travelers, except for nationals and residents, and repatriation, medical, and humanitarian flights.",
+        "report2": "Argentina has restricted entry to most foreign travelers, except for nationals and residents, and repatriation, medical, and humanitarian flights.Argentina suspended international passenger flights from the pandemic -affected areas- (Europe, the US, South Korea, Japan, China, and Iran) till further notice.Travelers eligible to enter Argentina are subject to a 14-day quarantine on arrival.Airlines operating repatriation flights must send all passenger information to ANAC 12 hours before departure. This information must contain the passenger list with travel document numbers, phone numbers, and addresses where each person declares that they will comply with the mandatory quarantine upon arrival."
     },
     {
         "country": "Armenia",
@@ -765,7 +765,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/la.svg?v=8d0b38f4342f997e4dcf8aa27596e44a18a26821&amp;cluster=4",
         "iso_alpha2": "la",
         "report1": "Laos' travel restrictions are still in effect.",
-        "report2": "Laos has suspended all flights with limited exceptions.rnrnMedevac, humanitarian, relief, diplomat and repatriation flights with an entry permit obtained from the Laos Ministry of Foreign Affairs may still enter the country.rnrnTechnical stops where passengers and airline crew do not disembark are also still permitted to enter.rnrnAll entrants must provide a negative PCR test issued at most 72 hours before departure. They must also complete a health declaration form on arrival, and will be subject to medical screening and a 14-day self-quarantine requirement at their own expense."
+        "report2": "Laos has suspended all flights with limited exceptions.Medevac, humanitarian, relief, diplomat and repatriation flights with an entry permit obtained from the Laos Ministry of Foreign Affairs may still enter the country.Technical stops where passengers and airline crew do not disembark are also still permitted to enter.All entrants must provide a negative PCR test issued at most 72 hours before departure. They must also complete a health declaration form on arrival, and will be subject to medical screening and a 14-day self-quarantine requirement at their own expense."
     },
     {
         "country": "Latvia",
@@ -834,8 +834,8 @@
         "country": "Madagascar",
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/mg.svg?v=eeb0d3db081c8ed12262ac9b7d6d05668784a750&amp;cluster=4",
         "iso_alpha2": "mg",
-        "report1": "Madagascar has suspended all flights with the exception of medical evacuations, repatriations outside of the country, and cargo shipments.",
-        "report2": "Madagascar has suspended all flights with the exception of medical evacuations, repatriations outside of the country, and cargo shipments. All flights must take off or land before 10 am."
+        "report1": "Madagascar has suspended all flights with the exception of medical evacuations, repatriations outside of the country, and cargo shipments. Travelers entering Nosy Be must present a negative result of a PCR test carried out 72 hours, complete a health form and submitting to temperature checks on arrival.",
+        "report2": "Madagascar has suspended all flights with the exception of medical evacuations, repatriations outside of the country, and cargo shipments. All flights must take off or land before 10 am.Travelers are only be able to visit the island of Nosy Be. Travel to the mainland of Madagascar is not yet allowed until at least October 29.Travelers entering Nosy Be must present a negative result of a PCR test carried out 72 hours, complete a health form and submitting to temperature checks on arrival.Travelers must have a return ticket, sign a xe2x80x98letter of commitmentxe2x80x99 and carry a local phone card for monitoring.rn"
     },
     {
         "country": "Malawi",
@@ -1188,7 +1188,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/vc.svg?v=fb126799a50397452ca73b502cd3315dee90b7c8&amp;cluster=4",
         "iso_alpha2": "vc",
         "report1": "Saint Vincent and the Grenadines entry restrictions vary depending upon country of origin.",
-        "report2": "all travelers are subject to pcr test and quarantine upon entry.rnrneffective on september 7, travelers arriving from anguilla, antigua and barbuda, barbados, canada, dominica, grenada, iceland, montserrat, st. kitts and nevis, st. lucia or taiwan must have a medical certificate with a negative  () test result issued within 7 days before arrival.travelers arriving from belize, cuba, germany, guyana, suriname, the uk, virgin isl. (british) must have a medical certificate with a negative  () test result issued within 5 days before arrivaltravelers transiting st. vincent and the grenadines must have a medical certificate with a negative  () pcr test result issued within 5 days before arrivalA completed -Pre-Arrival form- must be presented upon arrival. The form can be obtained at <a href=-http://health.gov.vc/health/->http://health.gov.vc/health/</a>"
+        "report2": "All travelers are subject to PCR test and quarantine upon entry.travelers entering st. vincent and the grenadines must have a medical certificate with a negative  rt-pcr test result issued at most 5 days before arrival, except those arriving from barbados (they must have been in barbados in the past 14 days).depending on the country of origin travelers could be subject to  () pcr test and quarantine; details can be found at <a href=-http://www.gov.vc/index.php/visitors/-protocols->http://www.gov.vc/index.php/visitors/-protocols</a>.travelers transiting st. vincent and the grenadines must have a medical certificate with a negative  () pcr test result issued within 5 days before arrivalA completed -Pre-Arrival form- must be presented upon arrival. The form can be obtained at <a href=-http://health.gov.vc/health/->http://health.gov.vc/health/</a>"
     },
     {
         "country": "Samoa",
@@ -1454,7 +1454,7 @@
         "flagurl": "https://content.r9cdn.net/res/images/flags-svg/ug.svg?v=c159781d4b1eab9d9bd937a5f4ba594f089e761c&amp;cluster=4",
         "iso_alpha2": "ug",
         "report1": "",
-        "report2": "travelers must present a negative  test certificate issued within 72 hours before boarding the aircraft. travelers without a negative test certificate are not allowed to travel.travelers and airline crew are subject to medical screening. those presenting with symptoms of any infectious disease will be required to remain in quarantine until a  test is conducted and test results are returned.rn"
+        "report2": "travelers must present a negative  test certificate issued within 72 hours before boarding the aircraft. travelers without a negative test certificate are not allowed to travel. children under the age of 3 are exempt as long as the accompanying parents have a negative test certificate.travelers and airline crew are subject to medical screening. those presenting with symptoms of any infectious disease will be required to remain in quarantine until a  test is conducted and test results are returned.rn"
     },
     {
         "country": "Ukraine",
