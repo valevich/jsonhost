@@ -52,6 +52,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Robin Olsen",
+          "playerlink": "https://www.livesoccertv.com/player/r-olsen/102524/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/102524-r-olsen.png",
+          "playerposition": "Goalkeeper",
+          "playernationality": "Sweden",
+          "playerdob": "8 January, 1990",
+          "playerage": "30 years",
+          "playerbirthplace": "Malmö, Sweden",
+          "playerweight": "196.2 lb",
+          "playerheight": "6 ft 5 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "M. Keane",
           "playerlink": "https://www.livesoccertv.com/player/m-keane/172812/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/172812-m-keane.png",
@@ -346,20 +360,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "T. Walcott",
-          "playerlink": "https://www.livesoccertv.com/player/t-walcott/327/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/327-t-walcott.png",
-          "playerposition": "Forward",
-          "playernationality": "England",
-          "playerdob": "16 March, 1989",
-          "playerage": "31 years",
-          "playerbirthplace": "London, England",
-          "playerweight": "149.9 lb",
-          "playerheight": "5 ft 9 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Anthony Gordon",
           "playerlink": "https://www.livesoccertv.com/player/a-gordon/342104/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/342104-a-gordon.png",
@@ -414,20 +414,6 @@
           "playerheight": "5 ft 9 in",
           "playergoals": "6",
           "playerassists": "0"
-        },
-        {
-          "playername": "Sandro Ramírez Castillo",
-          "playerlink": "https://www.livesoccertv.com/player/sandro-ramirez/175860/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/175860-sandro-ramirez.png",
-          "playerposition": "Forward",
-          "playernationality": "Spain",
-          "playerdob": "9 July, 1995",
-          "playerage": "25 years",
-          "playerbirthplace": "Las Palmas, Spain",
-          "playerweight": "156.5 lb",
-          "playerheight": "5 ft 8 in",
-          "playergoals": "0",
-          "playerassists": "0"
         }
       ]
     },
@@ -440,20 +426,6 @@
       "teamcapacity": "42,788",
       "teammanager": "D. Smith",
       "players": [
-        {
-          "playername": "Ørjan  Håskjold Nyland",
-          "playerlink": "https://www.livesoccertv.com/player/o-nyland/29482/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/29482-o-nyland.png",
-          "playerposition": "Goalkeeper",
-          "playernationality": "Norway",
-          "playerdob": "10 September, 1990",
-          "playerage": "30 years",
-          "playerbirthplace": "Kristiansund, Norway",
-          "playerweight": "198.4 lb",
-          "playerheight": "6 ft 3 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
         {
           "playername": "Damián Emiliano Martínez",
           "playerlink": "https://www.livesoccertv.com/player/e-martinez/95870/",
@@ -984,20 +956,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Josh Knight",
-          "playerlink": "https://www.livesoccertv.com/player/j-knight/338059/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/338059-j-knight.png",
-          "playerposition": "Defender",
-          "playernationality": "England",
-          "playerdob": "7 September, 1997",
-          "playerage": "23 years",
-          "playerbirthplace": "Leicester, England",
-          "playerweight": "172 lb",
-          "playerheight": "6 ft 0 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Daniel Amartey",
           "playerlink": "https://www.livesoccertv.com/player/d-amartey/203423/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/203423-d-amartey.png",
@@ -1485,20 +1443,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Lucas Torreira Di Pascua",
-          "playerlink": "https://www.livesoccertv.com/player/l-torreira/270887/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/270887-l-torreira.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Uruguay",
-          "playerdob": "11 February, 1996",
-          "playerage": "24 years",
-          "playerbirthplace": "Fray Bentos, Uruguay",
-          "playerweight": "141.1 lb",
-          "playerheight": "5 ft 6 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Mohamed Naser Elsayed Elneny",
           "playerlink": "https://www.livesoccertv.com/player/mohamed-elneny/130860/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/130860-mohamed-elneny.png",
@@ -1513,20 +1457,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Mattéo Guendouzi Olié",
-          "playerlink": "https://www.livesoccertv.com/player/m-guendouzi/323909/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/323909-m-guendouzi.png",
-          "playerposition": "Midfielder",
-          "playernationality": "France",
-          "playerdob": "14 April, 1999",
-          "playerage": "21 years",
-          "playerbirthplace": "",
-          "playerweight": "149.9 lb",
-          "playerheight": "6 ft 0 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Mesut Özil",
           "playerlink": "https://www.livesoccertv.com/player/m-ozil/2119/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/2119-m-ozil.png",
@@ -1537,6 +1467,20 @@
           "playerbirthplace": "Gelsenkirchen, Germany",
           "playerweight": "167.6 lb",
           "playerheight": "5 ft 10 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "Thomas Teye Partey",
+          "playerlink": "https://www.livesoccertv.com/player/t-partey/203349/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/203349-t-partey.png",
+          "playerposition": "Midfielder",
+          "playernationality": "Ghana",
+          "playerdob": "13 June, 1993",
+          "playerage": "27 years",
+          "playerbirthplace": "Odumase Krobo, Ghana",
+          "playerweight": "169.8 lb",
+          "playerheight": "6 ft 0 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -1982,20 +1926,6 @@
           "playerbirthplace": "Campinas, Brazil",
           "playerweight": "172 lb",
           "playerheight": "6 ft 2 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Marko Grujić",
-          "playerlink": "https://www.livesoccertv.com/player/m-grujic/218205/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/218205-m-grujic.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Serbia",
-          "playerdob": "13 April, 1996",
-          "playerage": "24 years",
-          "playerbirthplace": "Beograd, Serbia",
-          "playerweight": "180.8 lb",
-          "playerheight": "6 ft 3 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -2652,20 +2582,6 @@
       "teammanager": "F. Lampard",
       "players": [
         {
-          "playername": "Nathan Baxter",
-          "playerlink": "https://www.livesoccertv.com/player/n-baxter/281601/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/281601-n-baxter.png",
-          "playerposition": "Goalkeeper",
-          "playernationality": "England",
-          "playerdob": "8 November, 1998",
-          "playerage": "21 years",
-          "playerbirthplace": "London, England",
-          "playerweight": "",
-          "playerheight": "6 ft 3 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Kepa Arrizabalaga Revuelta",
           "playerlink": "https://www.livesoccertv.com/player/kepa/166511/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/166511-kepa.png",
@@ -2930,20 +2846,6 @@
           "playerheight": "6 ft 2 in",
           "playergoals": "0",
           "playerassists": "1"
-        },
-        {
-          "playername": "Ruben Loftus-Cheek",
-          "playerlink": "https://www.livesoccertv.com/player/r-loftus-cheek/219020/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/219020-r-loftus-cheek.png",
-          "playerposition": "Midfielder",
-          "playernationality": "England",
-          "playerdob": "23 January, 1996",
-          "playerage": "24 years",
-          "playerbirthplace": "London, England",
-          "playerweight": "194 lb",
-          "playerheight": "6 ft 3 in",
-          "playergoals": "0",
-          "playerassists": "0"
         },
         {
           "playername": "B. Gilmour",
@@ -3293,20 +3195,6 @@
           "playerassists": "1"
         },
         {
-          "playername": "Mateusz Piotr Bogusz",
-          "playerlink": "https://www.livesoccertv.com/player/m-bogusz/382850/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Poland",
-          "playerdob": "22 August, 2001",
-          "playerage": "19 years",
-          "playerbirthplace": "Ruda Śląska, Poland",
-          "playerweight": "",
-          "playerheight": "5 ft 8 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Adam Forshaw",
           "playerlink": "https://www.livesoccertv.com/player/a-forshaw/102082/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/102082-a-forshaw.jpg",
@@ -3373,6 +3261,20 @@
           "playerbirthplace": "Gloucester, England",
           "playerweight": "165.3 lb",
           "playerheight": "5 ft 10 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "Raphael Dias Belloli",
+          "playerlink": "https://www.livesoccertv.com/player/raphinha/314243/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/314243-raphinha.png",
+          "playerposition": "Forward",
+          "playernationality": "Brazil",
+          "playerdob": "14 December, 1996",
+          "playerage": "23 years",
+          "playerbirthplace": "Porto Alegre, Brazil",
+          "playerweight": "127.9 lb",
+          "playerheight": "5 ft 9 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -4071,34 +3973,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Josh Cullen",
-          "playerlink": "https://www.livesoccertv.com/player/j-cullen/292888/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/292888-j-cullen.jpg",
-          "playerposition": "Midfielder",
-          "playernationality": "Ireland",
-          "playerdob": "7 April, 1996",
-          "playerage": "24 years",
-          "playerbirthplace": "Southend-on-Sea, England",
-          "playerweight": "154.3 lb",
-          "playerheight": "5 ft 8 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Jack Wilshere",
-          "playerlink": "https://www.livesoccertv.com/player/j-wilshere/61208/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/61208-j-wilshere.png",
-          "playerposition": "Midfielder",
-          "playernationality": "England",
-          "playerdob": "1 January, 1992",
-          "playerage": "28 years",
-          "playerbirthplace": "Stevenage, England",
-          "playerweight": "149.9 lb",
-          "playerheight": "5 ft 7 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Declan Rice",
           "playerlink": "https://www.livesoccertv.com/player/d-rice/298789/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/298789-d-rice.png",
@@ -4137,20 +4011,6 @@
           "playerbirthplace": "Canning Town, England",
           "playerweight": "154.3 lb",
           "playerheight": "5 ft 10 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Felipe  Anderson Pereira Gomes",
-          "playerlink": "https://www.livesoccertv.com/player/felipe-anderson/133713/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/133713-felipe-anderson.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Brazil",
-          "playerdob": "15 April, 1993",
-          "playerage": "27 years",
-          "playerbirthplace": "Brasília, Brazil",
-          "playerweight": "154.3 lb",
-          "playerheight": "5 ft 8 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -4263,20 +4123,6 @@
           "playerbirthplace": "",
           "playerweight": "",
           "playerheight": "",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Alexandre Nascimento Costa Silva",
-          "playerlink": "https://www.livesoccertv.com/player/alexandre-silva/253430/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/253430-alexandre-silva.png",
-          "playerposition": "Forward",
-          "playernationality": "Portugal",
-          "playerdob": "16 March, 1997",
-          "playerage": "23 years",
-          "playerbirthplace": "Lisboa, Portugal",
-          "playerweight": "149.9 lb",
-          "playerheight": "5 ft 9 in",
           "playergoals": "0",
           "playerassists": "0"
         }
@@ -4474,20 +4320,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Sofiane Boufal",
-          "playerlink": "https://www.livesoccertv.com/player/s-boufal/202780/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/202780-s-boufal.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Morocco",
-          "playerdob": "17 September, 1993",
-          "playerage": "27 years",
-          "playerbirthplace": "Paris, France",
-          "playerweight": "132.3 lb",
-          "playerheight": "5 ft 6 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "William Anthony Patrick Smallbone",
           "playerlink": "https://www.livesoccertv.com/player/w-smallbone/333091/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/333091-w-smallbone.png",
@@ -4596,6 +4428,20 @@
           "playerbirthplace": "Dublin, Ireland",
           "playerweight": "156.5 lb",
           "playerheight": "5 ft 6 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "T. Walcott",
+          "playerlink": "https://www.livesoccertv.com/player/t-walcott/327/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/327-t-walcott.png",
+          "playerposition": "Forward",
+          "playernationality": "England",
+          "playerdob": "16 March, 1989",
+          "playerage": "31 years",
+          "playerbirthplace": "London, England",
+          "playerweight": "149.9 lb",
+          "playerheight": "5 ft 9 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -4719,20 +4565,6 @@
           "playerbirthplace": "Liverpool, England",
           "playerweight": "167.6 lb",
           "playerheight": "6 ft 2 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Jarosław Jach",
-          "playerlink": "https://www.livesoccertv.com/player/j-jach/269374/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/269374-j-jach.png",
-          "playerposition": "Defender",
-          "playernationality": "Poland",
-          "playerdob": "17 February, 1994",
-          "playerage": "26 years",
-          "playerbirthplace": "Bielawa, Poland",
-          "playerweight": "172 lb",
-          "playerheight": "6 ft 3 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -6002,20 +5834,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Alexander Cochrane",
-          "playerlink": "https://www.livesoccertv.com/player/a-cochrane/333472/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/333472-a-cochrane.png",
-          "playerposition": "Defender",
-          "playernationality": "England",
-          "playerdob": "21 April, 2000",
-          "playerage": "20 year",
-          "playerbirthplace": "",
-          "playerweight": "",
-          "playerheight": "",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Adam David Lallana",
           "playerlink": "https://www.livesoccertv.com/player/a-lallana/15630/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/15630-a-lallana.jpg",
@@ -6212,7 +6030,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "A. Zeqiri",
+          "playername": "Andi Avdi Zeqiri",
           "playerlink": "https://www.livesoccertv.com/player/a-zeqiri/284754/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/284754-a-zeqiri.jpg",
           "playerposition": "Forward",
@@ -6489,6 +6307,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Alex Nicolao Telles",
+          "playerlink": "https://www.livesoccertv.com/player/alex-telles/105147/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/105147-alex-telles.png",
+          "playerposition": "Defender",
+          "playernationality": "Brazil",
+          "playerdob": "15 December, 1992",
+          "playerage": "27 years",
+          "playerbirthplace": "Caxias do Sul, Brazil",
+          "playerweight": "147.7 lb",
+          "playerheight": "5 ft 11 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "M. Rojo",
           "playerlink": "https://www.livesoccertv.com/player/m-rojo/69072/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/69072-m-rojo.png",
@@ -6514,20 +6346,6 @@
           "playerweight": "220.5 lb",
           "playerheight": "6 ft 4 in",
           "playergoals": "1",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Chris Smalling",
-          "playerlink": "https://www.livesoccertv.com/player/c-smalling/79606/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/79606-c-smalling.png",
-          "playerposition": "Defender",
-          "playernationality": "England",
-          "playerdob": "22 November, 1989",
-          "playerage": "30 years",
-          "playerbirthplace": "Greenwich, England",
-          "playerweight": "178.6 lb",
-          "playerheight": "6 ft 4 in",
-          "playergoals": "0",
           "playerassists": "0"
         },
         {
@@ -6657,6 +6475,20 @@
           "playerassists": "1"
         },
         {
+          "playername": "Facundo Pellistri Rebollo",
+          "playerlink": "https://www.livesoccertv.com/player/f-pellistri/397608/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/397608-f-pellistri.png",
+          "playerposition": "Forward",
+          "playernationality": "Uruguay",
+          "playerdob": "20 December, 2001",
+          "playerage": "18 years",
+          "playerbirthplace": "Montevideo, Uruguay",
+          "playerweight": "143.3 lb",
+          "playerheight": "5 ft 8 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Marcus Rashford",
           "playerlink": "https://www.livesoccertv.com/player/m-rashford/308286/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/308286-m-rashford.png",
@@ -6681,6 +6513,20 @@
           "playerbirthplace": "Bradford, England",
           "playerweight": "154.3 lb",
           "playerheight": "5 ft 11 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "E. Cavani",
+          "playerlink": "https://www.livesoccertv.com/player/e-cavani/6053/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/6053-e-cavani.png",
+          "playerposition": "Forward",
+          "playernationality": "Uruguay",
+          "playerdob": "14 February, 1987",
+          "playerage": "33 years",
+          "playerbirthplace": "Salto, Uruguay",
+          "playerweight": "156.5 lb",
+          "playerheight": "6 ft 0 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -7365,6 +7211,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Anthony Gomez Mancini",
+          "playerlink": "https://www.livesoccertv.com/player/a-gomez-mancini/403876/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/403876-a-gomez-mancini.png",
+          "playerposition": "Midfielder",
+          "playernationality": "France",
+          "playerdob": "6 April, 2001",
+          "playerage": "19 years",
+          "playerbirthplace": "Saint Priest, France",
+          "playerweight": "",
+          "playerheight": "5 ft 10 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Jack Cork",
           "playerlink": "https://www.livesoccertv.com/player/j-cork/20934/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/20934-j-cork.png",
@@ -7726,7 +7586,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "Z. Brunt",
+          "playername": "Zak Brunt",
           "playerlink": "https://www.livesoccertv.com/player/z-brunt/414536/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
           "playerposition": "Midfielder",
@@ -7989,6 +7849,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "T. Adarabioyo",
+          "playerlink": "https://www.livesoccertv.com/player/t-adarabioyo/252747/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/252747-t-adarabioyo.jpg",
+          "playerposition": "Defender",
+          "playernationality": "England",
+          "playerdob": "24 September, 1997",
+          "playerage": "23 years",
+          "playerbirthplace": "Manchester, England",
+          "playerweight": "176.4 lb",
+          "playerheight": "6 ft 5 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Kenny Tete",
           "playerlink": "https://www.livesoccertv.com/player/k-tete/176735/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/176735-k-tete.png",
@@ -8027,6 +7901,20 @@
           "playerbirthplace": "St. Louis, United States",
           "playerweight": "160.9 lb",
           "playerheight": "6 ft 0 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "Joachim Andersen",
+          "playerlink": "https://www.livesoccertv.com/player/j-andersen/189319/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/189319-j-andersen.png",
+          "playerposition": "Defender",
+          "playernationality": "Denmark",
+          "playerdob": "31 May, 1996",
+          "playerage": "24 years",
+          "playerbirthplace": "Frederiksberg, Denmark",
+          "playerweight": "198.4 lb",
+          "playerheight": "6 ft 3 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -8112,6 +8000,20 @@
           "playerweight": "149.9 lb",
           "playerheight": "5 ft 6 in",
           "playergoals": "1",
+          "playerassists": "0"
+        },
+        {
+          "playername": "Ruben Loftus-Cheek",
+          "playerlink": "https://www.livesoccertv.com/player/r-loftus-cheek/219020/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/219020-r-loftus-cheek.png",
+          "playerposition": "Midfielder",
+          "playernationality": "England",
+          "playerdob": "23 January, 1996",
+          "playerage": "24 years",
+          "playerbirthplace": "London, England",
+          "playerweight": "194 lb",
+          "playerheight": "6 ft 3 in",
+          "playergoals": "0",
           "playerassists": "0"
         },
         {
@@ -10661,7 +10563,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "O. Idrissi",
+          "playername": "Oussama Idrissi",
           "playerlink": "https://www.livesoccertv.com/player/o-idrissi/221619/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/221619-o-idrissi.png",
           "playerposition": "Forward",
@@ -13194,7 +13096,7 @@
           "playerposition": "Defender",
           "playernationality": "Spain",
           "playerdob": "13 October, 2000",
-          "playerage": "19 years",
+          "playerage": "20 years",
           "playerbirthplace": "Vigo, Spain",
           "playerweight": "154.3 lb",
           "playerheight": "5 ft 6 in",
@@ -14439,7 +14341,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "I. Marcone",
+          "playername": "Iván José Marcone",
           "playerlink": "https://www.livesoccertv.com/player/i-marcone/66545/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/66545-i-marcone.jpg",
           "playerposition": "Midfielder",
@@ -14758,7 +14660,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "Borja Sainz",
+          "playername": "Borja Sainz Eguskiza",
           "playerlink": "https://www.livesoccertv.com/player/borja-sainz/415240/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/415240-borja-sainz.png",
           "playerposition": "Midfielder",
@@ -16414,20 +16316,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Rodrigo Guth",
-          "playerlink": "https://www.livesoccertv.com/player/rodrigo-guth/417203/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Defender",
-          "playernationality": "Brazil",
-          "playerdob": "10 November, 2000",
-          "playerage": "19 years",
-          "playerbirthplace": "Curitiba, Brazil",
-          "playerweight": "176.4 lb",
-          "playerheight": "6 ft 3 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Johan Andrés Mojica Palacio",
           "playerlink": "https://www.livesoccertv.com/player/j-mojica/146365/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/146365-j-mojica.jpg",
@@ -16831,20 +16719,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "A. Halilović",
-          "playerlink": "https://www.livesoccertv.com/player/a-halilovic/218288/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/218288-a-halilovic.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Croatia",
-          "playerdob": "18 June, 1996",
-          "playerage": "24 years",
-          "playerbirthplace": "Dubrovnik, Croatia",
-          "playerweight": "152.1 lb",
-          "playerheight": "5 ft 6 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Antonio Mionić",
           "playerlink": "https://www.livesoccertv.com/player/a-mionic/416952/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/416952-a-mionic.png",
@@ -16897,20 +16771,6 @@
           "playerbirthplace": "",
           "playerweight": "",
           "playerheight": "5 ft 8 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "D. Laxalt",
-          "playerlink": "https://www.livesoccertv.com/player/d-laxalt/183511/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/183511-d-laxalt.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Uruguay",
-          "playerdob": "7 February, 1993",
-          "playerage": "27 years",
-          "playerbirthplace": "Montevideo, Uruguay",
-          "playerweight": "149.9 lb",
-          "playerheight": "5 ft 10 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -17304,6 +17164,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Maxime Lopez",
+          "playerlink": "https://www.livesoccertv.com/player/m-lopez/250842/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/250842-m-lopez.png",
+          "playerposition": "Midfielder",
+          "playernationality": "France",
+          "playerdob": "4 December, 1997",
+          "playerage": "22 years",
+          "playerbirthplace": "Marseille, France",
+          "playerweight": "127.9 lb",
+          "playerheight": "5 ft 5 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Pedro  Mba Obiang Avomo",
           "playerlink": "https://www.livesoccertv.com/player/pedro-obiang/119779/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/119779-pedro-obiang.png",
@@ -17314,6 +17188,20 @@
           "playerbirthplace": "Alcalà de Henares, Spain",
           "playerweight": "165.3 lb",
           "playerheight": "6 ft 0 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "Nicolás Javier Schiappacasse Oliva",
+          "playerlink": "https://www.livesoccertv.com/player/n-schiappacase/291317/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/291317-n-schiappacase.png",
+          "playerposition": "Midfielder",
+          "playernationality": "Uruguay",
+          "playerdob": "12 January, 1999",
+          "playerage": "21 years",
+          "playerbirthplace": "Montevideo, Uruguay",
+          "playerweight": "160.9 lb",
+          "playerheight": "5 ft 10 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -17402,20 +17290,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Nicholas Pierini",
-          "playerlink": "https://www.livesoccertv.com/player/n-pierini/316362/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/316362-n-pierini.jpg",
-          "playerposition": "Forward",
-          "playernationality": "Italy",
-          "playerdob": "6 August, 1998",
-          "playerage": "22 years",
-          "playerbirthplace": "Parma, Italy",
-          "playerweight": "154.3 lb",
-          "playerheight": "5 ft 9 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Giacomo Raspadori",
           "playerlink": "https://www.livesoccertv.com/player/g-raspadori/385746/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/385746-g-raspadori.png",
@@ -17497,20 +17371,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Kwadwo Asamoah",
-          "playerlink": "https://www.livesoccertv.com/player/k-asamoah/21549/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/21549-k-asamoah.png",
-          "playerposition": "Defender",
-          "playernationality": "Ghana",
-          "playerdob": "9 December, 1988",
-          "playerage": "31 years",
-          "playerbirthplace": "Accra, Ghana",
-          "playerweight": "165.3 lb",
-          "playerheight": "5 ft 8 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Andrea Ranocchia",
           "playerlink": "https://www.livesoccertv.com/player/a-ranocchia/61274/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/61274-a-ranocchia.png",
@@ -17581,16 +17441,16 @@
           "playerassists": "0"
         },
         {
-          "playername": "L. Pirola",
-          "playerlink": "https://www.livesoccertv.com/player/l-pirola/416968/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/416968-l-pirola.png",
+          "playername": "Matteo Darmian",
+          "playerlink": "https://www.livesoccertv.com/player/m-darmian/17853/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/17853-m-darmian.png",
           "playerposition": "Defender",
           "playernationality": "Italy",
-          "playerdob": "20 February, 2002",
-          "playerage": "18 years",
-          "playerbirthplace": "",
-          "playerweight": "158.7 lb",
-          "playerheight": "6 ft 1 in",
+          "playerdob": "2 December, 1989",
+          "playerage": "30 years",
+          "playerbirthplace": "Legnano, Italy",
+          "playerweight": "154.3 lb",
+          "playerheight": "5 ft 11 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -17928,20 +17788,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Sebastiano Luperto",
-          "playerlink": "https://www.livesoccertv.com/player/s-luperto/245081/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/245081-s-luperto.png",
-          "playerposition": "Defender",
-          "playernationality": "Italy",
-          "playerdob": "6 September, 1996",
-          "playerage": "24 years",
-          "playerbirthplace": "Lecce, Italy",
-          "playerweight": "165.3 lb",
-          "playerheight": "6 ft 3 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Giovanni Di Lorenzo",
           "playerlink": "https://www.livesoccertv.com/player/g-di-lorenzo/159613/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/159613-g-di-lorenzo.png",
@@ -18054,16 +17900,16 @@
           "playerassists": "0"
         },
         {
-          "playername": "Amato Ciciretti",
-          "playerlink": "https://www.livesoccertv.com/player/a-ciciretti/174243/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/174243-a-ciciretti.jpg",
+          "playername": "Tiemoué Bakayoko",
+          "playerlink": "https://www.livesoccertv.com/player/t-bakayoko/147110/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/147110-t-bakayoko.png",
           "playerposition": "Midfielder",
-          "playernationality": "Italy",
-          "playerdob": "31 December, 1993",
+          "playernationality": "France",
+          "playerdob": "17 August, 1994",
           "playerage": "26 years",
-          "playerbirthplace": "Rome, Italy",
-          "playerweight": "143.3 lb",
-          "playerheight": "5 ft 6 in",
+          "playerbirthplace": "Paris, France",
+          "playerweight": "169.8 lb",
+          "playerheight": "6 ft 0 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -18303,6 +18149,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "F. Ceccherini",
+          "playerlink": "https://www.livesoccertv.com/player/f-ceccherini/137306/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/137306-f-ceccherini.png",
+          "playerposition": "Defender",
+          "playernationality": "Italy",
+          "playerdob": "11 May, 1992",
+          "playerage": "28 years",
+          "playerbirthplace": "Livorno, Italy",
+          "playerweight": "158.7 lb",
+          "playerheight": "6 ft 1 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Alan Pereira Empereur",
           "playerlink": "https://www.livesoccertv.com/player/alan-empereur/258932/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/258932-alan-empereur.png",
@@ -18327,20 +18187,6 @@
           "playerbirthplace": "Correggio, Italy",
           "playerweight": "187.4 lb",
           "playerheight": "6 ft 2 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "A. Almici",
-          "playerlink": "https://www.livesoccertv.com/player/a-almici/167064/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/167064-a-almici.jpg",
-          "playerposition": "Defender",
-          "playernationality": "Italy",
-          "playerdob": "11 January, 1993",
-          "playerage": "27 years",
-          "playerbirthplace": "Lovere, Italy",
-          "playerweight": "169.8 lb",
-          "playerheight": "6 ft 0 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -18415,20 +18261,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Simone Calvano",
-          "playerlink": "https://www.livesoccertv.com/player/s-calvano/144905/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/144905-s-calvano.jpg",
-          "playerposition": "Midfielder",
-          "playernationality": "Italy",
-          "playerdob": "11 July, 1993",
-          "playerage": "27 years",
-          "playerbirthplace": "Milano, Italy",
-          "playerweight": "165.3 lb",
-          "playerheight": "6 ft 0 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Ivan Ilić",
           "playerlink": "https://www.livesoccertv.com/player/i-ilic/343317/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/343317-i-ilic.png",
@@ -18481,20 +18313,6 @@
           "playerbirthplace": "",
           "playerweight": "",
           "playerheight": "",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Lucas Felippe",
-          "playerlink": "https://www.livesoccertv.com/player/lucas-felippe/399213/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/399213-lucas-felippe.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Brazil",
-          "playerdob": "3 May, 2000",
-          "playerage": "20 years",
-          "playerbirthplace": "São Paulo, Brazil",
-          "playerweight": "",
-          "playerheight": "5 ft 10 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -18639,20 +18457,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "P. Cappelluzzo",
-          "playerlink": "https://www.livesoccertv.com/player/p-cappelluzzo/258577/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/258577-p-cappelluzzo.jpg",
-          "playerposition": "Forward",
-          "playernationality": "Italy",
-          "playerdob": "9 June, 1996",
-          "playerage": "24 years",
-          "playerbirthplace": "Montepulciano, Italy",
-          "playerweight": "167.6 lb",
-          "playerheight": "5 ft 11 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Antonio Di Gaudio",
           "playerlink": "https://www.livesoccertv.com/player/a-di-gaudio/122917/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/122917-a-di-gaudio.jpg",
@@ -18681,6 +18485,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Nikola Kalinić",
+          "playerlink": "https://www.livesoccertv.com/player/n-kalinic/33365/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/33365-n-kalinic.png",
+          "playerposition": "Forward",
+          "playernationality": "Croatia",
+          "playerdob": "5 January, 1988",
+          "playerage": "32 years",
+          "playerbirthplace": "Solin, Croatia",
+          "playerweight": "174.2 lb",
+          "playerheight": "6 ft 1 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "A. Favilli",
           "playerlink": "https://www.livesoccertv.com/player/a-favilli/287670/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/287670-a-favilli.png",
@@ -18692,20 +18510,6 @@
           "playerweight": "172 lb",
           "playerheight": "6 ft 2 in",
           "playergoals": "1",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Ľubomír Tupta",
-          "playerlink": "https://www.livesoccertv.com/player/tupta/284881/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/284881-tupta.png",
-          "playerposition": "Forward",
-          "playernationality": "Slovakia",
-          "playerdob": "27 March, 1998",
-          "playerage": "22 years",
-          "playerbirthplace": "Prešov, Slovakia",
-          "playerweight": "158.7 lb",
-          "playerheight": "5 ft 10 in",
-          "playergoals": "0",
           "playerassists": "0"
         },
         {
@@ -18786,20 +18590,6 @@
           "playerbirthplace": "Desenzano del Garda, Italy",
           "playerweight": "154.3 lb",
           "playerheight": "6 ft 0 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Luca Antei",
-          "playerlink": "https://www.livesoccertv.com/player/l-antei/168720/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/168720-l-antei.jpg",
-          "playerposition": "Defender",
-          "playernationality": "Italy",
-          "playerdob": "19 April, 1992",
-          "playerage": "28 years",
-          "playerbirthplace": "Roma, Italy",
-          "playerweight": "169.8 lb",
-          "playerheight": "6 ft 2 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -18944,20 +18734,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Oliver Kragl",
-          "playerlink": "https://www.livesoccertv.com/player/o-kragl/91508/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/91508-o-kragl.jpg",
-          "playerposition": "Midfielder",
-          "playernationality": "Germany",
-          "playerdob": "12 May, 1990",
-          "playerage": "30 years",
-          "playerbirthplace": "Wolfsburg, Germany",
-          "playerweight": "169.8 lb",
-          "playerheight": "5 ft 10 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Bryan Dabo",
           "playerlink": "https://www.livesoccertv.com/player/b-dabo/114822/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/114822-b-dabo.png",
@@ -19038,20 +18814,6 @@
           "playerbirthplace": "",
           "playerweight": "",
           "playerheight": "",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Dejan Vokič",
-          "playerlink": "https://www.livesoccertv.com/player/d-vokic/285681/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Slovenia",
-          "playerdob": "12 June, 1996",
-          "playerage": "24 years",
-          "playerbirthplace": "",
-          "playerweight": "",
-          "playerheight": "6 ft 2 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -19207,20 +18969,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Mattia De Sciglio",
-          "playerlink": "https://www.livesoccertv.com/player/m-de-sciglio/134401/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/134401-m-de-sciglio.png",
-          "playerposition": "Defender",
-          "playernationality": "Italy",
-          "playerdob": "20 October, 1992",
-          "playerage": "27 years",
-          "playerbirthplace": "Milano, Italy",
-          "playerweight": "172 lb",
-          "playerheight": "5 ft 11 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "L. Bonucci",
           "playerlink": "https://www.livesoccertv.com/player/l-bonucci/4112/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/4112-l-bonucci.png",
@@ -19319,20 +19067,6 @@
           "playerassists": "1"
         },
         {
-          "playername": "H. Nicolussi",
-          "playerlink": "https://www.livesoccertv.com/player/h-caviglia/338696/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Italy",
-          "playerdob": "18 June, 2000",
-          "playerage": "20 years",
-          "playerbirthplace": "Aosta, Italy",
-          "playerweight": "",
-          "playerheight": "5 ft 10 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "S. Khedira",
           "playerlink": "https://www.livesoccertv.com/player/s-khedira/4652/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/4652-s-khedira.png",
@@ -19400,20 +19134,6 @@
           "playerweight": "",
           "playerheight": "6 ft 1 in",
           "playergoals": "1",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Douglas Costa de Souza",
-          "playerlink": "https://www.livesoccertv.com/player/douglas-costa/65420/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/65420-douglas-costa.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Brazil",
-          "playerdob": "14 September, 1990",
-          "playerage": "30 years",
-          "playerbirthplace": "Sapucaia do Sul, Brazil",
-          "playerweight": "154.3 lb",
-          "playerheight": "5 ft 7 in",
-          "playergoals": "0",
           "playerassists": "0"
         },
         {
@@ -19511,6 +19231,20 @@
           "playerbirthplace": "San Severino Marche, Italy",
           "playerweight": "154.3 lb",
           "playerheight": "5 ft 10 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "Federico Chiesa",
+          "playerlink": "https://www.livesoccertv.com/player/f-chiesa/333338/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/333338-f-chiesa.png",
+          "playerposition": "Forward",
+          "playernationality": "Italy",
+          "playerdob": "25 October, 1997",
+          "playerage": "22 years",
+          "playerbirthplace": "Genova, Italy",
+          "playerweight": "154.3 lb",
+          "playerheight": "5 ft 8 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -19666,20 +19400,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Jordan Zacharie Lukaku Menama Mokelenge",
-          "playerlink": "https://www.livesoccertv.com/player/j-lukaku/151360/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/151360-j-lukaku.png",
-          "playerposition": "Defender",
-          "playernationality": "Belgium",
-          "playerdob": "25 July, 1994",
-          "playerage": "26 years",
-          "playerbirthplace": "Antwerpen, Belgium",
-          "playerweight": "189.6 lb",
-          "playerheight": "5 ft 9 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Ş. Radu",
           "playerlink": "https://www.livesoccertv.com/player/radu/12098/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/12098-radu.png",
@@ -19746,6 +19466,20 @@
           "playerbirthplace": "Mula, Spain",
           "playerweight": "158.7 lb",
           "playerheight": "6 ft 0 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "W. Hoedt",
+          "playerlink": "https://www.livesoccertv.com/player/w-hoedt/240335/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/240335-w-hoedt.png",
+          "playerposition": "Defender",
+          "playernationality": "Netherlands",
+          "playerdob": "6 March, 1994",
+          "playerage": "26 years",
+          "playerbirthplace": "Alkmaar, Netherlands",
+          "playerweight": "169.8 lb",
+          "playerheight": "6 ft 2 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -19904,20 +19638,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "André Anderson",
-          "playerlink": "https://www.livesoccertv.com/player/andre-anderson/402137/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/402137-andre-anderson.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Italy",
-          "playerdob": "23 September, 1999",
-          "playerage": "21 years",
-          "playerbirthplace": "Maracaí, Brazil",
-          "playerweight": "172 lb",
-          "playerheight": "5 ft 10 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "J. Correa",
           "playerlink": "https://www.livesoccertv.com/player/j-correa/199400/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/199400-j-correa.png",
@@ -19988,20 +19708,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Bobby Adekanye",
-          "playerlink": "https://www.livesoccertv.com/player/b-adekanye/312429/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/312429-b-adekanye.png",
-          "playerposition": "Forward",
-          "playernationality": "Netherlands",
-          "playerdob": "14 February, 1999",
-          "playerage": "21 years",
-          "playerbirthplace": "",
-          "playerweight": "147.7 lb",
-          "playerheight": "5 ft 6 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "V. Muriqi",
           "playerlink": "https://www.livesoccertv.com/player/v-muriqi/226734/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/226734-v-muriqi.png",
@@ -20037,20 +19743,6 @@
           "playerbirthplace": "Castellamare di Stabia, Italy",
           "playerweight": "174.2 lb",
           "playerheight": "6 ft 3 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Robin Olsen",
-          "playerlink": "https://www.livesoccertv.com/player/r-olsen/102524/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/102524-r-olsen.png",
-          "playerposition": "Goalkeeper",
-          "playernationality": "Sweden",
-          "playerdob": "8 January, 1990",
-          "playerage": "30 years",
-          "playerbirthplace": "Malmö, Sweden",
-          "playerweight": "196.2 lb",
-          "playerheight": "6 ft 5 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -20223,16 +19915,16 @@
           "playerassists": "0"
         },
         {
-          "playername": "Diego Perotti",
-          "playerlink": "https://www.livesoccertv.com/player/d-perotti/59150/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/59150-d-perotti.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Argentina",
-          "playerdob": "26 July, 1988",
-          "playerage": "32 years",
-          "playerbirthplace": "Moreno, Argentina",
-          "playerweight": "154.3 lb",
-          "playerheight": "5 ft 10 in",
+          "playername": "Chris Smalling",
+          "playerlink": "https://www.livesoccertv.com/player/c-smalling/79606/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/79606-c-smalling.png",
+          "playerposition": "Defender",
+          "playernationality": "England",
+          "playerdob": "22 November, 1989",
+          "playerage": "30 years",
+          "playerbirthplace": "Greenwich, England",
+          "playerweight": "178.6 lb",
+          "playerheight": "6 ft 4 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -20375,34 +20067,6 @@
           "playerheight": "5 ft 9 in",
           "playergoals": "0",
           "playerassists": "1"
-        },
-        {
-          "playername": "Mirko Antonucci",
-          "playerlink": "https://www.livesoccertv.com/player/m-antonucci/312066/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/312066-m-antonucci.png",
-          "playerposition": "Forward",
-          "playernationality": "Italy",
-          "playerdob": "11 March, 1999",
-          "playerage": "21 years",
-          "playerbirthplace": "Roma, Italy",
-          "playerweight": "167.6 lb",
-          "playerheight": "5 ft 10 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Justin Kluivert",
-          "playerlink": "https://www.livesoccertv.com/player/j-kluivert/312078/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/312078-j-kluivert.png",
-          "playerposition": "Forward",
-          "playernationality": "Netherlands",
-          "playerdob": "5 May, 1999",
-          "playerage": "21 years",
-          "playerbirthplace": "Amsterdam, Netherlands",
-          "playerweight": "145.5 lb",
-          "playerheight": "5 ft 7 in",
-          "playergoals": "0",
-          "playerassists": "0"
         },
         {
           "playername": "Borja Mayoral Moya",
@@ -20556,16 +20220,16 @@
           "playerassists": "0"
         },
         {
-          "playername": "Federico Valietti",
-          "playerlink": "https://www.livesoccertv.com/player/f-valietti/357945/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
+          "playername": "Mattia Bani",
+          "playerlink": "https://www.livesoccertv.com/player/m-bani/203325/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/203325-m-bani.png",
           "playerposition": "Defender",
           "playernationality": "Italy",
-          "playerdob": "25 January, 1999",
-          "playerage": "21 years",
-          "playerbirthplace": "Bergamo, Italy",
-          "playerweight": "",
-          "playerheight": "6 ft 0 in",
+          "playerdob": "10 December, 1993",
+          "playerage": "26 years",
+          "playerbirthplace": "Borgo San Lorenzo, Italy",
+          "playerweight": "176.4 lb",
+          "playerheight": "6 ft 2 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -20850,7 +20514,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "N. Rovella",
+          "playername": "Nicolò Rovella",
           "playerlink": "https://www.livesoccertv.com/player/n-rovella/415713/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/415713-n-rovella.png",
           "playerposition": "Midfielder",
@@ -20860,20 +20524,6 @@
           "playerbirthplace": "Segrate, Ita",
           "playerweight": "",
           "playerheight": "",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Filip Jagiełło",
-          "playerlink": "https://www.livesoccertv.com/player/f-jagiello/254189/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/254189-f-jagiello.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Poland",
-          "playerdob": "8 August, 1997",
-          "playerage": "23 years",
-          "playerbirthplace": "Lubin, Poland",
-          "playerweight": "154.3 lb",
-          "playerheight": "5 ft 10 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -21071,20 +20721,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Mattia Bani",
-          "playerlink": "https://www.livesoccertv.com/player/m-bani/203325/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/203325-m-bani.png",
-          "playerposition": "Defender",
-          "playernationality": "Italy",
-          "playerdob": "10 December, 1993",
-          "playerage": "26 years",
-          "playerbirthplace": "Borgo San Lorenzo, Italy",
-          "playerweight": "176.4 lb",
-          "playerheight": "6 ft 2 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Arturo Calabresi",
           "playerlink": "https://www.livesoccertv.com/player/a-calabresi/220744/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/220744-a-calabresi.png",
@@ -21165,20 +20801,6 @@
           "playerbirthplace": "Vittorio Veneto, Italy",
           "playerweight": "169.8 lb",
           "playerheight": "5 ft 11 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "M. Juwara",
-          "playerlink": "https://www.livesoccertv.com/player/m-juwara/401956/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/401956-m-juwara.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Gambia",
-          "playerdob": "26 December, 2001",
-          "playerage": "18 years",
-          "playerbirthplace": "",
-          "playerweight": "",
-          "playerheight": "5 ft 6 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -21460,6 +21082,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Antonio Barreca",
+          "playerlink": "https://www.livesoccertv.com/player/a-barreca/263972/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/263972-a-barreca.png",
+          "playerposition": "Defender",
+          "playernationality": "Italy",
+          "playerdob": "18 March, 1995",
+          "playerage": "25 years",
+          "playerbirthplace": "Torino, Italy",
+          "playerweight": "154.3 lb",
+          "playerheight": "6 ft 0 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Fabio Ponsi",
           "playerlink": "https://www.livesoccertv.com/player/f-ponsi/419387/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
@@ -21474,16 +21110,16 @@
           "playerassists": "0"
         },
         {
-          "playername": "F. Ceccherini",
-          "playerlink": "https://www.livesoccertv.com/player/f-ceccherini/137306/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/137306-f-ceccherini.png",
+          "playername": "Lucas  Martínez Quarta",
+          "playerlink": "https://www.livesoccertv.com/player/l-martinez/296318/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/296318-l-martinez.png",
           "playerposition": "Defender",
-          "playernationality": "Italy",
-          "playerdob": "11 May, 1992",
-          "playerage": "28 years",
-          "playerbirthplace": "Livorno, Italy",
-          "playerweight": "158.7 lb",
-          "playerheight": "6 ft 1 in",
+          "playernationality": "Argentina",
+          "playerdob": "10 May, 1996",
+          "playerage": "24 years",
+          "playerbirthplace": "Buenos Aires, Argentina",
+          "playerweight": "165.3 lb",
+          "playerheight": "5 ft 11 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -21600,7 +21236,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "Tòfol Montiel",
+          "playername": "Cristóbal Montiel Rodríguez",
           "playerlink": "https://www.livesoccertv.com/player/cristobal-montiel/398104/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/398104-cristobal-montiel.png",
           "playerposition": "Midfielder",
@@ -21638,20 +21274,6 @@
           "playerbirthplace": "Accra, Ghana",
           "playerweight": "172 lb",
           "playerheight": "5 ft 10 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Sebastián Carlos Cristóforo Pepe",
-          "playerlink": "https://www.livesoccertv.com/player/s-cristoforo/159576/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/159576-s-cristoforo.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Uruguay",
-          "playerdob": "23 August, 1993",
-          "playerage": "27 years",
-          "playerbirthplace": "Montevideo, Uruguay",
-          "playerweight": "149.9 lb",
-          "playerheight": "5 ft 8 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -21740,20 +21362,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Federico Chiesa",
-          "playerlink": "https://www.livesoccertv.com/player/f-chiesa/333338/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/333338-f-chiesa.png",
-          "playerposition": "Forward",
-          "playernationality": "Italy",
-          "playerdob": "25 October, 1997",
-          "playerage": "22 years",
-          "playerbirthplace": "Genova, Italy",
-          "playerweight": "154.3 lb",
-          "playerheight": "5 ft 8 in",
-          "playergoals": "1",
-          "playerassists": "1"
-        },
-        {
           "playername": "Christian  Kouamé",
           "playerlink": "https://www.livesoccertv.com/player/c-kouame/300319/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/300319-c-kouame.png",
@@ -21765,6 +21373,20 @@
           "playerweight": "154.3 lb",
           "playerheight": "6 ft 0 in",
           "playergoals": "1",
+          "playerassists": "0"
+        },
+        {
+          "playername": "José María Callejón Bueno",
+          "playerlink": "https://www.livesoccertv.com/player/jose-callejon/58453/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/58453-jose-callejon.png",
+          "playerposition": "Forward",
+          "playernationality": "Spain",
+          "playerdob": "11 February, 1987",
+          "playerage": "33 years",
+          "playerbirthplace": "Motril, Spain",
+          "playerweight": "160.9 lb",
+          "playerheight": "5 ft 10 in",
+          "playergoals": "0",
           "playerassists": "0"
         },
         {
@@ -21831,6 +21453,20 @@
           "playerbirthplace": "Forlì, Italy",
           "playerweight": "165.3 lb",
           "playerheight": "6 ft 0 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "K. Letica",
+          "playerlink": "https://www.livesoccertv.com/player/k-letica/264821/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/264821-k-letica.jpg",
+          "playerposition": "Goalkeeper",
+          "playernationality": "Croatia",
+          "playerdob": "11 February, 1997",
+          "playerage": "23 years",
+          "playerbirthplace": "Split, Croatia",
+          "playerweight": "",
+          "playerheight": "6 ft 7 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -22003,20 +21639,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "A. Palumbo",
-          "playerlink": "https://www.livesoccertv.com/player/a-palumbo/276282/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/276282-a-palumbo.jpg",
-          "playerposition": "Midfielder",
-          "playernationality": "Italy",
-          "playerdob": "6 August, 1996",
-          "playerage": "24 years",
-          "playerbirthplace": "Napoli, Italy",
-          "playerweight": "167.6 lb",
-          "playerheight": "5 ft 11 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Kristoffer Askildsen",
           "playerlink": "https://www.livesoccertv.com/player/k-askildsen/388172/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
@@ -22129,20 +21751,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Federico Bonazzoli",
-          "playerlink": "https://www.livesoccertv.com/player/f-bonazzoli/220742/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/220742-f-bonazzoli.png",
-          "playerposition": "Forward",
-          "playernationality": "Italy",
-          "playerdob": "21 May, 1997",
-          "playerage": "23 years",
-          "playerbirthplace": "Manerbio, Italy",
-          "playerweight": "174.2 lb",
-          "playerheight": "5 ft 11 in",
-          "playergoals": "0",
-          "playerassists": "1"
-        },
-        {
           "playername": "F. Quagliarella",
           "playerlink": "https://www.livesoccertv.com/player/f-quagliarella/4297/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/4297-f-quagliarella.png",
@@ -22210,20 +21818,6 @@
       "teammanager": "V. Italiano",
       "players": [
         {
-          "playername": "Axel Desjardins",
-          "playerlink": "https://www.livesoccertv.com/player/a-desjardins/374371/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Goalkeeper",
-          "playernationality": "Canada",
-          "playerdob": "13 January, 2000",
-          "playerage": "20 years",
-          "playerbirthplace": "Montréal, Canada",
-          "playerweight": "178.6 lb",
-          "playerheight": "6 ft 2 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Jeroen Zoet",
           "playerlink": "https://www.livesoccertv.com/player/j-zoet/61339/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/61339-j-zoet.png",
@@ -22264,6 +21858,20 @@
           "playerheight": "6 ft 1 in",
           "playergoals": "0",
           "playerassists": "1"
+        },
+        {
+          "playername": "I. Provedel",
+          "playerlink": "https://www.livesoccertv.com/player/i-provedel/227326/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/227326-i-provedel.jpg",
+          "playerposition": "Goalkeeper",
+          "playernationality": "Italy",
+          "playerdob": "17 March, 1994",
+          "playerage": "26 years",
+          "playerbirthplace": "Udine, Italy",
+          "playerweight": "180.8 lb",
+          "playerheight": "6 ft 3 in",
+          "playergoals": "0",
+          "playerassists": "0"
         },
         {
           "playername": "A. Ismajli",
@@ -22490,7 +22098,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "Léo Sena",
+          "playername": "Leonardo de Souza Sena",
           "playerlink": "https://www.livesoccertv.com/player/leo-sena/318057/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
           "playerposition": "Midfielder",
@@ -22518,7 +22126,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "L. Agoume",
+          "playername": "Lucien Agoume",
           "playerlink": "https://www.livesoccertv.com/player/l-agoume/402606/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/402606-l-agoume.png",
           "playerposition": "Midfielder",
@@ -22684,6 +22292,20 @@
           "playerheight": "5 ft 7 in",
           "playergoals": "0",
           "playerassists": "0"
+        },
+        {
+          "playername": "Mbala N'Zola",
+          "playerlink": "https://www.livesoccertv.com/player/m-n-apos-zola/262368/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/262368-m-n-apos-zola.jpg",
+          "playerposition": "Forward",
+          "playernationality": "France",
+          "playerdob": "18 August, 1996",
+          "playerage": "24 years",
+          "playerbirthplace": "Troyes, France",
+          "playerweight": "180.8 lb",
+          "playerheight": "6 ft 0 in",
+          "playergoals": "0",
+          "playerassists": "0"
         }
       ]
     },
@@ -22696,20 +22318,6 @@
       "teamcapacity": "21,473",
       "teammanager": "F. Liverani",
       "players": [
-        {
-          "playername": "Fabrizio Alastra",
-          "playerlink": "https://www.livesoccertv.com/player/f-alastra/299021/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/299021-f-alastra.jpg",
-          "playerposition": "Goalkeeper",
-          "playernationality": "Italy",
-          "playerdob": "1 October, 1997",
-          "playerage": "23 years",
-          "playerbirthplace": "Erice, Italy",
-          "playerweight": "174.2 lb",
-          "playerheight": "6 ft 0 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
         {
           "playername": "Andrea Dini",
           "playerlink": "https://www.livesoccertv.com/player/a-dini/224087/",
@@ -22781,6 +22389,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "M. Busi",
+          "playerlink": "https://www.livesoccertv.com/player/m-busi/399122/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/399122-m-busi.png",
+          "playerposition": "Defender",
+          "playernationality": "Belgium",
+          "playerdob": "14 October, 1999",
+          "playerage": "20 years",
+          "playerbirthplace": "Liège, Belgium",
+          "playerweight": "165.3 lb",
+          "playerheight": "5 ft 11 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "G. Pezzella",
           "playerlink": "https://www.livesoccertv.com/player/g-pezzella/304926/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/304926-g-pezzella.png",
@@ -22805,6 +22427,20 @@
           "playerbirthplace": "",
           "playerweight": "163.1 lb",
           "playerheight": "5 ft 10 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "Yordan Hernando Osorio Paredes",
+          "playerlink": "https://www.livesoccertv.com/player/y-osorio/266043/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/266043-y-osorio.png",
+          "playerposition": "Defender",
+          "playernationality": "Venezuela",
+          "playerdob": "10 May, 1994",
+          "playerage": "26 years",
+          "playerbirthplace": "Barinas, Venezuela",
+          "playerweight": "169.8 lb",
+          "playerheight": "6 ft 2 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -22851,20 +22487,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Kastriot Dermaku",
-          "playerlink": "https://www.livesoccertv.com/player/k-dermaku/162218/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/162218-k-dermaku.png",
-          "playerposition": "Defender",
-          "playernationality": "Albania",
-          "playerdob": "15 January, 1992",
-          "playerage": "28 years",
-          "playerbirthplace": "Scandiano, Italy",
-          "playerweight": "160.9 lb",
-          "playerheight": "6 ft 4 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Botond Balogh",
           "playerlink": "https://www.livesoccertv.com/player/b-balogh/418282/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/418282-b-balogh.png",
@@ -22875,6 +22497,20 @@
           "playerbirthplace": "Sopron, Hungary",
           "playerweight": "",
           "playerheight": "6 ft 2 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "H. Nicolussi",
+          "playerlink": "https://www.livesoccertv.com/player/h-caviglia/338696/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
+          "playerposition": "Midfielder",
+          "playernationality": "Italy",
+          "playerdob": "18 June, 2000",
+          "playerage": "20 years",
+          "playerbirthplace": "Aosta, Italy",
+          "playerweight": "",
+          "playerheight": "5 ft 10 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -22949,21 +22585,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "Lorenzo Simonetti",
-          "playerlink": "https://www.livesoccertv.com/player/l-simonetti/268698/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Italy",
-          "playerdob": "28 August, 1996",
-          "playerage": "24 years",
-          "playerbirthplace": "Viterbo, Italy",
-          "playerweight": "167.6 lb",
-          "playerheight": "5 ft 11 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "S. Sohm",
+          "playername": "Simon Sohm",
           "playerlink": "https://www.livesoccertv.com/player/s-sohm/392861/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
           "playerposition": "Midfielder",
@@ -22991,7 +22613,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "J. Brunetta",
+          "playername": "Juan Francisco Brunetta",
           "playerlink": "https://www.livesoccertv.com/player/j-brunetta/332204/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/332204-j-brunetta.jpg",
           "playerposition": "Midfielder",
@@ -23029,6 +22651,20 @@
           "playerbirthplace": "Monza, Italy",
           "playerweight": "154.3 lb",
           "playerheight": "5 ft 10 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "Wylan Cyprien",
+          "playerlink": "https://www.livesoccertv.com/player/w-cyprien/210658/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/210658-w-cyprien.png",
+          "playerposition": "Midfielder",
+          "playernationality": "France",
+          "playerdob": "28 January, 1995",
+          "playerage": "25 years",
+          "playerbirthplace": "Les Abymes, Guadeloupe",
+          "playerweight": "165.3 lb",
+          "playerheight": "5 ft 11 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -23154,48 +22790,6 @@
           "playerage": "20 years",
           "playerbirthplace": "",
           "playerweight": "",
-          "playerheight": "6 ft 0 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Luca Siligardi",
-          "playerlink": "https://www.livesoccertv.com/player/l-siligardi/61157/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/61157-l-siligardi.png",
-          "playerposition": "Forward",
-          "playernationality": "Italy",
-          "playerdob": "26 January, 1988",
-          "playerage": "32 years",
-          "playerbirthplace": "Correggio, Italy",
-          "playerweight": "158.7 lb",
-          "playerheight": "5 ft 10 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Bertrand Yves Baraye",
-          "playerlink": "https://www.livesoccertv.com/player/y-baraye/163067/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/163067-y-baraye.png",
-          "playerposition": "Forward",
-          "playernationality": "Senegal",
-          "playerdob": "22 June, 1992",
-          "playerage": "28 years",
-          "playerbirthplace": "Dakar, Senegal",
-          "playerweight": "152.1 lb",
-          "playerheight": "5 ft 9 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Alessio da Cruz",
-          "playerlink": "https://www.livesoccertv.com/player/a-da-cruz/286460/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/286460-a-da-cruz.jpg",
-          "playerposition": "Forward",
-          "playernationality": "Netherlands",
-          "playerdob": "18 January, 1997",
-          "playerage": "23 years",
-          "playerbirthplace": "Almere, Netherlands",
-          "playerweight": "163.1 lb",
           "playerheight": "6 ft 0 in",
           "playergoals": "0",
           "playerassists": "0"
@@ -23464,6 +23058,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Adam Ounas",
+          "playerlink": "https://www.livesoccertv.com/player/a-ounas/264842/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/264842-a-ounas.png",
+          "playerposition": "Midfielder",
+          "playernationality": "Algeria",
+          "playerdob": "11 November, 1996",
+          "playerage": "23 years",
+          "playerbirthplace": "Chambray-lès-Tours, France",
+          "playerweight": "143.3 lb",
+          "playerheight": "5 ft 7 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Răzvan Gabriel Marin",
           "playerlink": "https://www.livesoccertv.com/player/r-marin/218584/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/218584-r-marin.png",
@@ -23520,20 +23128,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Riccardo Ladinetti",
-          "playerlink": "https://www.livesoccertv.com/player/r-ladinetti/376309/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/376309-r-ladinetti.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Italy",
-          "playerdob": "20 December, 2000",
-          "playerage": "19 year",
-          "playerbirthplace": "",
-          "playerweight": "",
-          "playerheight": "",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "João Pedro Geraldino dos Santos Galvão",
           "playerlink": "https://www.livesoccertv.com/player/joao-pedro/115191/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/115191-joao-pedro.png",
@@ -23586,20 +23180,6 @@
           "playerbirthplace": "Livorno, Italy",
           "playerweight": "176.4 lb",
           "playerheight": "6 ft 2 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "K. Despodov",
-          "playerlink": "https://www.livesoccertv.com/player/k-despodov/191664/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/191664-k-despodov.png",
-          "playerposition": "Forward",
-          "playernationality": "Bulgaria",
-          "playerdob": "11 November, 1996",
-          "playerage": "23 years",
-          "playerbirthplace": "Kresna, Bulgaria",
-          "playerweight": "152.1 lb",
-          "playerheight": "5 ft 10 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -23825,20 +23405,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Lévy Koffi Djidji",
-          "playerlink": "https://www.livesoccertv.com/player/k-djidji/163326/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/163326-k-djidji.png",
-          "playerposition": "Defender",
-          "playernationality": "Cote D'Ivoire",
-          "playerdob": "30 November, 1992",
-          "playerage": "27 years",
-          "playerbirthplace": "Bagnolet, France",
-          "playerweight": "156.5 lb",
-          "playerheight": "6 ft 0 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Tomás Eduardo Rincón Hernández",
           "playerlink": "https://www.livesoccertv.com/player/t-rincon/52778/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/52778-t-rincon.png",
@@ -23851,6 +23417,20 @@
           "playerheight": "5 ft 9 in",
           "playergoals": "0",
           "playerassists": "1"
+        },
+        {
+          "playername": "I. Karamoko",
+          "playerlink": "https://www.livesoccertv.com/player/i-karamoko/413775/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
+          "playerposition": "Midfielder",
+          "playernationality": "France",
+          "playerdob": "23 July, 2001",
+          "playerage": "19 years",
+          "playerbirthplace": "Paris, France",
+          "playerweight": "174.2 lb",
+          "playerheight": "6 ft 1 in",
+          "playergoals": "0",
+          "playerassists": "0"
         },
         {
           "playername": "Simone Edera",
@@ -23923,7 +23503,21 @@
           "playerassists": "0"
         },
         {
-          "playername": "M. Adopo",
+          "playername": "Amer Gojak",
+          "playerlink": "https://www.livesoccertv.com/player/a-gojak/253411/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/253411-a-gojak.png",
+          "playerposition": "Midfielder",
+          "playernationality": "Bosnia and Herzegovina",
+          "playerdob": "13 February, 1997",
+          "playerage": "23 years",
+          "playerbirthplace": "Sarajevo, Bosnia and Herzegovina",
+          "playerweight": "172 lb",
+          "playerheight": "6 ft 0 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "Michel Ndary Adopo",
           "playerlink": "https://www.livesoccertv.com/player/m-adopo/390629/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/390629-m-adopo.png",
           "playerposition": "Midfielder",
@@ -23961,6 +23555,20 @@
           "playerbirthplace": "Turin, Italy",
           "playerweight": "149.9 lb",
           "playerheight": "5 ft 8 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "Federico Bonazzoli",
+          "playerlink": "https://www.livesoccertv.com/player/f-bonazzoli/220742/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/220742-f-bonazzoli.png",
+          "playerposition": "Forward",
+          "playernationality": "Italy",
+          "playerdob": "21 May, 1997",
+          "playerage": "23 years",
+          "playerbirthplace": "Manerbio, Italy",
+          "playerweight": "174.2 lb",
+          "playerheight": "5 ft 11 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -24017,20 +23625,6 @@
       "teamcapacity": "25,952",
       "teammanager": "L. Gotti",
       "players": [
-        {
-          "playername": "Samuele Perisan",
-          "playerlink": "https://www.livesoccertv.com/player/s-perisan/295989/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/295989-s-perisan.png",
-          "playerposition": "Goalkeeper",
-          "playernationality": "Italy",
-          "playerdob": "21 August, 1997",
-          "playerage": "23 years",
-          "playerbirthplace": "San Vito al Tagliamento, Italy",
-          "playerweight": "165.3 lb",
-          "playerheight": "6 ft 3 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
         {
           "playername": "Simone Scuffet",
           "playerlink": "https://www.livesoccertv.com/player/s-scuffet/220735/",
@@ -24256,6 +23850,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Jean-Victor Makengo",
+          "playerlink": "https://www.livesoccertv.com/player/j-makengo/284954/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/284954-j-makengo.png",
+          "playerposition": "Midfielder",
+          "playernationality": "France",
+          "playerdob": "12 June, 1998",
+          "playerage": "22 years",
+          "playerbirthplace": "Etampes, France",
+          "playerweight": "165.3 lb",
+          "playerheight": "5 ft 9 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Petar Mićin",
           "playerlink": "https://www.livesoccertv.com/player/p-micin/284243/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/284243-p-micin.png",
@@ -24293,6 +23901,20 @@
           "playerage": "26 years",
           "playerbirthplace": "Sarandí, Argentina",
           "playerweight": "154.3 lb",
+          "playerheight": "5 ft 10 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "I. Pussetto",
+          "playerlink": "https://www.livesoccertv.com/player/i-pussetto/239780/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/239780-i-pussetto.png",
+          "playerposition": "Midfielder",
+          "playernationality": "Argentina",
+          "playerdob": "21 December, 1995",
+          "playerage": "24 years",
+          "playerbirthplace": "Cañada Rosquín, Argentina",
+          "playerweight": "163.1 lb",
           "playerheight": "5 ft 10 in",
           "playergoals": "0",
           "playerassists": "0"
@@ -24368,20 +23990,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Łukasz Teodorczyk",
-          "playerlink": "https://www.livesoccertv.com/player/teodorczyk/133666/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/133666-teodorczyk.png",
-          "playerposition": "Forward",
-          "playernationality": "Poland",
-          "playerdob": "3 June, 1991",
-          "playerage": "29 years",
-          "playerbirthplace": "Żuromin, Poland",
-          "playerweight": "167.6 lb",
-          "playerheight": "6 ft 0 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "F. Forestieri",
           "playerlink": "https://www.livesoccertv.com/player/f-forestieri/17981/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/17981-f-forestieri.jpg",
@@ -24410,16 +24018,16 @@
           "playerassists": "0"
         },
         {
-          "playername": "Cristo Ramón González Pérez",
-          "playerlink": "https://www.livesoccertv.com/player/cristo-gonzalez/277125/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/277125-cristo-gonzalez.jpg",
+          "playername": "Deulofeu",
+          "playerlink": "https://www.livesoccertv.com/player/deulofeu/135574/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/135574-deulofeu.png",
           "playerposition": "Forward",
           "playernationality": "Spain",
-          "playerdob": "24 October, 1997",
-          "playerage": "22 years",
-          "playerbirthplace": "Santa Cruz de Tenerife, Spain",
-          "playerweight": "152.1 lb",
-          "playerheight": "5 ft 10 in",
+          "playerdob": "13 March, 1994",
+          "playerage": "26 years",
+          "playerbirthplace": "Riudarenes, Spain",
+          "playerweight": "160.9 lb",
+          "playerheight": "5 ft 9 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -24477,20 +24085,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Guillaume Gigliotti",
-          "playerlink": "https://www.livesoccertv.com/player/g-gigliotti/125188/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/125188-g-gigliotti.jpg",
-          "playerposition": "Defender",
-          "playernationality": "France",
-          "playerdob": "9 November, 1989",
-          "playerage": "30 years",
-          "playerbirthplace": "Istres, France",
-          "playerweight": "158.7 lb",
-          "playerheight": "6 ft 0 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Antonio Mazzotta",
           "playerlink": "https://www.livesoccertv.com/player/a-mazzotta/85053/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/85053-a-mazzotta.jpg",
@@ -24505,15 +24099,15 @@
           "playerassists": "0"
         },
         {
-          "playername": "N. Spolli",
-          "playerlink": "https://www.livesoccertv.com/player/n-spolli/14406/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/14406-n-spolli.jpg",
+          "playername": "Sebastiano Luperto",
+          "playerlink": "https://www.livesoccertv.com/player/s-luperto/245081/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/245081-s-luperto.png",
           "playerposition": "Defender",
-          "playernationality": "Argentina",
-          "playerdob": "20 February, 1983",
-          "playerage": "37 years",
-          "playerbirthplace": "Coronel Bogado, Argentina",
-          "playerweight": "194 lb",
+          "playernationality": "Italy",
+          "playerdob": "6 September, 1996",
+          "playerage": "24 years",
+          "playerbirthplace": "Lecce, Italy",
+          "playerweight": "165.3 lb",
           "playerheight": "6 ft 3 in",
           "playergoals": "0",
           "playerassists": "0"
@@ -24599,6 +24193,20 @@
           "playerbirthplace": "Vico Equense, Italy",
           "playerweight": "174.2 lb",
           "playerheight": "6 ft 2 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "Lévy Koffi Djidji",
+          "playerlink": "https://www.livesoccertv.com/player/k-djidji/163326/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/163326-k-djidji.png",
+          "playerposition": "Defender",
+          "playernationality": "Cote D'Ivoire",
+          "playerdob": "30 November, 1992",
+          "playerage": "27 years",
+          "playerbirthplace": "Bagnolet, France",
+          "playerweight": "156.5 lb",
+          "playerheight": "6 ft 0 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -24771,20 +24379,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "J. Evans",
-          "playerlink": "https://www.livesoccertv.com/player/j-evans/395258/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Midfielder",
-          "playernationality": "France",
-          "playerdob": "17 December, 1998",
-          "playerage": "21 years",
-          "playerbirthplace": "Paris, Fran",
-          "playerweight": "",
-          "playerheight": "",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Junior Messias",
           "playerlink": "https://www.livesoccertv.com/player/junior-messias/362096/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
@@ -24795,20 +24389,6 @@
           "playerbirthplace": "Belo Horizonte, Brazil",
           "playerweight": "154.3 lb",
           "playerheight": "5 ft 8 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Giuseppe Borello",
-          "playerlink": "https://www.livesoccertv.com/player/g-borello/344444/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/344444-g-borello.jpg",
-          "playerposition": "Forward",
-          "playernationality": "Italy",
-          "playerdob": "28 April, 1999",
-          "playerage": "21 years",
-          "playerbirthplace": "Catanzaro, Italy",
-          "playerweight": "132.3 lb",
-          "playerheight": "5 ft 5 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -24852,6 +24432,20 @@
           "playerweight": "185.2 lb",
           "playerheight": "6 ft 5 in",
           "playergoals": "1",
+          "playerassists": "0"
+        },
+        {
+          "playername": "Luca Siligardi",
+          "playerlink": "https://www.livesoccertv.com/player/l-siligardi/61157/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/61157-l-siligardi.png",
+          "playerposition": "Forward",
+          "playernationality": "Italy",
+          "playerdob": "26 January, 1988",
+          "playerage": "32 years",
+          "playerbirthplace": "Correggio, Italy",
+          "playerweight": "158.7 lb",
+          "playerheight": "5 ft 10 in",
+          "playergoals": "0",
           "playerassists": "0"
         }
       ]
@@ -24906,20 +24500,6 @@
           "playerbirthplace": "Saint-Brieuc, France",
           "playerweight": "187.4 lb",
           "playerheight": "6 ft 4 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Jérémy Gelin",
-          "playerlink": "https://www.livesoccertv.com/player/j-gelin/264975/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/264975-j-gelin.png",
-          "playerposition": "Defender",
-          "playernationality": "France",
-          "playerdob": "24 April, 1997",
-          "playerage": "23 years",
-          "playerbirthplace": "Quimper, France",
-          "playerweight": "169.8 lb",
-          "playerheight": "5 ft 11 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -24980,20 +24560,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Sacha Boey",
-          "playerlink": "https://www.livesoccertv.com/player/s-boey/383365/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/383365-s-boey.png",
-          "playerposition": "Defender",
-          "playernationality": "France",
-          "playerdob": "13 September, 2000",
-          "playerage": "20 years",
-          "playerbirthplace": "Montreuil-sous-Bois, France",
-          "playerweight": "",
-          "playerheight": "5 ft 5 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Brandon Soppy",
           "playerlink": "https://www.livesoccertv.com/player/b-soppy/414186/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
@@ -25018,20 +24584,6 @@
           "playerbirthplace": "Barra Mansa, Brazil",
           "playerweight": "154.3 lb",
           "playerheight": "5 ft 11 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Lilian Brassier",
-          "playerlink": "https://www.livesoccertv.com/player/l-brassier/353529/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Defender",
-          "playernationality": "France",
-          "playerdob": "2 November, 1999",
-          "playerage": "20 years",
-          "playerbirthplace": "Argenteuil, France",
-          "playerweight": "172 lb",
-          "playerheight": "6 ft 0 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -25190,7 +24742,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "E. Camavinga",
+          "playername": "Eduardo Camavinga",
           "playerlink": "https://www.livesoccertv.com/player/e-camavinga/407031/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/407031-e-camavinga.png",
           "playerposition": "Midfielder",
@@ -25232,6 +24784,20 @@
           "playerassists": "1"
         },
         {
+          "playername": "Jeremy Doku",
+          "playerlink": "https://www.livesoccertv.com/player/j-doku/393570/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/393570-j-doku.png",
+          "playerposition": "Forward",
+          "playernationality": "Belgium",
+          "playerdob": "27 May, 2002",
+          "playerage": "18 years",
+          "playerbirthplace": "",
+          "playerweight": "",
+          "playerheight": "5 ft 7 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Romain Del Castillo",
           "playerlink": "https://www.livesoccertv.com/player/r-del-castillo/260194/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/260194-r-del-castillo.png",
@@ -25258,20 +24824,6 @@
           "playerheight": "6 ft 0 in",
           "playergoals": "0",
           "playerassists": "0"
-        },
-        {
-          "playername": "Raphael Dias Belloli",
-          "playerlink": "https://www.livesoccertv.com/player/raphinha/314243/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/314243-raphinha.png",
-          "playerposition": "Forward",
-          "playernationality": "Brazil",
-          "playerdob": "14 December, 1996",
-          "playerage": "23 years",
-          "playerbirthplace": "Porto Alegre, Brazil",
-          "playerweight": "127.9 lb",
-          "playerheight": "5 ft 9 in",
-          "playergoals": "1",
-          "playerassists": "2"
         }
       ]
     },
@@ -25495,7 +25047,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "E. Pizzuto",
+          "playername": "Eugenio Pizzuto Puga",
           "playerlink": "https://www.livesoccertv.com/player/e-pizzuto/418446/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
           "playerposition": "Midfielder",
@@ -25563,20 +25115,6 @@
           "playerheight": "6 ft 2 in",
           "playergoals": "2",
           "playerassists": "1"
-        },
-        {
-          "playername": "A. Flips",
-          "playerlink": "https://www.livesoccertv.com/player/a-flips/353606/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Forward",
-          "playernationality": "France",
-          "playerdob": "18 January, 2000",
-          "playerage": "20 years",
-          "playerbirthplace": "Villeneuve-d'Ascq, France",
-          "playerweight": "",
-          "playerheight": "5 ft 8 in",
-          "playergoals": "0",
-          "playerassists": "0"
         },
         {
           "playername": "Jonathan Christian David",
@@ -25870,20 +25408,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "M. Perez",
-          "playerlink": "https://www.livesoccertv.com/player/m-perez/136518/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/136518-m-perez.jpg",
-          "playerposition": "Midfielder",
-          "playernationality": "France",
-          "playerdob": "11 May, 1991",
-          "playerage": "29 years",
-          "playerbirthplace": "Grenoble, France",
-          "playerweight": "160.9 lb",
-          "playerheight": "5 ft 10 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Charles Boli",
           "playerlink": "https://www.livesoccertv.com/player/c-boli/352613/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
@@ -25952,20 +25476,6 @@
           "playerheight": "5 ft 6 in",
           "playergoals": "0",
           "playerassists": "1"
-        },
-        {
-          "playername": "Gaëtan Robail",
-          "playerlink": "https://www.livesoccertv.com/player/g-robail/229915/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/229915-g-robail.jpg",
-          "playerposition": "Forward",
-          "playernationality": "France",
-          "playerdob": "9 January, 1994",
-          "playerage": "26 years",
-          "playerbirthplace": "Saint-Pol-sur-Ternoise, France",
-          "playerweight": "160.9 lb",
-          "playerheight": "5 ft 11 in",
-          "playergoals": "0",
-          "playerassists": "0"
         },
         {
           "playername": "Simon Bokoté Banza",
@@ -26287,6 +25797,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Rafael Alcântara do Nascimento",
+          "playerlink": "https://www.livesoccertv.com/player/rafinha/143382/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/143382-rafinha.png",
+          "playerposition": "Midfielder",
+          "playernationality": "Brazil",
+          "playerdob": "12 February, 1993",
+          "playerage": "27 years",
+          "playerbirthplace": "São Paulo, Brazil",
+          "playerweight": "156.5 lb",
+          "playerheight": "5 ft 8 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Ángel Fabián Di María Hernández",
           "playerlink": "https://www.livesoccertv.com/player/a-di-maria/16712/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/16712-a-di-maria.png",
@@ -26395,20 +25919,6 @@
           "playerbirthplace": "Pescara, Italy",
           "playerweight": "132.3 lb",
           "playerheight": "5 ft 4 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Arnaud Kalimuendo Muinga",
-          "playerlink": "https://www.livesoccertv.com/player/a-muinga/407661/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/407661-a-muinga.png",
-          "playerposition": "Forward",
-          "playernationality": "France",
-          "playerdob": "20 January, 2002",
-          "playerage": "18 years",
-          "playerbirthplace": "",
-          "playerweight": "138.9 lb",
-          "playerheight": "5 ft 8 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -26648,7 +26158,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "J. Chotard",
+          "playername": "Joris Chotard",
           "playerlink": "https://www.livesoccertv.com/player/j-chotard/409628/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/409628-j-chotard.png",
           "playerposition": "Midfielder",
@@ -26690,7 +26200,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "T. Vargas",
+          "playername": "Thibaut Vargas",
           "playerlink": "https://www.livesoccertv.com/player/t-vargas/404576/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/404576-t-vargas.png",
           "playerposition": "Midfielder",
@@ -26774,7 +26284,7 @@
           "playerassists": "1"
         },
         {
-          "playername": "S. Benchama",
+          "playername": "Samy Benchama",
           "playerlink": "https://www.livesoccertv.com/player/s-benchama/394237/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
           "playerposition": "Midfielder",
@@ -26967,20 +26477,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Arthur Zagre",
-          "playerlink": "https://www.livesoccertv.com/player/a-zagre/369681/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/369681-a-zagre.png",
-          "playerposition": "Defender",
-          "playernationality": "France",
-          "playerdob": "4 October, 2001",
-          "playerage": "19 year",
-          "playerbirthplace": "",
-          "playerweight": "",
-          "playerheight": "",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "C. Matsima",
           "playerlink": "https://www.livesoccertv.com/player/c-matsima/407582/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
@@ -26991,20 +26487,6 @@
           "playerbirthplace": "",
           "playerweight": "",
           "playerheight": "",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Antonio Barreca",
-          "playerlink": "https://www.livesoccertv.com/player/a-barreca/263972/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/263972-a-barreca.png",
-          "playerposition": "Defender",
-          "playernationality": "Italy",
-          "playerdob": "18 March, 1995",
-          "playerage": "25 years",
-          "playerbirthplace": "Torino, Italy",
-          "playerweight": "154.3 lb",
-          "playerheight": "6 ft 0 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -27079,20 +26561,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "G. Biancone",
-          "playerlink": "https://www.livesoccertv.com/player/g-biancone/371635/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Defender",
-          "playernationality": "France",
-          "playerdob": "31 March, 2000",
-          "playerage": "20 years",
-          "playerbirthplace": "Fréjus, France",
-          "playerweight": "",
-          "playerheight": "6 ft 1 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Jemerson de Jesus Nascimento",
           "playerlink": "https://www.livesoccertv.com/player/jemerson/238031/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/238031-jemerson.png",
@@ -27149,7 +26617,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "E. Matazo",
+          "playername": "Eliot Matazo",
           "playerlink": "https://www.livesoccertv.com/player/e-matazo/400191/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
           "playerposition": "Midfielder",
@@ -27440,6 +26908,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Panagiotis Retsos",
+          "playerlink": "https://www.livesoccertv.com/player/p-retsos/280114/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/280114-p-retsos.png",
+          "playerposition": "Defender",
+          "playernationality": "Greece",
+          "playerdob": "9 August, 1998",
+          "playerage": "22 years",
+          "playerbirthplace": "Johannesburg, South Africa",
+          "playerweight": "178.6 lb",
+          "playerheight": "6 ft 1 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Yvann Maçon",
           "playerlink": "https://www.livesoccertv.com/player/y-macon/368692/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
@@ -27552,7 +27034,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "A. Aouchiche",
+          "playername": "Adil Aouchiche",
           "playerlink": "https://www.livesoccertv.com/player/a-aouchiche/407657/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/407657-a-aouchiche.png",
           "playerposition": "Midfielder",
@@ -27566,7 +27048,7 @@
           "playerassists": "1"
         },
         {
-          "playername": "A. Moueffek",
+          "playername": "Aimen Moueffek",
           "playerlink": "https://www.livesoccertv.com/player/a-moueffek/399490/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/399490-a-moueffek.png",
           "playerposition": "Midfielder",
@@ -27580,7 +27062,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "B. Benkhedim",
+          "playername": "Bilal Benkhedim",
           "playerlink": "https://www.livesoccertv.com/player/b-benkhedim/399492/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/399492-b-benkhedim.png",
           "playerposition": "Midfielder",
@@ -27899,16 +27381,16 @@
           "playerassists": "0"
         },
         {
-          "playername": "Jean-Victor Makengo",
-          "playerlink": "https://www.livesoccertv.com/player/j-makengo/284954/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/284954-j-makengo.png",
+          "playername": "Jeff Reine-Adélaïde",
+          "playerlink": "https://www.livesoccertv.com/player/j-reine-adelaide/289054/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/289054-j-reine-adelaide.png",
           "playerposition": "Midfielder",
           "playernationality": "France",
-          "playerdob": "12 June, 1998",
+          "playerdob": "17 January, 1998",
           "playerage": "22 years",
-          "playerbirthplace": "Etampes, France",
+          "playerbirthplace": "Champigny-sur-Marne, France",
           "playerweight": "165.3 lb",
-          "playerheight": "5 ft 9 in",
+          "playerheight": "6 ft 0 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -27936,20 +27418,6 @@
           "playerage": "22 years",
           "playerbirthplace": "",
           "playerweight": "136.7 lb",
-          "playerheight": "5 ft 8 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Eddy Sylvestre Negadi",
-          "playerlink": "https://www.livesoccertv.com/player/e-sylvestre/334450/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Midfielder",
-          "playernationality": "France",
-          "playerdob": "29 August, 1999",
-          "playerage": "21 years",
-          "playerbirthplace": "Aubagne, France",
-          "playerweight": "152.1 lb",
           "playerheight": "5 ft 8 in",
           "playergoals": "0",
           "playerassists": "0"
@@ -28372,6 +27840,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "H. Ben Arfa",
+          "playerlink": "https://www.livesoccertv.com/player/h-ben-arfa/1721/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/1721-h-ben-arfa.png",
+          "playerposition": "Midfielder",
+          "playernationality": "France",
+          "playerdob": "7 March, 1987",
+          "playerage": "33 years",
+          "playerbirthplace": "Clamart, France",
+          "playerweight": "143.3 lb",
+          "playerheight": "5 ft 10 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Otávio Henrique Passos Santos",
           "playerlink": "https://www.livesoccertv.com/player/otavio/260049/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/260049-otavio.png",
@@ -28509,20 +27991,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Ahmadou Bamba Dia",
-          "playerlink": "https://www.livesoccertv.com/player/a-dia/326805/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Goalkeeper",
-          "playernationality": "France",
-          "playerdob": "13 October, 1999",
-          "playerage": "20 years",
-          "playerbirthplace": "Lyon, France",
-          "playerweight": "172 lb",
-          "playerheight": "5 ft 11 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "S. Mandanda",
           "playerlink": "https://www.livesoccertv.com/player/s-mandanda/13239/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/13239-s-mandanda.png",
@@ -28561,20 +28029,6 @@
           "playerbirthplace": "Marseille, France",
           "playerweight": "154.3 lb",
           "playerheight": "5 ft 7 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Bouna Sarr",
-          "playerlink": "https://www.livesoccertv.com/player/b-sarr/148528/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/148528-b-sarr.png",
-          "playerposition": "Defender",
-          "playernationality": "France",
-          "playerdob": "31 January, 1992",
-          "playerage": "28 years",
-          "playerbirthplace": "Lyon, France",
-          "playerweight": "143.3 lb",
-          "playerheight": "5 ft 9 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -28775,20 +28229,6 @@
           "playerassists": "2"
         },
         {
-          "playername": "Maxime Lopez",
-          "playerlink": "https://www.livesoccertv.com/player/m-lopez/250842/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/250842-m-lopez.png",
-          "playerposition": "Midfielder",
-          "playernationality": "France",
-          "playerdob": "4 December, 1997",
-          "playerage": "22 years",
-          "playerbirthplace": "Marseille, France",
-          "playerweight": "127.9 lb",
-          "playerheight": "5 ft 5 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Marley Aké",
           "playerlink": "https://www.livesoccertv.com/player/m-ake/402911/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/402911-m-ake.png",
@@ -28813,6 +28253,20 @@
           "playerbirthplace": "Ridderkerk, Netherlands",
           "playerweight": "172 lb",
           "playerheight": "6 ft 1 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "Mickaël Cuisance",
+          "playerlink": "https://www.livesoccertv.com/player/m-cuisance/312042/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/312042-m-cuisance.png",
+          "playerposition": "Midfielder",
+          "playernationality": "France",
+          "playerdob": "16 August, 1999",
+          "playerage": "21 years",
+          "playerbirthplace": "Strasbourg, France",
+          "playerweight": "163.1 lb",
+          "playerheight": "5 ft 11 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -29038,6 +28492,20 @@
           "playerassists": "2"
         },
         {
+          "playername": "Lilian Brassier",
+          "playerlink": "https://www.livesoccertv.com/player/l-brassier/353529/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
+          "playerposition": "Defender",
+          "playernationality": "France",
+          "playerdob": "2 November, 1999",
+          "playerage": "20 years",
+          "playerbirthplace": "Argenteuil, France",
+          "playerweight": "172 lb",
+          "playerheight": "6 ft 0 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Paul Lasne",
           "playerlink": "https://www.livesoccertv.com/player/p-lasne/87100/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/87100-p-lasne.png",
@@ -29066,7 +28534,7 @@
           "playerassists": "2"
         },
         {
-          "playername": "I. Dioh",
+          "playername": "Idrissa Dioh",
           "playerlink": "https://www.livesoccertv.com/player/d-idrissa/404097/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
           "playerposition": "Midfielder",
@@ -29469,6 +28937,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Sofiane Boufal",
+          "playerlink": "https://www.livesoccertv.com/player/s-boufal/202780/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/202780-s-boufal.png",
+          "playerposition": "Midfielder",
+          "playernationality": "Morocco",
+          "playerdob": "17 September, 1993",
+          "playerage": "27 years",
+          "playerbirthplace": "Paris, France",
+          "playerweight": "132.3 lb",
+          "playerheight": "5 ft 6 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Angelo Fulgini",
           "playerlink": "https://www.livesoccertv.com/player/a-fulgini/232994/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/232994-a-fulgini.png",
@@ -29481,6 +28963,20 @@
           "playerheight": "6 ft 0 in",
           "playergoals": "1",
           "playerassists": "1"
+        },
+        {
+          "playername": "Ibrahim Amadou",
+          "playerlink": "https://www.livesoccertv.com/player/i-amadou/141632/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/141632-i-amadou.png",
+          "playerposition": "Midfielder",
+          "playernationality": "France",
+          "playerdob": "6 April, 1993",
+          "playerage": "27 years",
+          "playerbirthplace": "Douala, Cameroon",
+          "playerweight": "178.6 lb",
+          "playerheight": "6 ft 0 in",
+          "playergoals": "0",
+          "playerassists": "0"
         },
         {
           "playername": "Antonin Bobichon",
@@ -29551,20 +29047,6 @@
           "playerheight": "5 ft 11 in",
           "playergoals": "0",
           "playerassists": "2"
-        },
-        {
-          "playername": "A. Gomez Mancini",
-          "playerlink": "https://www.livesoccertv.com/player/a-gomez-mancini/403876/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/403876-a-gomez-mancini.png",
-          "playerposition": "Midfielder",
-          "playernationality": "France",
-          "playerdob": "6 April, 2001",
-          "playerage": "19 years",
-          "playerbirthplace": "Saint Priest, France",
-          "playerweight": "",
-          "playerheight": "5 ft 10 in",
-          "playergoals": "0",
-          "playerassists": "0"
         },
         {
           "playername": "J. Cabot",
@@ -30107,6 +29589,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Mattia De Sciglio",
+          "playerlink": "https://www.livesoccertv.com/player/m-de-sciglio/134401/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/134401-m-de-sciglio.png",
+          "playerposition": "Defender",
+          "playernationality": "Italy",
+          "playerdob": "20 October, 1992",
+          "playerage": "27 years",
+          "playerbirthplace": "Milano, Italy",
+          "playerweight": "172 lb",
+          "playerheight": "5 ft 11 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Jason Denayer",
           "playerlink": "https://www.livesoccertv.com/player/j-denayer/250369/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/250369-j-denayer.png",
@@ -30177,29 +29673,15 @@
           "playerassists": "0"
         },
         {
-          "playername": "Joachim Andersen",
-          "playerlink": "https://www.livesoccertv.com/player/j-andersen/189319/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/189319-j-andersen.png",
+          "playername": "Djameleddine Benlamri",
+          "playerlink": "https://www.livesoccertv.com/player/d-benlamri/88016/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/88016-d-benlamri.png",
           "playerposition": "Defender",
-          "playernationality": "Denmark",
-          "playerdob": "31 May, 1996",
-          "playerage": "24 years",
-          "playerbirthplace": "Frederiksberg, Denmark",
-          "playerweight": "198.4 lb",
-          "playerheight": "6 ft 3 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Jeff Reine-Adélaïde",
-          "playerlink": "https://www.livesoccertv.com/player/j-reine-adelaide/289054/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/289054-j-reine-adelaide.png",
-          "playerposition": "Midfielder",
-          "playernationality": "France",
-          "playerdob": "17 January, 1998",
-          "playerage": "22 years",
-          "playerbirthplace": "Champigny-sur-Marne, France",
-          "playerweight": "165.3 lb",
+          "playernationality": "Algeria",
+          "playerdob": "25 December, 1989",
+          "playerage": "30 years",
+          "playerbirthplace": "Algiers, Algeria",
+          "playerweight": "183 lb",
           "playerheight": "6 ft 0 in",
           "playergoals": "0",
           "playerassists": "0"
@@ -30454,20 +29936,6 @@
           "playerassists": "1"
         },
         {
-          "playername": "Laurent Jans",
-          "playerlink": "https://www.livesoccertv.com/player/l-jans/134207/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/134207-l-jans.png",
-          "playerposition": "Defender",
-          "playernationality": "Luxembourg",
-          "playerdob": "5 August, 1992",
-          "playerage": "28 years",
-          "playerbirthplace": "Lëtzebuerg, Luxembourg",
-          "playerweight": "160.9 lb",
-          "playerheight": "5 ft 10 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Thomas Delaine",
           "playerlink": "https://www.livesoccertv.com/player/t-delaine/133952/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/133952-t-delaine.png",
@@ -30678,20 +30146,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Habibou Mouhamadou Diallo",
-          "playerlink": "https://www.livesoccertv.com/player/h-diallo/259590/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/259590-h-diallo.png",
-          "playerposition": "Forward",
-          "playernationality": "Senegal",
-          "playerdob": "18 June, 1995",
-          "playerage": "25 years",
-          "playerbirthplace": "Thies, Senegal",
-          "playerweight": "174.2 lb",
-          "playerheight": "6 ft 1 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Thierry Ambrose",
           "playerlink": "https://www.livesoccertv.com/player/t-ambrose/252746/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/252746-t-ambrose.png",
@@ -30843,6 +30297,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "S. Corchia",
+          "playerlink": "https://www.livesoccertv.com/player/s-corchia/73299/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/73299-s-corchia.png",
+          "playerposition": "Defender",
+          "playernationality": "France",
+          "playerdob": "1 November, 1990",
+          "playerage": "29 years",
+          "playerbirthplace": "Noisy le Sec, France",
+          "playerweight": "152.1 lb",
+          "playerheight": "5 ft 9 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Thomas Basila",
           "playerlink": "https://www.livesoccertv.com/player/t-basila/341623/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/341623-t-basila.png",
@@ -30941,20 +30409,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Samuel Moutoussamy",
-          "playerlink": "https://www.livesoccertv.com/player/s-moutoussamy/262726/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/262726-s-moutoussamy.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Congo",
-          "playerdob": "12 August, 1996",
-          "playerage": "24 years",
-          "playerbirthplace": "Paris, France",
-          "playerweight": "158.7 lb",
-          "playerheight": "5 ft 9 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Ludovic Blas",
           "playerlink": "https://www.livesoccertv.com/player/l-blas/278380/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/278380-l-blas.png",
@@ -31036,6 +30490,20 @@
           "playerweight": "143.3 lb",
           "playerheight": "5 ft 10 in",
           "playergoals": "2",
+          "playerassists": "0"
+        },
+        {
+          "playername": "J. Augustin",
+          "playerlink": "https://www.livesoccertv.com/player/j-augustin/250678/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/250678-j-augustin.jpg",
+          "playerposition": "Forward",
+          "playernationality": "France",
+          "playerdob": "16 June, 1997",
+          "playerage": "23 years",
+          "playerbirthplace": "Paris, France",
+          "playerweight": "152.1 lb",
+          "playerheight": "5 ft 9 in",
+          "playergoals": "0",
           "playerassists": "0"
         },
         {
@@ -31428,20 +30896,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Julien Ponceau",
-          "playerlink": "https://www.livesoccertv.com/player/j-ponceau/349127/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Midfielder",
-          "playernationality": "France",
-          "playerdob": "28 November, 2000",
-          "playerage": "19 years",
-          "playerbirthplace": "Catumbela, Angola",
-          "playerweight": "132.3 lb",
-          "playerheight": "5 ft 6 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "A. Grbić",
           "playerlink": "https://www.livesoccertv.com/player/a-grbic/218920/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/218920-a-grbic.jpg",
@@ -31817,6 +31271,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Habibou Mouhamadou Diallo",
+          "playerlink": "https://www.livesoccertv.com/player/h-diallo/259590/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/259590-h-diallo.png",
+          "playerposition": "Forward",
+          "playernationality": "Senegal",
+          "playerdob": "18 June, 1995",
+          "playerage": "25 years",
+          "playerbirthplace": "Thies, Senegal",
+          "playerweight": "174.2 lb",
+          "playerheight": "6 ft 1 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Lebo Mothiba",
           "playerlink": "https://www.livesoccertv.com/player/l-mothiba/287759/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/287759-l-mothiba.png",
@@ -32020,20 +31488,6 @@
           "playerbirthplace": "Bissau, Portugal",
           "playerweight": "138.9 lb",
           "playerheight": "5 ft 4 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "T. Dingomé",
-          "playerlink": "https://www.livesoccertv.com/player/t-dingome/134940/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/134940-t-dingome.png",
-          "playerposition": "Midfielder",
-          "playernationality": "France",
-          "playerdob": "17 February, 1991",
-          "playerage": "29 years",
-          "playerbirthplace": "Les Ulis, France",
-          "playerweight": "156.5 lb",
-          "playerheight": "5 ft 8 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -32273,6 +31727,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Arthur Zagre",
+          "playerlink": "https://www.livesoccertv.com/player/a-zagre/369681/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/369681-a-zagre.png",
+          "playerposition": "Defender",
+          "playernationality": "France",
+          "playerdob": "4 October, 2001",
+          "playerage": "19 year",
+          "playerbirthplace": "",
+          "playerweight": "",
+          "playerheight": "",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Senou Coulibaly",
           "playerlink": "https://www.livesoccertv.com/player/s-coulibaly/364576/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/364576-s-coulibaly.png",
@@ -32312,6 +31780,20 @@
           "playerweight": "167.6 lb",
           "playerheight": "6 ft 1 in",
           "playergoals": "1",
+          "playerassists": "0"
+        },
+        {
+          "playername": "Sacha Boey",
+          "playerlink": "https://www.livesoccertv.com/player/s-boey/383365/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/383365-s-boey.png",
+          "playerposition": "Defender",
+          "playernationality": "France",
+          "playerdob": "13 September, 2000",
+          "playerage": "20 years",
+          "playerbirthplace": "Montreuil-sous-Bois, France",
+          "playerweight": "",
+          "playerheight": "5 ft 5 in",
+          "playergoals": "0",
           "playerassists": "0"
         },
         {
@@ -32804,7 +32286,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "L. Samardžić",
+          "playername": "Lazar Samardžić",
           "playerlink": "https://www.livesoccertv.com/player/l-samardzic/401283/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/401283-l-samardzic.png",
           "playerposition": "Midfielder",
@@ -32898,6 +32380,20 @@
           "playerbirthplace": "",
           "playerweight": "145.5 lb",
           "playerheight": "5 ft 10 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "Justin Kluivert",
+          "playerlink": "https://www.livesoccertv.com/player/j-kluivert/312078/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/312078-j-kluivert.png",
+          "playerposition": "Forward",
+          "playernationality": "Netherlands",
+          "playerdob": "5 May, 1999",
+          "playerage": "21 years",
+          "playerbirthplace": "Amsterdam, Netherlands",
+          "playerweight": "145.5 lb",
+          "playerheight": "5 ft 7 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -33249,20 +32745,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Eduard Löwen",
-          "playerlink": "https://www.livesoccertv.com/player/e-lowen/275165/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/275165-e-lowen.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Germany",
-          "playerdob": "28 January, 1997",
-          "playerage": "23 years",
-          "playerbirthplace": "Idar-Oberstein, Germany",
-          "playerweight": "200.6 lb",
-          "playerheight": "6 ft 2 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Noah Joel Sarenren Bazee",
           "playerlink": "https://www.livesoccertv.com/player/n-sarenren-bazee/245728/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/245728-n-sarenren-bazee.png",
@@ -33480,20 +32962,6 @@
           "playerbirthplace": "Rotterdam, Netherlands",
           "playerweight": "143.3 lb",
           "playerheight": "5 ft 9 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Simon Falette",
-          "playerlink": "https://www.livesoccertv.com/player/s-falette/137930/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/137930-s-falette.png",
-          "playerposition": "Defender",
-          "playernationality": "Guinea",
-          "playerdob": "19 February, 1992",
-          "playerage": "28 years",
-          "playerbirthplace": "Le Mans, France",
-          "playerweight": "196.2 lb",
-          "playerheight": "6 ft 0 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -33817,6 +33285,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Bouna Sarr",
+          "playerlink": "https://www.livesoccertv.com/player/b-sarr/148528/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/148528-b-sarr.png",
+          "playerposition": "Defender",
+          "playernationality": "France",
+          "playerdob": "31 January, 1992",
+          "playerage": "28 years",
+          "playerbirthplace": "Lyon, France",
+          "playerweight": "143.3 lb",
+          "playerheight": "5 ft 9 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "David Olatukunbo Alaba",
           "playerlink": "https://www.livesoccertv.com/player/d-alaba/35928/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/35928-d-alaba.png",
@@ -33943,6 +33425,20 @@
           "playerassists": "2"
         },
         {
+          "playername": "Douglas Costa de Souza",
+          "playerlink": "https://www.livesoccertv.com/player/douglas-costa/65420/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/65420-douglas-costa.png",
+          "playerposition": "Midfielder",
+          "playernationality": "Brazil",
+          "playerdob": "14 September, 1990",
+          "playerage": "30 years",
+          "playerbirthplace": "Sapucaia do Sul, Brazil",
+          "playerweight": "154.3 lb",
+          "playerheight": "5 ft 7 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "Marc Roca",
           "playerlink": "https://www.livesoccertv.com/player/marc-roca/277390/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/277390-marc-roca.png",
@@ -33953,20 +33449,6 @@
           "playerbirthplace": "Vilafranca del Penedès, Spain",
           "playerweight": "163.1 lb",
           "playerheight": "6 ft 0 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "A. Fein",
-          "playerlink": "https://www.livesoccertv.com/player/a-fein/325038/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Germany",
-          "playerdob": "18 March, 1999",
-          "playerage": "21 years",
-          "playerbirthplace": "",
-          "playerweight": "189.6 lb",
-          "playerheight": "6 ft 1 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -34010,20 +33492,6 @@
           "playerweight": "167.6 lb",
           "playerheight": "6 ft 2 in",
           "playergoals": "1",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Mickaël Cuisance",
-          "playerlink": "https://www.livesoccertv.com/player/m-cuisance/312042/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/312042-m-cuisance.png",
-          "playerposition": "Midfielder",
-          "playernationality": "France",
-          "playerdob": "16 August, 1999",
-          "playerage": "21 years",
-          "playerbirthplace": "Strasbourg, France",
-          "playerweight": "163.1 lb",
-          "playerheight": "5 ft 11 in",
-          "playergoals": "0",
           "playerassists": "0"
         },
         {
@@ -34106,6 +33574,20 @@
           "playerage": "19 years",
           "playerbirthplace": "Schiedam, Netherlands",
           "playerweight": "185.2 lb",
+          "playerheight": "6 ft 3 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "Jean-Eric Maxim Choupo-Moting",
+          "playerlink": "https://www.livesoccertv.com/player/e-choupo-moting/16634/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/16634-e-choupo-moting.png",
+          "playerposition": "Forward",
+          "playernationality": "Cameroon",
+          "playerdob": "23 March, 1989",
+          "playerage": "31 years",
+          "playerbirthplace": "Hamburg, Germany",
+          "playerweight": "180.8 lb",
           "playerheight": "6 ft 3 in",
           "playergoals": "0",
           "playerassists": "0"
@@ -34304,7 +33786,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "Reinier",
+          "playername": "Reinier Jesus Carvalho",
           "playerlink": "https://www.livesoccertv.com/player/reinier-carvalho/415761/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
           "playerposition": "Midfielder",
@@ -35421,7 +34903,7 @@
           "playerposition": "Defender",
           "playernationality": "Germany",
           "playerdob": "13 October, 1996",
-          "playerage": "23 years",
+          "playerage": "24 years",
           "playerbirthplace": "Essen, Germany",
           "playerweight": "167.6 lb",
           "playerheight": "6 ft 2 in",
@@ -35625,7 +35107,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "L. Egloff",
+          "playername": "Lilian Egloff",
           "playerlink": "https://www.livesoccertv.com/player/l-egloff/400476/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
           "playerposition": "Midfielder",
@@ -35653,7 +35135,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "T. Coulibaly",
+          "playername": "Tanguy Coulibaly",
           "playerlink": "https://www.livesoccertv.com/player/t-coulibaly/407663/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
           "playerposition": "Midfielder",
@@ -35902,20 +35384,6 @@
           "playerassists": "0"
         },
         {
-          "playername": "Lars Dietz",
-          "playerlink": "https://www.livesoccertv.com/player/l-dietz/246137/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Defender",
-          "playernationality": "Germany",
-          "playerdob": "7 January, 1997",
-          "playerage": "23 years",
-          "playerbirthplace": "Soest, Germany",
-          "playerweight": "160.9 lb",
-          "playerheight": "6 ft 1 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
           "playername": "Niko Gießelmann",
           "playerlink": "https://www.livesoccertv.com/player/n-giesselmann/122010/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/122010-n-giesselmann.png",
@@ -36052,34 +35520,6 @@
           "playerbirthplace": "",
           "playerweight": "",
           "playerheight": "5 ft 3 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Berkan Taz",
-          "playerlink": "https://www.livesoccertv.com/player/b-taz/361639/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Germany",
-          "playerdob": "19 December, 1998",
-          "playerage": "21 years",
-          "playerbirthplace": "Berlin, Germany",
-          "playerweight": "165.3 lb",
-          "playerheight": "5 ft 8 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Joshua Mees",
-          "playerlink": "https://www.livesoccertv.com/player/j-mees/224434/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/224434-j-mees.png",
-          "playerposition": "Midfielder",
-          "playernationality": "Germany",
-          "playerdob": "15 April, 1996",
-          "playerage": "24 years",
-          "playerbirthplace": "Lebach, Germany",
-          "playerweight": "154.3 lb",
-          "playerheight": "5 ft 10 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -36389,7 +35829,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "J. Consbruch",
+          "playername": "Jomaine Ellay Consbruch",
           "playerlink": "https://www.livesoccertv.com/player/j-consbruch/401179/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
           "playerposition": "Midfielder",
@@ -36742,7 +36182,7 @@
           "playerposition": "Defender",
           "playernationality": "Denmark",
           "playerdob": "13 October, 1999",
-          "playerage": "20 years",
+          "playerage": "21 years",
           "playerbirthplace": "Ikast, Denmark",
           "playerweight": "176.4 lb",
           "playerheight": "6 ft 2 in",
@@ -37070,20 +36510,6 @@
           "playerheight": "5 ft 7 in",
           "playergoals": "0",
           "playerassists": "0"
-        },
-        {
-          "playername": "Keanan Bennetts",
-          "playerlink": "https://www.livesoccertv.com/player/k-bennetts/333310/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Forward",
-          "playernationality": "England",
-          "playerdob": "9 March, 1999",
-          "playerage": "21 years",
-          "playerbirthplace": "London, England",
-          "playerweight": "160.9 lb",
-          "playerheight": "6 ft 0 in",
-          "playergoals": "0",
-          "playerassists": "0"
         }
       ]
     },
@@ -37121,20 +36547,6 @@
           "playerbirthplace": "Burghausen, Germany",
           "playerweight": "185.2 lb",
           "playerheight": "6 ft 3 in",
-          "playergoals": "0",
-          "playerassists": "0"
-        },
-        {
-          "playername": "Constantin Frommann",
-          "playerlink": "https://www.livesoccertv.com/player/c-frommann/293291/",
-          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
-          "playerposition": "Goalkeeper",
-          "playernationality": "Germany",
-          "playerdob": "27 May, 1998",
-          "playerage": "22 years",
-          "playerbirthplace": "Sasbach, Germany",
-          "playerweight": "172 lb",
-          "playerheight": "6 ft 0 in",
           "playergoals": "0",
           "playerassists": "0"
         },
@@ -37626,6 +37038,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Omar Federico Alderete Fernández",
+          "playerlink": "https://www.livesoccertv.com/player/o-alderete/233355/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/233355-o-alderete.png",
+          "playerposition": "Defender",
+          "playernationality": "Paraguay",
+          "playerdob": "26 December, 1996",
+          "playerage": "23 years",
+          "playerbirthplace": "Asunción, Paraguay",
+          "playerweight": "169.8 lb",
+          "playerheight": "6 ft 2 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
           "playername": "D. Zeefuik",
           "playerlink": "https://www.livesoccertv.com/player/d-zeefuik/283026/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/283026-d-zeefuik.png",
@@ -37752,7 +37178,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "J. Albrecht",
+          "playername": "Julian Albrecht",
           "playerlink": "https://www.livesoccertv.com/player/j-albrecht/390993/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
           "playerposition": "Midfielder",
@@ -38183,7 +37609,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "F. Wirtz",
+          "playername": "Florian Wirtz",
           "playerlink": "https://www.livesoccertv.com/player/f-wirtz/399293/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
           "playerposition": "Midfielder",
@@ -38354,7 +37780,7 @@
           "playerposition": "Goalkeeper",
           "playernationality": "Germany",
           "playerdob": "13 October, 1995",
-          "playerage": "24 years",
+          "playerage": "25 years",
           "playerbirthplace": "Wolfsburg, Germany",
           "playerweight": "187.4 lb",
           "playerheight": "6 ft 1 in",
@@ -39017,7 +38443,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "T. Lemperle",
+          "playername": "Tim Lemperle",
           "playerlink": "https://www.livesoccertv.com/player/t-lemperle/399306/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
           "playerposition": "Midfielder",
@@ -39031,7 +38457,7 @@
           "playerassists": "0"
         },
         {
-          "playername": "J. Thielmann",
+          "playername": "Jan Thielmann",
           "playerlink": "https://www.livesoccertv.com/player/j-thielmann/399309/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/399309-j-thielmann.png",
           "playerposition": "Midfielder",
@@ -39346,6 +38772,20 @@
           "playerbirthplace": "Erpeldange, Luxembourg",
           "playerweight": "",
           "playerheight": "5 ft 6 in",
+          "playergoals": "0",
+          "playerassists": "0"
+        },
+        {
+          "playername": "K. Stöger",
+          "playerlink": "https://www.livesoccertv.com/player/k-stoger/144761/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/144761-k-stoger.png",
+          "playerposition": "Midfielder",
+          "playernationality": "Austria",
+          "playerdob": "27 August, 1993",
+          "playerage": "27 years",
+          "playerbirthplace": "Steyr, Austria",
+          "playerweight": "160.9 lb",
+          "playerheight": "5 ft 8 in",
           "playergoals": "0",
           "playerassists": "0"
         },
