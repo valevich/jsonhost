@@ -18,19 +18,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
       "GameState": "FT ",
-      "HomeTeam": "Latvia",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/456.png",
-      "AwayTeam": "Malta",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/453.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  TUDN.com ,  TUDNx…"
-    },
-    {
-      "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
-      "GameTime": "12:00pm",
-      "GameState": "FT ",
       "HomeTeam": "Azerbaijan",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/581.png",
@@ -42,14 +29,14 @@
     {
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
-      "GameTime": "2:45pm",
+      "GameTime": "12:00pm",
       "GameState": "FT ",
-      "HomeTeam": "Liechtenstein",
+      "HomeTeam": "Latvia",
       "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/589.png",
-      "AwayTeam": "San Marino",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/588.png",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/456.png",
+      "AwayTeam": "Malta",
+      "AwayGoals": "1",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/453.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  TUDN.com ,  TUDNx…"
     },
     {
@@ -83,13 +70,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "FT ",
-      "HomeTeam": "Ukraine",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/457.png",
-      "AwayTeam": "Spain",
+      "HomeTeam": "Liechtenstein",
+      "HomeGoals": "0",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/589.png",
+      "AwayTeam": "San Marino",
       "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/164.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  UniMás ,  TUDN.com"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/588.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  TUDN.com ,  TUDNx…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -103,6 +90,19 @@
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/582.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  TUDN.com ,  TUDNx…"
+    },
+    {
+      "LeagueName": "UEFA Nations League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
+      "GameTime": "2:45pm",
+      "GameState": "FT ",
+      "HomeTeam": "Ukraine",
+      "HomeGoals": "1",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/457.png",
+      "AwayTeam": "Spain",
+      "AwayGoals": "0",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/164.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  UniMás ,  TUDN.com"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -121,22 +121,22 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "4:00pm",
-      "GameState": "52 ",
+      "GameState": "62 ",
       "HomeTeam": "Bolivia",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/204.png",
       "AwayTeam": "Gent",
       "AwayGoals": "1",
       "AwayLogo": "https://cdn.livesoccertv.com/images/teams/belgium/logos/gent.png",
-      "TVChannels": ":00pm 52 '   Bolivia  1 - 1  Argentina Fanatiz USA ,  FITE ,  SportsMax ,  S…"
+      "TVChannels": ":00pm 62 '   Bolivia  1 - 1  Argentina Fanatiz USA ,  FITE ,  SportsMax ,  S…"
     },
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "5:00pm",
-      "GameState": "9 '",
+      "GameState": "19 ",
       "HomeTeam": "Ecuador",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/209.png",
       "AwayTeam": "Uruguay",
       "AwayGoals": "0",
@@ -981,7 +981,7 @@
       "AwayTeam": "Stuttgart",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-      "TVChannels": "ESPN App ,  Sportsnet World Now ,  Sportsnet…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World No…"
     },
     {
       "LeagueName": "German Bundesliga",
