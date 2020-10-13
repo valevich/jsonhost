@@ -17,7 +17,7 @@
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
-      "GameState": "58 ",
+      "GameState": "73 ",
       "HomeTeam": "Azerbaijan",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/581.png",
@@ -30,7 +30,7 @@
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
-      "GameState": "57 ",
+      "GameState": "72 ",
       "HomeTeam": "Latvia",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/456.png",
@@ -734,7 +734,7 @@
       "AwayTeam": "Liverpool",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "TVChannels": "NBCSN ,  UNIVERSO ,  DAZN ,  RUSH ,  Sky…"
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
     },
     {
       "LeagueName": "English Premier League",
@@ -747,7 +747,7 @@
       "AwayTeam": "Southampton",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-      "TVChannels": "NBCSN ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  Spor…"
+      "TVChannels": "NBCSN ,  NBCSports.com ,  NBC Spo…"
     },
     {
       "LeagueName": "English Premier League",
@@ -760,7 +760,7 @@
       "AwayTeam": "Arsenal",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "TVChannels": "UNIVERSO ,  Arsenal Player ,  DAZN ,  R…"
+      "TVChannels": "NBC ,  NBCSports.com ,  NBC Sports…"
     },
     {
       "LeagueName": "English Premier League",
@@ -773,7 +773,7 @@
       "AwayTeam": "Manchester Utd",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "TVChannels": "MUTV App ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  Sp…"
+      "TVChannels": "Peacock ,  MUTV App ,  DAZN ,  RUSH ,  Sky S…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -1113,7 +1113,7 @@
       "AwayTeam": "Fulham",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-      "TVChannels": "DAZN ,  RUSH ,  Sky Sport 1/HD ,  Sport TV3 ,  V…"
+      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  …"
     },
     {
       "LeagueName": "English Premier League",
@@ -1126,7 +1126,7 @@
       "AwayTeam": "Brighton",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-      "TVChannels": "DAZN ,  RUSH ,  Sky Sport 1/HD ,  Sport TV2 ,  C…"
+      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  …"
     },
     {
       "LeagueName": "English Premier League",
@@ -1139,7 +1139,7 @@
       "AwayTeam": "West Ham",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-      "TVChannels": "NBCSN ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  Spor…"
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  Te…"
     },
     {
       "LeagueName": "English Premier League",
@@ -1152,7 +1152,7 @@
       "AwayTeam": "Aston Villa",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-      "TVChannels": "DAZN ,  RUSH ,  Sky Sport 1/HD ,  Sport TV2 ,  C…"
+      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -1609,7 +1609,7 @@
       "AwayTeam": "Burnley",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-      "TVChannels": "NBCSN ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  Spor…"
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
     },
     {
       "LeagueName": "English Premier League",
@@ -1622,7 +1622,7 @@
       "AwayTeam": "Wolves",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-      "TVChannels": "NBCSN ,  UNIVERSO ,  DAZN ,  RUSH ,  Sky…"
+      "TVChannels": "NBCSN ,  NBCSports.com ,  NBC Spo…"
     },
     {
       "LeagueName": "Italian Serie A",
