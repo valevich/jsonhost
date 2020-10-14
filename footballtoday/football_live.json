@@ -18,19 +18,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "12:00pm",
       "GameState": "",
-      "HomeTeam": "Latvia",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/456.png",
-      "AwayTeam": "Latvia",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/456.png",
-      "TVChannels": "0 - 1  Malta ESPN+ ,  fuboTV ,  ESPN App ,  TUDN.com ,  TUDNx…"
-    },
-    {
-      "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
-      "GameTime": "12:00pm",
-      "GameState": "",
       "HomeTeam": "Azerbaijan",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/581.png",
@@ -42,15 +29,15 @@
     {
       "LeagueName": "UEFA Nations League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
-      "GameTime": "2:45pm",
+      "GameTime": "12:00pm",
       "GameState": "",
-      "HomeTeam": "San Marino",
+      "HomeTeam": "Latvia",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/588.png",
-      "AwayTeam": "San Marino",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/456.png",
+      "AwayTeam": "Latvia",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/588.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  TUDN.com ,  TUDNx…"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/456.png",
+      "TVChannels": "0 - 1  Malta ESPN+ ,  fuboTV ,  ESPN App ,  TUDN.com ,  TUDNx…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -83,13 +70,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
-      "HomeTeam": "Spain",
+      "HomeTeam": "San Marino",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/164.png",
-      "AwayTeam": "Spain",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/588.png",
+      "AwayTeam": "San Marino",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/164.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  UniMás ,  TUDN.com"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/588.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  TUDN.com ,  TUDNx…"
     },
     {
       "LeagueName": "UEFA Nations League",
@@ -103,6 +90,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/582.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  TUDN.com ,  TUDNx…"
+    },
+    {
+      "LeagueName": "UEFA Nations League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
+      "GameTime": "2:45pm",
+      "GameState": "",
+      "HomeTeam": "Spain",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/164.png",
+      "AwayTeam": "Spain",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/164.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  UniMás ,  TUDN.com"
     },
     {
       "LeagueName": "World Cup Qualifying",
