@@ -290,12 +290,12 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:30pm",
-      "GameState": "7 '",
+      "GameState": "22 ",
       "HomeTeam": "Montreal Impact",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
       "AwayTeam": "NE Revolution",
-      "AwayGoals": "0",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  NBCSports…"
     },
@@ -303,9 +303,9 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:30pm",
-      "GameState": "6 '",
+      "GameState": "21 ",
       "HomeTeam": "FC Cincinnati",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
       "AwayTeam": "Columbus Crew",
       "AwayGoals": "0",
@@ -316,9 +316,9 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:30pm",
-      "GameState": "6 '",
+      "GameState": "21 ",
       "HomeTeam": "Orlando City",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png",
       "AwayTeam": "NYFC",
       "AwayGoals": "0",
@@ -329,7 +329,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:30pm",
-      "GameState": "6 '",
+      "GameState": "21 ",
       "HomeTeam": "Toronto FC",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
@@ -445,34 +445,6 @@
   ],
   "day2": [
     {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
-      "GameTime": "Thursday Oct. 15, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    }
-  ],
-  "day3": [
-    {
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "Friday Oct. 16, 2020",
@@ -512,7 +484,7 @@
       "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -891,7 +863,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -1374,7 +1346,7 @@
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  M…"
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -1467,7 +1439,7 @@
       "TVChannels": "ESPN+ ,  fuboTV ,  NBCSports…"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
@@ -1610,6 +1582,125 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
       "TVChannels": "Fox Sports 1 ,  fuboTV ,  FOX Deportes ,  …"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "Wednesday Oct. 21, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "12:55pm",
+      "GameState": "",
+      "HomeTeam": "Salzburg",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Lokomotiv Moskva fuboTV ,  Galavision ,  TUDN.com ,  …",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:55pm   Salzburg vs Lokomotiv Moskva fuboTV ,  Galavision ,  TUDN.com ,  …"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "12:55pm",
+      "GameState": "",
+      "HomeTeam": "Real Madrid",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+      "AwayTeam": "Shakhtar Donetsk",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/493.png",
+      "TVChannels": "fuboTV ,  TUDN USA ,  UniMás ,  …"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Bayern Munich",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+      "AwayTeam": "Atletico Madrid",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+      "TVChannels": "ern München vs Atlético Madrid fuboTV ,  TUDN USA ,  UniMás ,  …"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Inter",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+      "AwayTeam": "Borussia M'gladbach",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Manchester City",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+      "AwayTeam": "Porto fuboTV ,  Galavision ,  TUDN.com ,  …",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Porto fuboTV ,  Galavision ,  TUDN.com ,  …"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Olympiakos Piraeus",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Marseille",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Ajax",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Liverpool",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "FC Midtjylland",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/572.png",
+      "AwayTeam": "Atalanta",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
     }
   ]
 }
