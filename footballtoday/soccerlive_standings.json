@@ -848,6 +848,20 @@
   "ligue-1": [
     {
         "teamrank": 1,
+        "teamname": "PSG",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "played": 7,
+        "wins": 5,
+        "draws": 0,
+        "lossess": 2,
+        "goalsfor": 16,
+        "goalsagainst": 3,
+        "goalsdiff": "+13",
+        "points": 15,
+        "form": "'WWWWW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Rennes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
         "played": 7,
@@ -861,7 +875,7 @@
         "form": "'DDWWW'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Lille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "played": 6,
@@ -875,7 +889,7 @@
         "form": "'WWDWW'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Lens",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
         "played": 6,
@@ -887,20 +901,6 @@
         "goalsdiff": "+4",
         "points": 13,
         "form": "'WDWWW'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "PSG",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "played": 6,
-        "wins": 4,
-        "draws": 0,
-        "lossess": 2,
-        "goalsfor": 12,
-        "goalsagainst": 3,
-        "goalsdiff": "+9",
-        "points": 12,
-        "form": "'WWWWL'"
     },
     {
         "teamrank": 5,
@@ -1018,15 +1018,15 @@
         "teamrank": 13,
         "teamname": "Nîmes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
-        "played": 6,
+        "played": 7,
         "wins": 2,
         "draws": 2,
-        "lossess": 2,
+        "lossess": 3,
         "goalsfor": 9,
-        "goalsagainst": 7,
-        "goalsdiff": "+2",
+        "goalsagainst": 11,
+        "goalsdiff": "-2",
         "points": 8,
-        "form": "'WDDLL'"
+        "form": "'LWDDL'"
     },
     {
         "teamrank": 14,
