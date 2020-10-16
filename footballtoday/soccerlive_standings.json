@@ -850,15 +850,15 @@
         "teamrank": 1,
         "teamname": "Rennes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-        "played": 6,
+        "played": 7,
         "wins": 4,
-        "draws": 2,
+        "draws": 3,
         "lossess": 0,
-        "goalsfor": 14,
-        "goalsagainst": 7,
+        "goalsfor": 15,
+        "goalsagainst": 8,
         "goalsdiff": "+7",
-        "points": 14,
-        "form": "'DWWWW'"
+        "points": 15,
+        "form": "'DDWWW'"
     },
     {
         "teamrank": 2,
@@ -1116,15 +1116,15 @@
         "teamrank": 20,
         "teamname": "Dijon",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
-        "played": 6,
+        "played": 7,
         "wins": 0,
-        "draws": 1,
+        "draws": 2,
         "lossess": 5,
-        "goalsfor": 3,
-        "goalsagainst": 13,
+        "goalsfor": 4,
+        "goalsagainst": 14,
         "goalsdiff": "-10",
-        "points": 1,
-        "form": "'LDLLL'"
+        "points": 2,
+        "form": "'DLDLL'"
     }
   ],
   "bundesliga": [
