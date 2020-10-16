@@ -66,8 +66,8 @@
     "continent": "",
     "iso_alpha2": "AU",
     "name": "Australia",
-    "score": "Entry prohibited",
-    "updated": "Foreign nationals are prohibited from entering Australia. This policy does not apply to Australian citizens, lawful residents, and their immediate family members. Additional exemptions are possible on a case-by-case basis. Persons should apply online for an exemption at least 2 weeks prior to their intended departure. All persons arriving in Australia (including Australian nations) must undergo a 14-day quarantine in a designated facility at their port of arrival. Applications for exemption from Australian travel restrictions are available at the following URL: https://travel-exemptions.homeaffairs.gov.au/tep"
+    "score": "Partially restricted",
+    "updated": "Foreign nationals are prohibited from entering Australia. This policy does not apply to lawful residents, their immediate family members. or persons traveling from New Zealand. Additional exemptions are possible on a case-by-case basis. Persons should apply online for an exemption at least 2 weeks prior to their intended departure. All persons arriving in Australia (including Australian nations) must undergo a 14-day quarantine in a designated facility at their port of arrival. This policy does not apply to persons arriving from New Zealand provided such persons have not traveled outside of New Zealand during the 14 days prior to their arrival in Australia. Applications for exemption from Australian travel restrictions are available at the following URL: https://travel-exemptions.homeaffairs.gov.au/tep"
   },
   {
     "continent": "",
@@ -242,7 +242,7 @@
     "iso_alpha2": "CI",
     "name": "Côte d'Ivoire",
     "score": "Partially restricted",
-    "updated": "All persons arriving in Ivory Coast must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test."
+    "updated": "All persons arriving in Côte d'Ivoire must provide proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test and complete an online travel declaration form at the following URL: http://www.deplacement-aerien.gouv.ci/"
   },
   {
     "continent": "",
@@ -410,7 +410,7 @@
     "iso_alpha2": "FI",
     "name": "Finland",
     "score": "Partially restricted",
-    "updated": "From July 13, 2020, foreign nationals are prohibited from entering Finland. This policy does not apply to essential travel or persons arriving for work-related reasons from countries or regions in the European Union, countries or regions associated with the Schengen Area, Australia, China, Georgia, Japan, New Zealand, Rwanda, South Korea, Thailand, Tunisia, United Kingdom, and Uruguay. Additional exemptions exist for leisure travel from the following countries / regions: Andorra, Austria, Belgium, Cyprus, Germany, Greece, Hungary, Italy, Ireland, Lichtenstein, Malta, Netherlands, San Marino, Slovakia, Slovenia, Switzerland, and Vatican City. Persons arriving in Finland are encouraged to self-isolate for 14 days. This does not apply to persons arriving from any country or region explicitly named above with the exception of Austria, Slovenia, and Switzerland."
+    "updated": "From October 10, 2020, foreign nationals are prohibited from entering Finland. This policy does not apply to persons arriving from Australia, Cyprus, Japan, Latvia, Liechtenstein, New Zealand, Rwanda, South Korea, Thailand, Uruguay, or Vatican City. Further exemptions exist for persons traveling for work-related or essential reasons from countries or regions in the European Union, countries or regions associated with the Schengen Area, or the United Kingdom. Persons from other third-countries / regions may travel to Finland only for essential reasons. This does not include recreational travel. More information is available at the following URL: https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictionsForeign nationals arriving from locations where the rate of new COVID-19 infections exceeds 25 cases per 100,000 inhabitants according to the Finnish Institute for Health and Welfare must do one of the following: 1) self-isolate for 14 days upon arrival, 2) present a certificate showing a negative test result for COVID-19 issued no more than 72 hours prior to departure, undergo a second COVID-19 test 72 hours after arrival in Finland, and self-isolate while awaiting test results, or 3) undergo testing for COVID-19 upon arrival, again after 72 hours, and self-isolate while awaiting test results."
   },
   {
     "continent": "",
@@ -445,7 +445,7 @@
     "iso_alpha2": "GB",
     "name": "United Kingdom",
     "score": "Partially restricted",
-    "updated": "All persons (including UK nationals) must fill in a Public Health Passenger Locator Form online to provide their journey and contact details no more than 48 hours prior to departure for the UK. This policy does not apply to persons arriving from Ireland, the Channel Islands, or the Isle of Man. Upon arrival, all persons must proceed directly to their place of residence and self-isolate for 14-days while remaining indoors. This does not apply to persons requiring urgent medical treatment, support from social services, food and medicine that cannot be delivered, those who need to attend the funeral of a close relative, or in case of emergency at the place of isolation. Visitors are not allowed during the self-isolation period, unless they are providing essential care. Note that Scotland and Wales each maintain their own lists of countries and regions subject to self-isolation requirements. The Public Health Passenger Locator Form can be found at the following URL: https://visas-immigration.service.gov.uk/public-health-passenger-locator-formFrom October 3, 2020, the UK self-isolation policy does not apply to persons arriving from one of the following locations, provided such persons have not visited any other country or region within 14 days of their departure for the United Kingdom: Akrotiri and Dhekelia, Anguilla, Antigua and Barbuda, Australia, Barbados, Bermuda, British Antarctic Territory, British Indian Ocean Territory, British Virgin Islands, Brunei Darussalam, Cayman Islands, Cuba, Cyprus, Dominica, Estonia, Falkland Islands, Faroe Islands, Fiji, Finland, Germany, Gibraltar, Greece, Greenland, Grenada, Hong Kong SAR, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Macau SAR, Malaysia, Mauritius, Montserrat, New Caledonia, New Zealand, Norway, Pitcairn, Henderson, Ducie and Oeno Islands, Saint Barthelemy, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, San Marino, Seychelles, Singapore, South Georgia and the South Sandwich Islands, South Korea, St Helena Ascension and Tristan da Cunha, St Pierre and Miquelon, Sweden, Taiwan, Thailand, the Channel Islands, the Isle of Man, Vatican City, Vietnam"
+    "updated": "All persons (including UK nationals) must fill in a Public Health Passenger Locator Form online to provide their journey and contact details no more than 48 hours prior to departure for the UK. This policy does not apply to persons arriving from Ireland, the Channel Islands, or the Isle of Man. Upon arrival, all persons must proceed directly to their place of residence and self-isolate for 14-days while remaining indoors. This does not apply to persons requiring urgent medical treatment, support from social services, food and medicine that cannot be delivered, those who need to attend the funeral of a close relative, or in case of emergency at the place of isolation. Visitors are not allowed during the self-isolation period, unless they are providing essential care. Note that Scotland and Wales each maintain their own lists of countries and regions subject to self-isolation requirements. The Public Health Passenger Locator Form can be found at the following URL: https://visas-immigration.service.gov.uk/public-health-passenger-locator-formFrom October 18, 2020, the UK self-isolation policy does not apply to persons arriving from one of the following locations, provided such persons have not visited any other country or region within 14 days of their departure for the United Kingdom: Akrotiri and Dhekelia, Anguilla, Antigua and Barbuda, Australia, Barbados, Bermuda, British Antarctic Territory, British Indian Ocean Territory, British Virgin Islands, Brunei Darussalam, Cayman Islands, Crete, Cuba, Cyprus, Dominica, Estonia, Falkland Islands, Faroe Islands, Fiji, Finland, Germany, Gibraltar, Greece, Greenland, Grenada, Hong Kong SAR, Ireland, Japan, Latvia, Liechtenstein, Lithuania, Macau SAR, Malaysia, Mauritius, Montserrat, New Caledonia, New Zealand, Norway, Pitcairn, Henderson, Ducie and Oeno Islands, Saint Barthelemy, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Seychelles, Singapore, South Georgia and the South Sandwich Islands, South Korea, St Helena Ascension and Tristan da Cunha, St Pierre and Miquelon, Sweden, Taiwan, Thailand, the Channel Islands, the Isle of Man, Vietnam"
   },
   {
     "continent": "",
@@ -914,21 +914,21 @@
     "iso_alpha2": "NA",
     "name": "Namibia",
     "score": "Partially restricted",
-    "updated": "Persons arriving in Namibia must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Those with valid PCR test results are not subject to quarantine; however, they must undergo an additional PCR test on the 5th day following their arrival. Persons traveling to Namibia for tourism must hold medical insurance valid in Namibia with coverage sufficient for any unexpected health-related expenses. Additionally, they must complete a health declaration form and provide a full travel itinerary to airport officials upon arrival. All international flights are required to arrive at Hosea Kutako International Airport (WDH) in Windhoek. All land border checkpoints are closed except to persons holding a valid work permit. Heath declaration forms and additional information is available at the following URL: http://www.namibiatourism.com.na/page/tourism-revival-initiative"
+    "updated": "Persons arriving in Namibia must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Those with valid PCR test results are not subject to quarantine; however, they must undergo an additional PCR test on the 5th day following their arrival. Persons traveling to Namibia for tourism must hold medical insurance valid in Namibia with coverage sufficient for any unexpected health-related expenses. Additionally, they must complete a health declaration form and provide a full travel itinerary to airport officials upon arrival. All international flights are required to arrive at Hosea Kutako International Airport (WDH) in Windhoek. All land border checkpoints are closed except to persons holding a valid work permit. Heath declaration forms and additional information are available at the following URL: http://www.namibiatourism.com.na/page/tourism-revival-initiative"
   },
   {
     "continent": "",
     "iso_alpha2": "NE",
     "name": "Niger",
     "score": "Entry prohibited",
-    "updated": "From March 19, 2020, all land border checkpoints are closed and all international passenger flights are suspended."
+    "updated": "From August 1, 2020, all persons arriving via air must present proof of a negative test result for COVID-19 issued no more than 72 hours prior to departure and undergo a 14-day quarantine upon arrival. The quarantine requirement does not apply to persons on short-term visits. All land border checkpoints are closed until further notice."
   },
   {
     "continent": "",
     "iso_alpha2": "NG",
     "name": "Nigeria",
     "score": "Partially restricted",
-    "updated": "All persons entering Nigeria must have proof of a negative result for COVID-19 issued no more than 14 days prior to departure using a polymerase chain reaction (PCR) test. Nigerian authorities recommend travelers undergo testing no more than 5 days prior to departure. All persons must provide verifiable information on a Health Declaration/Self-Reporting Form and a Sample Collection Time Allocation Form while en route to Nigeria. Upon arrival, all persons must self-isolate for 14-days and must remain in the same city/state they used as a port of entry for the duration of their self-isolation period. Detailed information is available at the following URL: https://covid19.ncdc.gov.ng/guideline/"
+    "updated": "From September 18, 2020, all persons arriving in Nigeria must provide proof of a negative result for COVID-19 issued no more than 120 hours prior to departure using a polymerase chain reaction (PCR) test. Results must be uploaded to the Nigeria International Travel Portal website prior to departure. Travelers must also register, pre-pay for a second PCR test to be performed upon arrival, and submit a Health Declaration / Self-Reporting form. Prior to boarding flights bound for Nigeria all persons will undergo a health screening. Those showing symptoms consistent with COVID-19 will not be permitted to board. Additional information and reporting forms are available at the following URL: https://covid19.ncdc.gov.ng/advisory/"
   },
   {
     "continent": "",
@@ -984,7 +984,7 @@
     "iso_alpha2": "PA",
     "name": "Panama",
     "score": "Entry prohibited",
-    "updated": "From October 12, 2020, all persons entering Panama must carry proof of a negative result for COVID-19 issued no more than 48 hours prior to departure using a polymerase chain reaction (PCR) or antigen test, or they must undergo testing at their own expense upon arrival at Tocumen International Airport (PTY). Persons who test positive will be quarantined at a designated facility and retested after 7 days."
+    "updated": "From October 12, 2020, all persons arriving in Panama are required to show proof of a negative test result for COVID-19 issued no more than 48 hours prior to departure using a polymerase chain reaction (PCR) or antigen test."
   },
   {
     "continent": "",
@@ -1075,7 +1075,7 @@
     "iso_alpha2": "RU",
     "name": "Russia",
     "score": "Partially restricted",
-    "updated": "</style> From March 18, 2020, foreign nationals are prohibited from entering Russia. This policy does not apply to diplomats, airplane crew members, or permanent residents. From March 30, 2020, Russia’s land borders are closed to passenger transport. Foreign nationals are prohibited from entering Russia and land border checkpoints are closed to passenger transport. From September 27, 2020, this policy does not apply to persons arriving by air from Belarus, Egypt, Kazakhstan, Kyrgyzstan, the Maldives, South Korea, Switzerland, Tanzania, Turkey, United Arab Emirates, or the United Kingdom. Further exemptions exist for lawful residents, diplomats, airplane crew members, or those traveling for urgent business or medical reasons. Persons seeking to enter Russia must present documentation showing a negative test result for COVID-19 issued no more than 72 hours prior to departure. Those who fail to do so must undergo testing within 72 hours of arrival. Persons traveling from countries or regions with a high rate of COVID-19 infections according to Russian health authorities must undergo a 14-day quarantine upon arrival."
+    "updated": "</style> From March 18, 2020, foreign nationals are prohibited from entering Russia. This policy does not apply to diplomats, airplane crew members, or permanent residents. From March 30, 2020, Russia’s land borders are closed to passenger transport. Foreign nationals are prohibited from entering Russia and land border checkpoints are closed to passenger transport. From September 27, 2020, this policy does not apply to persons arriving by air from Belarus, Cuba, Egypt, Japan, Kazakhstan, Kyrgyzstan, the Maldives, Serbia, South Korea, Switzerland, Tanzania, Turkey, United Arab Emirates, or the United Kingdom. Further exemptions exist for lawful residents, diplomats, airplane crew members, or those traveling for urgent business or medical reasons. Persons seeking to enter Russia must present documentation showing a negative test result for COVID-19 issued no more than 72 hours prior to departure. Those who fail to do so must undergo testing within 72 hours of arrival. Persons traveling from countries or regions with a high rate of COVID-19 infections according to Russian health authorities must undergo a 14-day quarantine upon arrival."
   },
   {
     "continent": "",
@@ -1222,7 +1222,7 @@
     "iso_alpha2": "TG",
     "name": "Togo",
     "score": "Partially restricted",
-    "updated": "All persons arriving at Gnassingbe Eyadema International Airport (LFW) in Lome must submit an Immigration and Health Declaration Form, undergo a polymerase chain reaction (PCR) test for COVID-19, and self-isolate while awaiting their test results. All land border checkpoints are closed until further notice. A state of emergency is in effect nationwide until at least March 14, 2021. More information is available at the following URL: https://voyage.gouv.tg<table border=0 cellpadding=0 cellspacing=0 style=width: 505pt; width=673>"
+    "updated": "All persons arriving at Gnassingbe Eyadema International Airport (LFW) in Lome must carry proof of a negative result for COVID-19 issued no more than 7 days prior to departure using a polymerase chain reaction (PCR) test. Additionally, all persons must submit an Immigration and Health Declaration Form, install the Togo Safe mobile application, undergo an additional PCR test upon arrival, and self-isolate while awaiting their test results. All land border checkpoints are closed until further notice. More information is available at the following URL: https://voyage.gouv.tg<table border=0 cellpadding=0 cellspacing=0 style=width: 505pt; width=673>"
   },
   {
     "continent": "",
@@ -1299,7 +1299,7 @@
     "iso_alpha2": "UA",
     "name": "Ukraine",
     "score": "Entry prohibited",
-    "updated": "From August 28, 2020, foreign nationals are prohibited from entering Ukraine. This policy provides exceptions for certain categories of persons. Foreign nationals granted entry to Ukraine must carry medical insurance sufficient to cover any costs associated with the detection and treatment of COVID-19 for the duration of their stay in Ukraine. A full list of policy exemptions is available at the following URL: https://www.kmu.gov.ua/en/news/uryad-utochniv-kategoriyi-inozemciv-yaki-zmozhut-vyizhdzhati-v-ukrayinu-v-period-obmezhen"
+    "updated": "From September 28, 2020, all persons traveling from a country or region classified by the Ukrainian Ministry of Health as green may enter Ukraine provided they carry proof of health insurance valid for use in Ukraine and sufficient to cover any expenses related to observation and treatment for COVID-19. Persons traveling from red locations must install the Dii Vdoma mobile application and do one of the following: 1) undergo quarantine at a designated location, 2) self-isolate for 14 days in a suitable accommodation registered in the Dii Vdoma app, or 3) undergo a polymerase chain reaction (PCR) test for COVID-19 upon arrival in Ukraine. Additional information including a list of persons not subject to quarantine requirements is available at the following URL: https://visitukraine.today/"
   },
   {
     "continent": "",
