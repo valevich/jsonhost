@@ -67,7 +67,7 @@
     "iso_alpha2": "AU",
     "name": "Australia",
     "score": "Partially restricted",
-    "updated": "Foreign nationals are prohibited from entering Australia. This policy does not apply to lawful residents, their immediate family members. or persons traveling from New Zealand. Additional exemptions are possible on a case-by-case basis. Persons should apply online for an exemption at least 2 weeks prior to their intended departure. All persons arriving in Australia (including Australian nations) must undergo a 14-day quarantine in a designated facility at their port of arrival. This policy does not apply to persons arriving from New Zealand provided such persons have not traveled outside of New Zealand during the 14 days prior to their arrival in Australia. Applications for exemption from Australian travel restrictions are available at the following URL: https://travel-exemptions.homeaffairs.gov.au/tep"
+    "updated": "Foreign nationals are prohibited from entering Australia. This policy does not apply to lawful residents and their immediate family members, or persons traveling from New Zealand. Additional exemptions are possible on a case-by-case basis. Persons should apply online for an exemption at least 2 weeks prior to their intended departure. All persons arriving in Australia (including Australian nationals) must undergo a 14-day quarantine in a designated facility at their port of arrival. This policy does not apply to persons arriving from New Zealand provided such persons have not traveled outside of New Zealand during the 14 days prior to their arrival in Australia. Applications for exemption from Australian travel restrictions are available at the following URL: https://travel-exemptions.homeaffairs.gov.au/tep"
   },
   {
     "continent": "",
@@ -1298,7 +1298,7 @@
     "continent": "",
     "iso_alpha2": "UA",
     "name": "Ukraine",
-    "score": "Entry prohibited",
+    "score": "Partially restricted",
     "updated": "From September 28, 2020, all persons traveling from a country or region classified by the Ukrainian Ministry of Health as green may enter Ukraine provided they carry proof of health insurance valid for use in Ukraine and sufficient to cover any expenses related to observation and treatment for COVID-19. Persons traveling from red locations must install the Dii Vdoma mobile application and do one of the following: 1) undergo quarantine at a designated location, 2) self-isolate for 14 days in a suitable accommodation registered in the Dii Vdoma app, or 3) undergo a polymerase chain reaction (PCR) test for COVID-19 upon arrival in Ukraine. Additional information including a list of persons not subject to quarantine requirements is available at the following URL: https://visitukraine.today/"
   },
   {
