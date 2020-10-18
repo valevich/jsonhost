@@ -246,6 +246,15 @@
         "playerassists": 0
     },
     {
+        "playername": "Mata",
+        "playerlink": "https://www.livesoccertv.com/player/jaime-mata/170318/",
+        "playerteam": "Getafe",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/getafe/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+        "playergoals": 2,
+        "playerassists": 1
+    },
+    {
         "playername": "Vinícius José Paixão de Oliveira Júnior",
         "playerlink": "https://www.livesoccertv.com/player/vinicius-junior/348793/",
         "playerteam": "Real Madrid",
@@ -262,15 +271,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "playergoals": 2,
         "playerassists": 0
-    },
-    {
-        "playername": "Ángel Luis Rodríguez Díaz",
-        "playerlink": "https://www.livesoccertv.com/player/angel/58720/",
-        "playerteam": "Getafe",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/getafe/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-        "playergoals": 2,
-        "playerassists": 0
     }
   ],
   "serie-a": [
@@ -280,6 +280,33 @@
         "playerteam": "Atalanta",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+        "playergoals": 4,
+        "playerassists": 0
+    },
+    {
+        "playername": "Z. Ibrahimović",
+        "playerlink": "https://www.livesoccertv.com/player/z-ibrahimovic/301/",
+        "playerteam": "Milan",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/ac-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+        "playergoals": 4,
+        "playerassists": 1
+    },
+    {
+        "playername": "Hirving Rodrigo Lozano Bahena",
+        "playerlink": "https://www.livesoccertv.com/player/h-lozano/259658/",
+        "playerteam": "Napoli",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "playergoals": 4,
+        "playerassists": 0
+    },
+    {
+        "playername": "R. Lukaku",
+        "playerlink": "https://www.livesoccertv.com/player/r-lukaku/79627/",
+        "playerteam": "Internazionale",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "playergoals": 4,
         "playerassists": 0
     },
@@ -311,15 +338,6 @@
         "playerassists": 0
     },
     {
-        "playername": "R. Lukaku",
-        "playerlink": "https://www.livesoccertv.com/player/r-lukaku/79627/",
-        "playerteam": "Internazionale",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
         "playername": "L. Martínez",
         "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
         "playerteam": "Internazionale",
@@ -327,6 +345,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "playergoals": 3,
         "playerassists": 0
+    },
+    {
+        "playername": "F. Quagliarella",
+        "playerlink": "https://www.livesoccertv.com/player/f-quagliarella/4297/",
+        "playerteam": "Sampdoria",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/sampdoria/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
+        "playergoals": 3,
+        "playerassists": 1
     },
     {
         "playername": "Andrea Belotti",
@@ -379,33 +406,6 @@
         "playerteam": "Milan",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/ac-milan/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "H. Hateboer",
-        "playerlink": "https://www.livesoccertv.com/player/h-hateboer/248497/",
-        "playerteam": "Atalanta",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "Z. Ibrahimović",
-        "playerlink": "https://www.livesoccertv.com/player/z-ibrahimovic/301/",
-        "playerteam": "Milan",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/ac-milan/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-        "playergoals": 2,
-        "playerassists": 1
-    },
-    {
-        "playername": "Hirving Rodrigo Lozano Bahena",
-        "playerlink": "https://www.livesoccertv.com/player/h-lozano/259658/",
-        "playerteam": "Napoli",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
         "playergoals": 2,
         "playerassists": 0
     }
@@ -549,21 +549,21 @@
   ],
   "bundesliga": [
     {
+        "playername": "R. Lewandowski",
+        "playerlink": "https://www.livesoccertv.com/player/r-lewandowski/41443/",
+        "playerteam": "Bayern Munich",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "playergoals": 7,
+        "playerassists": 2
+    },
+    {
         "playername": "A. Kramarić",
         "playerlink": "https://www.livesoccertv.com/player/a-kramaric/83705/",
         "playerteam": "Hoffenheim",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
         "playergoals": 6,
-        "playerassists": 2
-    },
-    {
-        "playername": "R. Lewandowski",
-        "playerlink": "https://www.livesoccertv.com/player/r-lewandowski/41443/",
-        "playerteam": "Bayern Munich",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "playergoals": 5,
         "playerassists": 2
     },
     {
@@ -581,8 +581,8 @@
         "playerteam": "Werder Bremen",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/werder-bremen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-        "playergoals": 3,
-        "playerassists": 1
+        "playergoals": 4,
+        "playerassists": 2
     },
     {
         "playername": "S. Gnabry",
@@ -599,6 +599,15 @@
         "playerteam": "Stuttgart",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
+        "playername": "T. Müller",
+        "playerlink": "https://www.livesoccertv.com/player/t-muller/38348/",
+        "playerteam": "Bayern Munich",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
         "playergoals": 3,
         "playerassists": 0
     },
@@ -626,6 +635,15 @@
         "playerteam": "Eintracht Frankfurt",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
+        "playername": "Angeliño",
+        "playerlink": "https://www.livesoccertv.com/player/angelino/250368/",
+        "playerteam": "RB Leipzig",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/rb-leipzig/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
         "playergoals": 2,
         "playerassists": 0
     },
@@ -663,24 +681,6 @@
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
         "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "Sebastian Andersson",
-        "playerlink": "https://www.livesoccertv.com/player/s-andersson/112038/",
-        "playerteam": "Köln",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/1-fc-koln/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-        "playergoals": 1,
-        "playerassists": 0
-    },
-    {
-        "playername": "E. Bičakčić",
-        "playerlink": "https://www.livesoccertv.com/player/e-bicakcic/104655/",
-        "playerteam": "Hoffenheim",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "playergoals": 1,
         "playerassists": 0
     }
   ]
