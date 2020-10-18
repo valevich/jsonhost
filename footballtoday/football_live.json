@@ -43,7 +43,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "11:30am",
-      "GameState": "70 ",
+      "GameState": "82 ",
       "HomeTeam": "Tottenham",
       "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
@@ -121,7 +121,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "12:30pm",
-      "GameState": "24 ",
+      "GameState": "36 ",
       "HomeTeam": "Alavés",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
@@ -134,12 +134,12 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "12:30pm",
-      "GameState": "27 ",
+      "GameState": "39 ",
       "HomeTeam": "Huesca",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
       "AwayTeam": "Real Valladolid",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
       "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN SP…"
     },
@@ -212,7 +212,7 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "12:00pm",
-      "GameState": "HT ",
+      "GameState": "52 ",
       "HomeTeam": "Udinese",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
@@ -264,7 +264,7 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "12:00pm",
-      "GameState": "HT ",
+      "GameState": "51 ",
       "HomeTeam": "Schalke 04",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
@@ -837,19 +837,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
       "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "Wednesday Oct. 21, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     }
   ],
   "day5": [
@@ -952,10 +939,10 @@
       "HomeTeam": "PAOK",
       "HomeGoals": "",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/greece/logos/paok-saloniki.png",
-      "AwayTeam": "Omonia Nicosia CBS All Access ,  DAZN ,  DAZN ,  TV2 Su…",
+      "AwayTeam": "Omonia Nicosia CBS All Access ,  DAZN ,  DAZN ,  Cosmot…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Omonia Nicosia CBS All Access ,  DAZN ,  DAZN ,  TV2 Su…"
+      "TVChannels": "vs Omonia Nicosia CBS All Access ,  DAZN ,  DAZN ,  Cosmot…"
     },
     {
       "LeagueName": "UEFA Europa League",
