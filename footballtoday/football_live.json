@@ -30,14 +30,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "9:00am",
-      "GameState": "87 ",
+      "GameState": "FT ",
       "HomeTeam": "Crystal Palace",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
       "AwayTeam": "Brighton",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  …"
+      "TVChannels": "Peacock ,  DAZN ,  RUSH ,  Sky Sport 1/HD ,  Spor…"
     },
     {
       "LeagueName": "English Premier League",
@@ -108,7 +108,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "10:00am",
-      "GameState": "43 ",
+      "GameState": "HT ",
       "HomeTeam": "Villarreal",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
@@ -186,27 +186,27 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "9:00am",
-      "GameState": "86 ",
+      "GameState": "FT ",
       "HomeTeam": "Spezia",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
       "AwayTeam": "Fiorentina",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  Fanatiz US…"
+      "TVChannels": "ESPN+ ,  fuboTV ,  Fanatiz USA ,  ESPN App ,  Ra…"
     },
     {
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "9:00am",
-      "GameState": "83 ",
+      "GameState": "FT ",
       "HomeTeam": "Torino",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
       "AwayTeam": "Cagliari",
       "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPNPlay C…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPNPlay Caribb…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -251,7 +251,7 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "54 ",
+      "GameState": "68 ",
       "HomeTeam": "Köln",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
@@ -303,7 +303,7 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "9:00am",
-      "GameState": "86 ",
+      "GameState": "FT ",
       "HomeTeam": "Angers",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
@@ -316,27 +316,27 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "9:00am",
-      "GameState": "86 ",
+      "GameState": "FT ",
       "HomeTeam": "Monaco",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
       "AwayTeam": "Montpellier",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN SPORTS CO…"
     },
     {
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "9:00am",
-      "GameState": "87 ",
+      "GameState": "FT ",
       "HomeTeam": "Nantes",
       "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
       "AwayTeam": "Brest",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN SPORTS CO…"
     },
     {
       "LeagueName": "French Ligue 1",
