@@ -192,6 +192,15 @@
         "playerassists": 2
     },
     {
+        "playername": "L. Suárez",
+        "playerlink": "https://www.livesoccertv.com/player/l-suarez/2423/",
+        "playerteam": "Atletico Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "L. de Jong",
         "playerlink": "https://www.livesoccertv.com/player/l-de-jong/65189/",
         "playerteam": "Sevilla",
@@ -206,6 +215,15 @@
         "playerteam": "Eibar",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/eibar/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
+        "playername": "Yangel Clemente Herrera Ravelo",
+        "playerlink": "https://www.livesoccertv.com/player/y-herrera/292066/",
+        "playerteam": "Granada",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/granada/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
         "playergoals": 2,
         "playerassists": 0
     },
@@ -251,24 +269,6 @@
         "playerteam": "Getafe",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/getafe/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "William Carvalho",
-        "playerlink": "https://www.livesoccertv.com/player/william-carvalho/134852/",
-        "playerteam": "Real Betis",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-betis/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "L. Suárez",
-        "playerlink": "https://www.livesoccertv.com/player/l-suarez/2423/",
-        "playerteam": "Atletico Madrid",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
         "playergoals": 2,
         "playerassists": 0
     }
