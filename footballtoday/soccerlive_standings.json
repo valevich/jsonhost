@@ -650,6 +650,20 @@
     },
     {
         "teamrank": 7,
+        "teamname": "Roma",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+        "played": 4,
+        "wins": 2,
+        "draws": 1,
+        "lossess": 1,
+        "goalsfor": 8,
+        "goalsagainst": 7,
+        "goalsdiff": "+1",
+        "points": 7,
+        "form": "'WWDL'"
+    },
+    {
+        "teamrank": 8,
         "teamname": "Hellas Verona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
         "played": 3,
@@ -661,20 +675,6 @@
         "goalsdiff": "+3",
         "points": 6,
         "form": "'LWW'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Benevento",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
-        "played": 3,
-        "wins": 2,
-        "draws": 0,
-        "lossess": 1,
-        "goalsfor": 6,
-        "goalsagainst": 7,
-        "goalsdiff": "-1",
-        "points": 6,
-        "form": "'WLW'"
     },
     {
         "teamrank": 9,
@@ -692,17 +692,17 @@
     },
     {
         "teamrank": 10,
-        "teamname": "Roma",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "played": 3,
-        "wins": 1,
-        "draws": 1,
-        "lossess": 1,
-        "goalsfor": 3,
-        "goalsagainst": 5,
-        "goalsdiff": "-2",
-        "points": 4,
-        "form": "'WDL'"
+        "teamname": "Benevento",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
+        "played": 4,
+        "wins": 2,
+        "draws": 0,
+        "lossess": 2,
+        "goalsfor": 8,
+        "goalsagainst": 12,
+        "goalsdiff": "-4",
+        "points": 6,
+        "form": "'LWLW'"
     },
     {
         "teamrank": 11,
@@ -848,6 +848,20 @@
   "ligue-1": [
     {
         "teamrank": 1,
+        "teamname": "Lille",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "played": 7,
+        "wins": 5,
+        "draws": 2,
+        "lossess": 0,
+        "goalsfor": 13,
+        "goalsagainst": 2,
+        "goalsdiff": "+11",
+        "points": 17,
+        "form": "'WWWDW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "PSG",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
         "played": 7,
@@ -861,7 +875,7 @@
         "form": "'WWWWW'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Rennes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
         "played": 7,
@@ -875,35 +889,7 @@
         "form": "'DDWWW'"
     },
     {
-        "teamrank": 3,
-        "teamname": "Lille",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "played": 6,
-        "wins": 4,
-        "draws": 2,
-        "lossess": 0,
-        "goalsfor": 9,
-        "goalsagainst": 2,
-        "goalsdiff": "+7",
-        "points": 14,
-        "form": "'WWDWW'"
-    },
-    {
         "teamrank": 4,
-        "teamname": "Lens",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-        "played": 6,
-        "wins": 4,
-        "draws": 1,
-        "lossess": 1,
-        "goalsfor": 10,
-        "goalsagainst": 6,
-        "goalsdiff": "+4",
-        "points": 13,
-        "form": "'WDWWW'"
-    },
-    {
-        "teamrank": 5,
         "teamname": "Nice",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
         "played": 7,
@@ -915,6 +901,20 @@
         "goalsdiff": "+1",
         "points": 13,
         "form": "'WWDLL'"
+    },
+    {
+        "teamrank": 5,
+        "teamname": "Lens",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+        "played": 7,
+        "wins": 4,
+        "draws": 1,
+        "lossess": 2,
+        "goalsfor": 10,
+        "goalsagainst": 10,
+        "goalsdiff": "0",
+        "points": 13,
+        "form": "'LWDWW'"
     },
     {
         "teamrank": 6,
