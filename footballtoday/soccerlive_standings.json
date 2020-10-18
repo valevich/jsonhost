@@ -16,6 +16,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Aston Villa",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "played": 4,
+        "wins": 4,
+        "draws": 0,
+        "lossess": 0,
+        "goalsfor": 12,
+        "goalsagainst": 2,
+        "goalsdiff": "+10",
+        "points": 12,
+        "form": "'WWWW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "played": 5,
@@ -29,32 +43,18 @@
         "form": "'DLWWW'"
     },
     {
-        "teamrank": 3,
-        "teamname": "Aston Villa",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 3,
-        "wins": 3,
-        "draws": 0,
-        "lossess": 0,
-        "goalsfor": 11,
-        "goalsagainst": 2,
-        "goalsdiff": "+9",
-        "points": 9,
-        "form": "'WWW'"
-    },
-    {
         "teamrank": 4,
         "teamname": "Leicester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "played": 4,
+        "played": 5,
         "wins": 3,
         "draws": 0,
-        "lossess": 1,
+        "lossess": 2,
         "goalsfor": 12,
-        "goalsagainst": 7,
-        "goalsdiff": "+5",
+        "goalsagainst": 8,
+        "goalsdiff": "+4",
         "points": 9,
-        "form": "'LWWW'"
+        "form": "'LLWWW'"
     },
     {
         "teamrank": 5,
