@@ -226,6 +226,20 @@
     },
     {
         "teamrank": 17,
+        "teamname": "Sheffield United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
+        "played": 5,
+        "wins": 0,
+        "draws": 1,
+        "lossess": 4,
+        "goalsfor": 2,
+        "goalsagainst": 7,
+        "goalsdiff": "-5",
+        "points": 1,
+        "form": "'DLLLL'"
+    },
+    {
+        "teamrank": 18,
         "teamname": "West Bromwich Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
         "played": 4,
@@ -239,7 +253,21 @@
         "form": "'LDLL'"
     },
     {
-        "teamrank": 18,
+        "teamrank": 19,
+        "teamname": "Fulham",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+        "played": 5,
+        "wins": 0,
+        "draws": 1,
+        "lossess": 4,
+        "goalsfor": 4,
+        "goalsagainst": 12,
+        "goalsdiff": "-8",
+        "points": 1,
+        "form": "'DLLLL'"
+    },
+    {
+        "teamrank": 20,
         "teamname": "Burnley",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
         "played": 3,
@@ -251,34 +279,6 @@
         "goalsdiff": "-5",
         "points": 0,
         "form": "'LLL'"
-    },
-    {
-        "teamrank": 19,
-        "teamname": "Sheffield United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 4,
-        "wins": 0,
-        "draws": 0,
-        "lossess": 4,
-        "goalsfor": 1,
-        "goalsagainst": 6,
-        "goalsdiff": "-5",
-        "points": 0,
-        "form": "'LLLL'"
-    },
-    {
-        "teamrank": 20,
-        "teamname": "Fulham",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-        "played": 4,
-        "wins": 0,
-        "draws": 0,
-        "lossess": 4,
-        "goalsfor": 3,
-        "goalsagainst": 11,
-        "goalsdiff": "-8",
-        "points": 0,
-        "form": "'LLLL'"
     }
   ],
   "primera-division": [
