@@ -612,6 +612,15 @@
         "playerassists": 0
     },
     {
+        "playername": "André Miguel Valente Silva",
+        "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
+        "playerteam": "Eintracht Frankfurt",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "playergoals": 3,
+        "playerassists": 2
+    },
+    {
         "playername": "Matheus Cunha",
         "playerlink": "https://www.livesoccertv.com/player/matheus-cunha/359098/",
         "playerteam": "Hertha BSC",
@@ -657,29 +666,20 @@
         "playerassists": 1
     },
     {
+        "playername": "M. Friedrich",
+        "playerlink": "https://www.livesoccertv.com/player/m-friedrich/211418/",
+        "playerteam": "Union Berlin",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/union-berlin/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
         "playername": "N. Petersen",
         "playerlink": "https://www.livesoccertv.com/player/n-petersen/16443/",
         "playerteam": "Freiburg",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/sc-freiburg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "André Miguel Valente Silva",
-        "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
-        "playerteam": "Eintracht Frankfurt",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-        "playergoals": 2,
-        "playerassists": 1
-    },
-    {
-        "playername": "Silas Wamangituka",
-        "playerlink": "https://www.livesoccertv.com/player/s-wamangituka/388180/",
-        "playerteam": "Stuttgart",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
         "playergoals": 2,
         "playerassists": 0
     }
