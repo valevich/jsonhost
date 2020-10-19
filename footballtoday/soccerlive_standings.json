@@ -72,6 +72,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Wolverhampton Wanderers",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+        "played": 5,
+        "wins": 3,
+        "draws": 0,
+        "lossess": 2,
+        "goalsfor": 5,
+        "goalsagainst": 7,
+        "goalsdiff": "-2",
+        "points": 9,
+        "form": "'WWLLW'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 5,
@@ -85,7 +99,7 @@
         "form": "'DWDWL'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 5,
@@ -99,7 +113,7 @@
         "form": "'DWDLW'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "played": 5,
@@ -113,21 +127,21 @@
         "form": "'DWWLL'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-        "played": 4,
+        "played": 5,
         "wins": 2,
         "draws": 1,
-        "lossess": 1,
+        "lossess": 2,
         "goalsfor": 9,
-        "goalsagainst": 8,
-        "goalsdiff": "+1",
+        "goalsagainst": 9,
+        "goalsdiff": "0",
         "points": 7,
-        "form": "'DWWL'"
+        "form": "'LDWWL'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "played": 4,
@@ -141,7 +155,7 @@
         "form": "'WDLW'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
         "played": 5,
@@ -155,7 +169,7 @@
         "form": "'DWWLL'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "played": 5,
@@ -169,7 +183,7 @@
         "form": "'LWDLW'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
         "played": 5,
@@ -183,7 +197,7 @@
         "form": "'DLLWW'"
     },
     {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "Manchester United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "played": 4,
@@ -195,20 +209,6 @@
         "goalsdiff": "-3",
         "points": 6,
         "form": "'WLWL'"
-    },
-    {
-        "teamrank": 15,
-        "teamname": "Wolverhampton Wanderers",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-        "played": 4,
-        "wins": 2,
-        "draws": 0,
-        "lossess": 2,
-        "goalsfor": 4,
-        "goalsagainst": 7,
-        "goalsdiff": "-3",
-        "points": 6,
-        "form": "'WLLW'"
     },
     {
         "teamrank": 16,
