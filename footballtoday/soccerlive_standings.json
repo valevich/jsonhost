@@ -1365,6 +1365,20 @@
         "goalsdiff": "-14",
         "points": 1,
         "form": "'DLLL'"
+    },
+    {
+        "teamrank": 18,
+        "teamname": "Mainz 05",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+        "played": 4,
+        "wins": 0,
+        "draws": 0,
+        "lossess": 4,
+        "goalsfor": 2,
+        "goalsagainst": 12,
+        "goalsdiff": "-10",
+        "points": 0,
+        "form": "'LLLL'"
     }
   ]
 }
