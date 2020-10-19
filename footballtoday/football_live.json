@@ -381,9 +381,9 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "6:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Columbus Crew",
-      "HomeGoals": "2",
+      "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
       "AwayTeam": "NYFC",
       "AwayGoals": "1",
@@ -394,7 +394,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:00pm",
-      "GameState": "HT ",
+      "GameState": "50 ",
       "HomeTeam": "NY Red Bulls",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
@@ -407,7 +407,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:30pm",
-      "GameState": "21 ",
+      "GameState": "36 ",
       "HomeTeam": "FC Cincinnati",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
@@ -420,7 +420,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:30pm",
-      "GameState": "21 ",
+      "GameState": "36 ",
       "HomeTeam": "Toronto FC",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
@@ -433,12 +433,12 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "8:00pm",
-      "GameState": "",
+      "GameState": "5 '",
       "HomeTeam": "Minnesota Utd",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
       "AwayTeam": "Houston Dynamo",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
@@ -1895,7 +1895,7 @@
       "AwayTeam": "Napoli",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sport TV3 ,  Blue Sp…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sport TV3 ,  Stöð 2…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1908,7 +1908,7 @@
       "AwayTeam": "Spezia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
-      "TVChannels": "ESPN App ,  Blue Sport ,  C More Play ,  b…"
+      "TVChannels": "ESPN App ,  Stöð 2 Sport 4 ,  Blue Sport ,  C M…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1921,7 +1921,7 @@
       "AwayTeam": "Udinese",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sport TV3 ,  Blue Sp…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sport TV3 ,  Stöð 2…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1934,7 +1934,7 @@
       "AwayTeam": "Hellas Verona",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Digi Sport 1 ,  Blue…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Digi Sport 1 ,  St…"
     },
     {
       "LeagueName": "German Bundesliga",
