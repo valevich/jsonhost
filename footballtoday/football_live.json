@@ -394,22 +394,22 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "NY Red Bulls",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
       "AwayTeam": "Orlando City",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  M…"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  MLSsoccer.com ,  MS…"
     },
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:30pm",
-      "GameState": "62 ",
+      "GameState": "72 ",
       "HomeTeam": "FC Cincinnati",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
       "AwayTeam": "DC United",
       "AwayGoals": "1",
@@ -420,7 +420,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:30pm",
-      "GameState": "62 ",
+      "GameState": "72 ",
       "HomeTeam": "Toronto FC",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
@@ -1425,7 +1425,7 @@
       "AwayTeam": "Inter",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Sport…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Arena…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1542,7 +1542,7 @@
       "AwayTeam": "Marseille",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-      "TVChannels": "DAZN ,  Viaplay Denmark ,  Viaplay Sweden ,  Via…"
+      "TVChannels": "DAZN ,  Arena Sport 3 Serbia ,  Viaplay Denm…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1594,7 +1594,7 @@
       "AwayTeam": "DC United",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png",
-      "TVChannels": "MLSsoccer.com ,  MLS App ,  C More Play ,  …"
+      "TVChannels": "MLSsoccer.com ,  MLS App ,  Arena Sport…"
     },
     {
       "LeagueName": "Major League Soccer",
