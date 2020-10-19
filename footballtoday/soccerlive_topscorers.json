@@ -275,6 +275,24 @@
   ],
   "serie-a": [
     {
+        "playername": "Andrea Belotti",
+        "playerlink": "https://www.livesoccertv.com/player/a-belotti/186733/",
+        "playerteam": "Torino",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/torino/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+        "playergoals": 4,
+        "playerassists": 1
+    },
+    {
+        "playername": "Francesco Caputo",
+        "playerlink": "https://www.livesoccertv.com/player/f-caputo/63860/",
+        "playerteam": "Sassuolo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+        "playergoals": 4,
+        "playerassists": 1
+    },
+    {
         "playername": "A. Gómez",
         "playerlink": "https://www.livesoccertv.com/player/a-gomez/13951/",
         "playerteam": "Atalanta",
@@ -311,13 +329,22 @@
         "playerassists": 0
     },
     {
-        "playername": "Francesco Caputo",
-        "playerlink": "https://www.livesoccertv.com/player/f-caputo/63860/",
+        "playername": "D. Berardi",
+        "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
         "playerteam": "Sassuolo",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
         "playergoals": 3,
         "playerassists": 1
+    },
+    {
+        "playername": "G. Caprari",
+        "playerlink": "https://www.livesoccertv.com/player/g-caprari/151254/",
+        "playerteam": "Benevento",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/benevento/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
+        "playergoals": 3,
+        "playerassists": 0
     },
     {
         "playername": "Cristiano Ronaldo",
@@ -356,56 +383,29 @@
         "playerassists": 1
     },
     {
-        "playername": "Andrea Belotti",
-        "playerlink": "https://www.livesoccertv.com/player/a-belotti/186733/",
-        "playerteam": "Torino",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/torino/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-        "playergoals": 2,
+        "playername": "Giovanni Pablo Simeone",
+        "playerlink": "https://www.livesoccertv.com/player/g-simeone/242178/",
+        "playerteam": "Cagliari",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/cagliari/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+        "playergoals": 3,
         "playerassists": 0
     },
     {
-        "playername": "D. Berardi",
-        "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
-        "playerteam": "Sassuolo",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-        "playergoals": 2,
-        "playerassists": 1
-    },
-    {
-        "playername": "Luca Caldirola",
-        "playerlink": "https://www.livesoccertv.com/player/l-caldirola/92890/",
-        "playerteam": "Benevento",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/benevento/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
-        "playergoals": 2,
+        "playername": "Roberto Soriano",
+        "playerlink": "https://www.livesoccertv.com/player/r-soriano/72442/",
+        "playerteam": "Bologna",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/bologna/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+        "playergoals": 3,
         "playerassists": 0
     },
     {
-        "playername": "G. Caprari",
-        "playerlink": "https://www.livesoccertv.com/player/g-caprari/151254/",
-        "playerteam": "Benevento",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/benevento/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "Gaetano Castrovilli",
-        "playerlink": "https://www.livesoccertv.com/player/g-castrovilli/278211/",
-        "playerteam": "Fiorentina",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/fiorentina/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "Rafael Leão",
-        "playerlink": "https://www.livesoccertv.com/player/rafael-leao/309305/",
-        "playerteam": "Milan",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/ac-milan/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+        "playername": "Hernani",
+        "playerlink": "https://www.livesoccertv.com/player/hernani/151590/",
+        "playerteam": "Parma",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/parma-fc/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
         "playergoals": 2,
         "playerassists": 0
     }
@@ -418,6 +418,15 @@
         "playerteamlink": "https://www.livesoccertv.com/teams/france/metz/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
         "playergoals": 6,
+        "playerassists": 1
+    },
+    {
+        "playername": "W. Ben Yedder",
+        "playerlink": "https://www.livesoccertv.com/player/w-ben-yedder/126219/",
+        "playerteam": "Monaco",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "playergoals": 4,
         "playerassists": 1
     },
     {
@@ -466,15 +475,6 @@
         "playerassists": 2
     },
     {
-        "playername": "W. Ben Yedder",
-        "playerlink": "https://www.livesoccertv.com/player/w-ben-yedder/126219/",
-        "playerteam": "Monaco",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
         "playername": "A. Delort",
         "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
         "playerteam": "Montpellier",
@@ -493,11 +493,29 @@
         "playerassists": 1
     },
     {
+        "playername": "Romain Faivre",
+        "playerlink": "https://www.livesoccertv.com/player/r-faivre/297436/",
+        "playerteam": "Brest",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/brest/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "Z. Ferhat",
         "playerlink": "https://www.livesoccertv.com/player/z-ferhat/179225/",
         "playerteam": "Nîmes",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/nimes/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
+        "playername": "A. Gouiri",
+        "playerlink": "https://www.livesoccertv.com/player/a-gouiri/334272/",
+        "playerteam": "Nice",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/nice/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
         "playergoals": 3,
         "playerassists": 0
     },
@@ -525,24 +543,6 @@
         "playerteam": "Saint-Etienne",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/saint-etienne/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "Téji Savanier",
-        "playerlink": "https://www.livesoccertv.com/player/t-savanier/163323/",
-        "playerteam": "Montpellier",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "playergoals": 3,
-        "playerassists": 2
-    },
-    {
-        "playername": "Florian Thauvin",
-        "playerlink": "https://www.livesoccertv.com/player/f-thauvin/151539/",
-        "playerteam": "Olympique Marseille",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-marseille/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
         "playergoals": 3,
         "playerassists": 0
     }
