@@ -394,7 +394,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:00pm",
-      "GameState": "80 ",
+      "GameState": "90 ",
       "HomeTeam": "NY Red Bulls",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
@@ -407,7 +407,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:30pm",
-      "GameState": "48 ",
+      "GameState": "62 ",
       "HomeTeam": "FC Cincinnati",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
@@ -420,7 +420,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:30pm",
-      "GameState": "48 ",
+      "GameState": "62 ",
       "HomeTeam": "Toronto FC",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
@@ -433,7 +433,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "8:00pm",
-      "GameState": "35 ",
+      "GameState": "HT ",
       "HomeTeam": "Minnesota Utd",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
@@ -849,7 +849,7 @@
       "AwayTeam": "Nice",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-      "TVChannels": "CBS All Access ,  DAZN ,  DAZN ,  Fox Spo…"
+      "TVChannels": "CBS All Access ,  DAZN ,  DAZN ,  Arena…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -963,10 +963,10 @@
       "HomeTeam": "Dinamo Zagreb",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Feyenoord CBS All Access ,  DAZN ,  SuperSport 4…",
+      "AwayTeam": "Feyenoord CBS All Access ,  DAZN ,  Arena Sport…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "3:00pm   Dinamo Zagreb vs Feyenoord CBS All Access ,  DAZN ,  SuperSport 4…"
+      "TVChannels": "3:00pm   Dinamo Zagreb vs Feyenoord CBS All Access ,  DAZN ,  Arena Sport…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1044,7 +1044,7 @@
       "AwayTeam": "Lille",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-      "TVChannels": "CBS All Access ,  DAZN ,  DAZN ,  TV2 Su…"
+      "TVChannels": "CBS All Access ,  DAZN ,  DAZN ,  Arena…"
     },
     {
       "LeagueName": "UEFA Europa League",
