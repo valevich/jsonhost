@@ -17,25 +17,25 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "12:55pm",
-      "GameState": "",
+      "GameState": "17 ",
       "HomeTeam": "Zenit",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Club Brugge fuboTV ,  Galavision ,  TUDN.com ,  …",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "12:55pm   Zenit vs Club Brugge fuboTV ,  Galavision ,  TUDN.com ,  …"
+      "TVChannels": "12:55pm 17 '   Zenit  0 - 0  Club Brugge fuboTV ,  Galavision ,  TUDN.com ,  …"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "12:55pm",
-      "GameState": "",
+      "GameState": "17 ",
       "HomeTeam": "Dynamo Kyiv",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/ukraine/logos/dynamo-kyiv.png",
       "AwayTeam": "Juventus",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
       "TVChannels": "fuboTV ,  TUDN USA ,  UniMás ,  …"
     },
@@ -261,6 +261,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
       "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "Wednesday Oct. 21, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ],
   "day3": [
