@@ -17,27 +17,27 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "12:55pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Salzburg",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png",
       "AwayTeam": "Lokomotiv Moskva",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/442.png",
-      "TVChannels": "fuboTV ,  Galavision ,  TUDN.com ,  …"
+      "TVChannels": "fuboTV ,  Galavision ,  TUDN.com ,  Univision NO…"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "12:55pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Real Madrid",
-      "HomeGoals": "3",
+      "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
       "AwayTeam": "Shakhtar Donetsk",
       "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/493.png",
-      "TVChannels": "fuboTV ,  TUDN USA ,  UniMás ,  …"
+      "TVChannels": "fuboTV ,  TUDN USA ,  UniMás ,  TUDN.com ,  Univ…"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -496,7 +496,7 @@
       "AwayTeam": "Leeds United",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-      "TVChannels": "DAZN ,  RUSH ,  Sky Sport 1/HD ,  Sport TV2 ,  S…"
+      "TVChannels": "DAZN ,  RUSH ,  Sky Sport 1/HD ,  Digi Sport 1 ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -654,7 +654,7 @@
       "AwayTeam": "Manchester City",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "TVChannels": "DAZN ,  RUSH ,  Sky Sport 1/HD ,  Sport TV2 ,  C…"
+      "TVChannels": "DAZN ,  RUSH ,  Sky Sport 1/HD ,  Digi Sport 1 ,  …"
     },
     {
       "LeagueName": "English Premier League",
@@ -1254,7 +1254,7 @@
       "AwayTeam": "Crotone",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-      "TVChannels": "fuboTV ,  ESPN App ,  ESPNEWS ,  DA…"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
