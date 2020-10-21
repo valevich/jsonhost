@@ -50,59 +50,59 @@
       "AwayTeam": "Atletico Madrid",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-      "TVChannels": "Bayern München  4 - 0  Atlético Madrid fuboTV ,  TUDN USA ,  UniMás ,  …"
+      "TVChannels": "Bayern München  4 - 0  Atlético Madrid fuboTV ,  TUDN USA ,  UniMás ,  TUDN.com ,  Univ…"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Inter",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
       "AwayTeam": "Borussia M'gladbach",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
+      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtra ,  CBS All Acce…"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Manchester City",
       "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
       "AwayTeam": "Porto",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
-      "TVChannels": "fuboTV ,  Galavision ,  TUDN.com ,  …"
+      "TVChannels": "fuboTV ,  Galavision ,  TUDN.com ,  Univision NO…"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Olympiakos",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png",
       "AwayTeam": "Marseille",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
+      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtra ,  CBS All Acce…"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Ajax",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
       "AwayTeam": "Liverpool",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
+      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtra ,  CBS All Acce…"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -115,7 +115,20 @@
       "AwayTeam": "Atalanta",
       "AwayGoals": "4",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
+      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtra ,  CBS All Acce…"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "Wednesday Oct. 21, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ],
   "day2": [
@@ -1110,19 +1123,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/474.png",
       "TVChannels": "1 ,  Sky Go ,  Sky Ticket"
-    },
-    {
-      "LeagueName": "English FA Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
-      "GameTime": "Saturday Oct. 24, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     }
   ],
   "day5": [
