@@ -1110,6 +1110,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/474.png",
       "TVChannels": "1 ,  Sky Go ,  Sky Ticket"
+    },
+    {
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "Saturday Oct. 24, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ],
   "day5": [
@@ -1642,19 +1655,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "4:00pm",
       "GameState": "",
-      "HomeTeam": "Atalanta",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-      "AwayTeam": "Ajax",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
-      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "4:00pm",
-      "GameState": "",
       "HomeTeam": "Atletico Madrid",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
@@ -1681,13 +1681,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "4:00pm",
       "GameState": "",
-      "HomeTeam": "Liverpool",
+      "HomeTeam": "Porto",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "AwayTeam": "FC Midtjylland",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
+      "AwayTeam": "Olympiakos",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/572.png",
-      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png",
+      "TVChannels": "Piraeus fuboTV ,  TUDN.com ,  TUDNxtr…"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -1707,13 +1707,26 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "4:00pm",
       "GameState": "",
-      "HomeTeam": "Porto",
+      "HomeTeam": "Liverpool",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
-      "AwayTeam": "Olympiakos",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+      "AwayTeam": "FC Midtjylland",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png",
-      "TVChannels": "Piraeus fuboTV ,  TUDN.com ,  TUDNxtr…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/572.png",
+      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "4:00pm",
+      "GameState": "",
+      "HomeTeam": "Atalanta",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+      "AwayTeam": "Ajax",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
+      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
     },
     {
       "LeagueName": "Major League Soccer",
