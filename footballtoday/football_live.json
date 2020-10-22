@@ -56,13 +56,13 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
-      "GameState": "FT ",
+      "GameState": "",
       "HomeTeam": "Napoli",
-      "HomeGoals": "0",
+      "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-      "AwayTeam": "AZ fuboTV ,  UniMás ,  TUDN.com ,  Univision NOW ,  …",
-      "AwayGoals": "1",
-      "AwayLogo": "",
+      "AwayTeam": "Napoli",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
       "TVChannels": "0 - 1  AZ fuboTV ,  UniMás ,  TUDN.com ,  Univision NOW ,  …"
     },
     {
@@ -82,14 +82,14 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
-      "GameState": "FT ",
+      "GameState": "",
       "HomeTeam": "Rapid Wien",
-      "HomeGoals": "1",
+      "HomeGoals": "",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/austria/logos/rapid-wien.png",
-      "AwayTeam": "Arsenal",
-      "AwayGoals": "2",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "TVChannels": "fuboTV ,  TUDN USA ,  TUDN.com ,  CBS All Acc…"
+      "AwayTeam": "Rapid Wien",
+      "AwayGoals": "",
+      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/austria/logos/rapid-wien.png",
+      "TVChannels": "1 - 2  Arsenal fuboTV ,  TUDN USA ,  TUDN.com ,  CBS All Acc…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -1330,7 +1330,7 @@
       "AwayTeam": "Monaco",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-      "TVChannels": "TV5 Monde ,  TV5 ,  DAZN ,  V Sport Football ,  S…"
+      "TVChannels": "TV5 Monde ,  TV5 ,  DIRECTV Sports Puerto…"
     },
     {
       "LeagueName": "Major League Soccer",
