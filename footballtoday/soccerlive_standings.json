@@ -1172,6 +1172,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Stuttgart",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "played": 5,
+        "wins": 2,
+        "draws": 2,
+        "lossess": 1,
+        "goalsfor": 10,
+        "goalsagainst": 6,
+        "goalsdiff": "+4",
+        "points": 8,
+        "form": "'DWDWL'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Eintracht Frankfurt",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
         "played": 4,
@@ -1183,20 +1197,6 @@
         "goalsdiff": "+3",
         "points": 8,
         "form": "'DWWD'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Stuttgart",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-        "played": 4,
-        "wins": 2,
-        "draws": 1,
-        "lossess": 1,
-        "goalsfor": 9,
-        "goalsagainst": 5,
-        "goalsdiff": "+4",
-        "points": 7,
-        "form": "'WDWL'"
     },
     {
         "teamrank": 6,
@@ -1342,15 +1342,15 @@
         "teamrank": 16,
         "teamname": "Köln",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-        "played": 4,
+        "played": 5,
         "wins": 0,
-        "draws": 1,
+        "draws": 2,
         "lossess": 3,
-        "goalsfor": 4,
-        "goalsagainst": 8,
+        "goalsfor": 5,
+        "goalsagainst": 9,
         "goalsdiff": "-4",
-        "points": 1,
-        "form": "'DLLL'"
+        "points": 2,
+        "form": "'DDLLL'"
     },
     {
         "teamrank": 17,
