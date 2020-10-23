@@ -18,18 +18,32 @@
         "teamrank": 2,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 4,
+        "played": 5,
         "wins": 4,
         "draws": 0,
-        "lossess": 0,
+        "lossess": 1,
         "goalsfor": 12,
-        "goalsagainst": 2,
-        "goalsdiff": "+10",
+        "goalsagainst": 5,
+        "goalsdiff": "+7",
         "points": 12,
-        "form": "'WWWW'"
+        "form": "'LWWWW'"
     },
     {
         "teamrank": 3,
+        "teamname": "Leeds United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+        "played": 6,
+        "wins": 3,
+        "draws": 1,
+        "lossess": 2,
+        "goalsfor": 12,
+        "goalsagainst": 9,
+        "goalsdiff": "+3",
+        "points": 10,
+        "form": "'WLDWW'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "played": 5,
@@ -43,7 +57,7 @@
         "form": "'DLWWW'"
     },
     {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Leicester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
         "played": 5,
@@ -57,7 +71,7 @@
         "form": "'LLWWW'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "played": 5,
@@ -71,7 +85,7 @@
         "form": "'LWLWW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
         "played": 5,
@@ -85,7 +99,7 @@
         "form": "'WWLLW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 5,
@@ -99,7 +113,7 @@
         "form": "'DWDWL'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 5,
@@ -113,7 +127,7 @@
         "form": "'DWDLW'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "played": 5,
@@ -125,20 +139,6 @@
         "goalsdiff": "+4",
         "points": 7,
         "form": "'DWWLL'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Leeds United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-        "played": 5,
-        "wins": 2,
-        "draws": 1,
-        "lossess": 2,
-        "goalsfor": 9,
-        "goalsagainst": 9,
-        "goalsdiff": "0",
-        "points": 7,
-        "form": "'LDWWL'"
     },
     {
         "teamrank": 11,
@@ -340,6 +340,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Elche",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+        "played": 5,
+        "wins": 3,
+        "draws": 1,
+        "lossess": 1,
+        "goalsfor": 5,
+        "goalsagainst": 4,
+        "goalsdiff": "+1",
+        "points": 10,
+        "form": "'WWDWL'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Cádiz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
         "played": 6,
@@ -353,7 +367,7 @@
         "form": "'WDWLW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
         "played": 5,
@@ -367,7 +381,7 @@
         "form": "'WDLWW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "played": 6,
@@ -381,7 +395,7 @@
         "form": "'LWLLW'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Atlético Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
         "played": 4,
@@ -395,7 +409,7 @@
         "form": "'WDDW'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Barcelona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
         "played": 4,
@@ -409,7 +423,7 @@
         "form": "'LDWW'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
         "played": 4,
@@ -423,7 +437,7 @@
         "form": "'LDWW'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Osasuna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
         "played": 5,
@@ -437,32 +451,18 @@
         "form": "'DWLLW'"
     },
     {
-        "teamrank": 12,
-        "teamname": "Elche",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-        "played": 4,
-        "wins": 2,
-        "draws": 1,
-        "lossess": 1,
-        "goalsfor": 3,
-        "goalsagainst": 3,
-        "goalsdiff": "0",
-        "points": 7,
-        "form": "'WDWL'"
-    },
-    {
         "teamrank": 13,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-        "played": 6,
+        "played": 7,
         "wins": 2,
         "draws": 1,
-        "lossess": 3,
-        "goalsfor": 8,
-        "goalsagainst": 9,
-        "goalsdiff": "-1",
+        "lossess": 4,
+        "goalsfor": 9,
+        "goalsagainst": 11,
+        "goalsdiff": "-2",
         "points": 7,
-        "form": "'LLWDL'"
+        "form": "'LLLWD'"
     },
     {
         "teamrank": 14,
@@ -582,15 +582,15 @@
         "teamrank": 2,
         "teamname": "Sassuolo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-        "played": 4,
+        "played": 5,
         "wins": 3,
-        "draws": 1,
+        "draws": 2,
         "lossess": 0,
-        "goalsfor": 13,
-        "goalsagainst": 6,
+        "goalsfor": 16,
+        "goalsagainst": 9,
         "goalsdiff": "+7",
-        "points": 10,
-        "form": "'WWWD'"
+        "points": 11,
+        "form": "'DWWWD'"
     },
     {
         "teamrank": 3,
@@ -818,6 +818,20 @@
     },
     {
         "teamrank": 19,
+        "teamname": "Torino",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+        "played": 4,
+        "wins": 0,
+        "draws": 1,
+        "lossess": 3,
+        "goalsfor": 7,
+        "goalsagainst": 11,
+        "goalsdiff": "-4",
+        "points": 1,
+        "form": "'DLLL'"
+    },
+    {
+        "teamrank": 20,
         "teamname": "Crotone",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
         "played": 4,
@@ -829,20 +843,6 @@
         "goalsdiff": "-8",
         "points": 1,
         "form": "'DLLL'"
-    },
-    {
-        "teamrank": 20,
-        "teamname": "Torino",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-        "played": 3,
-        "wins": 0,
-        "draws": 0,
-        "lossess": 3,
-        "goalsfor": 4,
-        "goalsagainst": 8,
-        "goalsdiff": "-4",
-        "points": 0,
-        "form": "'LLL'"
     }
   ],
   "ligue-1": [
@@ -878,15 +878,15 @@
         "teamrank": 3,
         "teamname": "Rennes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-        "played": 7,
+        "played": 8,
         "wins": 4,
         "draws": 3,
-        "lossess": 0,
-        "goalsfor": 15,
-        "goalsagainst": 8,
-        "goalsdiff": "+7",
+        "lossess": 1,
+        "goalsfor": 16,
+        "goalsagainst": 10,
+        "goalsdiff": "+6",
         "points": 15,
-        "form": "'DDWWW'"
+        "form": "'LDDWW'"
     },
     {
         "teamrank": 4,
@@ -918,6 +918,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Angers SCO",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
+        "played": 8,
+        "wins": 4,
+        "draws": 1,
+        "lossess": 3,
+        "goalsfor": 10,
+        "goalsagainst": 16,
+        "goalsdiff": "-6",
+        "points": 13,
+        "form": "'WDLWL'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Olympique Marseille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
         "played": 7,
@@ -931,7 +945,7 @@
         "form": "'WDDDL'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Montpellier",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "played": 7,
@@ -945,7 +959,7 @@
         "form": "'DLDWW'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Monaco",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
         "played": 7,
@@ -959,7 +973,7 @@
         "form": "'DLWLW'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Olympique Lyonnais",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "played": 7,
@@ -973,7 +987,7 @@
         "form": "'WDDDL'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Saint-Étienne",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
         "played": 7,
@@ -985,20 +999,6 @@
         "goalsdiff": "-1",
         "points": 10,
         "form": "'LLLDW'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Angers SCO",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-        "played": 7,
-        "wins": 3,
-        "draws": 1,
-        "lossess": 3,
-        "goalsfor": 8,
-        "goalsagainst": 15,
-        "goalsdiff": "-7",
-        "points": 10,
-        "form": "'DLWLW'"
     },
     {
         "teamrank": 12,
