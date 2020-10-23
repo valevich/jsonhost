@@ -337,19 +337,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "10:30pm",
-      "GameState": "",
-      "HomeTeam": "Seattle Sounders",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
-      "AwayTeam": "Portland Timbers",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
-      "TVChannels": "Fox Sports 1 ,  fuboTV ,  FOX Deportes ,  …"
     }
   ],
   "day2": [
@@ -469,6 +456,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
       "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "12:30pm",
+      "GameState": "",
+      "HomeTeam": "Osasuna",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+      "AwayTeam": "Athletic Club",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+      "TVChannels": "DAZN ,  DAZN ,  DAZN ,  DAZN"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -913,6 +913,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
       "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "9:00am",
+      "GameState": "",
+      "HomeTeam": "Real Valladolid",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
+      "AwayTeam": "Alavés",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+      "TVChannels": "DAZN ,  DAZN ,  DAZN ,  DAZN"
     },
     {
       "LeagueName": "Spanish La Liga",
