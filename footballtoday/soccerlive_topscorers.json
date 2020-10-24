@@ -147,20 +147,20 @@
         "playerassists": 1
     },
     {
-        "playername": "Iago Aspas Juncal",
-        "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
-        "playerteam": "Celta Vigo",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
         "playername": "Ansu Fati",
         "playerlink": "https://www.livesoccertv.com/player/anssumane-fati/407638/",
         "playerteam": "Barcelona",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "playergoals": 4,
+        "playerassists": 0
+    },
+    {
+        "playername": "Iago Aspas Juncal",
+        "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
+        "playerteam": "Celta Vigo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "playergoals": 3,
         "playerassists": 0
     },
