@@ -63,7 +63,7 @@
       "AwayTeam": "Sheffield Utd",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Blue To…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Blue To Go Vi…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -128,7 +128,7 @@
       "AwayTeam": "Real Betis",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN SP…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN SPORTS en Es…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -297,7 +297,7 @@
       "AwayTeam": "Dijon",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
-      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
+      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz USA ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -316,7 +316,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "3:30pm",
-      "GameState": "HT ",
+      "GameState": "59 ",
       "HomeTeam": "Inter Miami",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
@@ -329,7 +329,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "4:00pm",
-      "GameState": "45 ",
+      "GameState": "50 ",
       "HomeTeam": "Atlanta United",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
@@ -480,6 +480,19 @@
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/474.png",
       "TVChannels": "1 ,  Sky Go ,  Sky Ticket ,  O…"
+    },
+    {
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "Saturday Oct. 24, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ],
   "day2": [
