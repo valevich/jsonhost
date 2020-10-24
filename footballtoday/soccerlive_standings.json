@@ -596,18 +596,32 @@
         "teamrank": 3,
         "teamname": "Atalanta",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "played": 4,
+        "played": 5,
         "wins": 3,
         "draws": 0,
-        "lossess": 1,
-        "goalsfor": 14,
-        "goalsagainst": 9,
-        "goalsdiff": "+5",
+        "lossess": 2,
+        "goalsfor": 15,
+        "goalsagainst": 12,
+        "goalsdiff": "+3",
         "points": 9,
-        "form": "'LWWW'"
+        "form": "'LLWWW'"
     },
     {
         "teamrank": 4,
+        "teamname": "Sampdoria",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
+        "played": 5,
+        "wins": 3,
+        "draws": 0,
+        "lossess": 2,
+        "goalsfor": 10,
+        "goalsagainst": 8,
+        "goalsdiff": "+2",
+        "points": 9,
+        "form": "'WWWLL'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Napoli",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
         "played": 4,
@@ -621,7 +635,7 @@
         "form": "'WLWW'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Juventus",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
         "played": 4,
@@ -635,7 +649,7 @@
         "form": "'DWDW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Internazionale",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "played": 4,
@@ -649,7 +663,7 @@
         "form": "'LDWW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Hellas Verona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
         "played": 4,
@@ -663,7 +677,7 @@
         "form": "'DLWW'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Roma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
         "played": 4,
@@ -675,20 +689,6 @@
         "goalsdiff": "+1",
         "points": 7,
         "form": "'WWDL'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Sampdoria",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-        "played": 4,
-        "wins": 2,
-        "draws": 0,
-        "lossess": 2,
-        "goalsfor": 7,
-        "goalsagainst": 7,
-        "goalsdiff": "0",
-        "points": 6,
-        "form": "'WWLL'"
     },
     {
         "teamrank": 10,
