@@ -554,7 +554,7 @@
         "playerteam": "Bayern Munich",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "playergoals": 7,
+        "playergoals": 10,
         "playerassists": 2
     },
     {
@@ -585,6 +585,15 @@
         "playerassists": 2
     },
     {
+        "playername": "J. Córdoba",
+        "playerlink": "https://www.livesoccertv.com/player/j-cordoba/134471/",
+        "playerteam": "Hertha BSC",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "Serge  Gnabry",
         "playerlink": "https://www.livesoccertv.com/player/s-gnabry/175333/",
         "playerteam": "Bayern Munich",
@@ -599,6 +608,15 @@
         "playerteam": "Stuttgart",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
+        "playername": "Jean-Philippe Mateta",
+        "playerlink": "https://www.livesoccertv.com/player/j-mateta/289035/",
+        "playerteam": "Mainz 05",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/1-fsv-mainz-05/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
         "playergoals": 3,
         "playerassists": 0
     },
@@ -639,15 +657,6 @@
         "playerassists": 0
     },
     {
-        "playername": "J. Córdoba",
-        "playerlink": "https://www.livesoccertv.com/player/j-cordoba/134471/",
-        "playerteam": "Hertha BSC",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
         "playername": "Bas Dost",
         "playerlink": "https://www.livesoccertv.com/player/b-dost/59551/",
         "playerteam": "Eintracht Frankfurt",
@@ -673,15 +682,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
         "playergoals": 2,
         "playerassists": 1
-    },
-    {
-        "playername": "M. Friedrich",
-        "playerlink": "https://www.livesoccertv.com/player/m-friedrich/211418/",
-        "playerteam": "Union Berlin",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/union-berlin/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-        "playergoals": 2,
-        "playerassists": 0
     }
   ]
 }
