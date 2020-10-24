@@ -890,6 +890,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Olympique Marseille",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+        "played": 8,
+        "wins": 4,
+        "draws": 3,
+        "lossess": 1,
+        "goalsfor": 11,
+        "goalsagainst": 8,
+        "goalsdiff": "+3",
+        "points": 15,
+        "form": "'WWDDD'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Nice",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
         "played": 7,
@@ -903,7 +917,7 @@
         "form": "'WWDLL'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Lens",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
         "played": 7,
@@ -917,7 +931,7 @@
         "form": "'LWDWW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Angers SCO",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
         "played": 8,
@@ -929,20 +943,6 @@
         "goalsdiff": "-6",
         "points": 13,
         "form": "'WDLWL'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Olympique Marseille",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-        "played": 7,
-        "wins": 3,
-        "draws": 3,
-        "lossess": 1,
-        "goalsfor": 10,
-        "goalsagainst": 8,
-        "goalsdiff": "+2",
-        "points": 12,
-        "form": "'WDDDL'"
     },
     {
         "teamrank": 8,
@@ -1074,15 +1074,15 @@
         "teamrank": 17,
         "teamname": "Lorient",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-        "played": 7,
+        "played": 8,
         "wins": 2,
         "draws": 1,
-        "lossess": 4,
+        "lossess": 5,
         "goalsfor": 12,
-        "goalsagainst": 14,
-        "goalsdiff": "-2",
+        "goalsagainst": 15,
+        "goalsdiff": "-3",
         "points": 7,
-        "form": "'WLDLL'"
+        "form": "'LWLDL'"
     },
     {
         "teamrank": 18,
