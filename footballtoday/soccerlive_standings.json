@@ -864,15 +864,15 @@
         "teamrank": 2,
         "teamname": "Lille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "played": 7,
+        "played": 8,
         "wins": 5,
-        "draws": 2,
+        "draws": 3,
         "lossess": 0,
-        "goalsfor": 13,
-        "goalsagainst": 2,
+        "goalsfor": 14,
+        "goalsagainst": 3,
         "goalsdiff": "+11",
-        "points": 17,
-        "form": "'WWWDW'"
+        "points": 18,
+        "form": "'DWWWD'"
     },
     {
         "teamrank": 3,
@@ -906,15 +906,15 @@
         "teamrank": 5,
         "teamname": "Nice",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-        "played": 7,
+        "played": 8,
         "wins": 4,
-        "draws": 1,
+        "draws": 2,
         "lossess": 2,
-        "goalsfor": 10,
-        "goalsagainst": 9,
+        "goalsfor": 11,
+        "goalsagainst": 10,
         "goalsdiff": "+1",
-        "points": 13,
-        "form": "'WWDLL'"
+        "points": 14,
+        "form": "'DWWDL'"
     },
     {
         "teamrank": 6,
