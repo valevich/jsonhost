@@ -480,6 +480,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Deportivo Alavés",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+        "played": 7,
+        "wins": 2,
+        "draws": 1,
+        "lossess": 4,
+        "goalsfor": 5,
+        "goalsagainst": 8,
+        "goalsdiff": "-3",
+        "points": 7,
+        "form": "'WLWLD'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 6,
@@ -493,7 +507,7 @@
         "form": "'LWLLW'"
     },
     {
-        "teamrank": 16,
+        "teamrank": 17,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
         "played": 6,
@@ -507,7 +521,7 @@
         "form": "'DDDDL'"
     },
     {
-        "teamrank": 17,
+        "teamrank": 18,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "played": 6,
@@ -521,35 +535,7 @@
         "form": "'LLLDW'"
     },
     {
-        "teamrank": 18,
-        "teamname": "Deportivo Alavés",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-        "played": 6,
-        "wins": 1,
-        "draws": 1,
-        "lossess": 4,
-        "goalsfor": 3,
-        "goalsagainst": 8,
-        "goalsdiff": "-5",
-        "points": 4,
-        "form": "'LWLDL'"
-    },
-    {
         "teamrank": 19,
-        "teamname": "Real Valladolid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-        "played": 6,
-        "wins": 0,
-        "draws": 3,
-        "lossess": 3,
-        "goalsfor": 5,
-        "goalsagainst": 9,
-        "goalsdiff": "-4",
-        "points": 3,
-        "form": "'DLLDL'"
-    },
-    {
-        "teamrank": 20,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 5,
@@ -561,6 +547,20 @@
         "goalsdiff": "-5",
         "points": 3,
         "form": "'LLLWL'"
+    },
+    {
+        "teamrank": 20,
+        "teamname": "Real Valladolid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
+        "played": 7,
+        "wins": 0,
+        "draws": 3,
+        "lossess": 4,
+        "goalsfor": 5,
+        "goalsagainst": 11,
+        "goalsdiff": "-6",
+        "points": 3,
+        "form": "'LDLLD'"
     }
   ],
   "serie-a": [
