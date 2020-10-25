@@ -156,11 +156,29 @@
         "playerassists": 0
     },
     {
+        "playername": "L. Suárez",
+        "playerlink": "https://www.livesoccertv.com/player/l-suarez/2423/",
+        "playerteam": "Atletico Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "playergoals": 4,
+        "playerassists": 0
+    },
+    {
         "playername": "Iago Aspas Juncal",
         "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
         "playerteam": "Celta Vigo",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
+        "playername": "Kike",
+        "playerlink": "https://www.livesoccertv.com/player/kike/62297/",
+        "playerteam": "Eibar",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/eibar/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "playergoals": 3,
         "playerassists": 0
     },
@@ -201,15 +219,6 @@
         "playerassists": 0
     },
     {
-        "playername": "L. Suárez",
-        "playerlink": "https://www.livesoccertv.com/player/l-suarez/2423/",
-        "playerteam": "Atletico Madrid",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
         "playername": "L. de Jong",
         "playerlink": "https://www.livesoccertv.com/player/l-de-jong/65189/",
         "playerteam": "Sevilla",
@@ -219,13 +228,13 @@
         "playerassists": 0
     },
     {
-        "playername": "Kike",
-        "playerlink": "https://www.livesoccertv.com/player/kike/62297/",
-        "playerteam": "Eibar",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/eibar/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
+        "playername": "Rubén García",
+        "playerlink": "https://www.livesoccertv.com/player/ruben-garcia/211118/",
+        "playerteam": "Osasuna",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/osasuna/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
         "playergoals": 2,
-        "playerassists": 0
+        "playerassists": 1
     },
     {
         "playername": "Y. Herrera",
@@ -246,6 +255,15 @@
         "playerassists": 1
     },
     {
+        "playername": "Llorente",
+        "playerlink": "https://www.livesoccertv.com/player/marcos-llorente/250443/",
+        "playerteam": "Atletico Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
         "playername": "Roberto López Alcaide",
         "playerlink": "https://www.livesoccertv.com/player/roberto-lopez/404727/",
         "playerteam": "Real Sociedad",
@@ -253,24 +271,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "playergoals": 2,
         "playerassists": 0
-    },
-    {
-        "playername": "Unai López",
-        "playerlink": "https://www.livesoccertv.com/player/unai-lopez/213453/",
-        "playerteam": "Athletic Club",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/athletic-bilbao/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "Mata",
-        "playerlink": "https://www.livesoccertv.com/player/jaime-mata/170318/",
-        "playerteam": "Getafe",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/getafe/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-        "playergoals": 2,
-        "playerassists": 1
     }
   ],
   "serie-a": [
@@ -572,7 +572,7 @@
         "playerteam": "Borussia Dortmund",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-        "playergoals": 4,
+        "playergoals": 5,
         "playerassists": 1
     },
     {
