@@ -692,6 +692,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Cagliari",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+        "played": 5,
+        "wins": 2,
+        "draws": 1,
+        "lossess": 2,
+        "goalsfor": 10,
+        "goalsagainst": 12,
+        "goalsdiff": "-2",
+        "points": 7,
+        "form": "'WWLLD'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Lazio",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
         "played": 5,
@@ -705,7 +719,7 @@
         "form": "'WLDLW'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Benevento",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
         "played": 4,
@@ -719,7 +733,7 @@
         "form": "'LWLW'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
         "played": 4,
@@ -731,20 +745,6 @@
         "goalsdiff": "-1",
         "points": 4,
         "form": "'DLLW'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Cagliari",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-        "played": 4,
-        "wins": 1,
-        "draws": 1,
-        "lossess": 2,
-        "goalsfor": 6,
-        "goalsagainst": 10,
-        "goalsdiff": "-4",
-        "points": 4,
-        "form": "'WLLD'"
     },
     {
         "teamrank": 14,
@@ -834,15 +834,15 @@
         "teamrank": 20,
         "teamname": "Crotone",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-        "played": 4,
+        "played": 5,
         "wins": 0,
         "draws": 1,
-        "lossess": 3,
-        "goalsfor": 3,
-        "goalsagainst": 11,
-        "goalsdiff": "-8",
+        "lossess": 4,
+        "goalsfor": 5,
+        "goalsagainst": 15,
+        "goalsdiff": "-10",
         "points": 1,
-        "form": "'DLLL'"
+        "form": "'LDLLL'"
     }
   ],
   "ligue-1": [
