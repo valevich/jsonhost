@@ -44,6 +44,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Leicester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+        "played": 6,
+        "wins": 4,
+        "draws": 0,
+        "lossess": 2,
+        "goalsfor": 13,
+        "goalsagainst": 8,
+        "goalsdiff": "+5",
+        "points": 12,
+        "form": "'WLLWW'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "played": 6,
@@ -57,7 +71,7 @@
         "form": "'WLDWW'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
         "played": 6,
@@ -71,7 +85,7 @@
         "form": "'WDWWL'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
         "played": 6,
@@ -85,7 +99,7 @@
         "form": "'WDLLW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
         "played": 6,
@@ -99,7 +113,7 @@
         "form": "'DWWLL'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 6,
@@ -113,32 +127,18 @@
         "form": "'DDWDL'"
     },
     {
-        "teamrank": 9,
-        "teamname": "Leicester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "played": 5,
-        "wins": 3,
-        "draws": 0,
-        "lossess": 2,
-        "goalsfor": 12,
-        "goalsagainst": 8,
-        "goalsdiff": "+4",
-        "points": 9,
-        "form": "'LLWWW'"
-    },
-    {
         "teamrank": 10,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "played": 5,
+        "played": 6,
         "wins": 3,
         "draws": 0,
-        "lossess": 2,
+        "lossess": 3,
         "goalsfor": 8,
-        "goalsagainst": 6,
-        "goalsdiff": "+2",
+        "goalsagainst": 7,
+        "goalsdiff": "+1",
         "points": 9,
-        "form": "'LWLWW'"
+        "form": "'LLWLW'"
     },
     {
         "teamrank": 11,
