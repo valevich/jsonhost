@@ -298,6 +298,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Villarreal",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "played": 7,
+        "wins": 3,
+        "draws": 3,
+        "lossess": 1,
+        "goalsfor": 8,
+        "goalsagainst": 8,
+        "goalsdiff": "0",
+        "points": 12,
+        "form": "'DWDWL'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Atlético Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
         "played": 5,
@@ -311,7 +325,7 @@
         "form": "'WWDDW'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "played": 6,
@@ -325,21 +339,21 @@
         "form": "'WWLWD'"
     },
     {
-        "teamrank": 4,
-        "teamname": "Villarreal",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "played": 6,
+        "teamrank": 5,
+        "teamname": "Cádiz",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
+        "played": 7,
         "wins": 3,
         "draws": 2,
-        "lossess": 1,
-        "goalsfor": 8,
-        "goalsagainst": 8,
+        "lossess": 2,
+        "goalsfor": 6,
+        "goalsagainst": 6,
         "goalsdiff": "0",
         "points": 11,
-        "form": "'WDWLW'"
+        "form": "'DWDWL'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Osasuna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
         "played": 6,
@@ -353,7 +367,7 @@
         "form": "'WDWLL'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Getafe",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
         "played": 5,
@@ -367,7 +381,7 @@
         "form": "'WLWDW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Elche",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
         "played": 5,
@@ -379,20 +393,6 @@
         "goalsdiff": "+1",
         "points": 10,
         "form": "'WWDWL'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Cádiz",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
-        "played": 6,
-        "wins": 3,
-        "draws": 1,
-        "lossess": 2,
-        "goalsfor": 6,
-        "goalsagainst": 6,
-        "goalsdiff": "0",
-        "points": 10,
-        "form": "'WDWLW'"
     },
     {
         "teamrank": 9,
