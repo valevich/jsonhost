@@ -37,6 +37,15 @@
         "playerassists": 2
     },
     {
+        "playername": "J. Vardy",
+        "playerlink": "https://www.livesoccertv.com/player/j-vardy/135178/",
+        "playerteam": "Leicester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+        "playergoals": 6,
+        "playerassists": 4
+    },
+    {
         "playername": "H. Kane",
         "playerlink": "https://www.livesoccertv.com/player/h-kane/134501/",
         "playerteam": "Tottenham Hotspur",
@@ -44,15 +53,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "playergoals": 5,
         "playerassists": 1
-    },
-    {
-        "playername": "J. Vardy",
-        "playerlink": "https://www.livesoccertv.com/player/j-vardy/135178/",
-        "playerteam": "Leicester City",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "playergoals": 5,
-        "playerassists": 4
     },
     {
         "playername": "W. Zaha",
@@ -156,6 +156,24 @@
         "playerassists": 0
     },
     {
+        "playername": "Mikel Oyarzabal",
+        "playerlink": "https://www.livesoccertv.com/player/mikel-oyarzabal/285896/",
+        "playerteam": "Real Sociedad",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+        "playergoals": 4,
+        "playerassists": 3
+    },
+    {
+        "playername": "Portu",
+        "playerlink": "https://www.livesoccertv.com/player/portu/171121/",
+        "playerteam": "Real Sociedad",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+        "playergoals": 4,
+        "playerassists": 0
+    },
+    {
         "playername": "L. Suárez",
         "playerlink": "https://www.livesoccertv.com/player/l-suarez/2423/",
         "playerteam": "Atletico Madrid",
@@ -210,15 +228,6 @@
         "playerassists": 2
     },
     {
-        "playername": "Portu",
-        "playerlink": "https://www.livesoccertv.com/player/portu/171121/",
-        "playerteam": "Real Sociedad",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
         "playername": "L. de Jong",
         "playerlink": "https://www.livesoccertv.com/player/l-de-jong/65189/",
         "playerteam": "Sevilla",
@@ -260,15 +269,6 @@
         "playerteam": "Atletico Madrid",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "Roberto López",
-        "playerlink": "https://www.livesoccertv.com/player/roberto-lopez/404727/",
-        "playerteam": "Real Sociedad",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "playergoals": 2,
         "playerassists": 0
     }
@@ -412,6 +412,15 @@
   ],
   "ligue-1": [
     {
+        "playername": "B. Dia",
+        "playerlink": "https://www.livesoccertv.com/player/b-dia/360970/",
+        "playerteam": "Reims",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/reims/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
+        "playergoals": 6,
+        "playerassists": 3
+    },
+    {
         "playername": "K. Mbappé",
         "playerlink": "https://www.livesoccertv.com/player/k-mbappe/281806/",
         "playerteam": "PSG",
@@ -475,6 +484,15 @@
         "playerassists": 2
     },
     {
+        "playername": "B. Yılmaz",
+        "playerlink": "https://www.livesoccertv.com/player/b-y-lmaz/4921/",
+        "playerteam": "Lille",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "playergoals": 4,
+        "playerassists": 1
+    },
+    {
         "playername": "J. Bamba",
         "playerlink": "https://www.livesoccertv.com/player/j-bamba/249220/",
         "playerteam": "Lille",
@@ -493,11 +511,11 @@
         "playerassists": 0
     },
     {
-        "playername": "B. Dia",
-        "playerlink": "https://www.livesoccertv.com/player/b-dia/360970/",
-        "playerteam": "Reims",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/reims/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
+        "playername": "K. Dolberg",
+        "playerlink": "https://www.livesoccertv.com/player/k-dolberg/251858/",
+        "playerteam": "Nice",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/nice/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
         "playergoals": 3,
         "playerassists": 1
     },
@@ -525,24 +543,6 @@
         "playerteam": "Nice",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/nice/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "S. Guirassy",
-        "playerlink": "https://www.livesoccertv.com/player/s-guirassy/237655/",
-        "playerteam": "Rennes",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/stade-rennes/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "P. Hamel",
-        "playerlink": "https://www.livesoccertv.com/player/p-hamel/236971/",
-        "playerteam": "Lorient",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/lorient/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
         "playergoals": 3,
         "playerassists": 0
     }
