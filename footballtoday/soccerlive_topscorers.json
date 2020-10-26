@@ -302,6 +302,15 @@
         "playerassists": 0
     },
     {
+        "playername": "G. Castrovilli",
+        "playerlink": "https://www.livesoccertv.com/player/g-castrovilli/278211/",
+        "playerteam": "Fiorentina",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/fiorentina/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+        "playergoals": 4,
+        "playerassists": 0
+    },
+    {
         "playername": "A. Gómez",
         "playerlink": "https://www.livesoccertv.com/player/a-gomez/13951/",
         "playerteam": "Atalanta",
@@ -338,6 +347,15 @@
         "playerassists": 1
     },
     {
+        "playername": "G. Simeone",
+        "playerlink": "https://www.livesoccertv.com/player/g-simeone/242178/",
+        "playerteam": "Cagliari",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/cagliari/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+        "playergoals": 4,
+        "playerassists": 0
+    },
+    {
         "playername": "D. Berardi",
         "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
         "playerteam": "Sassuolo",
@@ -365,6 +383,15 @@
         "playerassists": 1
     },
     {
+        "playername": "João Pedro",
+        "playerlink": "https://www.livesoccertv.com/player/joao-pedro/115191/",
+        "playerteam": "Cagliari",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/cagliari/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "A. Galabinov",
         "playerlink": "https://www.livesoccertv.com/player/a-galabinov/85887/",
         "playerteam": "Spezia",
@@ -381,33 +408,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "playergoals": 3,
         "playerassists": 0
-    },
-    {
-        "playername": "G. Simeone",
-        "playerlink": "https://www.livesoccertv.com/player/g-simeone/242178/",
-        "playerteam": "Cagliari",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/cagliari/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "R. Soriano",
-        "playerlink": "https://www.livesoccertv.com/player/r-soriano/72442/",
-        "playerteam": "Bologna",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/bologna/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "J. Veretout",
-        "playerlink": "https://www.livesoccertv.com/player/j-veretout/156122/",
-        "playerteam": "Roma",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "playergoals": 3,
-        "playerassists": 2
     }
   ],
   "ligue-1": [
