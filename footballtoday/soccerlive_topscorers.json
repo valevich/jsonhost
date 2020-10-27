@@ -293,6 +293,15 @@
         "playerassists": 1
     },
     {
+        "playername": "Z. Ibrahimović",
+        "playerlink": "https://www.livesoccertv.com/player/z-ibrahimovic/301/",
+        "playerteam": "Milan",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/ac-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+        "playergoals": 5,
+        "playerassists": 1
+    },
+    {
         "playername": "R. Lukaku",
         "playerlink": "https://www.livesoccertv.com/player/r-lukaku/79627/",
         "playerteam": "Internazionale",
@@ -318,15 +327,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
         "playergoals": 4,
         "playerassists": 0
-    },
-    {
-        "playername": "Z. Ibrahimović",
-        "playerlink": "https://www.livesoccertv.com/player/z-ibrahimovic/301/",
-        "playerteam": "Milan",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/ac-milan/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-        "playergoals": 4,
-        "playerassists": 1
     },
     {
         "playername": "H. Lozano",
@@ -392,20 +392,20 @@
         "playerassists": 0
     },
     {
+        "playername": "E. Džeko",
+        "playerlink": "https://www.livesoccertv.com/player/e-dzeko/20721/",
+        "playerteam": "Roma",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "A. Galabinov",
         "playerlink": "https://www.livesoccertv.com/player/a-galabinov/85887/",
         "playerteam": "Spezia",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/spezia/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "L. Martínez",
-        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
-        "playerteam": "Internazionale",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "playergoals": 3,
         "playerassists": 0
     }
