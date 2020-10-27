@@ -585,6 +585,15 @@
         "playerassists": 2
     },
     {
+        "playername": "L. Alario",
+        "playerlink": "https://www.livesoccertv.com/player/l-alario/160318/",
+        "playerteam": "Bayer Leverkusen",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+        "playergoals": 3,
+        "playerassists": 1
+    },
+    {
         "playername": "J. Córdoba",
         "playerlink": "https://www.livesoccertv.com/player/j-cordoba/134471/",
         "playerteam": "Hertha BSC",
@@ -648,6 +657,15 @@
         "playerassists": 1
     },
     {
+        "playername": "Daniel Caligiuri",
+        "playerlink": "https://www.livesoccertv.com/player/d-caligiuri/54628/",
+        "playerteam": "Augsburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/fc-augsburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
         "playername": "Matheus Cunha",
         "playerlink": "https://www.livesoccertv.com/player/matheus-cunha/359098/",
         "playerteam": "Hertha BSC",
@@ -664,24 +682,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
         "playergoals": 2,
         "playerassists": 0
-    },
-    {
-        "playername": "Angeliño",
-        "playerlink": "https://www.livesoccertv.com/player/angelino/250368/",
-        "playerteam": "RB Leipzig",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/rb-leipzig/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-        "playergoals": 2,
-        "playerassists": 0
-    },
-    {
-        "playername": "Emil Forsberg",
-        "playerlink": "https://www.livesoccertv.com/player/e-forsberg/78673/",
-        "playerteam": "RB Leipzig",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/rb-leipzig/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-        "playergoals": 2,
-        "playerassists": 1
     }
   ]
 }
