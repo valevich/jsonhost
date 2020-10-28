@@ -208,6 +208,69 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "playergoals": 3,
         "playerassists": 0
+    },
+    {
+        "playername": "Morales",
+        "playerlink": "https://www.livesoccertv.com/player/jose-luis-morales/211121/",
+        "playerteam": "Levante",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
+        "playername": "Gerard Moreno Balaguero",
+        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
+        "playerteam": "Villarreal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "playergoals": 3,
+        "playerassists": 2
+    },
+    {
+        "playername": "L. de Jong",
+        "playerlink": "https://www.livesoccertv.com/player/l-de-jong/65189/",
+        "playerteam": "Sevilla",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/sevilla/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
+        "playername": "Rubén García",
+        "playerlink": "https://www.livesoccertv.com/player/ruben-garcia/211118/",
+        "playerteam": "Osasuna",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/osasuna/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+        "playergoals": 2,
+        "playerassists": 1
+    },
+    {
+        "playername": "Y. Herrera",
+        "playerlink": "https://www.livesoccertv.com/player/y-herrera/292066/",
+        "playerteam": "Granada",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/granada/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
+        "playergoals": 2,
+        "playerassists": 0
+    },
+    {
+        "playername": "A. Januzaj",
+        "playerlink": "https://www.livesoccertv.com/player/a-januzaj/235819/",
+        "playerteam": "Real Sociedad",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+        "playergoals": 2,
+        "playerassists": 1
+    },
+    {
+        "playername": "Llorente",
+        "playerlink": "https://www.livesoccertv.com/player/marcos-llorente/250443/",
+        "playerteam": "Atletico Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "playergoals": 2,
+        "playerassists": 0
     }
   ],
   "serie-a": [
