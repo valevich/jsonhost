@@ -1172,6 +1172,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Stuttgart",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "played": 6,
+        "wins": 2,
+        "draws": 3,
+        "lossess": 1,
+        "goalsfor": 11,
+        "goalsagainst": 7,
+        "goalsdiff": "+4",
+        "points": 9,
+        "form": "'DDWDW'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Bayer Leverkusen",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
         "played": 5,
@@ -1183,20 +1197,6 @@
         "goalsdiff": "+3",
         "points": 9,
         "form": "'WWDDD'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Stuttgart",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-        "played": 5,
-        "wins": 2,
-        "draws": 2,
-        "lossess": 1,
-        "goalsfor": 10,
-        "goalsagainst": 6,
-        "goalsdiff": "+4",
-        "points": 8,
-        "form": "'DWDWL'"
     },
     {
         "teamrank": 6,
@@ -1356,15 +1356,15 @@
         "teamrank": 17,
         "teamname": "Schalke 04",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
-        "played": 5,
+        "played": 6,
         "wins": 0,
-        "draws": 1,
+        "draws": 2,
         "lossess": 4,
-        "goalsfor": 2,
-        "goalsagainst": 19,
+        "goalsfor": 3,
+        "goalsagainst": 20,
         "goalsdiff": "-17",
-        "points": 1,
-        "form": "'LDLLL'"
+        "points": 2,
+        "form": "'DLDLL'"
     },
     {
         "teamrank": 18,
