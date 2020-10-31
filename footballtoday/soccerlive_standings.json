@@ -86,6 +86,20 @@
     },
     {
         "teamrank": 7,
+        "teamname": "Manchester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "played": 6,
+        "wins": 3,
+        "draws": 2,
+        "lossess": 1,
+        "goalsfor": 9,
+        "goalsagainst": 8,
+        "goalsdiff": "+1",
+        "points": 11,
+        "form": "'WDWDL'"
+    },
+    {
+        "teamrank": 8,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "played": 6,
@@ -99,7 +113,7 @@
         "form": "'WLDWW'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
         "played": 6,
@@ -113,7 +127,7 @@
         "form": "'WDWWL'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
         "played": 7,
@@ -127,7 +141,7 @@
         "form": "'LWDLL'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 6,
@@ -141,7 +155,7 @@
         "form": "'DDWDL'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "played": 6,
@@ -155,7 +169,7 @@
         "form": "'LLWLW'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "played": 6,
@@ -167,20 +181,6 @@
         "goalsdiff": "+4",
         "points": 8,
         "form": "'DDWWL'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Manchester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "played": 5,
-        "wins": 2,
-        "draws": 2,
-        "lossess": 1,
-        "goalsfor": 8,
-        "goalsagainst": 8,
-        "goalsdiff": "0",
-        "points": 8,
-        "form": "'DWDLW'"
     },
     {
         "teamrank": 14,
@@ -256,15 +256,15 @@
         "teamrank": 19,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 6,
+        "played": 7,
         "wins": 0,
         "draws": 1,
-        "lossess": 5,
+        "lossess": 6,
         "goalsfor": 3,
-        "goalsagainst": 9,
-        "goalsdiff": "-6",
+        "goalsagainst": 10,
+        "goalsdiff": "-7",
         "points": 1,
-        "form": "'LDLLL'"
+        "form": "'LLDLL'"
     },
     {
         "teamrank": 20,
