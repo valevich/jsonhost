@@ -986,19 +986,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "12:55pm",
       "GameState": "",
-      "HomeTeam": "Shakhtar Donetsk",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/493.png",
-      "AwayTeam": "Borussia M'gladbach",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-      "TVChannels": "fuboTV ,  Galavision ,  TUDN.com ,  …"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "12:55pm",
-      "GameState": "",
       "HomeTeam": "Lokomotiv Moskva",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/442.png",
@@ -1010,15 +997,28 @@
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "12:55pm",
+      "GameState": "",
+      "HomeTeam": "Shakhtar Donetsk",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/493.png",
+      "AwayTeam": "Borussia M'gladbach",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+      "TVChannels": "fuboTV ,  Galavision ,  TUDN.com ,  …"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Manchester City",
+      "HomeTeam": "Salzburg",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "AwayTeam": "Olympiakos",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png",
+      "AwayTeam": "Bayern Munich",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png",
-      "TVChannels": "Piraeus fuboTV ,  Galavision ,  TUDN.com ,  …"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+      "TVChannels": "alzburg vs Bayern München fuboTV ,  TUDN.com ,  TUDNxtr…"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -1038,25 +1038,25 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Porto",
+      "HomeTeam": "Manchester City",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
-      "AwayTeam": "Marseille",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+      "AwayTeam": "Olympiakos",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png",
+      "TVChannels": "Piraeus fuboTV ,  Galavision ,  TUDN.com ,  …"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Atalanta",
+      "HomeTeam": "Porto",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-      "AwayTeam": "Liverpool",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
+      "AwayTeam": "Marseille",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
       "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
     },
     {
@@ -1077,13 +1077,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Salzburg",
+      "HomeTeam": "Atalanta",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png",
-      "AwayTeam": "Bayern Munich",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+      "AwayTeam": "Liverpool",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-      "TVChannels": "alzburg vs Bayern München fuboTV ,  TUDN.com ,  TUDNxtr…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
     }
   ],
   "day5": [
