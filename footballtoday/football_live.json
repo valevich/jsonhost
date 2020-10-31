@@ -43,7 +43,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "1:30pm",
-      "GameState": "64 ",
+      "GameState": "74 ",
       "HomeTeam": "Liverpool",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
@@ -95,14 +95,14 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "1:30pm",
-      "GameState": "65 ",
+      "GameState": "74 ",
       "HomeTeam": "Osasuna",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
       "AwayTeam": "Atletico Madrid",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-      "TVChannels": "Osasuna  0 - 1  Atlético Madrid beIN SPORTS ,  fuboTV ,  Fanatiz…"
+      "TVChannels": "Osasuna  0 - 2  Atlético Madrid beIN SPORTS ,  fuboTV ,  Fanatiz…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -147,14 +147,14 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "1:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Inter",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
       "AwayTeam": "Parma",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN No…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN Norte"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -238,7 +238,7 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "1:30pm",
-      "GameState": "64 ",
+      "GameState": "74 ",
       "HomeTeam": "Borussia M'gladbach",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
