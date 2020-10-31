@@ -1130,6 +1130,34 @@
   "bundesliga": [
     {
         "teamrank": 1,
+        "teamname": "Bayern München",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "played": 6,
+        "wins": 5,
+        "draws": 0,
+        "lossess": 1,
+        "goalsfor": 24,
+        "goalsagainst": 9,
+        "goalsdiff": "+15",
+        "points": 15,
+        "form": "'WWWWL'"
+    },
+    {
+        "teamrank": 2,
+        "teamname": "Borussia Dortmund",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+        "played": 6,
+        "wins": 5,
+        "draws": 0,
+        "lossess": 1,
+        "goalsfor": 13,
+        "goalsagainst": 2,
+        "goalsdiff": "+11",
+        "points": 15,
+        "form": "'WWWWL'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "RB Leipzig",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
         "played": 5,
@@ -1143,35 +1171,21 @@
         "form": "'WWWDW'"
     },
     {
-        "teamrank": 2,
-        "teamname": "Bayern München",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "played": 5,
-        "wins": 4,
-        "draws": 0,
-        "lossess": 1,
-        "goalsfor": 22,
-        "goalsagainst": 8,
-        "goalsdiff": "+14",
-        "points": 12,
-        "form": "'WWWLW'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Borussia Dortmund",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-        "played": 5,
-        "wins": 4,
-        "draws": 0,
-        "lossess": 1,
-        "goalsfor": 11,
-        "goalsagainst": 2,
-        "goalsdiff": "+9",
-        "points": 12,
-        "form": "'WWWLW'"
-    },
-    {
         "teamrank": 4,
+        "teamname": "Augsburg",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+        "played": 6,
+        "wins": 3,
+        "draws": 1,
+        "lossess": 2,
+        "goalsfor": 9,
+        "goalsagainst": 7,
+        "goalsdiff": "+2",
+        "points": 10,
+        "form": "'WLLDW'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Stuttgart",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
         "played": 6,
@@ -1185,7 +1199,7 @@
         "form": "'DDWDW'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Bayer Leverkusen",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
         "played": 5,
@@ -1199,7 +1213,35 @@
         "form": "'WWDDD'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
+        "teamname": "Werder Bremen",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+        "played": 6,
+        "wins": 2,
+        "draws": 3,
+        "lossess": 1,
+        "goalsfor": 8,
+        "goalsagainst": 8,
+        "goalsdiff": "0",
+        "points": 9,
+        "form": "'DDDWW'"
+    },
+    {
+        "teamrank": 8,
+        "teamname": "Eintracht Frankfurt",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "played": 6,
+        "wins": 2,
+        "draws": 3,
+        "lossess": 1,
+        "goalsfor": 8,
+        "goalsagainst": 10,
+        "goalsdiff": "-2",
+        "points": 9,
+        "form": "'DLDWW'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Borussia M'gladbach",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
         "played": 5,
@@ -1213,35 +1255,7 @@
         "form": "'WDWDL'"
     },
     {
-        "teamrank": 7,
-        "teamname": "Werder Bremen",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-        "played": 5,
-        "wins": 2,
-        "draws": 2,
-        "lossess": 1,
-        "goalsfor": 7,
-        "goalsagainst": 7,
-        "goalsdiff": "0",
-        "points": 8,
-        "form": "'DDWWL'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Eintracht Frankfurt",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-        "played": 5,
-        "wins": 2,
-        "draws": 2,
-        "lossess": 1,
-        "goalsfor": 7,
-        "goalsagainst": 9,
-        "goalsdiff": "-2",
-        "points": 8,
-        "form": "'LDWWD'"
-    },
-    {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Hoffenheim",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
         "played": 5,
@@ -1255,7 +1269,7 @@
         "form": "'DLLWW'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Wolfsburg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
         "played": 5,
@@ -1267,20 +1281,6 @@
         "goalsdiff": "+1",
         "points": 7,
         "form": "'WDDDD'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Augsburg",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-        "played": 5,
-        "wins": 2,
-        "draws": 1,
-        "lossess": 2,
-        "goalsfor": 6,
-        "goalsagainst": 6,
-        "goalsdiff": "0",
-        "points": 7,
-        "form": "'LLDWW'"
     },
     {
         "teamrank": 12,
@@ -1314,15 +1314,15 @@
         "teamrank": 14,
         "teamname": "Arminia Bielefeld",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
-        "played": 5,
+        "played": 6,
         "wins": 1,
         "draws": 1,
-        "lossess": 3,
+        "lossess": 4,
         "goalsfor": 4,
-        "goalsagainst": 8,
-        "goalsdiff": "-4",
+        "goalsagainst": 10,
+        "goalsdiff": "-6",
         "points": 4,
-        "form": "'LLLWD'"
+        "form": "'LLLLW'"
     },
     {
         "teamrank": 15,
@@ -1342,15 +1342,15 @@
         "teamrank": 16,
         "teamname": "Köln",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-        "played": 5,
+        "played": 6,
         "wins": 0,
         "draws": 2,
-        "lossess": 3,
-        "goalsfor": 5,
-        "goalsagainst": 9,
-        "goalsdiff": "-4",
+        "lossess": 4,
+        "goalsfor": 6,
+        "goalsagainst": 11,
+        "goalsdiff": "-5",
         "points": 2,
-        "form": "'DDLLL'"
+        "form": "'LDDLL'"
     },
     {
         "teamrank": 17,
@@ -1370,13 +1370,13 @@
         "teamrank": 18,
         "teamname": "Mainz 05",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-        "played": 5,
+        "played": 6,
         "wins": 0,
         "draws": 0,
-        "lossess": 5,
-        "goalsfor": 4,
-        "goalsagainst": 15,
-        "goalsdiff": "-11",
+        "lossess": 6,
+        "goalsfor": 5,
+        "goalsagainst": 18,
+        "goalsdiff": "-13",
         "points": 0,
         "form": "'LLLLL'"
     }
