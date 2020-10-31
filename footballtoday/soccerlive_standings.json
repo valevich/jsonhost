@@ -284,6 +284,20 @@
   "primera-division": [
     {
         "teamrank": 1,
+        "teamname": "Real Madrid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "played": 7,
+        "wins": 5,
+        "draws": 1,
+        "lossess": 1,
+        "goalsfor": 13,
+        "goalsagainst": 5,
+        "goalsdiff": "+8",
+        "points": 16,
+        "form": "'WWLWW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "played": 7,
@@ -297,7 +311,7 @@
         "form": "'WWWLW'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Cádiz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
         "played": 8,
@@ -309,20 +323,6 @@
         "goalsdiff": "+2",
         "points": 14,
         "form": "'WDWDW'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Real Madrid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "played": 6,
-        "wins": 4,
-        "draws": 1,
-        "lossess": 1,
-        "goalsfor": 9,
-        "goalsagainst": 4,
-        "goalsdiff": "+5",
-        "points": 13,
-        "form": "'WLWWW'"
     },
     {
         "teamrank": 4,
@@ -524,15 +524,15 @@
         "teamrank": 18,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-        "played": 7,
+        "played": 8,
         "wins": 0,
         "draws": 5,
-        "lossess": 2,
-        "goalsfor": 5,
-        "goalsagainst": 10,
-        "goalsdiff": "-5",
+        "lossess": 3,
+        "goalsfor": 6,
+        "goalsagainst": 14,
+        "goalsdiff": "-8",
         "points": 5,
-        "form": "'LDDDD'"
+        "form": "'LLDDD'"
     },
     {
         "teamrank": 19,
