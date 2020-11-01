@@ -100,6 +100,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Arsenal",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "played": 7,
+        "wins": 4,
+        "draws": 0,
+        "lossess": 3,
+        "goalsfor": 9,
+        "goalsagainst": 7,
+        "goalsdiff": "+2",
+        "points": 12,
+        "form": "'WLLWL'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 6,
@@ -113,7 +127,7 @@
         "form": "'WDWDW'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "played": 6,
@@ -127,7 +141,7 @@
         "form": "'WDWDL'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "played": 7,
@@ -141,7 +155,7 @@
         "form": "'WDLWD'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "played": 6,
@@ -155,7 +169,7 @@
         "form": "'WLDWW'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
         "played": 7,
@@ -167,20 +181,6 @@
         "goalsdiff": "-3",
         "points": 10,
         "form": "'LWDLL'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Arsenal",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "played": 6,
-        "wins": 3,
-        "draws": 0,
-        "lossess": 3,
-        "goalsfor": 8,
-        "goalsagainst": 7,
-        "goalsdiff": "+1",
-        "points": 9,
-        "form": "'LLWLW'"
     },
     {
         "teamrank": 14,
@@ -200,15 +200,15 @@
         "teamrank": 15,
         "teamname": "Manchester United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "played": 5,
+        "played": 6,
         "wins": 2,
         "draws": 1,
-        "lossess": 2,
+        "lossess": 3,
         "goalsfor": 9,
-        "goalsagainst": 12,
-        "goalsdiff": "-3",
+        "goalsagainst": 13,
+        "goalsdiff": "-4",
         "points": 7,
-        "form": "'DWLWL'"
+        "form": "'LDWLW'"
     },
     {
         "teamrank": 16,
