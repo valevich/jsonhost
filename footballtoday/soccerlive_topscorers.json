@@ -502,11 +502,29 @@
         "playerassists": 1
     },
     {
+        "playername": "N. Aguerd",
+        "playerlink": "https://www.livesoccertv.com/player/n-aguerd/297050/",
+        "playerteam": "Rennes",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/stade-rennes/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "J. Bamba",
         "playerlink": "https://www.livesoccertv.com/player/j-bamba/249220/",
         "playerteam": "Lille",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
+        "playername": "D. Da Silva",
+        "playerlink": "https://www.livesoccertv.com/player/d-da-silva/44832/",
+        "playerteam": "Rennes",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/stade-rennes/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
         "playergoals": 3,
         "playerassists": 0
     },
@@ -527,24 +545,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
         "playergoals": 3,
         "playerassists": 1
-    },
-    {
-        "playername": "R. Faivre",
-        "playerlink": "https://www.livesoccertv.com/player/r-faivre/297436/",
-        "playerteam": "Brest",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/brest/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "Z. Ferhat",
-        "playerlink": "https://www.livesoccertv.com/player/z-ferhat/179225/",
-        "playerteam": "Nîmes",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/nimes/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
-        "playergoals": 3,
-        "playerassists": 0
     }
   ],
   "bundesliga": [
