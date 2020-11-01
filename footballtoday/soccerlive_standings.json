@@ -30,6 +30,20 @@
     },
     {
         "teamrank": 3,
+        "teamname": "Southampton",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+        "played": 7,
+        "wins": 4,
+        "draws": 1,
+        "lossess": 2,
+        "goalsfor": 14,
+        "goalsagainst": 12,
+        "goalsdiff": "+2",
+        "points": 13,
+        "form": "'WWDWW'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
         "played": 7,
@@ -43,7 +57,7 @@
         "form": "'WDWWL'"
     },
     {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 7,
@@ -57,21 +71,21 @@
         "form": "'WDDWD'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 5,
+        "played": 6,
         "wins": 4,
         "draws": 0,
-        "lossess": 1,
-        "goalsfor": 12,
-        "goalsagainst": 5,
-        "goalsdiff": "+7",
+        "lossess": 2,
+        "goalsfor": 15,
+        "goalsagainst": 9,
+        "goalsdiff": "+6",
         "points": 12,
-        "form": "'LWWWW'"
+        "form": "'LLWWW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Leicester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
         "played": 6,
@@ -85,7 +99,7 @@
         "form": "'WLLWW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 6,
@@ -99,7 +113,7 @@
         "form": "'WDWDW'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "played": 6,
@@ -113,7 +127,7 @@
         "form": "'WDWDL'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "played": 6,
@@ -125,20 +139,6 @@
         "goalsdiff": "+3",
         "points": 10,
         "form": "'WLDWW'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Southampton",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "played": 6,
-        "wins": 3,
-        "draws": 1,
-        "lossess": 2,
-        "goalsfor": 10,
-        "goalsagainst": 9,
-        "goalsdiff": "+1",
-        "points": 10,
-        "form": "'WDWWL'"
     },
     {
         "teamrank": 11,
