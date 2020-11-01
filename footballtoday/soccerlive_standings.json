@@ -932,6 +932,20 @@
     },
     {
         "teamrank": 7,
+        "teamname": "Monaco",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "played": 9,
+        "wins": 4,
+        "draws": 2,
+        "lossess": 3,
+        "goalsfor": 15,
+        "goalsagainst": 13,
+        "goalsdiff": "+2",
+        "points": 14,
+        "form": "'WLDLW'"
+    },
+    {
+        "teamrank": 8,
         "teamname": "Montpellier",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "played": 9,
@@ -945,7 +959,7 @@
         "form": "'WLDLD'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Olympique Lyonnais",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "played": 8,
@@ -959,7 +973,7 @@
         "form": "'WWDDD'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Lens",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
         "played": 7,
@@ -973,7 +987,7 @@
         "form": "'LWDWW'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Angers SCO",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
         "played": 9,
@@ -987,32 +1001,18 @@
         "form": "'LWDLW'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Bordeaux",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
-        "played": 8,
+        "played": 9,
         "wins": 3,
         "draws": 3,
-        "lossess": 2,
-        "goalsfor": 9,
-        "goalsagainst": 5,
-        "goalsdiff": "+4",
-        "points": 12,
-        "form": "'WLWDL'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Monaco",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "played": 8,
-        "wins": 3,
-        "draws": 2,
         "lossess": 3,
-        "goalsfor": 11,
-        "goalsagainst": 13,
-        "goalsdiff": "-2",
-        "points": 11,
-        "form": "'LDLWL'"
+        "goalsfor": 9,
+        "goalsagainst": 9,
+        "goalsdiff": "0",
+        "points": 12,
+        "form": "'LWLWD'"
     },
     {
         "teamrank": 13,
