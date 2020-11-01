@@ -904,6 +904,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Montpellier",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "played": 9,
+        "wins": 4,
+        "draws": 2,
+        "lossess": 3,
+        "goalsfor": 14,
+        "goalsagainst": 13,
+        "goalsdiff": "+1",
+        "points": 14,
+        "form": "'WLDLD'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Nice",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
         "played": 8,
@@ -917,7 +931,7 @@
         "form": "'DWWDL'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Olympique Lyonnais",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "played": 8,
@@ -931,7 +945,7 @@
         "form": "'WWDDD'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Lens",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
         "played": 7,
@@ -945,7 +959,7 @@
         "form": "'LWDWW'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Angers SCO",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
         "played": 8,
@@ -959,7 +973,7 @@
         "form": "'WDLWL'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Bordeaux",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
         "played": 8,
@@ -973,7 +987,7 @@
         "form": "'WLWDL'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Metz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
         "played": 8,
@@ -985,20 +999,6 @@
         "goalsdiff": "+2",
         "points": 11,
         "form": "'WDWDW'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Montpellier",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "played": 8,
-        "wins": 3,
-        "draws": 2,
-        "lossess": 3,
-        "goalsfor": 13,
-        "goalsagainst": 13,
-        "goalsdiff": "0",
-        "points": 11,
-        "form": "'LDLDW'"
     },
     {
         "teamrank": 12,
@@ -1018,15 +1018,15 @@
         "teamrank": 13,
         "teamname": "Saint-Étienne",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-        "played": 8,
+        "played": 9,
         "wins": 3,
         "draws": 1,
-        "lossess": 4,
+        "lossess": 5,
         "goalsfor": 9,
-        "goalsagainst": 12,
-        "goalsdiff": "-3",
+        "goalsagainst": 13,
+        "goalsdiff": "-4",
         "points": 10,
-        "form": "'LLLLD'"
+        "form": "'LLLLL'"
     },
     {
         "teamrank": 14,
