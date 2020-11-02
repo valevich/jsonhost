@@ -621,6 +621,15 @@
         "playerassists": 2
     },
     {
+        "playername": "Matheus Cunha",
+        "playerlink": "https://www.livesoccertv.com/player/matheus-cunha/359098/",
+        "playerteam": "Hertha BSC",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "J. Córdoba",
         "playerlink": "https://www.livesoccertv.com/player/j-cordoba/134471/",
         "playerteam": "Hertha BSC",
@@ -673,15 +682,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
         "playergoals": 3,
         "playerassists": 0
-    },
-    {
-        "playername": "S. Andersson",
-        "playerlink": "https://www.livesoccertv.com/player/s-andersson/112038/",
-        "playerteam": "Köln",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/1-fc-koln/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-        "playergoals": 2,
-        "playerassists": 1
     }
   ]
 }
