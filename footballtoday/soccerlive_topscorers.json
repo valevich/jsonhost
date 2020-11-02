@@ -246,6 +246,15 @@
         "playerassists": 2
     },
     {
+        "playername": "Ángel",
+        "playerlink": "https://www.livesoccertv.com/player/angel/58720/",
+        "playerteam": "Getafe",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/getafe/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "João Félix",
         "playerlink": "https://www.livesoccertv.com/player/joao-felix/338331/",
         "playerteam": "Atletico Madrid",
@@ -261,15 +270,6 @@
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-madrid/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
         "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "Willian José",
-        "playerlink": "https://www.livesoccertv.com/player/willian-jose/85665/",
-        "playerteam": "Real Sociedad",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "playergoals": 2,
         "playerassists": 0
     }
   ],
