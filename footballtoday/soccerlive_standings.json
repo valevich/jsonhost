@@ -1214,6 +1214,20 @@
     },
     {
         "teamrank": 7,
+        "teamname": "Union Berlin",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+        "played": 6,
+        "wins": 2,
+        "draws": 3,
+        "lossess": 1,
+        "goalsfor": 11,
+        "goalsagainst": 7,
+        "goalsdiff": "+4",
+        "points": 9,
+        "form": "'WDDWD'"
+    },
+    {
+        "teamrank": 8,
         "teamname": "Stuttgart",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
         "played": 6,
@@ -1227,7 +1241,7 @@
         "form": "'DDWDW'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Werder Bremen",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
         "played": 6,
@@ -1241,7 +1255,7 @@
         "form": "'DDDWW'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Eintracht Frankfurt",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
         "played": 6,
@@ -1255,7 +1269,7 @@
         "form": "'DLDWW'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Wolfsburg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
         "played": 6,
@@ -1269,32 +1283,18 @@
         "form": "'DWDDD'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Hoffenheim",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "played": 5,
+        "played": 6,
         "wins": 2,
         "draws": 1,
-        "lossess": 2,
-        "goalsfor": 9,
-        "goalsagainst": 7,
-        "goalsdiff": "+2",
+        "lossess": 3,
+        "goalsfor": 10,
+        "goalsagainst": 10,
+        "goalsdiff": "0",
         "points": 7,
-        "form": "'DLLWW'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Union Berlin",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-        "played": 5,
-        "wins": 1,
-        "draws": 3,
-        "lossess": 1,
-        "goalsfor": 8,
-        "goalsagainst": 6,
-        "goalsdiff": "+2",
-        "points": 6,
-        "form": "'DDWDL'"
+        "form": "'LDLLW'"
     },
     {
         "teamrank": 13,
