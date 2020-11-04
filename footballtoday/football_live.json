@@ -43,7 +43,7 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "44 ",
+      "GameState": "51 ",
       "HomeTeam": "Sevilla FC",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
@@ -56,9 +56,9 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "43 ",
+      "GameState": "52 ",
       "HomeTeam": "Chelsea",
-      "HomeGoals": "2",
+      "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
       "AwayTeam": "Stade Rennes",
       "AwayGoals": "0",
@@ -69,7 +69,7 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "43 ",
+      "GameState": "53 ",
       "HomeTeam": "Club Brugge",
       "HomeGoals": "0",
       "HomeLogo": "",
@@ -82,7 +82,7 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "44 ",
+      "GameState": "57 ",
       "HomeTeam": "Barcelona",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
@@ -95,7 +95,7 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "44 ",
+      "GameState": "53 ",
       "HomeTeam": "Ferencváros",
       "HomeGoals": "0",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/hungary/logos/ferencvaros.png",
@@ -108,7 +108,7 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
-      "GameState": "44 ",
+      "GameState": "54 ",
       "HomeTeam": "RB Leipzig",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
@@ -574,7 +574,7 @@
       "AwayTeam": "Burnley",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-      "TVChannels": "Peacock ,  DAZN ,  Blue To Go Video Ever…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Blue To…"
     },
     {
       "LeagueName": "English Premier League",
@@ -587,7 +587,7 @@
       "AwayTeam": "Newcastle Utd",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-      "TVChannels": "Peacock ,  DAZN ,  Blue To Go Video Ever…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Blue To…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -784,7 +784,7 @@
       "AwayTeam": "Fulham",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-      "TVChannels": "Peacock ,  DAZN ,  Blue To Go Video Ever…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Blue To…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -1514,7 +1514,7 @@
       "AwayTeam": "Liverpool",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "TVChannels": "Peacock ,  DAZN ,  Blue To Go Video Ever…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Blue To…"
     },
     {
       "LeagueName": "English Premier League",
@@ -1527,7 +1527,7 @@
       "AwayTeam": "Aston Villa",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-      "TVChannels": "Peacock ,  Arsenal Player ,  DAZN ,  Blue T…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  Arsenal Player ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
