@@ -241,32 +241,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
       "GameState": "",
-      "HomeTeam": "Benfica",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
-      "AwayTeam": "Angers",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-      "TVChannels": "5pm   Benfica vs Rangers fuboTV ,  TUDN.com ,  TUDNxtr…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "12:55pm",
-      "GameState": "",
-      "HomeTeam": "PAOK",
-      "HomeGoals": "",
-      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/greece/logos/paok-saloniki.png",
-      "AwayTeam": "PSV",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
-      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "12:55pm",
-      "GameState": "",
       "HomeTeam": "Roma",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
@@ -274,45 +248,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "vs CFR Cluj fuboTV ,  Galavision ,  TUDN.com ,  …"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "12:55pm",
-      "GameState": "",
-      "HomeTeam": "Sivasspor",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Qarabağ",
-      "AwayGoals": "",
-      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/azerbaijan/logos/qaraba.png",
-      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "12:55pm",
-      "GameState": "",
-      "HomeTeam": "Lech Poznań",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Standard Liège fuboTV ,  TUDN.com ,  TUDNxtr…",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "12:55pm   Lech Poznań vs Standard Liège fuboTV ,  TUDN.com ,  TUDNxtr…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "12:55pm",
-      "GameState": "",
-      "HomeTeam": "Slavia Praha",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Nice",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -332,12 +267,12 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
       "GameState": "",
-      "HomeTeam": "Omonia Nicosia",
+      "HomeTeam": "Slavia Praha",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Granada",
+      "AwayTeam": "Nice",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
       "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
     },
     {
@@ -345,13 +280,65 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
       "GameState": "",
-      "HomeTeam": "Real Sociedad",
+      "HomeTeam": "Hapoel Be'er Sheva",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-      "AwayTeam": "AZ fuboTV ,  TUDN.com ,  TUDNxtr…",
+      "HomeLogo": "",
+      "AwayTeam": "Bayer Leverkusen",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:55pm",
+      "GameState": "",
+      "HomeTeam": "Benfica",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
+      "AwayTeam": "Angers",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
+      "TVChannels": "5pm   Benfica vs Rangers fuboTV ,  TUDN.com ,  TUDNxtr…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:55pm",
+      "GameState": "",
+      "HomeTeam": "Lech Poznań",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Standard Liège fuboTV ,  TUDN.com ,  TUDNxtr…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs AZ fuboTV ,  TUDN.com ,  TUDNxtr…"
+      "TVChannels": "12:55pm   Lech Poznań vs Standard Liège fuboTV ,  TUDN.com ,  TUDNxtr…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:55pm",
+      "GameState": "",
+      "HomeTeam": "PAOK",
+      "HomeGoals": "",
+      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/greece/logos/paok-saloniki.png",
+      "AwayTeam": "PSV",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
+      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:55pm",
+      "GameState": "",
+      "HomeTeam": "Omonia Nicosia",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Granada",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
+      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -371,12 +358,25 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
       "GameState": "",
-      "HomeTeam": "Hapoel Be'er Sheva",
+      "HomeTeam": "Real Sociedad",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+      "AwayTeam": "AZ fuboTV ,  TUDN.com ,  TUDNxtr…",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs AZ fuboTV ,  TUDN.com ,  TUDNxtr…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "12:55pm",
+      "GameState": "",
+      "HomeTeam": "Sivasspor",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Bayer Leverkusen",
+      "AwayTeam": "Qarabağ",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/azerbaijan/logos/qaraba.png",
       "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
     },
     {
@@ -397,6 +397,19 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "3:00pm",
       "GameState": "",
+      "HomeTeam": "Young Boys",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2722.png.png",
+      "AwayTeam": "CSKA Sofia fuboTV ,  TUDN.com ,  TUDNxtr…",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs CSKA Sofia fuboTV ,  TUDN.com ,  TUDNxtr…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
       "HomeTeam": "Arsenal",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
@@ -404,58 +417,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "vs Molde fuboTV ,  UniMás ,  TUDN.com ,  …"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Hoffenheim",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-      "AwayTeam": "Slovan Liberec fuboTV ,  TUDN.com ,  TUDNxtr…",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Slovan Liberec fuboTV ,  TUDN.com ,  TUDNxtr…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Villarreal",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-      "AwayTeam": "Maccabi Tel Aviv",
-      "AwayGoals": "",
-      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/israel/logos/maccabi-tel-aviv.png",
-      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Celtic",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png",
-      "AwayTeam": "Sparta Praha",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png",
-      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Feyenoord",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
-      "AwayTeam": "CSKA Moskva",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1963.png",
-      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -475,6 +436,32 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "3:00pm",
       "GameState": "",
+      "HomeTeam": "Zorya",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "AEK Athens fuboTV ,  TUDN.com ,  TUDNxtr…",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "3:00pm   Zorya vs AEK Athens fuboTV ,  TUDN.com ,  TUDNxtr…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Celtic",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png",
+      "AwayTeam": "Sparta Praha",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png",
+      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
       "HomeTeam": "Milan",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
@@ -488,13 +475,26 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Zorya",
+      "HomeTeam": "Villarreal",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+      "AwayTeam": "Maccabi Tel Aviv",
+      "AwayGoals": "",
+      "AwayLogo": "https://cdn.livesoccertv.com/images/teams/israel/logos/maccabi-tel-aviv.png",
+      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Antwerp",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "AEK Athens fuboTV ,  TUDN.com ,  TUDNxtr…",
+      "AwayTeam": "LASK Linz fuboTV ,  TUDN.com ,  TUDNxtr…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "3:00pm   Zorya vs AEK Athens fuboTV ,  TUDN.com ,  TUDNxtr…"
+      "TVChannels": "3:00pm   Antwerp vs LASK Linz fuboTV ,  TUDN.com ,  TUDNxtr…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -514,13 +514,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Young Boys",
+      "HomeTeam": "Feyenoord",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2722.png.png",
-      "AwayTeam": "CSKA Sofia fuboTV ,  TUDN.com ,  TUDNxtr…",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
+      "AwayTeam": "CSKA Moskva",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs CSKA Sofia fuboTV ,  TUDN.com ,  TUDNxtr…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1963.png",
+      "TVChannels": "fuboTV ,  TUDN.com ,  TUDNxtr…"
     },
     {
       "LeagueName": "UEFA Europa League",
@@ -540,13 +540,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Antwerp",
+      "HomeTeam": "Hoffenheim",
       "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "LASK Linz fuboTV ,  TUDN.com ,  TUDNxtr…",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+      "AwayTeam": "Slovan Liberec fuboTV ,  TUDN.com ,  TUDNxtr…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "3:00pm   Antwerp vs LASK Linz fuboTV ,  TUDN.com ,  TUDNxtr…"
+      "TVChannels": "vs Slovan Liberec fuboTV ,  TUDN.com ,  TUDNxtr…"
     }
   ],
   "day3": [
@@ -639,7 +639,7 @@
       "AwayTeam": "Udinese",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  ESPN2 Caribbean ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN2 Cari…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -875,7 +875,7 @@
       "AwayTeam": "Sampdoria",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  TLN ,  DAZN ,  Sport T…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  DAZN"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -888,7 +888,7 @@
       "AwayTeam": "Spezia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  TLN ,  DAZN ,  Arena S…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  DAZN"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -901,7 +901,7 @@
       "AwayTeam": "Fiorentina",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  TLN ,  ESPN Norte ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN No…"
     },
     {
       "LeagueName": "German Bundesliga",
