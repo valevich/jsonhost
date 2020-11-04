@@ -17,9 +17,9 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "12:55pm",
-      "GameState": "19 ",
+      "GameState": "34 ",
       "HomeTeam": "Zenit",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "",
       "AwayTeam": "Lazio",
       "AwayGoals": "0",
@@ -30,7 +30,7 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "12:55pm",
-      "GameState": "18 ",
+      "GameState": "33 ",
       "HomeTeam": "İstanbul Başakşehir",
       "HomeGoals": "1",
       "HomeLogo": "",
@@ -784,7 +784,7 @@
       "AwayTeam": "Fulham",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-      "TVChannels": "DAZN ,  Blue To Go Video Everywhere ,  RUSH ,  …"
+      "TVChannels": "Peacock ,  DAZN ,  Blue To Go Video Ever…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -1514,7 +1514,7 @@
       "AwayTeam": "Liverpool",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "TVChannels": "DAZN ,  Blue To Go Video Everywhere ,  RUSH ,  …"
+      "TVChannels": "Peacock ,  DAZN ,  Blue To Go Video Ever…"
     },
     {
       "LeagueName": "English Premier League",
@@ -1524,10 +1524,10 @@
       "HomeTeam": "Arsenal",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "AwayTeam": "Arsenal",
+      "AwayTeam": "Aston Villa",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "TVChannels": "vs Aston Villa Arsenal Player ,  DAZN ,  Blue To Go Video E…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+      "TVChannels": "Peacock ,  Arsenal Player ,  DAZN ,  Blue T…"
     },
     {
       "LeagueName": "Spanish La Liga",
