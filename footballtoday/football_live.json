@@ -186,20 +186,20 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "8:30pm",
-      "GameState": "84 ",
+      "GameState": "FT ",
       "HomeTeam": "Nashville SC",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
       "AwayTeam": "FC Dallas",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  FOX Sports…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  FOX Sports GO ,  MLSsocc…"
     },
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "10:00pm",
-      "GameState": "14 ",
+      "GameState": "34 ",
       "HomeTeam": "Portland Timbers",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
@@ -207,6 +207,19 @@
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "11:00pm",
+      "GameState": "",
+      "HomeTeam": "SJ Earthquakes",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
+      "AwayTeam": "Los Angeles FC",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  M…"
     },
     {
       "LeagueName": "Major League Soccer",
