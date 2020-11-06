@@ -800,19 +800,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
       "GameTime": "10:00am",
       "GameState": "",
-      "HomeTeam": "Rochdale",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/303.png",
-      "AwayTeam": "Chesterfield",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Chesterfield"
-    },
-    {
-      "LeagueName": "English FA Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
-      "GameTime": "10:00am",
-      "GameState": "",
       "HomeTeam": "Swindon Town",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/341.png",
@@ -1054,6 +1041,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "10:00am   Brackley Town vs Bishop's Stortford"
+    },
+    {
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "10:00am",
+      "GameState": "",
+      "HomeTeam": "Rochdale",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/303.png",
+      "AwayTeam": "Stockport County",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Stockport County"
     },
     {
       "LeagueName": "English FA Cup",
