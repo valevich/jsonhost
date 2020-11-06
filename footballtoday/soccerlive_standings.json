@@ -214,15 +214,15 @@
         "teamrank": 16,
         "teamname": "Brighton & Hove Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-        "played": 7,
+        "played": 8,
         "wins": 1,
-        "draws": 2,
+        "draws": 3,
         "lossess": 4,
         "goalsfor": 11,
         "goalsagainst": 14,
         "goalsdiff": "-3",
-        "points": 5,
-        "form": "'LDDLL'"
+        "points": 6,
+        "form": "'DLDDL'"
     },
     {
         "teamrank": 17,
@@ -254,6 +254,20 @@
     },
     {
         "teamrank": 19,
+        "teamname": "Burnley",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+        "played": 7,
+        "wins": 0,
+        "draws": 2,
+        "lossess": 5,
+        "goalsfor": 3,
+        "goalsagainst": 12,
+        "goalsdiff": "-9",
+        "points": 2,
+        "form": "'DLLDL'"
+    },
+    {
+        "teamrank": 20,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
         "played": 7,
@@ -263,20 +277,6 @@
         "goalsfor": 3,
         "goalsagainst": 10,
         "goalsdiff": "-7",
-        "points": 1,
-        "form": "'LLDLL'"
-    },
-    {
-        "teamrank": 20,
-        "teamname": "Burnley",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-        "played": 6,
-        "wins": 0,
-        "draws": 1,
-        "lossess": 5,
-        "goalsfor": 3,
-        "goalsagainst": 12,
-        "goalsdiff": "-9",
         "points": 1,
         "form": "'LLDLL'"
     }
