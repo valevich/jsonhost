@@ -60,15 +60,15 @@
         "teamrank": 5,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-        "played": 7,
+        "played": 8,
         "wins": 4,
         "draws": 1,
-        "lossess": 2,
-        "goalsfor": 15,
-        "goalsagainst": 11,
-        "goalsdiff": "+4",
+        "lossess": 3,
+        "goalsfor": 16,
+        "goalsagainst": 14,
+        "goalsdiff": "+2",
         "points": 13,
-        "form": "'LLDWW'"
+        "form": "'LLLDW'"
     },
     {
         "teamrank": 6,
@@ -170,6 +170,20 @@
     },
     {
         "teamrank": 13,
+        "teamname": "Manchester United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "played": 7,
+        "wins": 3,
+        "draws": 1,
+        "lossess": 3,
+        "goalsfor": 12,
+        "goalsagainst": 14,
+        "goalsdiff": "-2",
+        "points": 10,
+        "form": "'WLDWL'"
+    },
+    {
+        "teamrank": 14,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
         "played": 7,
@@ -183,7 +197,7 @@
         "form": "'LWDLL'"
     },
     {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "played": 7,
@@ -195,20 +209,6 @@
         "goalsdiff": "+3",
         "points": 8,
         "form": "'LDDWW'"
-    },
-    {
-        "teamrank": 15,
-        "teamname": "Manchester United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "played": 6,
-        "wins": 2,
-        "draws": 1,
-        "lossess": 3,
-        "goalsfor": 9,
-        "goalsagainst": 13,
-        "goalsdiff": "-4",
-        "points": 7,
-        "form": "'LDWLW'"
     },
     {
         "teamrank": 16,
@@ -438,6 +438,20 @@
     },
     {
         "teamrank": 12,
+        "teamname": "Eibar",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
+        "played": 9,
+        "wins": 2,
+        "draws": 3,
+        "lossess": 4,
+        "goalsfor": 6,
+        "goalsagainst": 9,
+        "goalsdiff": "-3",
+        "points": 9,
+        "form": "'DLWDW'"
+    },
+    {
+        "teamrank": 13,
         "teamname": "Barcelona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
         "played": 6,
@@ -451,7 +465,7 @@
         "form": "'DLLDW'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "played": 8,
@@ -465,7 +479,7 @@
         "form": "'DLLLW'"
     },
     {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 8,
@@ -477,20 +491,6 @@
         "goalsdiff": "-3",
         "points": 8,
         "form": "'DWLWL'"
-    },
-    {
-        "teamrank": 15,
-        "teamname": "Eibar",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 8,
-        "wins": 2,
-        "draws": 2,
-        "lossess": 4,
-        "goalsfor": 5,
-        "goalsagainst": 8,
-        "goalsdiff": "-3",
-        "points": 8,
-        "form": "'LWDWL'"
     },
     {
         "teamrank": 16,
@@ -522,6 +522,20 @@
     },
     {
         "teamrank": 18,
+        "teamname": "Huesca",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
+        "played": 9,
+        "wins": 0,
+        "draws": 6,
+        "lossess": 3,
+        "goalsfor": 7,
+        "goalsagainst": 15,
+        "goalsdiff": "-8",
+        "points": 6,
+        "form": "'DLLDD'"
+    },
+    {
+        "teamrank": 19,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 7,
@@ -533,20 +547,6 @@
         "goalsdiff": "-5",
         "points": 5,
         "form": "'DDLLL'"
-    },
-    {
-        "teamrank": 19,
-        "teamname": "Huesca",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-        "played": 8,
-        "wins": 0,
-        "draws": 5,
-        "lossess": 3,
-        "goalsfor": 6,
-        "goalsagainst": 14,
-        "goalsdiff": "-8",
-        "points": 5,
-        "form": "'LLDDD'"
     },
     {
         "teamrank": 20,
