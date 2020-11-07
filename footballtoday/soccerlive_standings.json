@@ -720,6 +720,20 @@
     },
     {
         "teamrank": 12,
+        "teamname": "Spezia",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
+        "played": 7,
+        "wins": 2,
+        "draws": 2,
+        "lossess": 3,
+        "goalsfor": 11,
+        "goalsagainst": 15,
+        "goalsdiff": "-4",
+        "points": 8,
+        "form": "'WLDDL'"
+    },
+    {
+        "teamrank": 13,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
         "played": 6,
@@ -733,7 +747,7 @@
         "form": "'LWDLL'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Bologna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
         "played": 6,
@@ -747,21 +761,21 @@
         "form": "'WLLLW'"
     },
     {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "Benevento",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
-        "played": 6,
+        "played": 7,
         "wins": 2,
         "draws": 0,
-        "lossess": 4,
+        "lossess": 5,
         "goalsfor": 10,
-        "goalsagainst": 17,
-        "goalsdiff": "-7",
+        "goalsagainst": 20,
+        "goalsdiff": "-10",
         "points": 6,
-        "form": "'LLLWL'"
+        "form": "'LLLLW'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Parma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
         "played": 6,
@@ -775,7 +789,7 @@
         "form": "'DDLWL'"
     },
     {
-        "teamrank": 16,
+        "teamrank": 17,
         "teamname": "Genoa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
         "played": 6,
@@ -787,20 +801,6 @@
         "goalsdiff": "-6",
         "points": 5,
         "form": "'LDLDL'"
-    },
-    {
-        "teamrank": 17,
-        "teamname": "Spezia",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
-        "played": 6,
-        "wins": 1,
-        "draws": 2,
-        "lossess": 3,
-        "goalsfor": 8,
-        "goalsagainst": 15,
-        "goalsdiff": "-7",
-        "points": 5,
-        "form": "'LDDLW'"
     },
     {
         "teamrank": 18,
