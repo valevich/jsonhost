@@ -918,6 +918,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Montpellier",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "played": 10,
+        "wins": 5,
+        "draws": 2,
+        "lossess": 3,
+        "goalsfor": 16,
+        "goalsagainst": 13,
+        "goalsdiff": "+3",
+        "points": 17,
+        "form": "'WWLDL'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Olympique Lyonnais",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "played": 9,
@@ -931,7 +945,7 @@
         "form": "'DWWDD'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Metz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
         "played": 9,
@@ -945,7 +959,7 @@
         "form": "'WWDWD'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Monaco",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
         "played": 9,
@@ -957,20 +971,6 @@
         "goalsdiff": "+2",
         "points": 14,
         "form": "'WLDLW'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Montpellier",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "played": 9,
-        "wins": 4,
-        "draws": 2,
-        "lossess": 3,
-        "goalsfor": 14,
-        "goalsagainst": 13,
-        "goalsdiff": "+1",
-        "points": 14,
-        "form": "'WLDLD'"
     },
     {
         "teamrank": 10,
@@ -1004,15 +1004,15 @@
         "teamrank": 12,
         "teamname": "Bordeaux",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
-        "played": 9,
+        "played": 10,
         "wins": 3,
         "draws": 3,
-        "lossess": 3,
+        "lossess": 4,
         "goalsfor": 9,
-        "goalsagainst": 9,
-        "goalsdiff": "0",
+        "goalsagainst": 11,
+        "goalsdiff": "-2",
         "points": 12,
-        "form": "'LWLWD'"
+        "form": "'LLWLW'"
     },
     {
         "teamrank": 13,
