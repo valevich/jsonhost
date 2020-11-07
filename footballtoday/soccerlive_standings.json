@@ -720,6 +720,20 @@
     },
     {
         "teamrank": 12,
+        "teamname": "Fiorentina",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+        "played": 7,
+        "wins": 2,
+        "draws": 2,
+        "lossess": 3,
+        "goalsfor": 10,
+        "goalsagainst": 12,
+        "goalsdiff": "-2",
+        "points": 8,
+        "form": "'DLWDL'"
+    },
+    {
+        "teamrank": 13,
         "teamname": "Spezia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
         "played": 7,
@@ -731,20 +745,6 @@
         "goalsdiff": "-4",
         "points": 8,
         "form": "'WLDDL'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Fiorentina",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "played": 6,
-        "wins": 2,
-        "draws": 1,
-        "lossess": 3,
-        "goalsfor": 10,
-        "goalsagainst": 12,
-        "goalsdiff": "-2",
-        "points": 7,
-        "form": "'LWDLL'"
     },
     {
         "teamrank": 14,
@@ -762,6 +762,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Parma",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+        "played": 7,
+        "wins": 1,
+        "draws": 3,
+        "lossess": 3,
+        "goalsfor": 8,
+        "goalsagainst": 13,
+        "goalsdiff": "-5",
+        "points": 6,
+        "form": "'DDDLW'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Benevento",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
         "played": 7,
@@ -773,20 +787,6 @@
         "goalsdiff": "-10",
         "points": 6,
         "form": "'LLLLW'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Parma",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-        "played": 6,
-        "wins": 1,
-        "draws": 2,
-        "lossess": 3,
-        "goalsfor": 8,
-        "goalsagainst": 13,
-        "goalsdiff": "-5",
-        "points": 5,
-        "form": "'DDLWL'"
     },
     {
         "teamrank": 17,
