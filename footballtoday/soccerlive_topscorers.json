@@ -228,6 +228,24 @@
         "playerassists": 0
     },
     {
+        "playername": "L. Messi",
+        "playerlink": "https://www.livesoccertv.com/player/l-messi/252/",
+        "playerteam": "Barcelona",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "playergoals": 3,
+        "playerassists": 2
+    },
+    {
+        "playername": "Rafa Mir",
+        "playerlink": "https://www.livesoccertv.com/player/rafa-mir/291790/",
+        "playerteam": "Huesca",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/sd-huesca/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "Morales",
         "playerlink": "https://www.livesoccertv.com/player/jose-luis-morales/211121/",
         "playerteam": "Levante",
@@ -251,24 +269,6 @@
         "playerteam": "Getafe",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/getafe/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "João Félix",
-        "playerlink": "https://www.livesoccertv.com/player/joao-felix/338331/",
-        "playerteam": "Atletico Madrid",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "playergoals": 3,
-        "playerassists": 1
-    },
-    {
-        "playername": "F. Valverde",
-        "playerlink": "https://www.livesoccertv.com/player/f-valverde/291309/",
-        "playerteam": "Real Madrid",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-madrid/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
         "playergoals": 3,
         "playerassists": 0
     }
@@ -466,6 +466,15 @@
         "playerassists": 0
     },
     {
+        "playername": "A. Delort",
+        "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
+        "playerteam": "Montpellier",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playergoals": 4,
+        "playerassists": 0
+    },
+    {
         "playername": "G. Kakuta",
         "playerlink": "https://www.livesoccertv.com/player/g-kakuta/92854/",
         "playerteam": "Lens",
@@ -536,15 +545,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
         "playergoals": 3,
         "playerassists": 0
-    },
-    {
-        "playername": "A. Delort",
-        "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
-        "playerteam": "Montpellier",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "playergoals": 3,
-        "playerassists": 0
     }
   ],
   "bundesliga": [
@@ -585,6 +585,24 @@
         "playerassists": 1
     },
     {
+        "playername": "André Miguel Valente Silva",
+        "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
+        "playerteam": "Eintracht Frankfurt",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "playergoals": 5,
+        "playerassists": 2
+    },
+    {
+        "playername": "Matheus Santos Carneiro da Cunha",
+        "playerlink": "https://www.livesoccertv.com/player/matheus-cunha/359098/",
+        "playerteam": "Hertha BSC",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
+        "playergoals": 4,
+        "playerassists": 1
+    },
+    {
         "playername": "N. Füllkrug",
         "playerlink": "https://www.livesoccertv.com/player/n-fullkrug/140296/",
         "playerteam": "Werder Bremen",
@@ -603,6 +621,15 @@
         "playerassists": 0
     },
     {
+        "playername": "J. Mateta",
+        "playerlink": "https://www.livesoccertv.com/player/j-mateta/289035/",
+        "playerteam": "Mainz 05",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/1-fsv-mainz-05/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+        "playergoals": 4,
+        "playerassists": 1
+    },
+    {
         "playername": "T. Müller",
         "playerlink": "https://www.livesoccertv.com/player/t-muller/38348/",
         "playerteam": "Bayern Munich",
@@ -612,17 +639,8 @@
         "playerassists": 1
     },
     {
-        "playername": "André Miguel Valente Silva",
-        "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
-        "playerteam": "Eintracht Frankfurt",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-        "playergoals": 4,
-        "playerassists": 2
-    },
-    {
-        "playername": "Matheus Santos Carneiro da Cunha",
-        "playerlink": "https://www.livesoccertv.com/player/matheus-cunha/359098/",
+        "playername": "J. Córdoba",
+        "playerlink": "https://www.livesoccertv.com/player/j-cordoba/134471/",
         "playerteam": "Hertha BSC",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
@@ -630,11 +648,11 @@
         "playerassists": 0
     },
     {
-        "playername": "J. Córdoba",
-        "playerlink": "https://www.livesoccertv.com/player/j-cordoba/134471/",
-        "playerteam": "Hertha BSC",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
+        "playername": "Angeliño",
+        "playerlink": "https://www.livesoccertv.com/player/angelino/250368/",
+        "playerteam": "RB Leipzig",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/rb-leipzig/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
         "playergoals": 3,
         "playerassists": 0
     },
@@ -662,24 +680,6 @@
         "playerteam": "Stuttgart",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "J. Mateta",
-        "playerlink": "https://www.livesoccertv.com/player/j-mateta/289035/",
-        "playerteam": "Mainz 05",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/1-fsv-mainz-05/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "N. Petersen",
-        "playerlink": "https://www.livesoccertv.com/player/n-petersen/16443/",
-        "playerteam": "Freiburg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/sc-freiburg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
         "playergoals": 3,
         "playerassists": 0
     }

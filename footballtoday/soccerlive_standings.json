@@ -1130,6 +1130,20 @@
   "bundesliga": [
     {
         "teamrank": 1,
+        "teamname": "Bayern München",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "played": 7,
+        "wins": 6,
+        "draws": 0,
+        "lossess": 1,
+        "goalsfor": 27,
+        "goalsagainst": 11,
+        "goalsdiff": "+16",
+        "points": 18,
+        "form": "'WWWWW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "RB Leipzig",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
         "played": 7,
@@ -1143,32 +1157,18 @@
         "form": "'WLWWW'"
     },
     {
-        "teamrank": 2,
-        "teamname": "Bayern München",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "played": 6,
-        "wins": 5,
-        "draws": 0,
-        "lossess": 1,
-        "goalsfor": 24,
-        "goalsagainst": 9,
-        "goalsdiff": "+15",
-        "points": 15,
-        "form": "'WWWWL'"
-    },
-    {
         "teamrank": 3,
         "teamname": "Borussia Dortmund",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-        "played": 6,
+        "played": 7,
         "wins": 5,
         "draws": 0,
-        "lossess": 1,
-        "goalsfor": 13,
-        "goalsagainst": 2,
-        "goalsdiff": "+11",
+        "lossess": 2,
+        "goalsfor": 15,
+        "goalsagainst": 5,
+        "goalsdiff": "+10",
         "points": 15,
-        "form": "'WWWWL'"
+        "form": "'LWWWW'"
     },
     {
         "teamrank": 4,
