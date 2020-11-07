@@ -43,14 +43,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "12:30pm",
-      "GameState": "84 ",
+      "GameState": "FT ",
       "HomeTeam": "Chelsea",
       "HomeGoals": "4",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
       "AwayTeam": "Sheffield Utd",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-      "TVChannels": "NBC ,  fuboTV ,  NBCSports.com ,  …"
+      "TVChannels": "NBC ,  fuboTV ,  NBCSports.com ,  NBC Sports Ap…"
     },
     {
       "LeagueName": "English Premier League",
@@ -108,14 +108,14 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "12:30pm",
-      "GameState": "86 ",
+      "GameState": "FT ",
       "HomeTeam": "Sevilla FC",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
       "AwayTeam": "Osasuna",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
+      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz USA ,  be…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -264,14 +264,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "12:30pm",
-      "GameState": "82 ",
+      "GameState": "90 ",
       "HomeTeam": "Borussia Dortmund",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
       "AwayTeam": "Bayern Munich",
       "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-      "TVChannels": "'   Borussia Dortmund  1 - 3  Bayern München ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+      "TVChannels": "'   Borussia Dortmund  2 - 3  Bayern München ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -297,7 +297,7 @@
       "AwayTeam": "Montpellier",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-      "TVChannels": "ESPN2 Norte ,  ESPN Play Norte ,  ESPNPl…"
+      "TVChannels": "beIN SPORTS XTRA ,  ESPN2 Norte ,  ES…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -732,14 +732,14 @@
       "LeagueName": "English FA Cup",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
       "GameTime": "12:30pm",
-      "GameState": "82 ",
+      "GameState": "FT ",
       "HomeTeam": "United of Manchester",
       "HomeGoals": "1",
       "HomeLogo": "",
       "AwayTeam": "Doncaster Rovers",
       "AwayGoals": "5",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/279.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet One ,  Spor…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet One ,  Sportsnet…"
     }
   ],
   "day2": [
