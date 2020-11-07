@@ -678,20 +678,6 @@
     },
     {
         "teamrank": 9,
-        "teamname": "Sampdoria",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-        "played": 6,
-        "wins": 3,
-        "draws": 1,
-        "lossess": 2,
-        "goalsfor": 11,
-        "goalsagainst": 9,
-        "goalsdiff": "+2",
-        "points": 10,
-        "form": "'DWWWL'"
-    },
-    {
-        "teamrank": 10,
         "teamname": "Lazio",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
         "played": 6,
@@ -705,7 +691,35 @@
         "form": "'WWLDL'"
     },
     {
+        "teamrank": 10,
+        "teamname": "Sampdoria",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
+        "played": 7,
+        "wins": 3,
+        "draws": 1,
+        "lossess": 3,
+        "goalsfor": 11,
+        "goalsagainst": 11,
+        "goalsdiff": "0",
+        "points": 10,
+        "form": "'LDWWW'"
+    },
+    {
         "teamrank": 11,
+        "teamname": "Cagliari",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+        "played": 7,
+        "wins": 3,
+        "draws": 1,
+        "lossess": 3,
+        "goalsfor": 14,
+        "goalsagainst": 15,
+        "goalsdiff": "-1",
+        "points": 10,
+        "form": "'WLWWL'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
         "played": 6,
@@ -717,20 +731,6 @@
         "goalsdiff": "-2",
         "points": 7,
         "form": "'LWDLL'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Cagliari",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-        "played": 6,
-        "wins": 2,
-        "draws": 1,
-        "lossess": 3,
-        "goalsfor": 12,
-        "goalsagainst": 15,
-        "goalsdiff": "-3",
-        "points": 7,
-        "form": "'LWWLL'"
     },
     {
         "teamrank": 13,
