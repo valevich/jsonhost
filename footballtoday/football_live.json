@@ -43,9 +43,9 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "11:30am",
-      "GameState": "28 ",
+      "GameState": "43 ",
       "HomeTeam": "Manchester City",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
       "AwayTeam": "Liverpool",
       "AwayGoals": "1",
@@ -95,14 +95,14 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "10:15am",
-      "GameState": "87 ",
+      "GameState": "FT ",
       "HomeTeam": "Real Sociedad",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
       "AwayTeam": "Granada",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
+      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz USA ,  be…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -212,12 +212,12 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "12:00pm",
-      "GameState": "",
+      "GameState": "13 ",
       "HomeTeam": "Bologna",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
       "AwayTeam": "Napoli",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
     },
@@ -264,12 +264,12 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "12:00pm",
-      "GameState": "",
+      "GameState": "14 ",
       "HomeTeam": "Bayer Leverkusen",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
       "AwayTeam": "Borussia M'gladbach",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
     },
@@ -355,14 +355,14 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "11:00am",
-      "GameState": "HT ",
+      "GameState": "58 ",
       "HomeTeam": "Nice",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
       "AwayTeam": "Monaco",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-      "TVChannels": "ESPN Caribbean ,  ESPN Play Norte ,  ESPN…"
+      "TVChannels": "beIN SPORTS XTRA ,  ESPN Caribbean ,  …"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -375,7 +375,7 @@
       "AwayTeam": "Saint-Étienne",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-      "TVChannels": "ESPN Play Norte ,  DIRECTV Sports Pue…"
+      "TVChannels": "beIN SPORTS XTRA ,  ESPN Play Norte ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
