@@ -30,6 +30,20 @@
     },
     {
         "teamrank": 3,
+        "teamname": "Liverpool",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "played": 8,
+        "wins": 5,
+        "draws": 2,
+        "lossess": 1,
+        "goalsfor": 18,
+        "goalsagainst": 16,
+        "goalsdiff": "+2",
+        "points": 17,
+        "form": "'DWWDL'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
         "played": 8,
@@ -41,20 +55,6 @@
         "goalsdiff": "+4",
         "points": 16,
         "form": "'WWWDW'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Liverpool",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "played": 7,
-        "wins": 5,
-        "draws": 1,
-        "lossess": 1,
-        "goalsfor": 17,
-        "goalsagainst": 15,
-        "goalsdiff": "+2",
-        "points": 16,
-        "form": "'WWDLW'"
     },
     {
         "teamrank": 5,
@@ -142,6 +142,20 @@
     },
     {
         "teamrank": 11,
+        "teamname": "Manchester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "played": 7,
+        "wins": 3,
+        "draws": 3,
+        "lossess": 1,
+        "goalsfor": 10,
+        "goalsagainst": 9,
+        "goalsdiff": "+1",
+        "points": 12,
+        "form": "'DWDWD'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "played": 8,
@@ -153,20 +167,6 @@
         "goalsdiff": "+4",
         "points": 11,
         "form": "'WLDDW'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Manchester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "played": 6,
-        "wins": 3,
-        "draws": 2,
-        "lossess": 1,
-        "goalsfor": 9,
-        "goalsagainst": 8,
-        "goalsdiff": "+1",
-        "points": 11,
-        "form": "'WDWDL'"
     },
     {
         "teamrank": 13,
