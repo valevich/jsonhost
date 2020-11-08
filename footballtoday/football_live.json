@@ -394,92 +394,92 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "3:30pm",
-      "GameState": "80 ",
+      "GameState": "FT ",
       "HomeTeam": "Chicago Fire",
       "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png",
       "AwayTeam": "NYFC",
       "AwayGoals": "4",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  YES Network ,  F…"
     },
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "3:30pm",
-      "GameState": "82 ",
+      "GameState": "FT ",
       "HomeTeam": "Columbus Crew",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
       "AwayTeam": "Atlanta United",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  FOX Sports GO ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "3:30pm",
-      "GameState": "74 ",
+      "GameState": "FT ",
       "HomeTeam": "DC United",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png",
       "AwayTeam": "Montreal Impact",
-      "AwayGoals": "1",
+      "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  MLSsoccer.com ,  WJLA-TV ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "3:30pm",
-      "GameState": "81 ",
+      "GameState": "FT ",
       "HomeTeam": "Inter Miami",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
       "AwayTeam": "FC Cincinnati",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  M…"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  MLSsoccer.com ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "3:30pm",
-      "GameState": "81 ",
+      "GameState": "FT ",
       "HomeTeam": "NY Red Bulls",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
       "AwayTeam": "Toronto FC",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  M…"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  MLSsoccer.com ,  MS…"
     },
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "3:30pm",
-      "GameState": "79 ",
+      "GameState": "FT ",
       "HomeTeam": "Orlando City",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png",
       "AwayTeam": "Nashville SC",
-      "AwayGoals": "1",
+      "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
-      "TVChannels": "SC ESPN+ ,  ESPN App ,  MLSsoccer.com ,  …"
+      "TVChannels": "SC ESPN+ ,  ESPN App ,  MLSsoccer.com ,  Fox 35…"
     },
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "3:30pm",
-      "GameState": "79 ",
+      "GameState": "FT ",
       "HomeTeam": "Philadelphia Union",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
       "AwayTeam": "NE Revolution",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
-      "TVChannels": "ESPN Deportes ,  ESPN Deportes+ ,  ESP…"
+      "TVChannels": "ESPN Deportes ,  ESPN Deportes+ ,  ESPN+ ,  fu…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1090,6 +1090,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/164.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "Saturday Nov. 14, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ]
 }
