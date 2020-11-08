@@ -412,6 +412,15 @@
   ],
   "ligue-1": [
     {
+        "playername": "B. Dia",
+        "playerlink": "https://www.livesoccertv.com/player/b-dia/360970/",
+        "playerteam": "Reims",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/reims/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
+        "playergoals": 8,
+        "playerassists": 3
+    },
+    {
         "playername": "K. Mbappé",
         "playerlink": "https://www.livesoccertv.com/player/k-mbappe/281806/",
         "playerteam": "PSG",
@@ -430,15 +439,6 @@
         "playerassists": 3
     },
     {
-        "playername": "B. Dia",
-        "playerlink": "https://www.livesoccertv.com/player/b-dia/360970/",
-        "playerteam": "Reims",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/reims/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-        "playergoals": 6,
-        "playerassists": 3
-    },
-    {
         "playername": "I. Niane",
         "playerlink": "https://www.livesoccertv.com/player/i-niane/351474/",
         "playerteam": "Metz",
@@ -448,6 +448,15 @@
         "playerassists": 1
     },
     {
+        "playername": "B. Yılmaz",
+        "playerlink": "https://www.livesoccertv.com/player/b-y-lmaz/4921/",
+        "playerteam": "Lille",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "playergoals": 6,
+        "playerassists": 2
+    },
+    {
         "playername": "M. Depay",
         "playerlink": "https://www.livesoccertv.com/player/m-depay/136392/",
         "playerteam": "Olympique Lyonnais",
@@ -455,6 +464,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "playergoals": 5,
         "playerassists": 3
+    },
+    {
+        "playername": "S. Bahoken",
+        "playerlink": "https://www.livesoccertv.com/player/s-bahoken/159571/",
+        "playerteam": "Angers SCO",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/angers/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
+        "playergoals": 4,
+        "playerassists": 0
     },
     {
         "playername": "J. Bamba",
@@ -511,15 +529,6 @@
         "playerassists": 2
     },
     {
-        "playername": "B. Yılmaz",
-        "playerlink": "https://www.livesoccertv.com/player/b-y-lmaz/4921/",
-        "playerteam": "Lille",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "playergoals": 4,
-        "playerassists": 1
-    },
-    {
         "playername": "N. Aguerd",
         "playerlink": "https://www.livesoccertv.com/player/n-aguerd/297050/",
         "playerteam": "Rennes",
@@ -536,15 +545,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
         "playergoals": 3,
         "playerassists": 2
-    },
-    {
-        "playername": "D. Da Silva",
-        "playerlink": "https://www.livesoccertv.com/player/d-da-silva/44832/",
-        "playerteam": "Rennes",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/stade-rennes/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-        "playergoals": 3,
-        "playerassists": 0
     }
   ],
   "bundesliga": [
@@ -556,6 +556,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
         "playergoals": 11,
         "playerassists": 2
+    },
+    {
+        "playername": "L. Alario",
+        "playerlink": "https://www.livesoccertv.com/player/l-alario/160318/",
+        "playerteam": "Bayer Leverkusen",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+        "playergoals": 6,
+        "playerassists": 1
     },
     {
         "playername": "E. Haaland",
@@ -574,15 +583,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
         "playergoals": 6,
         "playerassists": 2
-    },
-    {
-        "playername": "L. Alario",
-        "playerlink": "https://www.livesoccertv.com/player/l-alario/160318/",
-        "playerteam": "Bayer Leverkusen",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-        "playergoals": 5,
-        "playerassists": 1
     },
     {
         "playername": "André Miguel Valente Silva",
@@ -639,6 +639,15 @@
         "playerassists": 1
     },
     {
+        "playername": "L. Stindl",
+        "playerlink": "https://www.livesoccertv.com/player/l-stindl/39612/",
+        "playerteam": "Borussia M'gladbach",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+        "playergoals": 4,
+        "playerassists": 2
+    },
+    {
         "playername": "J. Córdoba",
         "playerlink": "https://www.livesoccertv.com/player/j-cordoba/134471/",
         "playerteam": "Hertha BSC",
@@ -671,15 +680,6 @@
         "playerteam": "Borussia Dortmund",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "S. Kalajdzic",
-        "playerlink": "https://www.livesoccertv.com/player/s-kalajdzic/271246/",
-        "playerteam": "Stuttgart",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
         "playergoals": 3,
         "playerassists": 0
     }
