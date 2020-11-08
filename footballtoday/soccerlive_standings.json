@@ -72,6 +72,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Aston Villa",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "played": 7,
+        "wins": 5,
+        "draws": 0,
+        "lossess": 2,
+        "goalsfor": 18,
+        "goalsagainst": 9,
+        "goalsdiff": "+9",
+        "points": 15,
+        "form": "'WLLWW'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
         "played": 8,
@@ -85,7 +99,7 @@
         "form": "'LLLDW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
         "played": 8,
@@ -99,7 +113,7 @@
         "form": "'WLWDL'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
         "played": 8,
@@ -113,35 +127,7 @@
         "form": "'LWDWW'"
     },
     {
-        "teamrank": 9,
-        "teamname": "Aston Villa",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 6,
-        "wins": 4,
-        "draws": 0,
-        "lossess": 2,
-        "goalsfor": 15,
-        "goalsagainst": 9,
-        "goalsdiff": "+6",
-        "points": 12,
-        "form": "'LLWWW'"
-    },
-    {
         "teamrank": 10,
-        "teamname": "Arsenal",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "played": 7,
-        "wins": 4,
-        "draws": 0,
-        "lossess": 3,
-        "goalsfor": 9,
-        "goalsagainst": 7,
-        "goalsdiff": "+2",
-        "points": 12,
-        "form": "'WLLWL'"
-    },
-    {
-        "teamrank": 11,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "played": 7,
@@ -153,6 +139,20 @@
         "goalsdiff": "+1",
         "points": 12,
         "form": "'DWDWD'"
+    },
+    {
+        "teamrank": 11,
+        "teamname": "Arsenal",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "played": 8,
+        "wins": 4,
+        "draws": 0,
+        "lossess": 4,
+        "goalsfor": 9,
+        "goalsagainst": 10,
+        "goalsdiff": "-1",
+        "points": 12,
+        "form": "'LWLLW'"
     },
     {
         "teamrank": 12,
