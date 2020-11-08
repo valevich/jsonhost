@@ -454,18 +454,32 @@
         "teamrank": 13,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "played": 7,
+        "played": 8,
         "wins": 3,
         "draws": 0,
-        "lossess": 4,
-        "goalsfor": 6,
-        "goalsagainst": 7,
-        "goalsdiff": "-1",
+        "lossess": 5,
+        "goalsfor": 7,
+        "goalsagainst": 9,
+        "goalsdiff": "-2",
         "points": 9,
-        "form": "'WLWLL'"
+        "form": "'LWLWL'"
     },
     {
         "teamrank": 14,
+        "teamname": "Deportivo Alavés",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+        "played": 9,
+        "wins": 2,
+        "draws": 3,
+        "lossess": 4,
+        "goalsfor": 7,
+        "goalsagainst": 10,
+        "goalsdiff": "-3",
+        "points": 9,
+        "form": "'DDWLW'"
+    },
+    {
+        "teamrank": 15,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "played": 9,
@@ -479,7 +493,7 @@
         "form": "'DLWDW'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "played": 8,
@@ -491,20 +505,6 @@
         "goalsdiff": "-2",
         "points": 8,
         "form": "'DLLLW'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Deportivo Alavés",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-        "played": 8,
-        "wins": 2,
-        "draws": 2,
-        "lossess": 4,
-        "goalsfor": 6,
-        "goalsagainst": 9,
-        "goalsdiff": "-3",
-        "points": 8,
-        "form": "'DWLWL'"
     },
     {
         "teamrank": 17,
@@ -522,6 +522,34 @@
     },
     {
         "teamrank": 18,
+        "teamname": "Levante",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "played": 8,
+        "wins": 1,
+        "draws": 3,
+        "lossess": 4,
+        "goalsfor": 8,
+        "goalsagainst": 13,
+        "goalsdiff": "-5",
+        "points": 6,
+        "form": "'DDDLL'"
+    },
+    {
+        "teamrank": 19,
+        "teamname": "Real Valladolid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
+        "played": 9,
+        "wins": 1,
+        "draws": 3,
+        "lossess": 5,
+        "goalsfor": 7,
+        "goalsagainst": 14,
+        "goalsdiff": "-7",
+        "points": 6,
+        "form": "'WLLDL'"
+    },
+    {
+        "teamrank": 20,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
         "played": 9,
@@ -533,34 +561,6 @@
         "goalsdiff": "-8",
         "points": 6,
         "form": "'DLLDD'"
-    },
-    {
-        "teamrank": 19,
-        "teamname": "Levante",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "played": 7,
-        "wins": 1,
-        "draws": 2,
-        "lossess": 4,
-        "goalsfor": 7,
-        "goalsagainst": 12,
-        "goalsdiff": "-5",
-        "points": 5,
-        "form": "'DDLLL'"
-    },
-    {
-        "teamrank": 20,
-        "teamname": "Real Valladolid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-        "played": 8,
-        "wins": 0,
-        "draws": 3,
-        "lossess": 5,
-        "goalsfor": 5,
-        "goalsagainst": 13,
-        "goalsdiff": "-8",
-        "points": 3,
-        "form": "'LLDLL'"
     }
   ],
   "serie-a": [
