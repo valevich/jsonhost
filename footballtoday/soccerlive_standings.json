@@ -284,6 +284,20 @@
   "primera-division": [
     {
         "teamrank": 1,
+        "teamname": "Real Sociedad",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+        "played": 9,
+        "wins": 6,
+        "draws": 2,
+        "lossess": 1,
+        "goalsfor": 20,
+        "goalsagainst": 4,
+        "goalsdiff": "+16",
+        "points": 20,
+        "form": "'WWWWW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Villarreal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
         "played": 9,
@@ -297,7 +311,7 @@
         "form": "'WWDWD'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Atlético Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
         "played": 7,
@@ -309,20 +323,6 @@
         "goalsdiff": "+15",
         "points": 17,
         "form": "'WWWWD'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Real Sociedad",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "played": 8,
-        "wins": 5,
-        "draws": 2,
-        "lossess": 1,
-        "goalsfor": 18,
-        "goalsagainst": 4,
-        "goalsdiff": "+14",
-        "points": 17,
-        "form": "'WWWWL'"
     },
     {
         "teamrank": 4,
@@ -342,15 +342,15 @@
         "teamrank": 5,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "played": 7,
+        "played": 8,
         "wins": 4,
         "draws": 2,
-        "lossess": 1,
+        "lossess": 2,
         "goalsfor": 9,
-        "goalsagainst": 9,
-        "goalsdiff": "0",
+        "goalsagainst": 11,
+        "goalsdiff": "-2",
         "points": 14,
-        "form": "'DWWDL'"
+        "form": "'LDWWD'"
     },
     {
         "teamrank": 6,
