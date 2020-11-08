@@ -1200,6 +1200,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Wolfsburg",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+        "played": 7,
+        "wins": 2,
+        "draws": 5,
+        "lossess": 0,
+        "goalsfor": 7,
+        "goalsagainst": 5,
+        "goalsdiff": "+2",
+        "points": 11,
+        "form": "'WDWDD'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Borussia M'gladbach",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
         "played": 6,
@@ -1213,7 +1227,7 @@
         "form": "'WWDWD'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Stuttgart",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
         "played": 7,
@@ -1227,7 +1241,7 @@
         "form": "'DDDWD'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Werder Bremen",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
         "played": 7,
@@ -1241,7 +1255,7 @@
         "form": "'DDDDW'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Augsburg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
         "played": 7,
@@ -1255,7 +1269,7 @@
         "form": "'LWLLD'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Eintracht Frankfurt",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
         "played": 7,
@@ -1267,20 +1281,6 @@
         "goalsdiff": "-2",
         "points": 10,
         "form": "'DDLDW'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Wolfsburg",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "played": 6,
-        "wins": 1,
-        "draws": 5,
-        "lossess": 0,
-        "goalsfor": 5,
-        "goalsagainst": 4,
-        "goalsdiff": "+1",
-        "points": 8,
-        "form": "'DWDDD'"
     },
     {
         "teamrank": 12,
@@ -1300,15 +1300,15 @@
         "teamrank": 13,
         "teamname": "Hoffenheim",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "played": 6,
+        "played": 7,
         "wins": 2,
         "draws": 1,
-        "lossess": 3,
-        "goalsfor": 10,
-        "goalsagainst": 10,
-        "goalsdiff": "0",
+        "lossess": 4,
+        "goalsfor": 11,
+        "goalsagainst": 12,
+        "goalsdiff": "-1",
         "points": 7,
-        "form": "'LDLLW'"
+        "form": "'LLDLL'"
     },
     {
         "teamrank": 14,
