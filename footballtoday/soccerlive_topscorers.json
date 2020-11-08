@@ -311,6 +311,15 @@
         "playerassists": 2
     },
     {
+        "playername": "João Pedro",
+        "playerlink": "https://www.livesoccertv.com/player/joao-pedro/115191/",
+        "playerteam": "Cagliari",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/cagliari/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+        "playergoals": 5,
+        "playerassists": 1
+    },
+    {
         "playername": "R. Lukaku",
         "playerlink": "https://www.livesoccertv.com/player/r-lukaku/79627/",
         "playerteam": "Internazionale",
@@ -334,15 +343,6 @@
         "playerteam": "Fiorentina",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/fiorentina/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "João Pedro",
-        "playerlink": "https://www.livesoccertv.com/player/joao-pedro/115191/",
-        "playerteam": "Cagliari",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/cagliari/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
         "playergoals": 4,
         "playerassists": 0
     },
