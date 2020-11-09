@@ -17,7 +17,7 @@
       "LeagueName": "English FA Cup",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
       "GameTime": "2:45pm",
-      "GameState": "80 ",
+      "GameState": "90 ",
       "HomeTeam": "Oxford City",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4489.png",
@@ -34,10 +34,10 @@
       "HomeTeam": "Holstein Kiel",
       "HomeGoals": "1",
       "HomeLogo": "",
-      "AwayTeam": "Hamburger SV ESPN+ ,  ESPN App ,  Sky Sport Bundesl…",
+      "AwayTeam": "Hamburger SV ESPN+ ,  ESPN App ,  Sky Sport Bundesliga 1 ,  …",
       "AwayGoals": "1",
       "AwayLogo": "",
-      "TVChannels": "2:30pm FT   Holstein Kiel  1 - 1  Hamburger SV ESPN+ ,  ESPN App ,  Sky Sport Bundesl…"
+      "TVChannels": "2:30pm FT   Holstein Kiel  1 - 1  Hamburger SV ESPN+ ,  ESPN App ,  Sky Sport Bundesliga 1 ,  …"
     }
   ],
   "day2": [
@@ -386,19 +386,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/164.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "Saturday Nov. 14, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     }
   ],
   "day7": [
