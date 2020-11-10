@@ -1,9 +1,9 @@
 {
-    },
+  "today": [
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "Monday Nov. 9, 2020",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -12,8 +12,47 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "2:45pm",
+      "GameState": "",
+      "HomeTeam": "Northampton Town",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/353.png",
+      "AwayTeam": "Northampton Town",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/353.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
+    },
+    {
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "2:30pm",
+      "GameState": "",
+      "HomeTeam": "Holstein Kiel  1 - 1  Hamburger SV ESPN+ ,  ESPN App ,  Sky Sport Bundesliga 1 ,  …",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "2:30pm   Holstein Kiel  1 - 1  Hamburger SV ESPN+ ,  ESPN App ,  Sky Sport Bundesliga 1 ,  …",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:30pm   Holstein Kiel  1 - 1  Hamburger SV ESPN+ ,  ESPN App ,  Sky Sport Bundesliga 1 ,  …"
     }
   ],
+  "day2": [
+    {
+      "LeagueName": "No League Games",
+      "LeagueLogo": "",
+      "GameTime": "Wednesday Nov. 11, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     },
     {
       "LeagueName": "Today",
@@ -319,19 +358,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/164.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "Saturday Nov. 14, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     }
   ],
   "day6": [
@@ -584,58 +610,6 @@
     }
   ],
   "day7": [
-    {
-      "LeagueName": "No League Games Today",
-      "LeagueLogo": "",
-      "GameTime": "Monday Nov. 16, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "No League Games Today",
-      "LeagueLogo": "",
-      "GameTime": "Monday Nov. 16, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
     {
       "LeagueName": "No League Games Today",
       "LeagueLogo": "",
