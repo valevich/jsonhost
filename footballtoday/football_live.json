@@ -1,17 +1,4 @@
 {
-  "today": [
-    {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
-      "GameTime": "Tuesday Nov. 10, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     },
     {
       "LeagueName": "Today",
@@ -27,11 +14,11 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day2": [
+    },
     {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "Thursday Nov. 12, 2020",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -40,104 +27,13 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Bolivia",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/204.png",
-      "AwayTeam": "Ecuador",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/209.png",
-      "TVChannels": "Fanatiz USA ,  FITE ,  Sky HD ,  Blu…"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "7:00pm",
-      "GameState": "",
-      "HomeTeam": "Gent",
-      "HomeGoals": "",
-      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/belgium/logos/gent.png",
-      "AwayTeam": "Paraguay",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/210.png",
-      "TVChannels": "Fanatiz USA ,  FITE ,  SportsMax ,  S…"
-    },
-    {
-      "LeagueName": "UEFA Euro Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png",
-      "GameTime": "Thursday Nov. 12, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "UEFA Euro Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png",
-      "GameTime": "12:00pm",
-      "GameState": "",
-      "HomeTeam": "Georgia",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/584.png",
-      "AwayTeam": "North Macedonia",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/463.png",
-      "TVChannels": "ESPN2 ,  fuboTV ,  ESPN App ,  …"
-    },
-    {
-      "LeagueName": "UEFA Euro Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Serbia",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
-      "AwayTeam": "SCotland",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/580.png",
-      "TVChannels": "m   Serbia vs Scotland ESPN2 ,  fuboTV ,  ESPN App ,  …"
-    },
-    {
-      "LeagueName": "UEFA Euro Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Northern Ireland",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/586.png",
-      "AwayTeam": "Slovakia",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/468.png",
-      "TVChannels": "fuboTV ,  ESPN3 ,  ESPN App ,  …"
-    },
-    {
-      "LeagueName": "UEFA Euro Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/56.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Hungary",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/480.png",
-      "AwayTeam": "Iceland",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/470.png",
-      "TVChannels": "fuboTV ,  ESPN3 ,  ESPN App ,  …"
     }
   ],
-  "day3": [
+    },
     {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "Friday Nov. 13, 2020",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -146,45 +42,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "3:30pm",
-      "GameState": "",
-      "HomeTeam": "Colombia",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/208.png",
-      "AwayTeam": "Uruguay",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/212.png",
-      "TVChannels": "Fanatiz USA ,  FITE ,  Sky HD ,  Blu…"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "6:00pm",
-      "GameState": "",
-      "HomeTeam": "Chile",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/207.png",
-      "AwayTeam": "Peru",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/211.png",
-      "TVChannels": "Fanatiz USA ,  FITE ,  SportsMax ,  S…"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "7:30pm",
-      "GameState": "",
-      "HomeTeam": "Brazil",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/205.png",
-      "AwayTeam": "Venezuela",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/213.png",
-      "TVChannels": "Fanatiz USA ,  FITE ,  Sky HD ,  Blu…"
     }
   ],
   "day4": [
@@ -764,7 +621,7 @@
       "AwayTeam": "Chile",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/207.png",
-      "TVChannels": "Sky HD ,  Chilevision ,  TLT Venezuela"
+      "TVChannels": "Sky HD ,  Blue To Go Video Everywhere ,  Chile…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -777,7 +634,7 @@
       "AwayTeam": "Colombia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/208.png",
-      "TVChannels": "Fanatiz USA ,  FITE ,  Sky HD ,  Cara…"
+      "TVChannels": "Fanatiz USA ,  FITE ,  Sky HD ,  Blu…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -790,7 +647,7 @@
       "AwayTeam": "Brazil",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/205.png",
-      "TVChannels": "Fanatiz USA ,  FITE ,  Sky HD ,  Spo…"
+      "TVChannels": "Fanatiz USA ,  FITE ,  Sky HD ,  Blu…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -803,7 +660,7 @@
       "AwayTeam": "Bolivia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/204.png",
-      "TVChannels": "fuboTV ,  FOX Deportes ,  Sky HD ,  Sport…"
+      "TVChannels": "fuboTV ,  FOX Deportes ,  Foxsports…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -816,7 +673,7 @@
       "AwayTeam": "Gent",
       "AwayGoals": "",
       "AwayLogo": "https://cdn.livesoccertv.com/images/teams/belgium/logos/gent.png",
-      "TVChannels": ":30pm   Peru vs Argentina Fanatiz USA ,  FITE ,  Sky HD ,  Spo…"
+      "TVChannels": ":30pm   Peru vs Argentina Fanatiz USA ,  FITE ,  Sky HD ,  Blu…"
     }
   ]
 }
