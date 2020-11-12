@@ -979,19 +979,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
       "GameTime": "2:45pm",
       "GameState": "",
-      "HomeTeam": "Kosovo",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/18272.png",
-      "AwayTeam": "Moldova",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/483.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
-    },
-    {
-      "LeagueName": "UEFA Nations League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
       "HomeTeam": "Northern Ireland",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/586.png",
@@ -1037,6 +1024,19 @@
       "AwayTeam": "Finland",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/458.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "UEFA Nations League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
+      "GameTime": "2:45pm",
+      "GameState": "",
+      "HomeTeam": "Kosovo",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/18272.png",
+      "AwayTeam": "Moldova",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/483.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     }
   ]
