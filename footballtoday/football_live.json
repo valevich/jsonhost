@@ -1,17 +1,4 @@
 {
-  "today": [
-    {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
-      "GameTime": "Monday Nov. 16, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     },
     {
       "LeagueName": "Today",
@@ -395,6 +382,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
       "TVChannels": "*MLS Playoffs Fox Sports 1 ,  fuboTV ,  NBCSports…"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "9:00pm",
+      "GameState": "",
+      "HomeTeam": "Nashville SC",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
+      "AwayTeam": "Inter Miami",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
+      "TVChannels": "*MLS Playoffs ESPN2 ,  ESPN Deportes ,  ESPN Deporte…"
     }
   ],
   "day5": [
@@ -866,7 +866,7 @@
       "AwayTeam": "Arsenal",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "TVChannels": "NBCSN ,  Arsenal Player ,  DAZN ,  Sky HD ,  Blue…"
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
     },
     {
       "LeagueName": "English Premier League",
@@ -879,7 +879,7 @@
       "AwayTeam": "Leicester",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-      "TVChannels": "NBCSN ,  DAZN ,  Sky HD ,  Blue To Go Video Ev…"
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -983,7 +983,7 @@
       "AwayTeam": "Torino",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN3…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN P…"
     },
     {
       "LeagueName": "Italian Serie A",
