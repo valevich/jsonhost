@@ -136,8 +136,8 @@
     "continent": "",
     "iso_alpha2": "BI",
     "name": "Burundi",
-    "score": "Entry prohibited",
-    "updated": "International passenger flights are suspended. All travelers who have visited Australia, China, the European Union, Iran, Japan, South Korea, United Kingdom, and United States must undergo a 14-day quarantine upon arrival."
+    "score": "Partially restricted",
+    "updated": "All persons arriving at Melchior Ndadaye International Airport (BJM) in Bujumbura must have the following: 1) a valid entry visa and a valid residence visa, 2) proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test, and 3) proof of a valid reservation at a specially-designated arrival hotel. All persons must, at their own expense of US$100, undergo an additional PCR test upon arrival and self-isolate 1-2 days at a designated hotel while awaiting results. Should any passenger on an arriving flight test positive for COVID-19, all persons on the same fight must undergo a second post-arrival PCR test and self-isolate while awaiting results. Persons who test positive will be transferred to an appropriate care center. All persons seeking to depart Burundi must have proof of a negative PCR test issued no more than 72 hours prior to scheduled departure as well as an invoice showing payment in full of US$100 for testing costs."
   },
   {
     "continent": "",
@@ -984,14 +984,14 @@
     "iso_alpha2": "PA",
     "name": "Panama",
     "score": "Entry prohibited",
-    "updated": "From October 12, 2020, all persons arriving in Panama are required to show proof of a negative test result for COVID-19 issued no more than 48 hours prior to departure using a polymerase chain reaction (PCR) or antigen test."
+    "updated": "All persons arriving in Panama are required to show proof of a negative test result for COVID-19 issued no more than 48 hours prior to departure using a polymerase chain reaction (PCR) or antigen test. Persons without such proof must, at their own expense, undergo a PCR test upon arrival followed by a 7-day quarantine at a designated location and an additional PCR test after 7 days."
   },
   {
     "continent": "",
     "iso_alpha2": "PE",
     "name": "Peru",
     "score": "Entry prohibited",
-    "updated": "Foreign nationals are prohibited from entering Peru. A daily curfew is in effect nationwide from 21:00 (9:00 p.m.) to 04:00 (4:00 a.m.). Beginning October 1, 2020, international flights will begin to resume on a limited basis."
+    "updated": "Foreign nationals are prohibited from entering Peru for tourism. A daily curfew is in effect nationwide from 21:00 (9:00 p.m.) to 04:00 (4:00 a.m.)."
   },
   {
     "continent": "",
@@ -1047,7 +1047,7 @@
     "iso_alpha2": "PY",
     "name": "Paraguay",
     "score": "Partially restricted",
-    "updated": "From October 21, 2020, all persons (including Paraguayan nationals) must undergo a 14-day quarantine upon arrival. Persons with suitable accommodation may self-isolate at home. Persons who agree to undergo a polymerase chain reaction (PCR) test 72 hours after arrival and again 7 days after arrival may exit quarantine early upon conformation of two negative test results. Persons who intend to remain in Paraguay less than 7 days must provide proof of a negative PCR test result issued no more than 72 hour prior to departure."
+    "updated": "From November 16, 2020, all persons arriving in Paraguay must have proof of a negative test result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. All persons must also carry proof of international medical insurance valid for use in Paraguay. This policy does not apply to travelers from countries or regions part of the Southern Common Market (Mercosur). Persons without such proof must undergo quarantine upon arrival."
   },
   {
     "continent": "",
@@ -1257,7 +1257,7 @@
     "iso_alpha2": "TN",
     "name": "Tunisia",
     "score": "Partially restricted",
-    "updated": "The Tunisian government will classify countries / regions as green, orange, or red depending on current epidemiological risk factors associated with COVID-19. Persons traveling from green locations must present proof of a negative test result for COVID-19 issued no more than 72 hours prior to departure. Such persons are advised to self-isolate for 7 days upon arrival. Persons traveling from orange locations must present proof of a negative test result for COVID-19 issued no more than 72 hours prior to departure and self-isolate for 7 days. Persons currently exhibiting symptoms consistent with COVID-19 must self-isolate for 14 days upon arrival. Persons in red locations are prohibited from traveling to Tunisia. This policy does not apply to Tunisian nationals or lawful residents. More information and a list of classifications is available (in French) at the following URL: http://www.santetunisie.rns.tn/images/classification_23_09_2020.pdfFrom October 30, 2020, a nightly curfew is in effect nationwide on weekdays from 20:00 (8:00 p.m.) to 05:00 (5:00 a.m.) and on the weekend from 19:00 (7:00 p.m.) to 05:00 (5:00 a.m.). Leisure travel between governorates is prohibited."
+    "updated": "From November 16, 2020, all persons arriving in Tunisia must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Upon arrival, all persons permitted to enter must undergo a 14-day quarantine at their residence or a designated hotel. Persons who elect to undergo an additional PCR test after 7 days in quarantine will be eligible to leave quarantine early provided they test negative. The Tunisian Ministry of Health may select certain arriving passengers to undergo rapid testing for COVID-19. All persons must comply with these and all other directives relating to testing for COVID-19 upon arrival in Tunisia."
   },
   {
     "continent": "",
