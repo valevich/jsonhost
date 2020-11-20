@@ -876,20 +876,6 @@
     },
     {
         "teamrank": 3,
-        "teamname": "Rennes",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-        "played": 10,
-        "wins": 5,
-        "draws": 3,
-        "lossess": 2,
-        "goalsfor": 18,
-        "goalsagainst": 14,
-        "goalsdiff": "+4",
-        "points": 18,
-        "form": "'LWLDD'"
-    },
-    {
-        "teamrank": 4,
         "teamname": "Olympique Marseille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
         "played": 9,
@@ -901,6 +887,20 @@
         "goalsdiff": "+4",
         "points": 18,
         "form": "'WWWDD'"
+    },
+    {
+        "teamrank": 4,
+        "teamname": "Rennes",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+        "played": 11,
+        "wins": 5,
+        "draws": 3,
+        "lossess": 3,
+        "goalsfor": 18,
+        "goalsagainst": 15,
+        "goalsdiff": "+3",
+        "points": 18,
+        "form": "'LLWLD'"
     },
     {
         "teamrank": 5,
@@ -988,6 +988,20 @@
     },
     {
         "teamrank": 11,
+        "teamname": "Bordeaux",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
+        "played": 11,
+        "wins": 4,
+        "draws": 3,
+        "lossess": 4,
+        "goalsfor": 10,
+        "goalsagainst": 11,
+        "goalsdiff": "-1",
+        "points": 15,
+        "form": "'WLLWL'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Lens",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
         "played": 8,
@@ -999,20 +1013,6 @@
         "goalsdiff": "0",
         "points": 14,
         "form": "'DLWDW'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Bordeaux",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
-        "played": 10,
-        "wins": 3,
-        "draws": 3,
-        "lossess": 4,
-        "goalsfor": 9,
-        "goalsagainst": 11,
-        "goalsdiff": "-2",
-        "points": 12,
-        "form": "'LLWLW'"
     },
     {
         "teamrank": 13,
