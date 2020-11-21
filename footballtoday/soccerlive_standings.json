@@ -622,6 +622,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Lazio",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+        "played": 8,
+        "wins": 4,
+        "draws": 2,
+        "lossess": 2,
+        "goalsfor": 13,
+        "goalsagainst": 13,
+        "goalsdiff": "0",
+        "points": 14,
+        "form": "'WDWWL'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Juventus",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
         "played": 7,
@@ -635,7 +649,7 @@
         "form": "'DWDDW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Atalanta",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
         "played": 7,
@@ -649,7 +663,7 @@
         "form": "'DWLLW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Internazionale",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "played": 7,
@@ -663,7 +677,7 @@
         "form": "'DDWLD'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Hellas Verona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
         "played": 7,
@@ -675,20 +689,6 @@
         "goalsdiff": "+5",
         "points": 12,
         "form": "'DWDDL'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Lazio",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-        "played": 7,
-        "wins": 3,
-        "draws": 2,
-        "lossess": 2,
-        "goalsfor": 11,
-        "goalsagainst": 13,
-        "goalsdiff": "-2",
-        "points": 11,
-        "form": "'DWWLD'"
     },
     {
         "teamrank": 10,
@@ -834,15 +834,15 @@
         "teamrank": 20,
         "teamname": "Crotone",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-        "played": 7,
+        "played": 8,
         "wins": 0,
         "draws": 2,
-        "lossess": 5,
+        "lossess": 6,
         "goalsfor": 6,
-        "goalsagainst": 17,
-        "goalsdiff": "-11",
+        "goalsagainst": 19,
+        "goalsdiff": "-13",
         "points": 2,
-        "form": "'DLLDL'"
+        "form": "'LDLLD'"
     }
   ],
   "ligue-1": [
