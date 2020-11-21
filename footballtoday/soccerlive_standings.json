@@ -2,6 +2,20 @@
   "premier-league": [
     {
         "teamrank": 1,
+        "teamname": "Tottenham Hotspur",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+        "played": 9,
+        "wins": 6,
+        "draws": 2,
+        "lossess": 1,
+        "goalsfor": 21,
+        "goalsagainst": 9,
+        "goalsdiff": "+12",
+        "points": 20,
+        "form": "'WWWWD'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 9,
@@ -15,7 +29,7 @@
         "form": "'WWWDD'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Leicester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
         "played": 8,
@@ -27,20 +41,6 @@
         "goalsdiff": "+9",
         "points": 18,
         "form": "'WWWLL'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Tottenham Hotspur",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "played": 8,
-        "wins": 5,
-        "draws": 2,
-        "lossess": 1,
-        "goalsfor": 19,
-        "goalsagainst": 9,
-        "goalsdiff": "+10",
-        "points": 17,
-        "form": "'WWWDW'"
     },
     {
         "teamrank": 4,
@@ -130,15 +130,15 @@
         "teamrank": 10,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "played": 7,
+        "played": 8,
         "wins": 3,
         "draws": 3,
-        "lossess": 1,
+        "lossess": 2,
         "goalsfor": 10,
-        "goalsagainst": 9,
-        "goalsdiff": "+1",
+        "goalsagainst": 11,
+        "goalsdiff": "-1",
         "points": 12,
-        "form": "'DWDWD'"
+        "form": "'LDWDW'"
     },
     {
         "teamrank": 11,
@@ -368,6 +368,20 @@
     },
     {
         "teamrank": 7,
+        "teamname": "Sevilla",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+        "played": 8,
+        "wins": 4,
+        "draws": 1,
+        "lossess": 3,
+        "goalsfor": 11,
+        "goalsagainst": 8,
+        "goalsdiff": "+3",
+        "points": 13,
+        "form": "'WWLLL'"
+    },
+    {
+        "teamrank": 8,
         "teamname": "Elche",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
         "played": 8,
@@ -381,7 +395,7 @@
         "form": "'DDLWW'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "played": 9,
@@ -395,7 +409,7 @@
         "form": "'LWLLW'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Barcelona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
         "played": 7,
@@ -409,7 +423,7 @@
         "form": "'WDLLD'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "played": 9,
@@ -423,7 +437,7 @@
         "form": "'WDLLL'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Getafe",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
         "played": 8,
@@ -437,7 +451,7 @@
         "form": "'LDLWL'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Osasuna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
         "played": 9,
@@ -449,20 +463,6 @@
         "goalsdiff": "-1",
         "points": 11,
         "form": "'DLLWD'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Sevilla",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-        "played": 7,
-        "wins": 3,
-        "draws": 1,
-        "lossess": 3,
-        "goalsfor": 7,
-        "goalsagainst": 6,
-        "goalsdiff": "+1",
-        "points": 10,
-        "form": "'WLLLD'"
     },
     {
         "teamrank": 14,
@@ -538,15 +538,15 @@
         "teamrank": 19,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "played": 9,
+        "played": 10,
         "wins": 1,
         "draws": 4,
-        "lossess": 4,
-        "goalsfor": 6,
-        "goalsagainst": 15,
-        "goalsdiff": "-9",
+        "lossess": 5,
+        "goalsfor": 8,
+        "goalsagainst": 19,
+        "goalsdiff": "-11",
         "points": 7,
-        "form": "'DLDLL'"
+        "form": "'LDLDL'"
     },
     {
         "teamrank": 20,
