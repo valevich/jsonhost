@@ -622,6 +622,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Atalanta",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+        "played": 8,
+        "wins": 4,
+        "draws": 2,
+        "lossess": 2,
+        "goalsfor": 18,
+        "goalsagainst": 14,
+        "goalsdiff": "+4",
+        "points": 14,
+        "form": "'DDWLL'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Lazio",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
         "played": 8,
@@ -635,7 +649,7 @@
         "form": "'WDWWL'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Juventus",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
         "played": 7,
@@ -647,20 +661,6 @@
         "goalsdiff": "+9",
         "points": 13,
         "form": "'DWDDW'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Atalanta",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "played": 7,
-        "wins": 4,
-        "draws": 1,
-        "lossess": 2,
-        "goalsfor": 18,
-        "goalsagainst": 14,
-        "goalsdiff": "+4",
-        "points": 13,
-        "form": "'DWLLW'"
     },
     {
         "teamrank": 8,
@@ -720,6 +720,20 @@
     },
     {
         "teamrank": 12,
+        "teamname": "Spezia",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
+        "played": 8,
+        "wins": 2,
+        "draws": 3,
+        "lossess": 3,
+        "goalsfor": 11,
+        "goalsagainst": 15,
+        "goalsdiff": "-4",
+        "points": 9,
+        "form": "'DWLDD'"
+    },
+    {
+        "teamrank": 13,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
         "played": 7,
@@ -731,20 +745,6 @@
         "goalsdiff": "-2",
         "points": 8,
         "form": "'DLWDL'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Spezia",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
-        "played": 7,
-        "wins": 2,
-        "draws": 2,
-        "lossess": 3,
-        "goalsfor": 11,
-        "goalsagainst": 15,
-        "goalsdiff": "-4",
-        "points": 8,
-        "form": "'WLDDL'"
     },
     {
         "teamrank": 14,
@@ -1160,15 +1160,15 @@
         "teamrank": 3,
         "teamname": "RB Leipzig",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-        "played": 7,
+        "played": 8,
         "wins": 5,
-        "draws": 1,
+        "draws": 2,
         "lossess": 1,
-        "goalsfor": 15,
-        "goalsagainst": 4,
+        "goalsfor": 16,
+        "goalsagainst": 5,
         "goalsdiff": "+11",
-        "points": 16,
-        "form": "'WLWWW'"
+        "points": 17,
+        "form": "'DWLWW'"
     },
     {
         "teamrank": 4,
@@ -1272,15 +1272,15 @@
         "teamrank": 11,
         "teamname": "Eintracht Frankfurt",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-        "played": 7,
+        "played": 8,
         "wins": 2,
-        "draws": 4,
+        "draws": 5,
         "lossess": 1,
-        "goalsfor": 10,
-        "goalsagainst": 12,
+        "goalsfor": 11,
+        "goalsagainst": 13,
         "goalsdiff": "-2",
-        "points": 10,
-        "form": "'DDLDW'"
+        "points": 11,
+        "form": "'DDDLD'"
     },
     {
         "teamrank": 12,
