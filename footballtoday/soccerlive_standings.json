@@ -734,20 +734,34 @@
     },
     {
         "teamrank": 13,
-        "teamname": "Fiorentina",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "played": 7,
-        "wins": 2,
-        "draws": 2,
-        "lossess": 3,
-        "goalsfor": 10,
-        "goalsagainst": 12,
-        "goalsdiff": "-2",
-        "points": 8,
-        "form": "'DLWDL'"
+        "teamname": "Benevento",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
+        "played": 8,
+        "wins": 3,
+        "draws": 0,
+        "lossess": 5,
+        "goalsfor": 11,
+        "goalsagainst": 20,
+        "goalsdiff": "-9",
+        "points": 9,
+        "form": "'WLLLL'"
     },
     {
         "teamrank": 14,
+        "teamname": "Fiorentina",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+        "played": 8,
+        "wins": 2,
+        "draws": 2,
+        "lossess": 4,
+        "goalsfor": 10,
+        "goalsagainst": 13,
+        "goalsdiff": "-3",
+        "points": 8,
+        "form": "'LDLWD'"
+    },
+    {
+        "teamrank": 15,
         "teamname": "Bologna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
         "played": 7,
@@ -761,7 +775,7 @@
         "form": "'LWLLL'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Parma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
         "played": 7,
@@ -773,20 +787,6 @@
         "goalsdiff": "-5",
         "points": 6,
         "form": "'DDDLW'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Benevento",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
-        "played": 7,
-        "wins": 2,
-        "draws": 0,
-        "lossess": 5,
-        "goalsfor": 10,
-        "goalsagainst": 20,
-        "goalsdiff": "-10",
-        "points": 6,
-        "form": "'LLLLW'"
     },
     {
         "teamrank": 17,
