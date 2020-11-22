@@ -862,6 +862,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Olympique Lyonnais",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+        "played": 11,
+        "wins": 5,
+        "draws": 5,
+        "lossess": 1,
+        "goalsfor": 18,
+        "goalsagainst": 10,
+        "goalsdiff": "+8",
+        "points": 20,
+        "form": "'WWDWW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Monaco",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
         "played": 11,
@@ -875,7 +889,7 @@
         "form": "'WWWLD'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Montpellier",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "played": 11,
@@ -889,7 +903,7 @@
         "form": "'WWWLD'"
     },
     {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Lille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "played": 10,
@@ -903,7 +917,7 @@
         "form": "'LDDWW'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Olympique Marseille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
         "played": 9,
@@ -917,7 +931,7 @@
         "form": "'WWWDD'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Rennes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
         "played": 11,
@@ -929,20 +943,6 @@
         "goalsdiff": "+3",
         "points": 18,
         "form": "'LLWLD'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Olympique Lyonnais",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "played": 10,
-        "wins": 4,
-        "draws": 5,
-        "lossess": 1,
-        "goalsfor": 17,
-        "goalsagainst": 10,
-        "goalsdiff": "+7",
-        "points": 17,
-        "form": "'WDWWD'"
     },
     {
         "teamrank": 8,
@@ -990,15 +990,15 @@
         "teamrank": 11,
         "teamname": "Angers SCO",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-        "played": 10,
+        "played": 11,
         "wins": 5,
         "draws": 1,
-        "lossess": 4,
+        "lossess": 5,
         "goalsfor": 15,
-        "goalsagainst": 20,
-        "goalsdiff": "-5",
+        "goalsagainst": 21,
+        "goalsdiff": "-6",
         "points": 16,
-        "form": "'WLWDL'"
+        "form": "'LWLWD'"
     },
     {
         "teamrank": 12,
