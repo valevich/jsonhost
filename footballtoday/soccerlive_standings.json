@@ -396,6 +396,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Getafe",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+        "played": 9,
+        "wins": 3,
+        "draws": 3,
+        "lossess": 3,
+        "goalsfor": 8,
+        "goalsagainst": 9,
+        "goalsdiff": "-1",
+        "points": 12,
+        "form": "'DLDLW'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "played": 9,
@@ -409,7 +423,7 @@
         "form": "'LWLLW'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Barcelona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
         "played": 8,
@@ -423,7 +437,7 @@
         "form": "'LWDLL'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "played": 9,
@@ -435,20 +449,6 @@
         "goalsdiff": "+1",
         "points": 11,
         "form": "'WDLLL'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Getafe",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-        "played": 8,
-        "wins": 3,
-        "draws": 2,
-        "lossess": 3,
-        "goalsfor": 8,
-        "goalsagainst": 9,
-        "goalsdiff": "-1",
-        "points": 11,
-        "form": "'LDLWL'"
     },
     {
         "teamrank": 13,
@@ -466,6 +466,20 @@
     },
     {
         "teamrank": 14,
+        "teamname": "Eibar",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
+        "played": 10,
+        "wins": 2,
+        "draws": 4,
+        "lossess": 4,
+        "goalsfor": 6,
+        "goalsagainst": 9,
+        "goalsdiff": "-3",
+        "points": 10,
+        "form": "'DDLWD'"
+    },
+    {
+        "teamrank": 15,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 8,
@@ -479,7 +493,7 @@
         "form": "'LWLWL'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 9,
@@ -491,20 +505,6 @@
         "goalsdiff": "-3",
         "points": 9,
         "form": "'DDWLW'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Eibar",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 9,
-        "wins": 2,
-        "draws": 3,
-        "lossess": 4,
-        "goalsfor": 6,
-        "goalsagainst": 9,
-        "goalsdiff": "-3",
-        "points": 9,
-        "form": "'DLWDW'"
     },
     {
         "teamrank": 17,
