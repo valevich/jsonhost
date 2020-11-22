@@ -558,6 +558,15 @@
         "playerassists": 2
     },
     {
+        "playername": "E. Haaland",
+        "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
+        "playerteam": "Borussia Dortmund",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+        "playergoals": 10,
+        "playerassists": 1
+    },
+    {
         "playername": "L. Alario",
         "playerlink": "https://www.livesoccertv.com/player/l-alario/160318/",
         "playerteam": "Bayer Leverkusen",
@@ -576,22 +585,13 @@
         "playerassists": 3
     },
     {
-        "playername": "E. Haaland",
-        "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
-        "playerteam": "Borussia Dortmund",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-        "playergoals": 6,
-        "playerassists": 1
-    },
-    {
         "playername": "Matheus Cunha",
         "playerlink": "https://www.livesoccertv.com/player/matheus-cunha/359098/",
         "playerteam": "Hertha BSC",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
-        "playergoals": 5,
-        "playerassists": 1
+        "playergoals": 6,
+        "playerassists": 2
     },
     {
         "playername": "André Miguel Valente Silva",
