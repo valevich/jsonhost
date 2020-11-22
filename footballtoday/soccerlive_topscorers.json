@@ -558,15 +558,6 @@
         "playerassists": 2
     },
     {
-        "playername": "E. Haaland",
-        "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
-        "playerteam": "Borussia Dortmund",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-        "playergoals": 9,
-        "playerassists": 1
-    },
-    {
         "playername": "L. Alario",
         "playerlink": "https://www.livesoccertv.com/player/l-alario/160318/",
         "playerteam": "Bayer Leverkusen",
@@ -583,6 +574,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
         "playergoals": 7,
         "playerassists": 3
+    },
+    {
+        "playername": "E. Haaland",
+        "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
+        "playerteam": "Borussia Dortmund",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+        "playergoals": 6,
+        "playerassists": 1
     },
     {
         "playername": "Matheus Cunha",
@@ -618,69 +618,6 @@
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
         "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "J. Mateta",
-        "playerlink": "https://www.livesoccertv.com/player/j-mateta/289035/",
-        "playerteam": "Mainz 05",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/1-fsv-mainz-05/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-        "playergoals": 4,
-        "playerassists": 1
-    },
-    {
-        "playername": "T. Müller",
-        "playerlink": "https://www.livesoccertv.com/player/t-muller/38348/",
-        "playerteam": "Bayern Munich",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "playergoals": 4,
-        "playerassists": 1
-    },
-    {
-        "playername": "Lars Stindl",
-        "playerlink": "https://www.livesoccertv.com/player/l-stindl/39612/",
-        "playerteam": "Borussia M'gladbach",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-        "playergoals": 4,
-        "playerassists": 2
-    },
-    {
-        "playername": "W. Weghorst",
-        "playerlink": "https://www.livesoccertv.com/player/w-weghorst/207339/",
-        "playerteam": "Wolfsburg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "D. Caligiuri",
-        "playerlink": "https://www.livesoccertv.com/player/d-caligiuri/54628/",
-        "playerteam": "Augsburg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/fc-augsburg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "J. Córdoba",
-        "playerlink": "https://www.livesoccertv.com/player/j-cordoba/134471/",
-        "playerteam": "Hertha BSC",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "Angeliño",
-        "playerlink": "https://www.livesoccertv.com/player/angelino/250368/",
-        "playerteam": "RB Leipzig",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/rb-leipzig/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-        "playergoals": 3,
         "playerassists": 0
     }
   ]
