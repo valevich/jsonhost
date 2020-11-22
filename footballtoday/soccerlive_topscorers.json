@@ -1,21 +1,21 @@
 {
   "premier-league": [
     {
+        "playername": "D. Calvert-Lewin",
+        "playerlink": "https://www.livesoccertv.com/player/d-calvert-lewin/258776/",
+        "playerteam": "Everton",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/everton/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+        "playergoals": 10,
+        "playerassists": 0
+    },
+    {
         "playername": "Son Heung-Min",
         "playerlink": "https://www.livesoccertv.com/player/son-heung-min/96227/",
         "playerteam": "Tottenham Hotspur",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "playergoals": 9,
-        "playerassists": 0
-    },
-    {
-        "playername": "D. Calvert-Lewin",
-        "playerlink": "https://www.livesoccertv.com/player/d-calvert-lewin/258776/",
-        "playerteam": "Everton",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/everton/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-        "playergoals": 8,
         "playerassists": 0
     },
     {
