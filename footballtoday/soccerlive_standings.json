@@ -776,6 +776,20 @@
     },
     {
         "teamrank": 16,
+        "teamname": "Udinese",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+        "played": 8,
+        "wins": 2,
+        "draws": 1,
+        "lossess": 5,
+        "goalsfor": 7,
+        "goalsagainst": 11,
+        "goalsdiff": "-4",
+        "points": 7,
+        "form": "'WDLLW'"
+    },
+    {
+        "teamrank": 17,
         "teamname": "Parma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
         "played": 8,
@@ -787,20 +801,6 @@
         "goalsdiff": "-8",
         "points": 6,
         "form": "'LDDDL'"
-    },
-    {
-        "teamrank": 17,
-        "teamname": "Genoa",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-        "played": 7,
-        "wins": 1,
-        "draws": 2,
-        "lossess": 4,
-        "goalsfor": 7,
-        "goalsagainst": 15,
-        "goalsdiff": "-8",
-        "points": 5,
-        "form": "'LLDLD'"
     },
     {
         "teamrank": 18,
@@ -818,17 +818,17 @@
     },
     {
         "teamrank": 19,
-        "teamname": "Udinese",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-        "played": 7,
+        "teamname": "Genoa",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+        "played": 8,
         "wins": 1,
-        "draws": 1,
+        "draws": 2,
         "lossess": 5,
-        "goalsfor": 6,
-        "goalsagainst": 11,
-        "goalsdiff": "-5",
-        "points": 4,
-        "form": "'DLLWL'"
+        "goalsfor": 7,
+        "goalsagainst": 16,
+        "goalsdiff": "-9",
+        "points": 5,
+        "form": "'LLLDL'"
     },
     {
         "teamrank": 20,
@@ -1186,6 +1186,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Union Berlin",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+        "played": 8,
+        "wins": 4,
+        "draws": 3,
+        "lossess": 1,
+        "goalsfor": 18,
+        "goalsagainst": 8,
+        "goalsdiff": "+10",
+        "points": 15,
+        "form": "'WWWDD'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Wolfsburg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
         "played": 8,
@@ -1197,20 +1211,6 @@
         "goalsdiff": "+4",
         "points": 14,
         "form": "'WWDWD'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Union Berlin",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-        "played": 7,
-        "wins": 3,
-        "draws": 3,
-        "lossess": 1,
-        "goalsfor": 16,
-        "goalsagainst": 7,
-        "goalsdiff": "+9",
-        "points": 12,
-        "form": "'WWDDW'"
     },
     {
         "teamrank": 7,
@@ -1356,15 +1356,15 @@
         "teamrank": 17,
         "teamname": "Köln",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-        "played": 7,
+        "played": 8,
         "wins": 0,
         "draws": 3,
-        "lossess": 4,
-        "goalsfor": 7,
-        "goalsagainst": 12,
-        "goalsdiff": "-5",
+        "lossess": 5,
+        "goalsfor": 8,
+        "goalsagainst": 14,
+        "goalsdiff": "-6",
         "points": 3,
-        "form": "'DLDDL'"
+        "form": "'LDLDD'"
     },
     {
         "teamrank": 18,
