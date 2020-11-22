@@ -37,7 +37,7 @@
       "AwayTeam": "West Ham",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  B…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  Blue T…"
     },
     {
       "LeagueName": "English Premier League",
@@ -95,7 +95,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "10:15am",
-      "GameState": "40 ",
+      "GameState": "HT ",
       "HomeTeam": "Cádiz",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
@@ -160,14 +160,14 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "9:00am",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Inter",
       "HomeGoals": "4",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
       "AwayTeam": "Torino",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  Fanatiz US…"
+      "TVChannels": "ESPN+ ,  fuboTV ,  Fanatiz USA ,  ESPN App ,  Ra…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -180,20 +180,20 @@
       "AwayTeam": "Parma",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN2 Cari…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN2 Caribbean ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "9:00am",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Sampdoria",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
       "AwayTeam": "Bologna",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play Norte ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -206,7 +206,7 @@
       "AwayTeam": "Sassuolo",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play Norte ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -251,7 +251,7 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "66 ",
+      "GameState": "76 ",
       "HomeTeam": "Freiburg",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
@@ -310,7 +310,7 @@
       "AwayTeam": "Lens",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN SPORTS CO…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -323,7 +323,7 @@
       "AwayTeam": "Strasbourg",
       "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN SPORTS CO…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -342,12 +342,12 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "11:00am",
-      "GameState": "",
+      "GameState": "5 '",
       "HomeTeam": "Angers",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
       "AwayTeam": "Lyon",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
       "TVChannels": "nais ESPN Caribbean ,  ESPN Play Norte ,  ESPN…"
     },
@@ -459,12 +459,12 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "11:00am",
-      "GameState": "",
+      "GameState": "7 '",
       "HomeTeam": "Ried",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Rapid Wien",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://cdn.livesoccertv.com/images/teams/austria/logos/rapid-wien.png",
       "TVChannels": "Sky Sport Austria 1 ,  Sky Go ,  Sky Ticket ,  O…"
     }
