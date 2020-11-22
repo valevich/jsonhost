@@ -1,6 +1,15 @@
 {
   "premier-league": [
     {
+        "playername": "Son Heung-Min",
+        "playerlink": "https://www.livesoccertv.com/player/son-heung-min/96227/",
+        "playerteam": "Tottenham Hotspur",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
         "playername": "D. Calvert-Lewin",
         "playerlink": "https://www.livesoccertv.com/player/d-calvert-lewin/258776/",
         "playerteam": "Everton",
@@ -17,15 +26,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "playergoals": 8,
         "playerassists": 4
-    },
-    {
-        "playername": "Son Heung-Min",
-        "playerlink": "https://www.livesoccertv.com/player/son-heung-min/96227/",
-        "playerteam": "Tottenham Hotspur",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "playergoals": 8,
-        "playerassists": 0
     },
     {
         "playername": "J. Vardy",
@@ -55,6 +55,15 @@
         "playerassists": 2
     },
     {
+        "playername": "Bruno Fernandes",
+        "playerlink": "https://www.livesoccertv.com/player/bruno-fernandes/222404/",
+        "playerteam": "Manchester United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "playergoals": 6,
+        "playerassists": 3
+    },
+    {
         "playername": "O. Watkins",
         "playerlink": "https://www.livesoccertv.com/player/o-watkins/264917/",
         "playerteam": "Aston Villa",
@@ -71,15 +80,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "playergoals": 6,
         "playerassists": 3
-    },
-    {
-        "playername": "Bruno Fernandes",
-        "playerlink": "https://www.livesoccertv.com/player/bruno-fernandes/222404/",
-        "playerteam": "Manchester United",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "playergoals": 5,
-        "playerassists": 2
     },
     {
         "playername": "D. Ings",
@@ -618,6 +618,69 @@
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
         "playergoals": 4,
+        "playerassists": 0
+    },
+    {
+        "playername": "J. Mateta",
+        "playerlink": "https://www.livesoccertv.com/player/j-mateta/289035/",
+        "playerteam": "Mainz 05",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/1-fsv-mainz-05/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+        "playergoals": 4,
+        "playerassists": 1
+    },
+    {
+        "playername": "T. Müller",
+        "playerlink": "https://www.livesoccertv.com/player/t-muller/38348/",
+        "playerteam": "Bayern Munich",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "playergoals": 4,
+        "playerassists": 1
+    },
+    {
+        "playername": "Lars Stindl",
+        "playerlink": "https://www.livesoccertv.com/player/l-stindl/39612/",
+        "playerteam": "Borussia M'gladbach",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+        "playergoals": 4,
+        "playerassists": 2
+    },
+    {
+        "playername": "W. Weghorst",
+        "playerlink": "https://www.livesoccertv.com/player/w-weghorst/207339/",
+        "playerteam": "Wolfsburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+        "playergoals": 4,
+        "playerassists": 0
+    },
+    {
+        "playername": "D. Caligiuri",
+        "playerlink": "https://www.livesoccertv.com/player/d-caligiuri/54628/",
+        "playerteam": "Augsburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/fc-augsburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
+        "playername": "J. Córdoba",
+        "playerlink": "https://www.livesoccertv.com/player/j-cordoba/134471/",
+        "playerteam": "Hertha BSC",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
+        "playername": "Angeliño",
+        "playerlink": "https://www.livesoccertv.com/player/angelino/250368/",
+        "playerteam": "RB Leipzig",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/rb-leipzig/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+        "playergoals": 3,
         "playerassists": 0
     }
   ]
