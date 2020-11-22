@@ -275,6 +275,15 @@
   ],
   "serie-a": [
     {
+        "playername": "Cristiano Ronaldo",
+        "playerlink": "https://www.livesoccertv.com/player/cristiano-ronaldo/515/",
+        "playerteam": "Juventus",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/juventus/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+        "playergoals": 8,
+        "playerassists": 2
+    },
+    {
         "playername": "Z. Ibrahimović",
         "playerlink": "https://www.livesoccertv.com/player/z-ibrahimovic/301/",
         "playerteam": "Milan",
@@ -289,15 +298,6 @@
         "playerteam": "Torino",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/torino/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-        "playergoals": 6,
-        "playerassists": 2
-    },
-    {
-        "playername": "Cristiano Ronaldo",
-        "playerlink": "https://www.livesoccertv.com/player/cristiano-ronaldo/515/",
-        "playerteam": "Juventus",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/juventus/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
         "playergoals": 6,
         "playerassists": 2
     },
@@ -356,6 +356,15 @@
         "playerassists": 0
     },
     {
+        "playername": "C. Immobile",
+        "playerlink": "https://www.livesoccertv.com/player/c-immobile/75297/",
+        "playerteam": "Lazio",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/lazio-roma/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+        "playergoals": 4,
+        "playerassists": 1
+    },
+    {
         "playername": "H. Lozano",
         "playerlink": "https://www.livesoccertv.com/player/h-lozano/259658/",
         "playerteam": "Napoli",
@@ -399,15 +408,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
         "playergoals": 4,
         "playerassists": 0
-    },
-    {
-        "playername": "J. Veretout",
-        "playerlink": "https://www.livesoccertv.com/player/j-veretout/156122/",
-        "playerteam": "Roma",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "playergoals": 4,
-        "playerassists": 3
     }
   ],
   "ligue-1": [
@@ -558,6 +558,15 @@
         "playerassists": 2
     },
     {
+        "playername": "E. Haaland",
+        "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
+        "playerteam": "Borussia Dortmund",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+        "playergoals": 9,
+        "playerassists": 1
+    },
+    {
         "playername": "L. Alario",
         "playerlink": "https://www.livesoccertv.com/player/l-alario/160318/",
         "playerteam": "Bayer Leverkusen",
@@ -574,15 +583,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
         "playergoals": 7,
         "playerassists": 3
-    },
-    {
-        "playername": "E. Haaland",
-        "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
-        "playerteam": "Borussia Dortmund",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-        "playergoals": 6,
-        "playerassists": 1
     },
     {
         "playername": "Matheus Cunha",
