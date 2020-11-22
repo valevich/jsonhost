@@ -121,14 +121,14 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "75 ",
+      "GameState": "FT ",
       "HomeTeam": "Alavés",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
       "AwayTeam": "Valencia",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN SP…"
+      "TVChannels": "fuboTV ,  Fanatiz USA ,  beIN SPORTS en Es…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -225,14 +225,14 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "86 ",
+      "GameState": "FT ",
       "HomeTeam": "Napoli",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
       "AwayTeam": "Milan",
-      "AwayGoals": "2",
+      "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "TVChannels": "ESPN ,  ESPN Deportes ,  ESPN Deportes…"
+      "TVChannels": "ESPN ,  ESPN Deportes ,  ESPN Deportes+ ,  ES…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -355,14 +355,14 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
-      "GameState": "72 ",
+      "GameState": "FT ",
       "HomeTeam": "Lille",
-      "HomeGoals": "3",
+      "HomeGoals": "4",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
       "AwayTeam": "Lorient",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
+      "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz USA ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -381,12 +381,12 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "4:00pm",
-      "GameState": "7 '",
+      "GameState": "34 ",
       "HomeTeam": "Sporting KC",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png",
       "AwayTeam": "SJ Earthquakes",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
       "TVChannels": "*MLS Playoffs Fox Sports 1 ,  fuboTV ,  FOX Spor…"
     },
