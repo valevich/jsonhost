@@ -60,15 +60,15 @@
         "teamrank": 5,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "played": 8,
+        "played": 9,
         "wins": 5,
-        "draws": 1,
+        "draws": 2,
         "lossess": 2,
-        "goalsfor": 16,
-        "goalsagainst": 12,
+        "goalsfor": 17,
+        "goalsagainst": 13,
         "goalsdiff": "+4",
-        "points": 16,
-        "form": "'WWWDW'"
+        "points": 17,
+        "form": "'DWWWD'"
     },
     {
         "teamrank": 6,
@@ -114,6 +114,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Wolverhampton Wanderers",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+        "played": 9,
+        "wins": 4,
+        "draws": 2,
+        "lossess": 3,
+        "goalsfor": 9,
+        "goalsagainst": 10,
+        "goalsdiff": "-1",
+        "points": 14,
+        "form": "'DLWDW'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Manchester United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "played": 8,
@@ -127,7 +141,7 @@
         "form": "'WWLDW'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
         "played": 9,
@@ -141,7 +155,7 @@
         "form": "'LWLWD'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "played": 9,
@@ -153,20 +167,6 @@
         "goalsdiff": "-1",
         "points": 13,
         "form": "'DLWLL'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Wolverhampton Wanderers",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-        "played": 8,
-        "wins": 4,
-        "draws": 1,
-        "lossess": 3,
-        "goalsfor": 8,
-        "goalsagainst": 9,
-        "goalsdiff": "-1",
-        "points": 13,
-        "form": "'LWDWW'"
     },
     {
         "teamrank": 13,
@@ -382,6 +382,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Athletic Club",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "played": 9,
+        "wins": 4,
+        "draws": 0,
+        "lossess": 5,
+        "goalsfor": 11,
+        "goalsagainst": 9,
+        "goalsdiff": "+2",
+        "points": 12,
+        "form": "'WLWLW'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "played": 10,
@@ -395,7 +409,7 @@
         "form": "'DWDLL'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Elche",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
         "played": 8,
@@ -409,7 +423,7 @@
         "form": "'DDLWW'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Getafe",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
         "played": 9,
@@ -423,21 +437,21 @@
         "form": "'DLDLW'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 9,
+        "played": 10,
         "wins": 4,
         "draws": 0,
-        "lossess": 5,
+        "lossess": 6,
         "goalsfor": 12,
-        "goalsagainst": 17,
-        "goalsdiff": "-5",
+        "goalsagainst": 21,
+        "goalsdiff": "-9",
         "points": 12,
-        "form": "'LWLLW'"
+        "form": "'LLWLL'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Barcelona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
         "played": 8,
@@ -451,7 +465,7 @@
         "form": "'LWDLL'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Osasuna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
         "played": 9,
@@ -465,7 +479,7 @@
         "form": "'DLLWD'"
     },
     {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 10,
@@ -479,7 +493,7 @@
         "form": "'DDDWL'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "played": 10,
@@ -491,20 +505,6 @@
         "goalsdiff": "-3",
         "points": 10,
         "form": "'DDLWD'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Athletic Club",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "played": 8,
-        "wins": 3,
-        "draws": 0,
-        "lossess": 5,
-        "goalsfor": 7,
-        "goalsagainst": 9,
-        "goalsdiff": "-2",
-        "points": 9,
-        "form": "'LWLWL'"
     },
     {
         "teamrank": 17,
