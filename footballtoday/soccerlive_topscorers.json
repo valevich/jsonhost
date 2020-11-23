@@ -585,6 +585,15 @@
         "playerassists": 3
     },
     {
+        "playername": "J. Mateta",
+        "playerlink": "https://www.livesoccertv.com/player/j-mateta/289035/",
+        "playerteam": "Mainz 05",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/1-fsv-mainz-05/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+        "playergoals": 7,
+        "playerassists": 1
+    },
+    {
         "playername": "Matheus Cunha",
         "playerlink": "https://www.livesoccertv.com/player/matheus-cunha/359098/",
         "playerteam": "Hertha BSC",
@@ -621,13 +630,13 @@
         "playerassists": 0
     },
     {
-        "playername": "J. Mateta",
-        "playerlink": "https://www.livesoccertv.com/player/j-mateta/289035/",
-        "playerteam": "Mainz 05",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/1-fsv-mainz-05/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+        "playername": "M. Kruse",
+        "playerlink": "https://www.livesoccertv.com/player/m-kruse/38633/",
+        "playerteam": "Union Berlin",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/union-berlin/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
         "playergoals": 4,
-        "playerassists": 1
+        "playerassists": 2
     },
     {
         "playername": "T. Müller",
@@ -637,6 +646,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
         "playergoals": 4,
         "playerassists": 1
+    },
+    {
+        "playername": "N. Petersen",
+        "playerlink": "https://www.livesoccertv.com/player/n-petersen/16443/",
+        "playerteam": "Freiburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/sc-freiburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+        "playergoals": 4,
+        "playerassists": 0
     },
     {
         "playername": "Lars Stindl",
@@ -662,24 +680,6 @@
         "playerteam": "Augsburg",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/fc-augsburg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "J. Córdoba",
-        "playerlink": "https://www.livesoccertv.com/player/j-cordoba/134471/",
-        "playerteam": "Hertha BSC",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "Angeliño",
-        "playerlink": "https://www.livesoccertv.com/player/angelino/250368/",
-        "playerteam": "RB Leipzig",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/rb-leipzig/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
         "playergoals": 3,
         "playerassists": 0
     }
