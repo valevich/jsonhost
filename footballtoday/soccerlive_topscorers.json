@@ -275,6 +275,15 @@
   ],
   "serie-a": [
     {
+        "playername": "Z. Ibrahimović",
+        "playerlink": "https://www.livesoccertv.com/player/z-ibrahimovic/301/",
+        "playerteam": "Milan",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/ac-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+        "playergoals": 10,
+        "playerassists": 2
+    },
+    {
         "playername": "Cristiano Ronaldo",
         "playerlink": "https://www.livesoccertv.com/player/cristiano-ronaldo/515/",
         "playerteam": "Juventus",
@@ -284,13 +293,13 @@
         "playerassists": 2
     },
     {
-        "playername": "Z. Ibrahimović",
-        "playerlink": "https://www.livesoccertv.com/player/z-ibrahimovic/301/",
-        "playerteam": "Milan",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/ac-milan/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-        "playergoals": 8,
-        "playerassists": 2
+        "playername": "R. Lukaku",
+        "playerlink": "https://www.livesoccertv.com/player/r-lukaku/79627/",
+        "playerteam": "Internazionale",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+        "playergoals": 7,
+        "playerassists": 1
     },
     {
         "playername": "A. Belotti",
@@ -320,11 +329,20 @@
         "playerassists": 1
     },
     {
-        "playername": "R. Lukaku",
-        "playerlink": "https://www.livesoccertv.com/player/r-lukaku/79627/",
+        "playername": "L. Martínez",
+        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
         "playerteam": "Internazionale",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+        "playergoals": 5,
+        "playerassists": 0
+    },
+    {
+        "playername": "H. Mkhitaryan",
+        "playerlink": "https://www.livesoccertv.com/player/h-mkhitaryan/39930/",
+        "playerteam": "Roma",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
         "playergoals": 5,
         "playerassists": 0
     },
@@ -336,6 +354,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
         "playergoals": 5,
         "playerassists": 0
+    },
+    {
+        "playername": "D. Berardi",
+        "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
+        "playerteam": "Sassuolo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+        "playergoals": 4,
+        "playerassists": 1
     },
     {
         "playername": "G. Castrovilli",
@@ -374,38 +401,11 @@
         "playerassists": 0
     },
     {
-        "playername": "L. Martínez",
-        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
-        "playerteam": "Internazionale",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "playergoals": 4,
-        "playerassists": 0
-    },
-    {
         "playername": "L. Muriel",
         "playerlink": "https://www.livesoccertv.com/player/l-muriel/83663/",
         "playerteam": "Atalanta",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "F. Quagliarella",
-        "playerlink": "https://www.livesoccertv.com/player/f-quagliarella/4297/",
-        "playerteam": "Sampdoria",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/sampdoria/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-        "playergoals": 4,
-        "playerassists": 1
-    },
-    {
-        "playername": "R. Soriano",
-        "playerlink": "https://www.livesoccertv.com/player/r-soriano/72442/",
-        "playerteam": "Bologna",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/bologna/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
         "playergoals": 4,
         "playerassists": 0
     }
