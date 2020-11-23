@@ -114,20 +114,6 @@
     },
     {
         "teamrank": 9,
-        "teamname": "Crystal Palace",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "played": 8,
-        "wins": 4,
-        "draws": 1,
-        "lossess": 3,
-        "goalsfor": 12,
-        "goalsagainst": 12,
-        "goalsdiff": "0",
-        "points": 13,
-        "form": "'WLWDL'"
-    },
-    {
-        "teamrank": 10,
         "teamname": "Manchester United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "played": 8,
@@ -139,6 +125,20 @@
         "goalsdiff": "-1",
         "points": 13,
         "form": "'WWLDW'"
+    },
+    {
+        "teamrank": 10,
+        "teamname": "Crystal Palace",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+        "played": 9,
+        "wins": 4,
+        "draws": 1,
+        "lossess": 4,
+        "goalsfor": 12,
+        "goalsagainst": 13,
+        "goalsdiff": "-1",
+        "points": 13,
+        "form": "'LWLWD'"
     },
     {
         "teamrank": 11,
@@ -226,6 +226,20 @@
     },
     {
         "teamrank": 17,
+        "teamname": "Burnley",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+        "played": 8,
+        "wins": 1,
+        "draws": 2,
+        "lossess": 5,
+        "goalsfor": 4,
+        "goalsagainst": 12,
+        "goalsdiff": "-8",
+        "points": 5,
+        "form": "'WDLLD'"
+    },
+    {
+        "teamrank": 18,
         "teamname": "Fulham",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
         "played": 9,
@@ -239,7 +253,7 @@
         "form": "'LLWLD'"
     },
     {
-        "teamrank": 18,
+        "teamrank": 19,
         "teamname": "West Bromwich Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
         "played": 9,
@@ -251,20 +265,6 @@
         "goalsdiff": "-12",
         "points": 3,
         "form": "'LLLDD'"
-    },
-    {
-        "teamrank": 19,
-        "teamname": "Burnley",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-        "played": 7,
-        "wins": 0,
-        "draws": 2,
-        "lossess": 5,
-        "goalsfor": 3,
-        "goalsagainst": 12,
-        "goalsdiff": "-9",
-        "points": 2,
-        "form": "'DLLDL'"
     },
     {
         "teamrank": 20,
@@ -1365,6 +1365,20 @@
         "goalsdiff": "-6",
         "points": 3,
         "form": "'LDLDD'"
+    },
+    {
+        "teamrank": 18,
+        "teamname": "Schalke 04",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
+        "played": 8,
+        "wins": 0,
+        "draws": 3,
+        "lossess": 5,
+        "goalsfor": 5,
+        "goalsagainst": 24,
+        "goalsdiff": "-19",
+        "points": 3,
+        "form": "'LDDLD'"
     }
   ]
 }
