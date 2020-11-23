@@ -64,6 +64,32 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
       "TVChannels": "beIN SPORTS ,  fuboTV ,  Fanatiz…"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "Monday Nov. 23, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "7:45pm",
+      "GameState": "",
+      "HomeTeam": "Minnesota UTD",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Colorado Rapids",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png",
+      "TVChannels": "MLSsoccer.com ,  Altitude Sport…"
     }
   ],
   "day2": [
@@ -1544,7 +1570,7 @@
       "AwayTeam": "Stade de Reims",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-      "TVChannels": "DAZN ,  BT Sport ESPN ,  Viaplay Denmark ,  Vi…"
+      "TVChannels": "DAZN ,  BT Sport ESPN ,  Nova Sport 1 ,  Viapl…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1622,7 +1648,7 @@
       "AwayTeam": "Lille",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-      "TVChannels": "OneSoccer ,  DAZN ,  Viaplay Denmark ,  Viaplay…"
+      "TVChannels": "OneSoccer ,  DAZN ,  Nova Sport 1 ,  Viaplay Den…"
     },
     {
       "LeagueName": "German Bundesliga",
