@@ -439,6 +439,15 @@
         "playerassists": 3
     },
     {
+        "playername": "A. Delort",
+        "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
+        "playerteam": "Montpellier",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playergoals": 6,
+        "playerassists": 0
+    },
+    {
         "playername": "I. Niane",
         "playerlink": "https://www.livesoccertv.com/player/i-niane/351474/",
         "playerteam": "Metz",
@@ -466,6 +475,15 @@
         "playerassists": 3
     },
     {
+        "playername": "L. Ajorque",
+        "playerlink": "https://www.livesoccertv.com/player/l-ajorque/214402/",
+        "playerteam": "Strasbourg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/strasbourg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+        "playergoals": 4,
+        "playerassists": 2
+    },
+    {
         "playername": "S. Bahoken",
         "playerlink": "https://www.livesoccertv.com/player/s-bahoken/159571/",
         "playerteam": "Angers SCO",
@@ -484,11 +502,11 @@
         "playerassists": 0
     },
     {
-        "playername": "A. Delort",
-        "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
-        "playerteam": "Montpellier",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playername": "T. Kadewere",
+        "playerlink": "https://www.livesoccertv.com/player/t-kadewere/302725/",
+        "playerteam": "Olympique Lyonnais",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "playergoals": 4,
         "playerassists": 0
     },
@@ -526,24 +544,6 @@
         "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
         "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "Y. Wissa",
-        "playerlink": "https://www.livesoccertv.com/player/y-wissa/254639/",
-        "playerteam": "Lorient",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/lorient/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-        "playergoals": 4,
-        "playerassists": 2
-    },
-    {
-        "playername": "N. Aguerd",
-        "playerlink": "https://www.livesoccertv.com/player/n-aguerd/297050/",
-        "playerteam": "Rennes",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/stade-rennes/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-        "playergoals": 3,
         "playerassists": 0
     }
   ],
