@@ -1410,7 +1410,7 @@
       "AwayTeam": "NE Revolution",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
-      "TVChannels": "ABC ,  ESPN Deportes ,  ESPN Deportes+ ,  …"
+      "TVChannels": "*Eastern Conference Semi Finals ABC ,  ESPN Deportes ,  ESPN Deportes+ ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -1423,7 +1423,7 @@
       "AwayTeam": "Nashville SC",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
-      "TVChannels": "SC ESPN ,  ESPN Deportes ,  ESPN Deportes…"
+      "TVChannels": "SC *Eastern Conference Semi Finals ESPN ,  ESPN Deportes ,  ESPN Deportes…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -1475,7 +1475,7 @@
       "AwayTeam": "Austria",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/474.png",
-      "TVChannels": "Wien Sky Sport Austria 1 ,  Sky Go ,  Sky Ticket ,  O…"
+      "TVChannels": "Wien Sky Sport Austria 1 ,  Sky Go ,  SportKlub 6…"
     },
     {
       "LeagueName": "English FA Cup",
@@ -1895,7 +1895,7 @@
       "AwayTeam": "FC Dallas",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
-      "TVChannels": "Fox Sports 1 ,  fuboTV ,  FOX Deportes ,  …"
+      "TVChannels": "*Western Conference Semi Finals Fox Sports 1 ,  fuboTV ,  FOX Deportes ,  …"
     }
   ]
 }
