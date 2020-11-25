@@ -946,6 +946,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Lens",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+        "played": 10,
+        "wins": 5,
+        "draws": 3,
+        "lossess": 2,
+        "goalsfor": 16,
+        "goalsagainst": 15,
+        "goalsdiff": "+1",
+        "points": 18,
+        "form": "'DWDLW'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Nice",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
         "played": 10,
@@ -957,20 +971,6 @@
         "goalsdiff": "+3",
         "points": 17,
         "form": "'LWDWW'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Lens",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-        "played": 9,
-        "wins": 5,
-        "draws": 2,
-        "lossess": 2,
-        "goalsfor": 15,
-        "goalsagainst": 14,
-        "goalsdiff": "+1",
-        "points": 17,
-        "form": "'WDLWD'"
     },
     {
         "teamrank": 10,
@@ -1032,15 +1032,15 @@
         "teamrank": 14,
         "teamname": "Nantes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-        "played": 10,
+        "played": 11,
         "wins": 3,
-        "draws": 3,
+        "draws": 4,
         "lossess": 4,
-        "goalsfor": 12,
-        "goalsagainst": 14,
+        "goalsfor": 13,
+        "goalsagainst": 15,
         "goalsdiff": "-2",
-        "points": 12,
-        "form": "'DWLWL'"
+        "points": 13,
+        "form": "'DDWLW'"
     },
     {
         "teamrank": 15,
