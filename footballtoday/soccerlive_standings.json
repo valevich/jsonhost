@@ -1083,6 +1083,48 @@
         "goalsdiff": "-3",
         "points": 9,
         "form": "'LDWWL'"
+    },
+    {
+        "teamrank": 18,
+        "teamname": "Lorient",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+        "played": 11,
+        "wins": 2,
+        "draws": 2,
+        "lossess": 7,
+        "goalsfor": 12,
+        "goalsagainst": 21,
+        "goalsdiff": "-9",
+        "points": 8,
+        "form": "'LLDLW'"
+    },
+    {
+        "teamrank": 19,
+        "teamname": "Strasbourg",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+        "played": 11,
+        "wins": 2,
+        "draws": 0,
+        "lossess": 9,
+        "goalsfor": 13,
+        "goalsagainst": 23,
+        "goalsdiff": "-10",
+        "points": 6,
+        "form": "'LLLWL'"
+    },
+    {
+        "teamrank": 20,
+        "teamname": "Dijon",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
+        "played": 11,
+        "wins": 0,
+        "draws": 4,
+        "lossess": 7,
+        "goalsfor": 5,
+        "goalsagainst": 20,
+        "goalsdiff": "-15",
+        "points": 4,
+        "form": "'LDDLD'"
     }
   ],
   "bundesliga": [
