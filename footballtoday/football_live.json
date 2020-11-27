@@ -69,12 +69,12 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "2:30pm",
-      "GameState": "10 ",
+      "GameState": "20 ",
       "HomeTeam": "Wolfsburg",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
       "AwayTeam": "Werder Bremen",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
     },
@@ -429,7 +429,7 @@
       "AwayTeam": "Nantes",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-      "TVChannels": "ESPN2 Norte ,  ESPN Play Norte ,  DAZN ,  A…"
+      "TVChannels": "ESPN2 Norte ,  ESPN Play Norte ,  DIRE…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -912,7 +912,7 @@
       "AwayTeam": "Lille",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-      "TVChannels": "TV5 Monde ,  ESPN Play Norte ,  TV5 ,  OneSocc…"
+      "TVChannels": "TV5 Monde ,  ESPN Play Norte ,  TV5 ,  DIR…"
     },
     {
       "LeagueName": "Major League Soccer",
