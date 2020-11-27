@@ -1186,6 +1186,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Wolfsburg",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+        "played": 9,
+        "wins": 4,
+        "draws": 5,
+        "lossess": 0,
+        "goalsfor": 14,
+        "goalsagainst": 8,
+        "goalsdiff": "+6",
+        "points": 17,
+        "form": "'WWWDW'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Union Berlin",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
         "played": 8,
@@ -1197,20 +1211,6 @@
         "goalsdiff": "+10",
         "points": 15,
         "form": "'WWWDD'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Wolfsburg",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "played": 8,
-        "wins": 3,
-        "draws": 5,
-        "lossess": 0,
-        "goalsfor": 9,
-        "goalsagainst": 5,
-        "goalsdiff": "+4",
-        "points": 14,
-        "form": "'WWDWD'"
     },
     {
         "teamrank": 7,
@@ -1242,20 +1242,6 @@
     },
     {
         "teamrank": 9,
-        "teamname": "Werder Bremen",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-        "played": 8,
-        "wins": 2,
-        "draws": 5,
-        "lossess": 1,
-        "goalsfor": 10,
-        "goalsagainst": 10,
-        "goalsdiff": "0",
-        "points": 11,
-        "form": "'DDDDD'"
-    },
-    {
-        "teamrank": 10,
         "teamname": "Augsburg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
         "played": 8,
@@ -1267,6 +1253,20 @@
         "goalsdiff": "-1",
         "points": 11,
         "form": "'DLWLL'"
+    },
+    {
+        "teamrank": 10,
+        "teamname": "Werder Bremen",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+        "played": 9,
+        "wins": 2,
+        "draws": 5,
+        "lossess": 2,
+        "goalsfor": 13,
+        "goalsagainst": 15,
+        "goalsdiff": "-2",
+        "points": 11,
+        "form": "'LDDDD'"
     },
     {
         "teamrank": 11,
