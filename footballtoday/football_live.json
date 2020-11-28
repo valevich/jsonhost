@@ -43,14 +43,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "12:30pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Everton",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
       "AwayTeam": "Leeds United",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-      "TVChannels": "NBC ,  fuboTV ,  NBCSports.com ,  Telem…"
+      "TVChannels": "NBC ,  fuboTV ,  NBCSports.com ,  Telemundo ,  NBC…"
     },
     {
       "LeagueName": "English Premier League",
@@ -108,14 +108,14 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "12:30pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Huesca",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
       "AwayTeam": "Sevilla FC",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -264,14 +264,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "12:30pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Borussia M'gladbach",
       "HomeGoals": "4",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
       "AwayTeam": "Schalke 04",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -433,14 +433,14 @@
       "LeagueName": "English FA Cup",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
       "GameTime": "12:30pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Peterborough United",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/342.png",
       "AwayTeam": "Chorley",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3829.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet One ,  Spor…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet One ,  Sportsnet…"
     }
   ],
   "day2": [
