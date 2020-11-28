@@ -2,6 +2,20 @@
   "premier-league": [
     {
         "teamrank": 1,
+        "teamname": "Liverpool",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "played": 10,
+        "wins": 6,
+        "draws": 3,
+        "lossess": 1,
+        "goalsfor": 22,
+        "goalsagainst": 17,
+        "goalsdiff": "+5",
+        "points": 21,
+        "form": "'DWDWW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 9,
@@ -13,20 +27,6 @@
         "goalsdiff": "+12",
         "points": 20,
         "form": "'WWWWD'"
-    },
-    {
-        "teamrank": 2,
-        "teamname": "Liverpool",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "played": 9,
-        "wins": 6,
-        "draws": 2,
-        "lossess": 1,
-        "goalsfor": 21,
-        "goalsagainst": 16,
-        "goalsdiff": "+5",
-        "points": 20,
-        "form": "'WDWWD'"
     },
     {
         "teamrank": 3,
@@ -214,15 +214,15 @@
         "teamrank": 16,
         "teamname": "Brighton & Hove Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-        "played": 9,
+        "played": 10,
         "wins": 2,
-        "draws": 3,
+        "draws": 4,
         "lossess": 4,
-        "goalsfor": 13,
-        "goalsagainst": 15,
+        "goalsfor": 14,
+        "goalsagainst": 16,
         "goalsdiff": "-2",
-        "points": 9,
-        "form": "'WDLDD'"
+        "points": 10,
+        "form": "'DWDLD'"
     },
     {
         "teamrank": 17,
