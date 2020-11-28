@@ -246,6 +246,15 @@
         "playerassists": 0
     },
     {
+        "playername": "Marcos André de Sousa Mendonça",
+        "playerlink": "https://www.livesoccertv.com/player/maranhao/346048/",
+        "playerteam": "Real Valladolid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-valladolid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
+        "playergoals": 3,
+        "playerassists": 0
+    },
+    {
         "playername": "Y. En-Nesyri",
         "playerlink": "https://www.livesoccertv.com/player/y-en-nesyri/333354/",
         "playerteam": "Sevilla",
@@ -260,15 +269,6 @@
         "playerteam": "Eibar",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/eibar/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "M. Gómez",
-        "playerlink": "https://www.livesoccertv.com/player/m-gomez/303140/",
-        "playerteam": "Valencia",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/valencia/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "playergoals": 3,
         "playerassists": 0
     }
@@ -603,6 +603,15 @@
         "playerassists": 2
     },
     {
+        "playername": "W. Weghorst",
+        "playerlink": "https://www.livesoccertv.com/player/w-weghorst/207339/",
+        "playerteam": "Wolfsburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+        "playergoals": 6,
+        "playerassists": 0
+    },
+    {
         "playername": "André Miguel Valente Silva",
         "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
         "playerteam": "Eintracht Frankfurt",
@@ -666,22 +675,13 @@
         "playerassists": 2
     },
     {
-        "playername": "W. Weghorst",
-        "playerlink": "https://www.livesoccertv.com/player/w-weghorst/207339/",
-        "playerteam": "Wolfsburg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "D. Caligiuri",
-        "playerlink": "https://www.livesoccertv.com/player/d-caligiuri/54628/",
-        "playerteam": "Augsburg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/fc-augsburg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+        "playername": "L. Bittencourt",
+        "playerlink": "https://www.livesoccertv.com/player/l-bittencourt/150724/",
+        "playerteam": "Werder Bremen",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/werder-bremen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
         "playergoals": 3,
-        "playerassists": 0
+        "playerassists": 1
     }
   ]
 }
