@@ -342,15 +342,15 @@
         "teamrank": 5,
         "teamname": "Cádiz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
-        "played": 10,
+        "played": 11,
         "wins": 4,
-        "draws": 2,
+        "draws": 3,
         "lossess": 4,
-        "goalsfor": 8,
-        "goalsagainst": 11,
+        "goalsfor": 9,
+        "goalsagainst": 12,
         "goalsdiff": "-3",
-        "points": 14,
-        "form": "'LLWDW'"
+        "points": 15,
+        "form": "'DLLWD'"
     },
     {
         "teamrank": 6,
@@ -382,6 +382,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Elche",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+        "played": 9,
+        "wins": 3,
+        "draws": 4,
+        "lossess": 2,
+        "goalsfor": 9,
+        "goalsagainst": 10,
+        "goalsdiff": "-1",
+        "points": 13,
+        "form": "'DDDLW'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 9,
@@ -395,7 +409,7 @@
         "form": "'WLWLW'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "played": 10,
@@ -407,20 +421,6 @@
         "goalsdiff": "+1",
         "points": 12,
         "form": "'DWDLL'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Elche",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-        "played": 8,
-        "wins": 3,
-        "draws": 3,
-        "lossess": 2,
-        "goalsfor": 8,
-        "goalsagainst": 9,
-        "goalsdiff": "-1",
-        "points": 12,
-        "form": "'DDLWW'"
     },
     {
         "teamrank": 11,
