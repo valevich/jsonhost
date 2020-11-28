@@ -100,6 +100,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Manchester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "played": 9,
+        "wins": 4,
+        "draws": 3,
+        "lossess": 2,
+        "goalsfor": 15,
+        "goalsagainst": 11,
+        "goalsdiff": "+4",
+        "points": 15,
+        "form": "'WLDWD'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "played": 9,
@@ -113,7 +127,7 @@
         "form": "'WWLDD'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
         "played": 9,
@@ -127,7 +141,7 @@
         "form": "'DLWDW'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "played": 10,
@@ -141,7 +155,7 @@
         "form": "'WLLWD'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Manchester United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "played": 8,
@@ -155,7 +169,7 @@
         "form": "'WWLDW'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "played": 9,
@@ -169,7 +183,7 @@
         "form": "'DLWLL'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
         "played": 10,
@@ -181,20 +195,6 @@
         "goalsdiff": "-3",
         "points": 13,
         "form": "'LLWLW'"
-    },
-    {
-        "teamrank": 14,
-        "teamname": "Manchester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "played": 8,
-        "wins": 3,
-        "draws": 3,
-        "lossess": 2,
-        "goalsfor": 10,
-        "goalsagainst": 11,
-        "goalsdiff": "-1",
-        "points": 12,
-        "form": "'LDWDW'"
     },
     {
         "teamrank": 15,
@@ -228,15 +228,15 @@
         "teamrank": 17,
         "teamname": "Burnley",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-        "played": 8,
+        "played": 9,
         "wins": 1,
         "draws": 2,
-        "lossess": 5,
+        "lossess": 6,
         "goalsfor": 4,
-        "goalsagainst": 12,
-        "goalsdiff": "-8",
+        "goalsagainst": 17,
+        "goalsdiff": "-13",
         "points": 5,
-        "form": "'WDLLD'"
+        "form": "'LWDLL'"
     },
     {
         "teamrank": 18,
@@ -1160,15 +1160,15 @@
         "teamrank": 3,
         "teamname": "Borussia Dortmund",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-        "played": 8,
+        "played": 9,
         "wins": 6,
         "draws": 0,
-        "lossess": 2,
-        "goalsfor": 20,
-        "goalsagainst": 7,
-        "goalsdiff": "+13",
+        "lossess": 3,
+        "goalsfor": 21,
+        "goalsagainst": 9,
+        "goalsdiff": "+12",
         "points": 18,
-        "form": "'WLWWW'"
+        "form": "'LWLWW'"
     },
     {
         "teamrank": 4,
@@ -1326,6 +1326,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Köln",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+        "played": 9,
+        "wins": 1,
+        "draws": 3,
+        "lossess": 5,
+        "goalsfor": 10,
+        "goalsagainst": 15,
+        "goalsdiff": "-5",
+        "points": 6,
+        "form": "'WLDLD'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Mainz 05",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
         "played": 8,
@@ -1339,7 +1353,7 @@
         "form": "'WDLLL'"
     },
     {
-        "teamrank": 16,
+        "teamrank": 17,
         "teamname": "Arminia Bielefeld",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
         "played": 9,
@@ -1351,20 +1365,6 @@
         "goalsdiff": "-13",
         "points": 4,
         "form": "'LLLLL'"
-    },
-    {
-        "teamrank": 17,
-        "teamname": "Köln",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-        "played": 8,
-        "wins": 0,
-        "draws": 3,
-        "lossess": 5,
-        "goalsfor": 8,
-        "goalsagainst": 14,
-        "goalsdiff": "-6",
-        "points": 3,
-        "form": "'LDLDD'"
     },
     {
         "teamrank": 18,
