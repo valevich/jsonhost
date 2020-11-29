@@ -286,15 +286,15 @@
         "teamrank": 1,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "played": 10,
+        "played": 11,
         "wins": 7,
-        "draws": 2,
+        "draws": 3,
         "lossess": 1,
-        "goalsfor": 21,
-        "goalsagainst": 4,
+        "goalsfor": 22,
+        "goalsagainst": 5,
         "goalsdiff": "+17",
-        "points": 23,
-        "form": "'WWWWW'"
+        "points": 24,
+        "form": "'DWWWW'"
     },
     {
         "teamrank": 2,
@@ -314,15 +314,15 @@
         "teamrank": 3,
         "teamname": "Villarreal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "played": 10,
+        "played": 11,
         "wins": 5,
-        "draws": 4,
+        "draws": 5,
         "lossess": 1,
-        "goalsfor": 14,
-        "goalsagainst": 10,
+        "goalsfor": 15,
+        "goalsagainst": 11,
         "goalsdiff": "+4",
-        "points": 19,
-        "form": "'DWWDW'"
+        "points": 20,
+        "form": "'DDWWD'"
     },
     {
         "teamrank": 4,
@@ -862,6 +862,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Lille",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "played": 12,
+        "wins": 6,
+        "draws": 5,
+        "lossess": 1,
+        "goalsfor": 22,
+        "goalsagainst": 8,
+        "goalsdiff": "+14",
+        "points": 23,
+        "form": "'DWLDD'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Olympique Lyonnais",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "played": 12,
@@ -875,7 +889,7 @@
         "form": "'WWWDW'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Monaco",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
         "played": 12,
@@ -889,7 +903,7 @@
         "form": "'WWWWL'"
     },
     {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Montpellier",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "played": 12,
@@ -901,20 +915,6 @@
         "goalsdiff": "+5",
         "points": 23,
         "form": "'WWWWL'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Lille",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "played": 11,
-        "wins": 6,
-        "draws": 4,
-        "lossess": 1,
-        "goalsfor": 21,
-        "goalsagainst": 7,
-        "goalsdiff": "+14",
-        "points": 22,
-        "form": "'WLDDW'"
     },
     {
         "teamrank": 6,
@@ -1044,6 +1044,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Saint-Étienne",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
+        "played": 12,
+        "wins": 3,
+        "draws": 2,
+        "lossess": 7,
+        "goalsfor": 12,
+        "goalsagainst": 20,
+        "goalsdiff": "-8",
+        "points": 11,
+        "form": "'DLLLL'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Nîmes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
         "played": 12,
@@ -1055,20 +1069,6 @@
         "goalsdiff": "-11",
         "points": 11,
         "form": "'LWLLL'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Saint-Étienne",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-        "played": 11,
-        "wins": 3,
-        "draws": 1,
-        "lossess": 7,
-        "goalsfor": 11,
-        "goalsagainst": 19,
-        "goalsdiff": "-8",
-        "points": 10,
-        "form": "'LLLLL'"
     },
     {
         "teamrank": 17,
