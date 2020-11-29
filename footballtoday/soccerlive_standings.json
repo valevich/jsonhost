@@ -862,6 +862,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Olympique Lyonnais",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+        "played": 12,
+        "wins": 6,
+        "draws": 5,
+        "lossess": 1,
+        "goalsfor": 21,
+        "goalsagainst": 10,
+        "goalsdiff": "+11",
+        "points": 23,
+        "form": "'WWWDW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Lille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "played": 11,
@@ -875,7 +889,7 @@
         "form": "'WLDDW'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Olympique Marseille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
         "played": 10,
@@ -887,20 +901,6 @@
         "goalsdiff": "+6",
         "points": 21,
         "form": "'WWWWD'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Olympique Lyonnais",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "played": 11,
-        "wins": 5,
-        "draws": 5,
-        "lossess": 1,
-        "goalsfor": 18,
-        "goalsagainst": 10,
-        "goalsdiff": "+8",
-        "points": 20,
-        "form": "'WWDWW'"
     },
     {
         "teamrank": 5,
@@ -1074,15 +1074,15 @@
         "teamrank": 17,
         "teamname": "Reims",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-        "played": 11,
+        "played": 12,
         "wins": 2,
         "draws": 3,
-        "lossess": 6,
+        "lossess": 7,
         "goalsfor": 16,
-        "goalsagainst": 19,
-        "goalsdiff": "-3",
+        "goalsagainst": 22,
+        "goalsdiff": "-6",
         "points": 9,
-        "form": "'LDWWL'"
+        "form": "'LLDWW'"
     },
     {
         "teamrank": 18,
