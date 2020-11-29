@@ -706,6 +706,20 @@
     },
     {
         "teamrank": 11,
+        "teamname": "Cagliari",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+        "played": 9,
+        "wins": 3,
+        "draws": 2,
+        "lossess": 4,
+        "goalsfor": 16,
+        "goalsagainst": 19,
+        "goalsdiff": "-3",
+        "points": 11,
+        "form": "'DLWLW'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Sampdoria",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
         "played": 8,
@@ -717,20 +731,6 @@
         "goalsdiff": "-1",
         "points": 10,
         "form": "'LLDWW'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Cagliari",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-        "played": 8,
-        "wins": 3,
-        "draws": 1,
-        "lossess": 4,
-        "goalsfor": 14,
-        "goalsagainst": 17,
-        "goalsdiff": "-3",
-        "points": 10,
-        "form": "'LWLWW'"
     },
     {
         "teamrank": 13,
@@ -748,6 +748,20 @@
     },
     {
         "teamrank": 14,
+        "teamname": "Spezia",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
+        "played": 9,
+        "wins": 2,
+        "draws": 4,
+        "lossess": 3,
+        "goalsfor": 13,
+        "goalsagainst": 17,
+        "goalsdiff": "-4",
+        "points": 10,
+        "form": "'DDWLD'"
+    },
+    {
+        "teamrank": 15,
         "teamname": "Benevento",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
         "played": 9,
@@ -759,20 +773,6 @@
         "goalsdiff": "-9",
         "points": 10,
         "form": "'DWLLL'"
-    },
-    {
-        "teamrank": 15,
-        "teamname": "Spezia",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
-        "played": 8,
-        "wins": 2,
-        "draws": 3,
-        "lossess": 3,
-        "goalsfor": 11,
-        "goalsagainst": 15,
-        "goalsdiff": "-4",
-        "points": 9,
-        "form": "'DWLDD'"
     },
     {
         "teamrank": 16,
@@ -1286,15 +1286,15 @@
         "teamrank": 12,
         "teamname": "Hoffenheim",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "played": 8,
+        "played": 9,
         "wins": 2,
-        "draws": 2,
+        "draws": 3,
         "lossess": 4,
-        "goalsfor": 14,
-        "goalsagainst": 15,
+        "goalsfor": 15,
+        "goalsagainst": 16,
         "goalsdiff": "-1",
-        "points": 8,
-        "form": "'DLLDL'"
+        "points": 9,
+        "form": "'DDLLD'"
     },
     {
         "teamrank": 13,
@@ -1342,15 +1342,15 @@
         "teamrank": 16,
         "teamname": "Mainz 05",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-        "played": 8,
+        "played": 9,
         "wins": 1,
-        "draws": 1,
+        "draws": 2,
         "lossess": 6,
-        "goalsfor": 10,
-        "goalsagainst": 21,
+        "goalsfor": 11,
+        "goalsagainst": 22,
         "goalsdiff": "-11",
-        "points": 4,
-        "form": "'WDLLL'"
+        "points": 5,
+        "form": "'DWDLL'"
     },
     {
         "teamrank": 17,
