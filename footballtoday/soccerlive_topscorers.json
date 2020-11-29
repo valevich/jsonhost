@@ -91,6 +91,15 @@
         "playerassists": 1
     },
     {
+        "playername": "Diogo Jota",
+        "playerlink": "https://www.livesoccertv.com/player/diogo-jota/280723/",
+        "playerteam": "Liverpool",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "playergoals": 5,
+        "playerassists": 0
+    },
+    {
         "playername": "W. Zaha",
         "playerlink": "https://www.livesoccertv.com/player/w-zaha/110122/",
         "playerteam": "Crystal Palace",
@@ -118,22 +127,13 @@
         "playerassists": 0
     },
     {
-        "playername": "S. Mané",
-        "playerlink": "https://www.livesoccertv.com/player/s-mane/167200/",
-        "playerteam": "Liverpool",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "playername": "R. Mahrez",
+        "playerlink": "https://www.livesoccertv.com/player/r-mahrez/133145/",
+        "playerteam": "Manchester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "playergoals": 4,
         "playerassists": 0
-    },
-    {
-        "playername": "Neal Maupay",
-        "playerlink": "https://www.livesoccertv.com/player/n-maupay/213470/",
-        "playerteam": "Brighton & Hove Albion",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/brighton-hove-albion/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-        "playergoals": 4,
-        "playerassists": 2
     }
   ],
   "primera-division": [
@@ -554,7 +554,7 @@
         "playerteam": "Bayern Munich",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "playergoals": 11,
+        "playergoals": 12,
         "playerassists": 2
     },
     {
@@ -594,6 +594,15 @@
         "playerassists": 1
     },
     {
+        "playername": "André Miguel Valente Silva",
+        "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
+        "playerteam": "Eintracht Frankfurt",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "playergoals": 7,
+        "playerassists": 2
+    },
+    {
         "playername": "Matheus Santos Carneiro da Cunha",
         "playerlink": "https://www.livesoccertv.com/player/matheus-cunha/359098/",
         "playerteam": "Hertha BSC",
@@ -601,6 +610,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
         "playergoals": 6,
         "playerassists": 2
+    },
+    {
+        "playername": "M. Kruse",
+        "playerlink": "https://www.livesoccertv.com/player/m-kruse/38633/",
+        "playerteam": "Union Berlin",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/union-berlin/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+        "playergoals": 6,
+        "playerassists": 3
     },
     {
         "playername": "W. Weghorst",
@@ -612,13 +630,13 @@
         "playerassists": 0
     },
     {
-        "playername": "André Miguel Valente Silva",
-        "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
-        "playerteam": "Eintracht Frankfurt",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-        "playergoals": 5,
-        "playerassists": 2
+        "playername": "Angeliño",
+        "playerlink": "https://www.livesoccertv.com/player/angelino/250368/",
+        "playerteam": "RB Leipzig",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/rb-leipzig/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+        "playergoals": 4,
+        "playerassists": 0
     },
     {
         "playername": "N. Füllkrug",
@@ -637,15 +655,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
         "playergoals": 4,
         "playerassists": 0
-    },
-    {
-        "playername": "M. Kruse",
-        "playerlink": "https://www.livesoccertv.com/player/m-kruse/38633/",
-        "playerteam": "Union Berlin",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/union-berlin/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-        "playergoals": 4,
-        "playerassists": 2
     },
     {
         "playername": "T. Müller",
@@ -673,15 +682,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
         "playergoals": 4,
         "playerassists": 2
-    },
-    {
-        "playername": "L. Bittencourt",
-        "playerlink": "https://www.livesoccertv.com/player/l-bittencourt/150724/",
-        "playerteam": "Werder Bremen",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/werder-bremen/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-        "playergoals": 3,
-        "playerassists": 1
     }
   ]
 }
