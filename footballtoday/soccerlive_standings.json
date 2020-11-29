@@ -384,15 +384,15 @@
         "teamrank": 8,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "played": 9,
+        "played": 10,
         "wins": 4,
         "draws": 2,
-        "lossess": 3,
-        "goalsfor": 10,
-        "goalsagainst": 14,
-        "goalsdiff": "-4",
+        "lossess": 4,
+        "goalsfor": 11,
+        "goalsagainst": 17,
+        "goalsdiff": "-6",
         "points": 14,
-        "form": "'LLDWW'"
+        "form": "'LLLDW'"
     },
     {
         "teamrank": 9,
@@ -522,6 +522,20 @@
     },
     {
         "teamrank": 18,
+        "teamname": "Celta de Vigo",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "played": 11,
+        "wins": 2,
+        "draws": 4,
+        "lossess": 5,
+        "goalsfor": 11,
+        "goalsagainst": 20,
+        "goalsdiff": "-9",
+        "points": 10,
+        "form": "'WLDLD'"
+    },
+    {
+        "teamrank": 19,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 10,
@@ -535,7 +549,7 @@
         "form": "'DDDDD'"
     },
     {
-        "teamrank": 19,
+        "teamrank": 20,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
         "played": 11,
@@ -547,20 +561,6 @@
         "goalsdiff": "-9",
         "points": 7,
         "form": "'LDDLL'"
-    },
-    {
-        "teamrank": 20,
-        "teamname": "Celta de Vigo",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "played": 10,
-        "wins": 1,
-        "draws": 4,
-        "lossess": 5,
-        "goalsfor": 8,
-        "goalsagainst": 19,
-        "goalsdiff": "-11",
-        "points": 7,
-        "form": "'LDLDL'"
     }
   ],
   "serie-a": [
