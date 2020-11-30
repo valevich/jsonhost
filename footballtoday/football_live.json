@@ -154,7 +154,7 @@
       "AwayTeam": "Crotone",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sky Sport 251 ,  A…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play Norte ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -180,7 +180,7 @@
       "AwayTeam": "Spezia",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sky Sport 251 ,  Di…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN Play N…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -219,7 +219,7 @@
       "AwayTeam": "Hertha BSC",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Flow Sports App ,  Flowspor…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -232,7 +232,7 @@
       "AwayTeam": "Hoffenheim",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Flow Sports App ,  Flowspor…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -258,7 +258,7 @@
       "AwayTeam": "Stade de Reims",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-      "TVChannels": "beIN SPORTS XTRA ,  DAZN ,  BT Sport E…"
+      "TVChannels": "beIN SPORTS XTRA ,  ESPN Play Norte ,  …"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -323,7 +323,7 @@
       "AwayTeam": "Dijon",
       "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
-      "TVChannels": "beIN SPORTS XTRA ,  BT Sport ESPN ,  Ca…"
+      "TVChannels": "beIN SPORTS XTRA ,  ESPN Caribbean ,  E…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -336,7 +336,7 @@
       "AwayTeam": "Lille",
       "AwayGoals": "t",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-      "TVChannels": "TV5 Monde ,  beIN SPORTS XTRA ,  DAZN ,  V…"
+      "TVChannels": "TV5 Monde ,  beIN SPORTS XTRA ,  ESPN…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -479,7 +479,7 @@
       "AwayTeam": "Oxford City",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4489.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  BBC Sport Web ,  V…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet One ,  Sportsnet…"
     },
     {
       "LeagueName": "English FA Cup",
@@ -531,7 +531,7 @@
       "AwayTeam": "Darlington",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/305.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  BBC Sport Web ,  Viaplay…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World Now ,  Spo…"
     },
     {
       "LeagueName": "English FA Cup",
@@ -567,10 +567,10 @@
       "HomeTeam": "Marine",
       "HomeGoals": "1",
       "HomeLogo": "",
-      "AwayTeam": "Bulgaria",
+      "AwayTeam": "Havant & Waterlooville ESPN+ ,  ESPN App ,  Sportsnet World Now ,  Spo…",
       "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/462.png",
-      "TVChannels": ",  Via…"
+      "AwayLogo": "",
+      "TVChannels": "9:45am AET   Marine  1 - 0  Havant & Waterlooville ESPN+ ,  ESPN App ,  Sportsnet World Now ,  Spo…"
     }
   ],
   "day2": [
