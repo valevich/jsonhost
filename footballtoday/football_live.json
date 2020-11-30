@@ -30,14 +30,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
-      "GameState": "81 ",
+      "GameState": "FT ",
       "HomeTeam": "West Ham",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
       "AwayTeam": "Aston Villa",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  NBC Sports…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -56,14 +56,14 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "80 ",
+      "GameState": "FT ",
       "HomeTeam": "Real Betis",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
       "AwayTeam": "Eibar",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -95,14 +95,14 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Genoa",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
       "AwayTeam": "Parma",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Caribb…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Caribbean ,  …"
     },
     {
       "LeagueName": "English FA Cup",
@@ -125,10 +125,10 @@
       "HomeTeam": "Canvey Island",
       "HomeGoals": "0",
       "HomeLogo": "",
-      "AwayTeam": "Boreham Wood ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…",
+      "AwayTeam": "Boreham Wood ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…",
       "AwayGoals": "3",
       "AwayLogo": "",
-      "TVChannels": "2:45pm FT   Canvey Island  0 - 3  Boreham Wood ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+      "TVChannels": "2:45pm FT   Canvey Island  0 - 3  Boreham Wood ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
     },
     {
       "LeagueName": "English FA Cup",
