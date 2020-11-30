@@ -143,6 +143,15 @@
         "playerteam": "Real Sociedad",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+        "playergoals": 7,
+        "playerassists": 5
+    },
+    {
+        "playername": "Gerard Moreno",
+        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
+        "playerteam": "Villarreal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
         "playergoals": 6,
         "playerassists": 4
     },
@@ -163,15 +172,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "playergoals": 5,
         "playerassists": 1
-    },
-    {
-        "playername": "Gerard Moreno",
-        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
-        "playerteam": "Villarreal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "playergoals": 5,
-        "playerassists": 3
     },
     {
         "playername": "João Félix",
@@ -219,6 +219,15 @@
         "playerassists": 0
     },
     {
+        "playername": "L. Messi",
+        "playerlink": "https://www.livesoccertv.com/player/l-messi/252/",
+        "playerteam": "Barcelona",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "playergoals": 4,
+        "playerassists": 2
+    },
+    {
         "playername": "Morales",
         "playerlink": "https://www.livesoccertv.com/player/jose-luis-morales/211121/",
         "playerteam": "Levante",
@@ -233,6 +242,15 @@
         "playerteam": "Real Sociedad",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+        "playergoals": 4,
+        "playerassists": 0
+    },
+    {
+        "playername": "Ángel",
+        "playerlink": "https://www.livesoccertv.com/player/angel/58720/",
+        "playerteam": "Getafe",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/getafe/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
         "playergoals": 4,
         "playerassists": 0
     },
@@ -252,24 +270,6 @@
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-betis/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "Marcos André de Sousa Mendonça",
-        "playerlink": "https://www.livesoccertv.com/player/maranhao/346048/",
-        "playerteam": "Real Valladolid",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-valladolid/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-        "playergoals": 3,
-        "playerassists": 0
-    },
-    {
-        "playername": "Kike",
-        "playerlink": "https://www.livesoccertv.com/player/kike/62297/",
-        "playerteam": "Eibar",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/eibar/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "playergoals": 3,
         "playerassists": 0
     }
   ],
@@ -466,6 +466,15 @@
         "playerassists": 2
     },
     {
+        "playername": "S. Bahoken",
+        "playerlink": "https://www.livesoccertv.com/player/s-bahoken/159571/",
+        "playerteam": "Angers SCO",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/angers/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
+        "playergoals": 5,
+        "playerassists": 0
+    },
+    {
         "playername": "M. Depay",
         "playerlink": "https://www.livesoccertv.com/player/m-depay/136392/",
         "playerteam": "Olympique Lyonnais",
@@ -484,6 +493,24 @@
         "playerassists": 4
     },
     {
+        "playername": "Karl Brillant Toko Ekambi",
+        "playerlink": "https://www.livesoccertv.com/player/k-toko-ekambi/156672/",
+        "playerteam": "Olympique Lyonnais",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+        "playergoals": 5,
+        "playerassists": 0
+    },
+    {
+        "playername": "K. Volland",
+        "playerlink": "https://www.livesoccertv.com/player/k-volland/95821/",
+        "playerteam": "Monaco",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "playergoals": 5,
+        "playerassists": 0
+    },
+    {
         "playername": "L. Ajorque",
         "playerlink": "https://www.livesoccertv.com/player/l-ajorque/214402/",
         "playerteam": "Strasbourg",
@@ -493,11 +520,11 @@
         "playerassists": 2
     },
     {
-        "playername": "S. Bahoken",
-        "playerlink": "https://www.livesoccertv.com/player/s-bahoken/159571/",
-        "playerteam": "Angers SCO",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/angers/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
+        "playername": "Mama Samba Baldé",
+        "playerlink": "https://www.livesoccertv.com/player/balde/268155/",
+        "playerteam": "Dijon",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/dijon/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
         "playergoals": 4,
         "playerassists": 0
     },
@@ -516,33 +543,6 @@
         "playerteam": "Nantes",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/nantes/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-        "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "Philana Tinotenda Kadewere",
-        "playerlink": "https://www.livesoccertv.com/player/t-kadewere/302725/",
-        "playerteam": "Olympique Lyonnais",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "M. Kean",
-        "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
-        "playerteam": "PSG",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "Ignatius Kpene Ganago",
-        "playerlink": "https://www.livesoccertv.com/player/i-ganago/364337/",
-        "playerteam": "Lens",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/lens/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
         "playergoals": 4,
         "playerassists": 0
     }
