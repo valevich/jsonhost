@@ -311,6 +311,15 @@
         "playerassists": 2
     },
     {
+        "playername": "João Pedro",
+        "playerlink": "https://www.livesoccertv.com/player/joao-pedro/115191/",
+        "playerteam": "Cagliari",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/cagliari/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+        "playergoals": 6,
+        "playerassists": 1
+    },
+    {
         "playername": "F. Caputo",
         "playerlink": "https://www.livesoccertv.com/player/f-caputo/63860/",
         "playerteam": "Sassuolo",
@@ -320,13 +329,13 @@
         "playerassists": 1
     },
     {
-        "playername": "João Pedro",
-        "playerlink": "https://www.livesoccertv.com/player/joao-pedro/115191/",
-        "playerteam": "Cagliari",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/cagliari/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+        "playername": "C. Immobile",
+        "playerlink": "https://www.livesoccertv.com/player/c-immobile/75297/",
+        "playerteam": "Lazio",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/lazio-roma/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
         "playergoals": 5,
-        "playerassists": 1
+        "playerassists": 2
     },
     {
         "playername": "L. Martínez",
@@ -352,6 +361,15 @@
         "playerteam": "Cagliari",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/cagliari/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+        "playergoals": 5,
+        "playerassists": 0
+    },
+    {
+        "playername": "R. Soriano",
+        "playerlink": "https://www.livesoccertv.com/player/r-soriano/72442/",
+        "playerteam": "Bologna",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/bologna/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
         "playergoals": 5,
         "playerassists": 0
     },
@@ -383,29 +401,11 @@
         "playerassists": 0
     },
     {
-        "playername": "C. Immobile",
-        "playerlink": "https://www.livesoccertv.com/player/c-immobile/75297/",
-        "playerteam": "Lazio",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/lazio-roma/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-        "playergoals": 4,
-        "playerassists": 1
-    },
-    {
         "playername": "H. Lozano",
         "playerlink": "https://www.livesoccertv.com/player/h-lozano/259658/",
         "playerteam": "Napoli",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "L. Muriel",
-        "playerlink": "https://www.livesoccertv.com/player/l-muriel/83663/",
-        "playerteam": "Atalanta",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
         "playergoals": 4,
         "playerassists": 0
     }
