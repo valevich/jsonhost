@@ -30,7 +30,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
-      "GameState": "71 ",
+      "GameState": "81 ",
       "HomeTeam": "West Ham",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
@@ -56,7 +56,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "70 ",
+      "GameState": "80 ",
       "HomeTeam": "Real Betis",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
@@ -95,7 +95,7 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "84 ",
+      "GameState": "90 ",
       "HomeTeam": "Genoa",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
@@ -121,14 +121,14 @@
       "LeagueName": "English FA Cup",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
       "GameTime": "2:45pm",
-      "GameState": "84 ",
+      "GameState": "FT ",
       "HomeTeam": "Canvey Island",
       "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Boreham Wood ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…",
       "AwayGoals": "3",
       "AwayLogo": "",
-      "TVChannels": "2:45pm 84 '   Canvey Island  0 - 3  Boreham Wood ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+      "TVChannels": "2:45pm FT   Canvey Island  0 - 3  Boreham Wood ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
     },
     {
       "LeagueName": "English FA Cup",
@@ -141,7 +141,7 @@
       "AwayTeam": "Fortuna Düsseldorf",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9707.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sky Sport Bundesl…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sky Sport Bundesliga 1 ,  …"
     }
   ],
   "day2": [
