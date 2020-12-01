@@ -614,6 +614,32 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "vs Rijeka CBS All Access ,  fuboTV ,  Galavisi…"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "Thursday Dec. 3, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "8:30pm",
+      "GameState": "",
+      "HomeTeam": "Sporting KC",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png",
+      "AwayTeam": "Minnesota Utd",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
+      "TVChannels": "*Western Conference Semi Finals FOX Network ,  fuboTV ,  FOX Spor…"
     }
   ],
   "day4": [
@@ -1491,19 +1517,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
       "TVChannels": "ABC ,  ESPN Deportes ,  ESPN Deportes+ ,  …"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "6:30pm",
-      "GameState": "",
-      "HomeTeam": "MLS Cup: Western Conference Final Fox Sports 1 ,  fuboTV ,  FOX Deportes ,  …",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "6:30pm   MLS Cup: Western Conference Final Fox Sports 1 ,  fuboTV ,  FOX Deportes ,  …",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "6:30pm   MLS Cup: Western Conference Final Fox Sports 1 ,  fuboTV ,  FOX Deportes ,  …"
     }
   ],
   "day7": [
@@ -1610,6 +1623,32 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "Monday Dec. 7, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "10:00pm",
+      "GameState": "",
+      "HomeTeam": "MLS Cup: Western Conference Final Fox Sports 1 ,  fuboTV ,  FOX Deportes ,  …",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "10:00pm   MLS Cup: Western Conference Final Fox Sports 1 ,  fuboTV ,  FOX Deportes ,  …",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "10:00pm   MLS Cup: Western Conference Final Fox Sports 1 ,  fuboTV ,  FOX Deportes ,  …"
     }
   ]
 }
