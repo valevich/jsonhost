@@ -293,6 +293,15 @@
         "playerassists": 2
     },
     {
+        "playername": "A. Belotti",
+        "playerlink": "https://www.livesoccertv.com/player/a-belotti/186733/",
+        "playerteam": "Torino",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/torino/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+        "playergoals": 7,
+        "playerassists": 2
+    },
+    {
         "playername": "R. Lukaku",
         "playerlink": "https://www.livesoccertv.com/player/r-lukaku/79627/",
         "playerteam": "Internazionale",
@@ -300,15 +309,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "playergoals": 7,
         "playerassists": 1
-    },
-    {
-        "playername": "A. Belotti",
-        "playerlink": "https://www.livesoccertv.com/player/a-belotti/186733/",
-        "playerteam": "Torino",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/torino/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-        "playergoals": 6,
-        "playerassists": 2
     },
     {
         "playername": "João Pedro",
@@ -356,6 +356,15 @@
         "playerassists": 0
     },
     {
+        "playername": "F. Quagliarella",
+        "playerlink": "https://www.livesoccertv.com/player/f-quagliarella/4297/",
+        "playerteam": "Sampdoria",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/sampdoria/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
+        "playergoals": 5,
+        "playerassists": 1
+    },
+    {
         "playername": "G. Simeone",
         "playerlink": "https://www.livesoccertv.com/player/g-simeone/242178/",
         "playerteam": "Cagliari",
@@ -397,15 +406,6 @@
         "playerteam": "Atalanta",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "H. Lozano",
-        "playerlink": "https://www.livesoccertv.com/player/h-lozano/259658/",
-        "playerteam": "Napoli",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
         "playergoals": 4,
         "playerassists": 0
     }
