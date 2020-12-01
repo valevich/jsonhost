@@ -82,6 +82,15 @@
         "playerassists": 1
     },
     {
+        "playername": "J. Grealish",
+        "playerlink": "https://www.livesoccertv.com/player/j-grealish/175570/",
+        "playerteam": "Aston Villa",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/aston-villa/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "playergoals": 5,
+        "playerassists": 0
+    },
+    {
         "playername": "Daniel William John Ings",
         "playerlink": "https://www.livesoccertv.com/player/d-ings/120917/",
         "playerteam": "Southampton",
@@ -109,11 +118,11 @@
         "playerassists": 2
     },
     {
-        "playername": "J. Grealish",
-        "playerlink": "https://www.livesoccertv.com/player/j-grealish/175570/",
-        "playerteam": "Aston Villa",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/aston-villa/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "playername": "J. Bowen",
+        "playerlink": "https://www.livesoccertv.com/player/j-bowen/262798/",
+        "playerteam": "West Ham United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/west-ham-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "playergoals": 4,
         "playerassists": 0
     },
@@ -123,15 +132,6 @@
         "playerteam": "Wolverhampton Wanderers",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/wolverhampton-wanderers/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-        "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "R. Mahrez",
-        "playerlink": "https://www.livesoccertv.com/player/r-mahrez/133145/",
-        "playerteam": "Manchester City",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "playergoals": 4,
         "playerassists": 0
     }
