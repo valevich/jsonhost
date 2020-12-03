@@ -354,6 +354,19 @@
   ],
   "day2": [
     {
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "Friday Dec. 4, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "Friday Dec. 4, 2020",
@@ -1499,19 +1512,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Manchester City",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "AwayTeam": "Marseille",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-      "TVChannels": "CBS All Access ,  fuboTV ,  T…"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
       "HomeTeam": "Bayern Munich",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
@@ -1525,13 +1525,26 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Real Madrid",
+      "HomeTeam": "Inter",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-      "AwayTeam": "Borussia M'gladbach",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+      "AwayTeam": "Shakhtar Donetsk",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-      "TVChannels": "CBS All Access ,  fuboTV ,  TUDN…"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/493.png",
+      "TVChannels": "CBS All Access ,  fuboTV ,  T…"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Manchester City",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+      "AwayTeam": "Marseille",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+      "TVChannels": "CBS All Access ,  fuboTV ,  T…"
     },
     {
       "LeagueName": "UEFA Champions League",
@@ -1551,13 +1564,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Inter",
+      "HomeTeam": "Real Madrid",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-      "AwayTeam": "Shakhtar Donetsk",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+      "AwayTeam": "Borussia M'gladbach",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/493.png",
-      "TVChannels": "CBS All Access ,  fuboTV ,  T…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+      "TVChannels": "CBS All Access ,  fuboTV ,  TUDN…"
     },
     {
       "LeagueName": "UEFA Champions League",
