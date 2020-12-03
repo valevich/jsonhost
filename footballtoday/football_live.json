@@ -17,20 +17,20 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
-      "GameState": "33 ",
+      "GameState": "HT ",
       "HomeTeam": "AEK Athens",
       "HomeGoals": "1",
       "HomeLogo": "",
       "AwayTeam": "Sporting Braga CBS All Access ,  fuboTV ,  T…",
-      "AwayGoals": "2",
+      "AwayGoals": "3",
       "AwayLogo": "",
-      "TVChannels": "12:55pm 33 '   AEK Athens  1 - 2  Sporting Braga CBS All Access ,  fuboTV ,  T…"
+      "TVChannels": "12:55pm HT   AEK Athens  1 - 3  Sporting Braga CBS All Access ,  fuboTV ,  T…"
     },
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
-      "GameState": "34 ",
+      "GameState": "HT ",
       "HomeTeam": "Zorya",
       "HomeGoals": "0",
       "HomeLogo": "",
@@ -43,7 +43,7 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
-      "GameState": "33 ",
+      "GameState": "HT ",
       "HomeTeam": "Milan",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
@@ -56,7 +56,7 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
-      "GameState": "34 ",
+      "GameState": "HT ",
       "HomeTeam": "Lille",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
@@ -69,9 +69,9 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
-      "GameState": "34 ",
+      "GameState": "HT ",
       "HomeTeam": "Qarabağ",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/azerbaijan/logos/qaraba.png",
       "AwayTeam": "Maccabi Tel Aviv",
       "AwayGoals": "1",
@@ -82,7 +82,7 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
-      "GameState": "33 ",
+      "GameState": "HT ",
       "HomeTeam": "Sivasspor",
       "HomeGoals": "0",
       "HomeLogo": "",
@@ -95,12 +95,12 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
-      "GameState": "34 ",
+      "GameState": "HT ",
       "HomeTeam": "LASK Linz",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "",
       "AwayTeam": "Tottenham",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
       "TVChannels": "CBS All Access ,  fuboTV ,  Un…"
     },
@@ -108,7 +108,7 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
-      "GameState": "34 ",
+      "GameState": "HT ",
       "HomeTeam": "Antwerp",
       "HomeGoals": "1",
       "HomeLogo": "",
@@ -121,7 +121,7 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
-      "GameState": "34 ",
+      "GameState": "HT ",
       "HomeTeam": "CSKA Moskva",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1963.png",
@@ -134,7 +134,7 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
-      "GameState": "34 ",
+      "GameState": "45 ",
       "HomeTeam": "Feyenoord",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
@@ -147,7 +147,7 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
-      "GameState": "34 ",
+      "GameState": "HT ",
       "HomeTeam": "Crvena Zvezda",
       "HomeGoals": "0",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/serbia/logos/crvena-zvezda.png",
@@ -160,7 +160,7 @@
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
       "GameTime": "12:55pm",
-      "GameState": "34 ",
+      "GameState": "HT ",
       "HomeTeam": "Gent",
       "HomeGoals": "0",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/belgium/logos/gent.png",
@@ -522,7 +522,7 @@
       "AwayTeam": "Manchester Utd",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "TVChannels": "fuboTV ,  UNIVERSO ,  UNIVERS…"
+      "TVChannels": "NBC ,  fuboTV ,  NBCSports.com ,  …"
     },
     {
       "LeagueName": "English Premier League",
@@ -849,7 +849,7 @@
       "AwayTeam": "Crystal Palace",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-      "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
+      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
     },
     {
       "LeagueName": "English Premier League",
@@ -862,7 +862,7 @@
       "AwayTeam": "Leicester",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-      "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
+      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
     },
     {
       "LeagueName": "English Premier League",
@@ -875,7 +875,7 @@
       "AwayTeam": "Arsenal",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "TVChannels": "Arsenal Player ,  DAZN ,  Sky HD ,  Blue To Go…"
+      "TVChannels": "Peacock ,  Arsenal Player ,  DAZN ,  Sky HD ,  …"
     },
     {
       "LeagueName": "English Premier League",
@@ -888,7 +888,7 @@
       "AwayTeam": "Wolves",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-      "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
+      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
     },
     {
       "LeagueName": "Spanish La Liga",
