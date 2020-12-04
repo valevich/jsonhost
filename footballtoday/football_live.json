@@ -1,6 +1,19 @@
 {
   "today": [
     {
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "Friday Dec. 4, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "Friday Dec. 4, 2020",
@@ -17,12 +30,12 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "61 ",
+      "GameState": "85 ",
       "HomeTeam": "Athletic Club",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
       "AwayTeam": "Celta de Vigo",
-      "AwayGoals": "0",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
       "TVChannels": "Fanatiz USA ,  beIN SPORTS en Espa…"
     },
@@ -43,14 +56,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "2:30pm",
-      "GameState": "85 ",
+      "GameState": "FT ",
       "HomeTeam": "Hertha BSC",
       "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
       "AwayTeam": "Union Berlin",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -69,12 +82,12 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
-      "GameState": "63 ",
+      "GameState": "87 ",
       "HomeTeam": "Nimes",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
       "AwayTeam": "Marseille",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
       "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  fu…"
     },
