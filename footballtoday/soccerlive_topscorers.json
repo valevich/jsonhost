@@ -147,6 +147,15 @@
         "playerassists": 5
     },
     {
+        "playername": "Iago Aspas",
+        "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
+        "playerteam": "Celta Vigo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "playergoals": 6,
+        "playerassists": 1
+    },
+    {
         "playername": "Gerard Moreno",
         "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
         "playerteam": "Villarreal",
@@ -161,15 +170,6 @@
         "playerteam": "Villarreal",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "playergoals": 5,
-        "playerassists": 1
-    },
-    {
-        "playername": "Iago Aspas",
-        "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
-        "playerteam": "Celta Vigo",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "playergoals": 5,
         "playerassists": 1
     },
