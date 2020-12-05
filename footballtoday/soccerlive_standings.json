@@ -44,6 +44,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Manchester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "played": 10,
+        "wins": 5,
+        "draws": 3,
+        "lossess": 2,
+        "goalsfor": 17,
+        "goalsagainst": 11,
+        "goalsdiff": "+6",
+        "points": 18,
+        "form": "'WWLDW'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Leicester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
         "played": 10,
@@ -57,7 +71,7 @@
         "form": "'LLWWW'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "played": 10,
@@ -71,7 +85,7 @@
         "form": "'WWWLD'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
         "played": 10,
@@ -85,7 +99,7 @@
         "form": "'LDWWW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
         "played": 11,
@@ -99,7 +113,7 @@
         "form": "'DLWLL'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
         "played": 10,
@@ -113,7 +127,7 @@
         "form": "'WDLWD'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Manchester United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "played": 9,
@@ -127,7 +141,7 @@
         "form": "'WWWLD'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "played": 9,
@@ -139,20 +153,6 @@
         "goalsdiff": "+7",
         "points": 15,
         "form": "'LLWLL'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Manchester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "played": 9,
-        "wins": 4,
-        "draws": 3,
-        "lossess": 2,
-        "goalsfor": 15,
-        "goalsagainst": 11,
-        "goalsdiff": "+4",
-        "points": 15,
-        "form": "'WLDWD'"
     },
     {
         "teamrank": 12,
@@ -228,15 +228,15 @@
         "teamrank": 17,
         "teamname": "Fulham",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-        "played": 10,
+        "played": 11,
         "wins": 2,
         "draws": 1,
-        "lossess": 7,
+        "lossess": 8,
         "goalsfor": 11,
-        "goalsagainst": 19,
-        "goalsdiff": "-8",
+        "goalsagainst": 21,
+        "goalsdiff": "-10",
         "points": 7,
-        "form": "'WLLWL'"
+        "form": "'LWLLW'"
     },
     {
         "teamrank": 18,
