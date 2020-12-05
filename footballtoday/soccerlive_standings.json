@@ -312,6 +312,20 @@
     },
     {
         "teamrank": 3,
+        "teamname": "Real Madrid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "played": 11,
+        "wins": 6,
+        "draws": 2,
+        "lossess": 3,
+        "goalsfor": 17,
+        "goalsagainst": 12,
+        "goalsdiff": "+5",
+        "points": 20,
+        "form": "'WLDLW'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Villarreal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
         "played": 11,
@@ -325,32 +339,18 @@
         "form": "'DDWWD'"
     },
     {
-        "teamrank": 4,
-        "teamname": "Real Madrid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "played": 10,
-        "wins": 5,
-        "draws": 2,
-        "lossess": 3,
-        "goalsfor": 16,
-        "goalsagainst": 12,
-        "goalsdiff": "+4",
-        "points": 17,
-        "form": "'LDLWW'"
-    },
-    {
         "teamrank": 5,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-        "played": 9,
+        "played": 10,
         "wins": 5,
         "draws": 1,
-        "lossess": 3,
+        "lossess": 4,
         "goalsfor": 12,
-        "goalsagainst": 8,
-        "goalsdiff": "+4",
+        "goalsagainst": 9,
+        "goalsdiff": "+3",
         "points": 16,
-        "form": "'WWWLL'"
+        "form": "'LWWWL'"
     },
     {
         "teamrank": 6,
