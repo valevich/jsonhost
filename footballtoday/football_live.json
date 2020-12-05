@@ -43,12 +43,12 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "12:30pm",
-      "GameState": "62 ",
+      "GameState": "82 ",
       "HomeTeam": "West Ham",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
       "AwayTeam": "Manchester Utd",
-      "AwayGoals": "0",
+      "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
       "TVChannels": "NBC ,  fuboTV ,  NBCSports.com ,  …"
     },
@@ -108,9 +108,9 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "12:30pm",
-      "GameState": "58 ",
+      "GameState": "78 ",
       "HomeTeam": "Atletico Madrid",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
       "AwayTeam": "Real Valladolid",
       "AwayGoals": "0",
@@ -154,20 +154,20 @@
       "AwayTeam": "Lazio",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sky Sport 251 ,  Di…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN Caribbe…"
     },
     {
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "12:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Juventus",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
       "AwayTeam": "Torino",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sky Sport 2…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2 Carib…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -206,7 +206,7 @@
       "AwayTeam": "Borussia M'gladbach",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Flow Sports App ,  Flowspor…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sportsn…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -219,7 +219,7 @@
       "AwayTeam": "Borussia Dortmund",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Flow Sports App ,  Flowspor…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -232,7 +232,7 @@
       "AwayTeam": "Wolfsburg",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Flow Sports App ,  Flowspor…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet One ,  Sportsnet…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -245,20 +245,20 @@
       "AwayTeam": "Mainz 05",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-      "TVChannels": "05 ESPN+ ,  ESPN App ,  Flow Sports App ,  Flowspor…"
+      "TVChannels": "05 ESPN+ ,  ESPN App ,  Sportsnet World Now ,  Spo…"
     },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "12:30pm",
-      "GameState": "58 ",
+      "GameState": "78 ",
       "HomeTeam": "Bayern Munich",
-      "HomeGoals": "2",
+      "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
       "AwayTeam": "RB Leipzig",
       "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Flow Sports App ,  Flo…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -284,7 +284,7 @@
       "AwayTeam": "Lens",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-      "TVChannels": "beIN SPORTS XTRA ,  DAZN ,  Arena Sport…"
+      "TVChannels": "beIN SPORTS XTRA ,  ESPN2 Norte ,  ES…"
     },
     {
       "LeagueName": "French Ligue 1",
