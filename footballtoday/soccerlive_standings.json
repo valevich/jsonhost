@@ -424,20 +424,6 @@
     },
     {
         "teamrank": 11,
-        "teamname": "Getafe",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-        "played": 10,
-        "wins": 3,
-        "draws": 4,
-        "lossess": 3,
-        "goalsfor": 9,
-        "goalsagainst": 10,
-        "goalsdiff": "-1",
-        "points": 13,
-        "form": "'DDLDL'"
-    },
-    {
-        "teamrank": 12,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "played": 11,
@@ -451,7 +437,7 @@
         "form": "'WDDLW'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 12,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 11,
@@ -463,6 +449,20 @@
         "goalsdiff": "-2",
         "points": 13,
         "form": "'WDDDW'"
+    },
+    {
+        "teamrank": 13,
+        "teamname": "Getafe",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+        "played": 11,
+        "wins": 3,
+        "draws": 4,
+        "lossess": 4,
+        "goalsfor": 9,
+        "goalsagainst": 13,
+        "goalsdiff": "-4",
+        "points": 13,
+        "form": "'LDDLD'"
     },
     {
         "teamrank": 14,
@@ -508,6 +508,20 @@
     },
     {
         "teamrank": 17,
+        "teamname": "Levante",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "played": 11,
+        "wins": 2,
+        "draws": 5,
+        "lossess": 4,
+        "goalsfor": 13,
+        "goalsagainst": 15,
+        "goalsdiff": "-2",
+        "points": 11,
+        "form": "'WDDDD'"
+    },
+    {
+        "teamrank": 18,
         "teamname": "Osasuna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
         "played": 10,
@@ -521,7 +535,7 @@
         "form": "'LDLLW'"
     },
     {
-        "teamrank": 18,
+        "teamrank": 19,
         "teamname": "Real Valladolid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
         "played": 11,
@@ -533,20 +547,6 @@
         "goalsdiff": "-5",
         "points": 10,
         "form": "'DWWLL'"
-    },
-    {
-        "teamrank": 19,
-        "teamname": "Levante",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "played": 10,
-        "wins": 1,
-        "draws": 5,
-        "lossess": 4,
-        "goalsfor": 10,
-        "goalsagainst": 15,
-        "goalsdiff": "-5",
-        "points": 8,
-        "form": "'DDDDD'"
     },
     {
         "teamrank": 20,
