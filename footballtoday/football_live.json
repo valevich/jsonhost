@@ -43,7 +43,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "12:30pm",
-      "GameState": "52 ",
+      "GameState": "62 ",
       "HomeTeam": "West Ham",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
@@ -108,9 +108,9 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "12:30pm",
-      "GameState": "46 ",
+      "GameState": "58 ",
       "HomeTeam": "Atletico Madrid",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
       "AwayTeam": "Real Valladolid",
       "AwayGoals": "0",
@@ -154,20 +154,20 @@
       "AwayTeam": "Lazio",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN Caribbe…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sky Sport 251 ,  Di…"
     },
     {
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "12:00pm",
-      "GameState": "80 ",
+      "GameState": "90 ",
       "HomeTeam": "Juventus",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
       "AwayTeam": "Torino",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sky Sport 2…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -206,7 +206,7 @@
       "AwayTeam": "Borussia M'gladbach",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sportsn…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Flow Sports App ,  Flowspor…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -219,7 +219,7 @@
       "AwayTeam": "Borussia Dortmund",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Flow Sports App ,  Flowspor…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -232,7 +232,7 @@
       "AwayTeam": "Wolfsburg",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet One ,  Sportsnet…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Flow Sports App ,  Flowspor…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -245,20 +245,20 @@
       "AwayTeam": "Mainz 05",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-      "TVChannels": "05 ESPN+ ,  ESPN App ,  Sportsnet World Now ,  Spo…"
+      "TVChannels": "05 ESPN+ ,  ESPN App ,  Flow Sports App ,  Flowspor…"
     },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "12:30pm",
-      "GameState": "48 ",
+      "GameState": "58 ",
       "HomeTeam": "Bayern Munich",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
       "AwayTeam": "RB Leipzig",
-      "AwayGoals": "2",
+      "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Flow Sports App ,  Flo…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -284,7 +284,7 @@
       "AwayTeam": "Lens",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-      "TVChannels": "beIN SPORTS XTRA ,  ESPN2 Norte ,  ES…"
+      "TVChannels": "beIN SPORTS XTRA ,  DAZN ,  Arena Sport…"
     },
     {
       "LeagueName": "French Ligue 1",
