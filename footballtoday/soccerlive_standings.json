@@ -932,20 +932,34 @@
     },
     {
         "teamrank": 7,
-        "teamname": "Rennes",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+        "teamname": "Lens",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
         "played": 12,
-        "wins": 5,
-        "draws": 4,
+        "wins": 6,
+        "draws": 3,
         "lossess": 3,
         "goalsfor": 19,
-        "goalsagainst": 16,
-        "goalsdiff": "+3",
-        "points": 19,
-        "form": "'DLLWL'"
+        "goalsagainst": 18,
+        "goalsdiff": "+1",
+        "points": 21,
+        "form": "'WLDWD'"
     },
     {
         "teamrank": 8,
+        "teamname": "Rennes",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+        "played": 13,
+        "wins": 5,
+        "draws": 4,
+        "lossess": 4,
+        "goalsfor": 19,
+        "goalsagainst": 18,
+        "goalsdiff": "+1",
+        "points": 19,
+        "form": "'LDLLW'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Angers SCO",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
         "played": 12,
@@ -957,20 +971,6 @@
         "goalsdiff": "-4",
         "points": 19,
         "form": "'WLWLW'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Lens",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-        "played": 11,
-        "wins": 5,
-        "draws": 3,
-        "lossess": 3,
-        "goalsfor": 17,
-        "goalsagainst": 18,
-        "goalsdiff": "-1",
-        "points": 18,
-        "form": "'LDWDL'"
     },
     {
         "teamrank": 10,
