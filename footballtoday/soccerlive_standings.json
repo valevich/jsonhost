@@ -505,6 +505,62 @@
         "goalsdiff": "-11",
         "points": 12,
         "form": "'LLLWL'"
+    },
+    {
+        "teamrank": 17,
+        "teamname": "Levante",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "played": 11,
+        "wins": 2,
+        "draws": 5,
+        "lossess": 4,
+        "goalsfor": 13,
+        "goalsagainst": 15,
+        "goalsdiff": "-2",
+        "points": 11,
+        "form": "'WDDDD'"
+    },
+    {
+        "teamrank": 18,
+        "teamname": "Osasuna",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+        "played": 10,
+        "wins": 3,
+        "draws": 2,
+        "lossess": 5,
+        "goalsfor": 8,
+        "goalsagainst": 13,
+        "goalsdiff": "-5",
+        "points": 11,
+        "form": "'LDLLW'"
+    },
+    {
+        "teamrank": 19,
+        "teamname": "Real Valladolid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
+        "played": 12,
+        "wins": 2,
+        "draws": 4,
+        "lossess": 6,
+        "goalsfor": 11,
+        "goalsagainst": 18,
+        "goalsdiff": "-7",
+        "points": 10,
+        "form": "'LDWWL'"
+    },
+    {
+        "teamrank": 20,
+        "teamname": "Huesca",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
+        "played": 11,
+        "wins": 0,
+        "draws": 7,
+        "lossess": 4,
+        "goalsfor": 8,
+        "goalsagainst": 17,
+        "goalsdiff": "-9",
+        "points": 7,
+        "form": "'LDDLL'"
     }
   ],
   "serie-a": [
