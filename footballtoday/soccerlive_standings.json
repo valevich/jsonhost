@@ -988,6 +988,20 @@
     },
     {
         "teamrank": 11,
+        "teamname": "Nice",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+        "played": 12,
+        "wins": 5,
+        "draws": 3,
+        "lossess": 4,
+        "goalsfor": 16,
+        "goalsagainst": 15,
+        "goalsdiff": "+1",
+        "points": 18,
+        "form": "'DLLWD'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Brest",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
         "played": 13,
@@ -999,20 +1013,6 @@
         "goalsdiff": "-3",
         "points": 18,
         "form": "'LWWWL'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Nice",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-        "played": 11,
-        "wins": 5,
-        "draws": 2,
-        "lossess": 4,
-        "goalsfor": 16,
-        "goalsagainst": 15,
-        "goalsdiff": "+1",
-        "points": 17,
-        "form": "'LLWDW'"
     },
     {
         "teamrank": 13,
@@ -1088,15 +1088,15 @@
         "teamrank": 18,
         "teamname": "Reims",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-        "played": 12,
+        "played": 13,
         "wins": 2,
-        "draws": 3,
+        "draws": 4,
         "lossess": 7,
         "goalsfor": 16,
         "goalsagainst": 22,
         "goalsdiff": "-6",
-        "points": 9,
-        "form": "'LLDWW'"
+        "points": 10,
+        "form": "'DLLDW'"
     },
     {
         "teamrank": 19,
