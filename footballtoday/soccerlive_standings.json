@@ -2,6 +2,20 @@
   "premier-league": [
     {
         "teamrank": 1,
+        "teamname": "Tottenham Hotspur",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+        "played": 11,
+        "wins": 7,
+        "draws": 3,
+        "lossess": 1,
+        "goalsfor": 23,
+        "goalsagainst": 9,
+        "goalsdiff": "+14",
+        "points": 24,
+        "form": "'WDWWW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 11,
@@ -13,20 +27,6 @@
         "goalsdiff": "+14",
         "points": 22,
         "form": "'WDWWW'"
-    },
-    {
-        "teamrank": 2,
-        "teamname": "Tottenham Hotspur",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "played": 10,
-        "wins": 6,
-        "draws": 3,
-        "lossess": 1,
-        "goalsfor": 21,
-        "goalsagainst": 9,
-        "goalsdiff": "+12",
-        "points": 21,
-        "form": "'DWWWW'"
     },
     {
         "teamrank": 3,
@@ -200,15 +200,15 @@
         "teamrank": 15,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "played": 10,
+        "played": 11,
         "wins": 4,
         "draws": 1,
-        "lossess": 5,
+        "lossess": 6,
         "goalsfor": 10,
-        "goalsagainst": 12,
-        "goalsdiff": "-2",
+        "goalsagainst": 14,
+        "goalsdiff": "-4",
         "points": 13,
-        "form": "'LDLWL'"
+        "form": "'LLDLW'"
     },
     {
         "teamrank": 16,
