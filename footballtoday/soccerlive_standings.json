@@ -16,6 +16,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Liverpool",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "played": 11,
+        "wins": 7,
+        "draws": 3,
+        "lossess": 1,
+        "goalsfor": 26,
+        "goalsagainst": 17,
+        "goalsdiff": "+9",
+        "points": 24,
+        "form": "'WDWDW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 11,
@@ -29,7 +43,7 @@
         "form": "'WDWWW'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Leicester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
         "played": 11,
@@ -41,20 +55,6 @@
         "goalsdiff": "+6",
         "points": 21,
         "form": "'WLLWW'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Liverpool",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "played": 10,
-        "wins": 6,
-        "draws": 3,
-        "lossess": 1,
-        "goalsfor": 22,
-        "goalsagainst": 17,
-        "goalsdiff": "+5",
-        "points": 21,
-        "form": "'DWDWW'"
     },
     {
         "teamrank": 5,
@@ -130,15 +130,15 @@
         "teamrank": 10,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-        "played": 10,
+        "played": 11,
         "wins": 5,
         "draws": 2,
-        "lossess": 3,
+        "lossess": 4,
         "goalsfor": 11,
-        "goalsagainst": 11,
-        "goalsdiff": "0",
+        "goalsagainst": 15,
+        "goalsdiff": "-4",
         "points": 17,
-        "form": "'WDLWD'"
+        "form": "'LWDLW'"
     },
     {
         "teamrank": 11,
