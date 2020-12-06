@@ -417,7 +417,7 @@
         "playerteam": "PSG",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "playergoals": 9,
+        "playergoals": 10,
         "playerassists": 3
     },
     {
@@ -493,6 +493,24 @@
         "playerassists": 4
     },
     {
+        "playername": "M. Kean",
+        "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
+        "playerteam": "PSG",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "playergoals": 5,
+        "playerassists": 0
+    },
+    {
+        "playername": "I. Ganago",
+        "playerlink": "https://www.livesoccertv.com/player/i-ganago/364337/",
+        "playerteam": "Lens",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lens/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+        "playergoals": 5,
+        "playerassists": 0
+    },
+    {
         "playername": "K. Toko Ekambi",
         "playerlink": "https://www.livesoccertv.com/player/k-toko-ekambi/156672/",
         "playerteam": "Olympique Lyonnais",
@@ -525,24 +543,6 @@
         "playerteam": "Dijon",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/dijon/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
-        "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "J. Bamba",
-        "playerlink": "https://www.livesoccertv.com/player/j-bamba/249220/",
-        "playerteam": "Lille",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "L. Blas",
-        "playerlink": "https://www.livesoccertv.com/player/l-blas/278380/",
-        "playerteam": "Nantes",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/nantes/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
         "playergoals": 4,
         "playerassists": 0
     }
