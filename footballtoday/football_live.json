@@ -43,9 +43,9 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "11:30am",
-      "GameState": "42 ",
+      "GameState": "HT ",
       "HomeTeam": "Tottenham",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
       "AwayTeam": "Arsenal",
       "AwayGoals": "0",
@@ -102,7 +102,7 @@
       "AwayTeam": "Real Betis",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -186,7 +186,7 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "12:00pm",
-      "GameState": "11 ",
+      "GameState": "22 ",
       "HomeTeam": "Crotone",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
@@ -238,7 +238,7 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "12:00pm",
-      "GameState": "11 ",
+      "GameState": "22 ",
       "HomeTeam": "Schalke 04",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
@@ -329,7 +329,7 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "11:00am",
-      "GameState": "55 ",
+      "GameState": "66 ",
       "HomeTeam": "Stade de Reims",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
@@ -1518,7 +1518,7 @@
       "AwayTeam": "Montpellier",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-      "TVChannels": "Arena Sport 1 Serbia ,  Viaplay Denmark ,  Vi…"
+      "TVChannels": "Arena Sport 1 Serbia ,  Arena Sport 3 ,  Viap…"
     }
   ]
 }
