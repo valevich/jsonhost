@@ -43,7 +43,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "11:30am",
-      "GameState": "21 ",
+      "GameState": "42 ",
       "HomeTeam": "Tottenham",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
@@ -95,12 +95,12 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "10:15am",
-      "GameState": "79 ",
+      "GameState": "FT ",
       "HomeTeam": "Osasuna",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
       "AwayTeam": "Real Betis",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
       "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
     },
@@ -186,12 +186,12 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "12:00pm",
-      "GameState": "",
+      "GameState": "11 ",
       "HomeTeam": "Crotone",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
       "AwayTeam": "Napoli",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN No…"
     },
@@ -238,12 +238,12 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "12:00pm",
-      "GameState": "",
+      "GameState": "11 ",
       "HomeTeam": "Schalke 04",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
       "AwayTeam": "Bayer Leverkusen",
-      "AwayGoals": "",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
     },
@@ -329,7 +329,7 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "11:00am",
-      "GameState": "HT ",
+      "GameState": "55 ",
       "HomeTeam": "Stade de Reims",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
@@ -1505,7 +1505,7 @@
       "AwayTeam": "Monaco",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-      "TVChannels": "ESPN2 Norte ,  ESPN Play Norte ,  DAZN ,  Vi…"
+      "TVChannels": "ESPN2 Norte ,  ESPN Play Norte ,  DAZN ,  A…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1518,7 +1518,7 @@
       "AwayTeam": "Montpellier",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-      "TVChannels": "Viaplay Denmark ,  Viaplay Sweden ,  Viaplay N…"
+      "TVChannels": "Arena Sport 1 Serbia ,  Viaplay Denmark ,  Vi…"
     }
   ]
 }
