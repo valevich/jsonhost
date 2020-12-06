@@ -666,15 +666,15 @@
         "teamrank": 8,
         "teamname": "Hellas Verona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
-        "played": 9,
+        "played": 10,
         "wins": 4,
-        "draws": 3,
+        "draws": 4,
         "lossess": 2,
-        "goalsfor": 12,
-        "goalsagainst": 7,
+        "goalsfor": 13,
+        "goalsagainst": 8,
         "goalsdiff": "+5",
-        "points": 15,
-        "form": "'WLDWD'"
+        "points": 16,
+        "form": "'DWLDW'"
     },
     {
         "teamrank": 9,
@@ -706,6 +706,20 @@
     },
     {
         "teamrank": 11,
+        "teamname": "Cagliari",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+        "played": 10,
+        "wins": 3,
+        "draws": 3,
+        "lossess": 4,
+        "goalsfor": 17,
+        "goalsagainst": 20,
+        "goalsdiff": "-3",
+        "points": 12,
+        "form": "'DDLWL'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Sampdoria",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
         "played": 9,
@@ -717,20 +731,6 @@
         "goalsdiff": "-1",
         "points": 11,
         "form": "'DLLDW'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Cagliari",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-        "played": 9,
-        "wins": 3,
-        "draws": 2,
-        "lossess": 4,
-        "goalsfor": 16,
-        "goalsagainst": 19,
-        "goalsdiff": "-3",
-        "points": 11,
-        "form": "'DLWLW'"
     },
     {
         "teamrank": 13,
