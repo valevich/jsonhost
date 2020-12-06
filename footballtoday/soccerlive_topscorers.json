@@ -219,6 +219,15 @@
         "playerassists": 0
     },
     {
+        "playername": "Llorente",
+        "playerlink": "https://www.livesoccertv.com/player/marcos-llorente/250443/",
+        "playerteam": "Atletico Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "playergoals": 4,
+        "playerassists": 0
+    },
+    {
         "playername": "L. Messi",
         "playerlink": "https://www.livesoccertv.com/player/l-messi/252/",
         "playerteam": "Barcelona",
@@ -262,15 +271,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "playergoals": 4,
         "playerassists": 4
-    },
-    {
-        "playername": "Tello",
-        "playerlink": "https://www.livesoccertv.com/player/cristian-tello/117074/",
-        "playerteam": "Real Betis",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-betis/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "playergoals": 4,
-        "playerassists": 0
     }
   ],
   "serie-a": [
@@ -603,6 +603,15 @@
         "playerassists": 2
     },
     {
+        "playername": "W. Weghorst",
+        "playerlink": "https://www.livesoccertv.com/player/w-weghorst/207339/",
+        "playerteam": "Wolfsburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+        "playergoals": 7,
+        "playerassists": 0
+    },
+    {
         "playername": "Matheus Cunha",
         "playerlink": "https://www.livesoccertv.com/player/matheus-cunha/359098/",
         "playerteam": "Hertha BSC",
@@ -621,13 +630,13 @@
         "playerassists": 3
     },
     {
-        "playername": "W. Weghorst",
-        "playerlink": "https://www.livesoccertv.com/player/w-weghorst/207339/",
-        "playerteam": "Wolfsburg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+        "playername": "T. Müller",
+        "playerlink": "https://www.livesoccertv.com/player/t-muller/38348/",
+        "playerteam": "Bayern Munich",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
         "playergoals": 6,
-        "playerassists": 0
+        "playerassists": 1
     },
     {
         "playername": "Angeliño",
@@ -657,11 +666,11 @@
         "playerassists": 0
     },
     {
-        "playername": "T. Müller",
-        "playerlink": "https://www.livesoccertv.com/player/t-muller/38348/",
-        "playerteam": "Bayern Munich",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "playername": "V. Grifo",
+        "playerlink": "https://www.livesoccertv.com/player/v-grifo/207069/",
+        "playerteam": "Freiburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/sc-freiburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
         "playergoals": 4,
         "playerassists": 1
     },
@@ -673,15 +682,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
         "playergoals": 4,
         "playerassists": 0
-    },
-    {
-        "playername": "Lars Stindl",
-        "playerlink": "https://www.livesoccertv.com/player/l-stindl/39612/",
-        "playerteam": "Borussia M'gladbach",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-        "playergoals": 4,
-        "playerassists": 2
     }
   ]
 }
