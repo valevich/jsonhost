@@ -368,6 +368,20 @@
     },
     {
         "teamrank": 7,
+        "teamname": "Granada",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
+        "played": 11,
+        "wins": 4,
+        "draws": 3,
+        "lossess": 4,
+        "goalsfor": 14,
+        "goalsagainst": 20,
+        "goalsdiff": "-6",
+        "points": 15,
+        "form": "'DLLLD'"
+    },
+    {
+        "teamrank": 8,
         "teamname": "Barcelona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
         "played": 10,
@@ -379,20 +393,6 @@
         "goalsdiff": "+9",
         "points": 14,
         "form": "'LWLWD'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Granada",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "played": 10,
-        "wins": 4,
-        "draws": 2,
-        "lossess": 4,
-        "goalsfor": 11,
-        "goalsagainst": 17,
-        "goalsdiff": "-6",
-        "points": 14,
-        "form": "'LLLDW'"
     },
     {
         "teamrank": 9,
@@ -552,15 +552,15 @@
         "teamrank": 20,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-        "played": 11,
+        "played": 12,
         "wins": 0,
-        "draws": 7,
+        "draws": 8,
         "lossess": 4,
-        "goalsfor": 8,
-        "goalsagainst": 17,
+        "goalsfor": 11,
+        "goalsagainst": 20,
         "goalsdiff": "-9",
-        "points": 7,
-        "form": "'LDDLL'"
+        "points": 8,
+        "form": "'DLDDL'"
     }
   ],
   "serie-a": [
