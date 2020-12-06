@@ -30,6 +30,20 @@
     },
     {
         "teamrank": 3,
+        "teamname": "Leicester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+        "played": 11,
+        "wins": 7,
+        "draws": 0,
+        "lossess": 4,
+        "goalsfor": 21,
+        "goalsagainst": 15,
+        "goalsdiff": "+6",
+        "points": 21,
+        "form": "'WLLWW'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "played": 10,
@@ -43,7 +57,7 @@
         "form": "'DWDWW'"
     },
     {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Manchester United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "played": 10,
@@ -57,7 +71,7 @@
         "form": "'WWWWL'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "played": 10,
@@ -69,20 +83,6 @@
         "goalsdiff": "+6",
         "points": 18,
         "form": "'WWLDW'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Leicester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "played": 10,
-        "wins": 6,
-        "draws": 0,
-        "lossess": 4,
-        "goalsfor": 19,
-        "goalsagainst": 14,
-        "goalsdiff": "+5",
-        "points": 18,
-        "form": "'LLWWW'"
     },
     {
         "teamrank": 7,
@@ -270,13 +270,13 @@
         "teamrank": 20,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 10,
+        "played": 11,
         "wins": 0,
         "draws": 1,
-        "lossess": 9,
-        "goalsfor": 4,
-        "goalsagainst": 16,
-        "goalsdiff": "-12",
+        "lossess": 10,
+        "goalsfor": 5,
+        "goalsagainst": 18,
+        "goalsdiff": "-13",
         "points": 1,
         "form": "'LLLLL'"
     }
@@ -1228,6 +1228,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Stuttgart",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "played": 10,
+        "wins": 3,
+        "draws": 5,
+        "lossess": 2,
+        "goalsfor": 19,
+        "goalsagainst": 16,
+        "goalsdiff": "+3",
+        "points": 14,
+        "form": "'WLDDD'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Eintracht Frankfurt",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
         "played": 10,
@@ -1241,7 +1255,7 @@
         "form": "'DDDDD'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Augsburg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
         "played": 9,
@@ -1253,20 +1267,6 @@
         "goalsdiff": "-1",
         "points": 12,
         "form": "'DDLWL'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Stuttgart",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-        "played": 9,
-        "wins": 2,
-        "draws": 5,
-        "lossess": 2,
-        "goalsfor": 17,
-        "goalsagainst": 15,
-        "goalsdiff": "+2",
-        "points": 11,
-        "form": "'LDDDD'"
     },
     {
         "teamrank": 11,
@@ -1286,15 +1286,15 @@
         "teamrank": 12,
         "teamname": "Werder Bremen",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-        "played": 9,
+        "played": 10,
         "wins": 2,
         "draws": 5,
-        "lossess": 2,
-        "goalsfor": 13,
-        "goalsagainst": 15,
-        "goalsdiff": "-2",
+        "lossess": 3,
+        "goalsfor": 14,
+        "goalsagainst": 17,
+        "goalsdiff": "-3",
         "points": 11,
-        "form": "'LDDDD'"
+        "form": "'LLDDD'"
     },
     {
         "teamrank": 13,
