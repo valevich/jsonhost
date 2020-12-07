@@ -15,8 +15,26 @@
         "playerteam": "Tottenham Hotspur",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "playergoals": 9,
+        "playergoals": 10,
         "playerassists": 0
+    },
+    {
+        "playername": "Mohamed Salah",
+        "playerlink": "https://www.livesoccertv.com/player/mohamed-salah/120240/",
+        "playerteam": "Liverpool",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "playergoals": 9,
+        "playerassists": 4
+    },
+    {
+        "playername": "J. Vardy",
+        "playerlink": "https://www.livesoccertv.com/player/j-vardy/135178/",
+        "playerteam": "Leicester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+        "playergoals": 9,
+        "playerassists": 5
     },
     {
         "playername": "P. Bamford",
@@ -28,22 +46,13 @@
         "playerassists": 0
     },
     {
-        "playername": "Mohamed Salah",
-        "playerlink": "https://www.livesoccertv.com/player/mohamed-salah/120240/",
-        "playerteam": "Liverpool",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "playername": "H. Kane",
+        "playerlink": "https://www.livesoccertv.com/player/h-kane/134501/",
+        "playerteam": "Tottenham Hotspur",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "playergoals": 8,
-        "playerassists": 4
-    },
-    {
-        "playername": "J. Vardy",
-        "playerlink": "https://www.livesoccertv.com/player/j-vardy/135178/",
-        "playerteam": "Leicester City",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "playergoals": 8,
-        "playerassists": 5
+        "playerassists": 2
     },
     {
         "playername": "Bruno Fernandes",
@@ -53,15 +62,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "playergoals": 7,
         "playerassists": 3
-    },
-    {
-        "playername": "H. Kane",
-        "playerlink": "https://www.livesoccertv.com/player/h-kane/134501/",
-        "playerteam": "Tottenham Hotspur",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "playergoals": 7,
-        "playerassists": 2
     },
     {
         "playername": "C. Wilson",
