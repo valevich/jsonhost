@@ -338,6 +338,15 @@
         "playerassists": 1
     },
     {
+        "playername": "H. Lozano",
+        "playerlink": "https://www.livesoccertv.com/player/h-lozano/259658/",
+        "playerteam": "Napoli",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "playergoals": 5,
+        "playerassists": 0
+    },
+    {
         "playername": "L. Martínez",
         "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
         "playerteam": "Internazionale",
@@ -397,15 +406,6 @@
         "playerteam": "Fiorentina",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/fiorentina/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "A. Gómez",
-        "playerlink": "https://www.livesoccertv.com/player/a-gomez/13951/",
-        "playerteam": "Atalanta",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
         "playergoals": 4,
         "playerassists": 0
     }
