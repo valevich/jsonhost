@@ -58,6 +58,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Southampton",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+        "played": 11,
+        "wins": 6,
+        "draws": 2,
+        "lossess": 3,
+        "goalsfor": 21,
+        "goalsagainst": 17,
+        "goalsdiff": "+4",
+        "points": 20,
+        "form": "'WLDWW'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Manchester United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "played": 10,
@@ -71,7 +85,7 @@
         "form": "'WWWWL'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "played": 10,
@@ -85,7 +99,7 @@
         "form": "'WWLDW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "played": 11,
@@ -97,20 +111,6 @@
         "goalsdiff": "+4",
         "points": 17,
         "form": "'LWWWL'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Southampton",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "played": 10,
-        "wins": 5,
-        "draws": 2,
-        "lossess": 3,
-        "goalsfor": 19,
-        "goalsagainst": 16,
-        "goalsdiff": "+3",
-        "points": 17,
-        "form": "'LDWWW'"
     },
     {
         "teamrank": 9,
@@ -214,15 +214,15 @@
         "teamrank": 16,
         "teamname": "Brighton & Hove Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-        "played": 10,
+        "played": 11,
         "wins": 2,
         "draws": 4,
-        "lossess": 4,
-        "goalsfor": 14,
-        "goalsagainst": 16,
-        "goalsdiff": "-2",
+        "lossess": 5,
+        "goalsfor": 15,
+        "goalsagainst": 18,
+        "goalsdiff": "-3",
         "points": 10,
-        "form": "'DWDLD'"
+        "form": "'LDWDL'"
     },
     {
         "teamrank": 17,
@@ -424,6 +424,20 @@
     },
     {
         "teamrank": 11,
+        "teamname": "Eibar",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
+        "played": 12,
+        "wins": 3,
+        "draws": 5,
+        "lossess": 4,
+        "goalsfor": 8,
+        "goalsagainst": 9,
+        "goalsdiff": "-1",
+        "points": 14,
+        "form": "'DWDDL'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 12,
@@ -437,7 +451,21 @@
         "form": "'DWDDD'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
+        "teamname": "Valencia",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+        "played": 12,
+        "wins": 3,
+        "draws": 4,
+        "lossess": 5,
+        "goalsfor": 17,
+        "goalsagainst": 17,
+        "goalsdiff": "0",
+        "points": 13,
+        "form": "'DLDWD'"
+    },
+    {
+        "teamrank": 14,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 11,
@@ -451,21 +479,7 @@
         "form": "'LDWLW'"
     },
     {
-        "teamrank": 13,
-        "teamname": "Eibar",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 11,
-        "wins": 3,
-        "draws": 4,
-        "lossess": 4,
-        "goalsfor": 8,
-        "goalsagainst": 9,
-        "goalsdiff": "-1",
-        "points": 13,
-        "form": "'WDDLW'"
-    },
-    {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "Getafe",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
         "played": 11,
@@ -479,7 +493,7 @@
         "form": "'LDDLD'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "played": 12,
@@ -491,20 +505,6 @@
         "goalsdiff": "-7",
         "points": 13,
         "form": "'WWLDL'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Valencia",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-        "played": 11,
-        "wins": 3,
-        "draws": 3,
-        "lossess": 5,
-        "goalsfor": 17,
-        "goalsagainst": 17,
-        "goalsdiff": "0",
-        "points": 12,
-        "form": "'LDWDL'"
     },
     {
         "teamrank": 17,
@@ -792,15 +792,15 @@
         "teamrank": 17,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "played": 9,
+        "played": 10,
         "wins": 2,
-        "draws": 2,
+        "draws": 3,
         "lossess": 5,
-        "goalsfor": 10,
-        "goalsagainst": 15,
+        "goalsfor": 11,
+        "goalsagainst": 16,
         "goalsdiff": "-5",
-        "points": 8,
-        "form": "'LLDLW'"
+        "points": 9,
+        "form": "'DLLDL'"
     },
     {
         "teamrank": 18,
@@ -820,15 +820,15 @@
         "teamrank": 19,
         "teamname": "Genoa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-        "played": 9,
+        "played": 10,
         "wins": 1,
-        "draws": 2,
+        "draws": 3,
         "lossess": 6,
-        "goalsfor": 8,
-        "goalsagainst": 18,
+        "goalsfor": 9,
+        "goalsagainst": 19,
         "goalsdiff": "-10",
-        "points": 5,
-        "form": "'LLLLD'"
+        "points": 6,
+        "form": "'DLLLL'"
     },
     {
         "teamrank": 20,
