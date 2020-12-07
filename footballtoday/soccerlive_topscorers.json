@@ -430,6 +430,15 @@
         "playerassists": 3
     },
     {
+        "playername": "K. Toko Ekambi",
+        "playerlink": "https://www.livesoccertv.com/player/k-toko-ekambi/156672/",
+        "playerteam": "Olympique Lyonnais",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+        "playergoals": 7,
+        "playerassists": 0
+    },
+    {
         "playername": "W. Ben Yedder",
         "playerlink": "https://www.livesoccertv.com/player/w-ben-yedder/126219/",
         "playerteam": "Monaco",
@@ -446,6 +455,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "playergoals": 6,
         "playerassists": 0
+    },
+    {
+        "playername": "M. Depay",
+        "playerlink": "https://www.livesoccertv.com/player/m-depay/136392/",
+        "playerteam": "Olympique Lyonnais",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+        "playergoals": 6,
+        "playerassists": 3
     },
     {
         "playername": "I. Niane",
@@ -466,6 +484,15 @@
         "playerassists": 2
     },
     {
+        "playername": "L. Ajorque",
+        "playerlink": "https://www.livesoccertv.com/player/l-ajorque/214402/",
+        "playerteam": "Strasbourg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/strasbourg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+        "playergoals": 5,
+        "playerassists": 3
+    },
+    {
         "playername": "S. Bahoken",
         "playerlink": "https://www.livesoccertv.com/player/s-bahoken/159571/",
         "playerteam": "Angers SCO",
@@ -473,15 +500,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
         "playergoals": 5,
         "playerassists": 0
-    },
-    {
-        "playername": "M. Depay",
-        "playerlink": "https://www.livesoccertv.com/player/m-depay/136392/",
-        "playerteam": "Olympique Lyonnais",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "playergoals": 5,
-        "playerassists": 3
     },
     {
         "playername": "G. Kakuta",
@@ -511,15 +529,6 @@
         "playerassists": 0
     },
     {
-        "playername": "K. Toko Ekambi",
-        "playerlink": "https://www.livesoccertv.com/player/k-toko-ekambi/156672/",
-        "playerteam": "Olympique Lyonnais",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "playergoals": 5,
-        "playerassists": 0
-    },
-    {
         "playername": "K. Volland",
         "playerlink": "https://www.livesoccertv.com/player/k-volland/95821/",
         "playerteam": "Monaco",
@@ -527,15 +536,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
         "playergoals": 5,
         "playerassists": 0
-    },
-    {
-        "playername": "L. Ajorque",
-        "playerlink": "https://www.livesoccertv.com/player/l-ajorque/214402/",
-        "playerteam": "Strasbourg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/strasbourg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-        "playergoals": 4,
-        "playerassists": 2
     },
     {
         "playername": "Mama Baldé",
@@ -639,6 +639,15 @@
         "playerassists": 1
     },
     {
+        "playername": "S. Wamangituka",
+        "playerlink": "https://www.livesoccertv.com/player/s-wamangituka/388180/",
+        "playerteam": "Stuttgart",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "playergoals": 5,
+        "playerassists": 1
+    },
+    {
         "playername": "Angeliño",
         "playerlink": "https://www.livesoccertv.com/player/angelino/250368/",
         "playerteam": "RB Leipzig",
@@ -673,15 +682,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
         "playergoals": 4,
         "playerassists": 1
-    },
-    {
-        "playername": "N. Petersen",
-        "playerlink": "https://www.livesoccertv.com/player/n-petersen/16443/",
-        "playerteam": "Freiburg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/sc-freiburg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-        "playergoals": 4,
-        "playerassists": 0
     }
   ]
 }
