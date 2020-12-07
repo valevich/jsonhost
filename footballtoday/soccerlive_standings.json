@@ -1256,20 +1256,34 @@
     },
     {
         "teamrank": 10,
-        "teamname": "Augsburg",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-        "played": 9,
+        "teamname": "Hoffenheim",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+        "played": 10,
         "wins": 3,
         "draws": 3,
-        "lossess": 3,
-        "goalsfor": 11,
-        "goalsagainst": 12,
-        "goalsdiff": "-1",
+        "lossess": 4,
+        "goalsfor": 18,
+        "goalsagainst": 17,
+        "goalsdiff": "+1",
         "points": 12,
-        "form": "'DDLWL'"
+        "form": "'WDDLL'"
     },
     {
         "teamrank": 11,
+        "teamname": "Augsburg",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+        "played": 10,
+        "wins": 3,
+        "draws": 3,
+        "lossess": 4,
+        "goalsfor": 12,
+        "goalsagainst": 15,
+        "goalsdiff": "-3",
+        "points": 12,
+        "form": "'LDDLW'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Hertha BSC",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
         "played": 10,
@@ -1283,7 +1297,7 @@
         "form": "'WDLWD'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Werder Bremen",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
         "played": 10,
@@ -1295,20 +1309,6 @@
         "goalsdiff": "-3",
         "points": 11,
         "form": "'LLDDD'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Hoffenheim",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "played": 9,
-        "wins": 2,
-        "draws": 3,
-        "lossess": 4,
-        "goalsfor": 15,
-        "goalsagainst": 16,
-        "goalsdiff": "-1",
-        "points": 9,
-        "form": "'DDLLD'"
     },
     {
         "teamrank": 14,
