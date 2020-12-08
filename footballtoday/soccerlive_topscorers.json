@@ -82,6 +82,15 @@
         "playerassists": 2
     },
     {
+        "playername": "Daniel William John Ings",
+        "playerlink": "https://www.livesoccertv.com/player/d-ings/120917/",
+        "playerteam": "Southampton",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/southampton/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+        "playergoals": 6,
+        "playerassists": 2
+    },
+    {
         "playername": "O. Watkins",
         "playerlink": "https://www.livesoccertv.com/player/o-watkins/264917/",
         "playerteam": "Aston Villa",
@@ -98,15 +107,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "playergoals": 5,
         "playerassists": 0
-    },
-    {
-        "playername": "Daniel William John Ings",
-        "playerlink": "https://www.livesoccertv.com/player/d-ings/120917/",
-        "playerteam": "Southampton",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/southampton/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "playergoals": 5,
-        "playerassists": 1
     },
     {
         "playername": "Diogo Jota",
@@ -127,7 +127,7 @@
         "playerassists": 0
     },
     {
-        "playername": "Raúl Alonso Jiménez Rodríguez",
+        "playername": "R. Jiménez",
         "playerlink": "https://www.livesoccertv.com/player/r-jimenez/172740/",
         "playerteam": "Wolverhampton Wanderers",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/wolverhampton-wanderers/",
@@ -648,6 +648,15 @@
         "playerassists": 1
     },
     {
+        "playername": "D. Caligiuri",
+        "playerlink": "https://www.livesoccertv.com/player/d-caligiuri/54628/",
+        "playerteam": "Augsburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/fc-augsburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+        "playergoals": 4,
+        "playerassists": 0
+    },
+    {
         "playername": "Angeliño",
         "playerlink": "https://www.livesoccertv.com/player/angelino/250368/",
         "playerteam": "RB Leipzig",
@@ -673,15 +682,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
         "playergoals": 4,
         "playerassists": 0
-    },
-    {
-        "playername": "V. Grifo",
-        "playerlink": "https://www.livesoccertv.com/player/v-grifo/207069/",
-        "playerteam": "Freiburg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/sc-freiburg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-        "playergoals": 4,
-        "playerassists": 1
     }
   ]
 }
