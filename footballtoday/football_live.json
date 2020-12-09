@@ -17,7 +17,20 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "12:55pm",
-      "GameState": "13 ",
+      "GameState": "",
+      "HomeTeam": "PSG",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "AwayTeam": "PSG",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "TVChannels": "1 - 0  İstanbul Başakşehir CBS All Access ,  fuboTV ,  T…"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "12:55pm",
+      "GameState": "23 ",
       "HomeTeam": "Ajax",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
@@ -30,7 +43,7 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "12:55pm",
-      "GameState": "13 ",
+      "GameState": "23 ",
       "HomeTeam": "FC Midtjylland",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/572.png",
@@ -116,6 +129,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
       "TVChannels": "CBS All Access ,  fuboTV ,  T…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "Wednesday Dec. 9, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ],
   "day2": [
@@ -1308,7 +1334,7 @@
       "AwayTeam": "Cádiz",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  fu…"
     }
   ],
   "day7": [
@@ -1375,7 +1401,7 @@
       "AwayTeam": "Athletic Club",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  fu…"
     },
     {
       "LeagueName": "Italian Serie A",
