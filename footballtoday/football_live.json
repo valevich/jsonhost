@@ -311,6 +311,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://cdn.livesoccertv.com/images/teams/serbia/logos/crvena-zvezda.png",
       "TVChannels": "CBS All Access ,  fuboTV ,  T…"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "Thursday Dec. 10, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ],
   "day2": [
@@ -1161,7 +1174,7 @@
       "AwayTeam": "Bordeaux",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
-      "TVChannels": "ESPN Play Norte ,  DAZN ,  BT Sport ESPN ,  …"
+      "TVChannels": "DAZN ,  BT Sport ESPN ,  Arena Sport 3 Ser…"
     },
     {
       "LeagueName": "French Ligue 1",
