@@ -311,19 +311,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://cdn.livesoccertv.com/images/teams/serbia/logos/crvena-zvezda.png",
       "TVChannels": "CBS All Access ,  fuboTV ,  T…"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "Thursday Dec. 10, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     }
   ],
   "day2": [
@@ -1531,7 +1518,7 @@
       "AwayTeam": "Atalanta",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  TLN ,  ESPN Caribbea…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN Ca…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1544,7 +1531,7 @@
       "AwayTeam": "Sassuolo",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  ESPN Play Norte ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1557,7 +1544,7 @@
       "AwayTeam": "Milan",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  ESPN2 Caribbean ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN2 Cari…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1583,7 +1570,7 @@
       "AwayTeam": "Cagliari",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  ESPN Play Norte ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1596,7 +1583,7 @@
       "AwayTeam": "Bologna",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  ESPN Play Norte ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1791,7 +1778,7 @@
       "AwayTeam": "Brest",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-      "TVChannels": "ESPN Play Norte ,  Viaplay Denmark ,  Viapla…"
+      "TVChannels": "ESPN Play Norte ,  DAZN ,  Viaplay Denmark ,  …"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1830,7 +1817,7 @@
       "AwayTeam": "Marseille",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-      "TVChannels": "ESPN Play Norte ,  ESPNPlay Caribbean ,  V…"
+      "TVChannels": "ESPN Play Norte ,  ESPNPlay Caribbean ,  …"
     }
   ]
 }
