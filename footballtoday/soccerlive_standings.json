@@ -762,20 +762,6 @@
     },
     {
         "teamrank": 15,
-        "teamname": "Spezia",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
-        "played": 10,
-        "wins": 2,
-        "draws": 4,
-        "lossess": 4,
-        "goalsfor": 14,
-        "goalsagainst": 19,
-        "goalsdiff": "-5",
-        "points": 10,
-        "form": "'LDDWL'"
-    },
-    {
-        "teamrank": 16,
         "teamname": "Parma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
         "played": 10,
@@ -787,6 +773,20 @@
         "goalsdiff": "-7",
         "points": 10,
         "form": "'DWLDD'"
+    },
+    {
+        "teamrank": 16,
+        "teamname": "Spezia",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
+        "played": 11,
+        "wins": 2,
+        "draws": 4,
+        "lossess": 5,
+        "goalsfor": 15,
+        "goalsagainst": 23,
+        "goalsdiff": "-8",
+        "points": 10,
+        "form": "'LLDDW'"
     },
     {
         "teamrank": 17,
@@ -834,15 +834,15 @@
         "teamrank": 20,
         "teamname": "Crotone",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-        "played": 10,
-        "wins": 0,
+        "played": 11,
+        "wins": 1,
         "draws": 2,
         "lossess": 8,
-        "goalsfor": 6,
-        "goalsagainst": 24,
-        "goalsdiff": "-18",
-        "points": 2,
-        "form": "'LLLDL'"
+        "goalsfor": 10,
+        "goalsagainst": 25,
+        "goalsdiff": "-15",
+        "points": 5,
+        "form": "'WLLLD'"
     }
   ],
   "ligue-1": [
