@@ -692,6 +692,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Udinese",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+        "played": 10,
+        "wins": 4,
+        "draws": 1,
+        "lossess": 5,
+        "goalsfor": 13,
+        "goalsagainst": 14,
+        "goalsdiff": "-1",
+        "points": 13,
+        "form": "'WWWDL'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Bologna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
         "played": 10,
@@ -705,7 +719,7 @@
         "form": "'LWWLW'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Cagliari",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
         "played": 10,
@@ -719,7 +733,7 @@
         "form": "'DDLWL'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Sampdoria",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
         "played": 10,
@@ -733,7 +747,7 @@
         "form": "'LDLLD'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Benevento",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
         "played": 11,
@@ -745,20 +759,6 @@
         "goalsdiff": "-10",
         "points": 11,
         "form": "'LDDWL'"
-    },
-    {
-        "teamrank": 14,
-        "teamname": "Udinese",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-        "played": 9,
-        "wins": 3,
-        "draws": 1,
-        "lossess": 5,
-        "goalsfor": 10,
-        "goalsagainst": 12,
-        "goalsdiff": "-2",
-        "points": 10,
-        "form": "'WWDLL'"
     },
     {
         "teamrank": 15,
@@ -804,20 +804,6 @@
     },
     {
         "teamrank": 18,
-        "teamname": "Torino",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-        "played": 10,
-        "wins": 1,
-        "draws": 3,
-        "lossess": 6,
-        "goalsfor": 17,
-        "goalsagainst": 24,
-        "goalsdiff": "-7",
-        "points": 6,
-        "form": "'LDLDW'"
-    },
-    {
-        "teamrank": 19,
         "teamname": "Genoa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
         "played": 10,
@@ -829,6 +815,20 @@
         "goalsdiff": "-10",
         "points": 6,
         "form": "'DLLLL'"
+    },
+    {
+        "teamrank": 19,
+        "teamname": "Torino",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+        "played": 11,
+        "wins": 1,
+        "draws": 3,
+        "lossess": 7,
+        "goalsfor": 19,
+        "goalsagainst": 27,
+        "goalsdiff": "-8",
+        "points": 6,
+        "form": "'LLDLD'"
     },
     {
         "teamrank": 20,
