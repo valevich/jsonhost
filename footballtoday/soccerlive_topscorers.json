@@ -329,6 +329,15 @@
         "playerassists": 2
     },
     {
+        "playername": "D. Berardi",
+        "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
+        "playerteam": "Sassuolo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+        "playergoals": 5,
+        "playerassists": 2
+    },
+    {
         "playername": "F. Caputo",
         "playerlink": "https://www.livesoccertv.com/player/f-caputo/63860/",
         "playerteam": "Sassuolo",
@@ -390,15 +399,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
         "playergoals": 5,
         "playerassists": 0
-    },
-    {
-        "playername": "D. Berardi",
-        "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
-        "playerteam": "Sassuolo",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-        "playergoals": 4,
-        "playerassists": 1
     },
     {
         "playername": "G. Castrovilli",
@@ -567,6 +567,15 @@
         "playerassists": 1
     },
     {
+        "playername": "W. Weghorst",
+        "playerlink": "https://www.livesoccertv.com/player/w-weghorst/207339/",
+        "playerteam": "Wolfsburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+        "playergoals": 9,
+        "playerassists": 1
+    },
+    {
         "playername": "L. Alario",
         "playerlink": "https://www.livesoccertv.com/player/l-alario/160318/",
         "playerteam": "Bayer Leverkusen",
@@ -601,15 +610,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
         "playergoals": 7,
         "playerassists": 2
-    },
-    {
-        "playername": "W. Weghorst",
-        "playerlink": "https://www.livesoccertv.com/player/w-weghorst/207339/",
-        "playerteam": "Wolfsburg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "playergoals": 7,
-        "playerassists": 0
     },
     {
         "playername": "Matheus Cunha",
@@ -657,6 +657,15 @@
         "playerassists": 0
     },
     {
+        "playername": "Bas Dost",
+        "playerlink": "https://www.livesoccertv.com/player/b-dost/59551/",
+        "playerteam": "Eintracht Frankfurt",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "playergoals": 4,
+        "playerassists": 1
+    },
+    {
         "playername": "Angeliño",
         "playerlink": "https://www.livesoccertv.com/player/angelino/250368/",
         "playerteam": "RB Leipzig",
@@ -673,15 +682,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
         "playergoals": 4,
         "playerassists": 2
-    },
-    {
-        "playername": "S. Gnabry",
-        "playerlink": "https://www.livesoccertv.com/player/s-gnabry/175333/",
-        "playerteam": "Bayern Munich",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "playergoals": 4,
-        "playerassists": 0
     }
   ]
 }
