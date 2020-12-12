@@ -410,6 +410,34 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Valencia",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+        "played": 13,
+        "wins": 3,
+        "draws": 5,
+        "lossess": 5,
+        "goalsfor": 19,
+        "goalsagainst": 19,
+        "goalsdiff": "0",
+        "points": 14,
+        "form": "'DDLDW'"
+    },
+    {
+        "teamrank": 11,
+        "teamname": "Athletic Club",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "played": 12,
+        "wins": 4,
+        "draws": 2,
+        "lossess": 6,
+        "goalsfor": 14,
+        "goalsagainst": 14,
+        "goalsdiff": "0",
+        "points": 14,
+        "form": "'DLDWL'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Elche",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
         "played": 10,
@@ -423,7 +451,7 @@
         "form": "'DDDDL'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 13,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "played": 12,
@@ -437,7 +465,7 @@
         "form": "'DWDDL'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 14,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 12,
@@ -449,34 +477,6 @@
         "goalsdiff": "-2",
         "points": 14,
         "form": "'DWDDD'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Valencia",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-        "played": 12,
-        "wins": 3,
-        "draws": 4,
-        "lossess": 5,
-        "goalsfor": 17,
-        "goalsagainst": 17,
-        "goalsdiff": "0",
-        "points": 13,
-        "form": "'DLDWD'"
-    },
-    {
-        "teamrank": 14,
-        "teamname": "Athletic Club",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "played": 11,
-        "wins": 4,
-        "draws": 1,
-        "lossess": 6,
-        "goalsfor": 12,
-        "goalsagainst": 12,
-        "goalsdiff": "0",
-        "points": 13,
-        "form": "'LDWLW'"
     },
     {
         "teamrank": 15,
