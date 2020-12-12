@@ -142,6 +142,20 @@
     },
     {
         "teamrank": 11,
+        "teamname": "Newcastle United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+        "played": 11,
+        "wins": 5,
+        "draws": 2,
+        "lossess": 4,
+        "goalsfor": 14,
+        "goalsagainst": 16,
+        "goalsdiff": "-2",
+        "points": 17,
+        "form": "'WWLLW'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
         "played": 12,
@@ -155,7 +169,7 @@
         "form": "'LLWDL'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
         "played": 11,
@@ -167,20 +181,6 @@
         "goalsdiff": "+1",
         "points": 16,
         "form": "'WLLWL'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Newcastle United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-        "played": 10,
-        "wins": 4,
-        "draws": 2,
-        "lossess": 4,
-        "goalsfor": 12,
-        "goalsagainst": 15,
-        "goalsdiff": "-3",
-        "points": 14,
-        "form": "'WLLWD'"
     },
     {
         "teamrank": 14,
@@ -256,15 +256,15 @@
         "teamrank": 19,
         "teamname": "West Bromwich Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-        "played": 11,
+        "played": 12,
         "wins": 1,
         "draws": 3,
-        "lossess": 7,
-        "goalsfor": 8,
-        "goalsagainst": 23,
-        "goalsdiff": "-15",
+        "lossess": 8,
+        "goalsfor": 9,
+        "goalsagainst": 25,
+        "goalsdiff": "-16",
         "points": 6,
-        "form": "'LWLLL'"
+        "form": "'LLWLL'"
     },
     {
         "teamrank": 20,
@@ -340,6 +340,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Sevilla",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+        "played": 11,
+        "wins": 6,
+        "draws": 1,
+        "lossess": 4,
+        "goalsfor": 13,
+        "goalsagainst": 9,
+        "goalsdiff": "+4",
+        "points": 19,
+        "form": "'WLWWW'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Cádiz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
         "played": 12,
@@ -351,20 +365,6 @@
         "goalsdiff": "-2",
         "points": 18,
         "form": "'WDLLW'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Sevilla",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-        "played": 10,
-        "wins": 5,
-        "draws": 1,
-        "lossess": 4,
-        "goalsfor": 12,
-        "goalsagainst": 9,
-        "goalsdiff": "+3",
-        "points": 16,
-        "form": "'LWWWL'"
     },
     {
         "teamrank": 7,
@@ -482,15 +482,15 @@
         "teamrank": 15,
         "teamname": "Getafe",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-        "played": 11,
+        "played": 12,
         "wins": 3,
         "draws": 4,
-        "lossess": 4,
+        "lossess": 5,
         "goalsfor": 9,
-        "goalsagainst": 13,
-        "goalsdiff": "-4",
+        "goalsagainst": 14,
+        "goalsdiff": "-5",
         "points": 13,
-        "form": "'LDDLD'"
+        "form": "'LLDDL'"
     },
     {
         "teamrank": 16,
