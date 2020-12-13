@@ -30,6 +30,20 @@
     },
     {
         "teamrank": 3,
+        "teamname": "Leicester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+        "played": 12,
+        "wins": 8,
+        "draws": 0,
+        "lossess": 4,
+        "goalsfor": 24,
+        "goalsagainst": 15,
+        "goalsdiff": "+9",
+        "points": 24,
+        "form": "'WWLLW'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
         "played": 12,
@@ -43,7 +57,7 @@
         "form": "'WWLDW'"
     },
     {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 12,
@@ -55,20 +69,6 @@
         "goalsdiff": "+13",
         "points": 22,
         "form": "'LWDWW'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Leicester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "played": 11,
-        "wins": 7,
-        "draws": 0,
-        "lossess": 4,
-        "goalsfor": 21,
-        "goalsagainst": 15,
-        "goalsdiff": "+6",
-        "points": 21,
-        "form": "'WLLWW'"
     },
     {
         "teamrank": 6,
@@ -200,32 +200,46 @@
         "teamrank": 15,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "played": 11,
+        "played": 12,
         "wins": 4,
         "draws": 1,
-        "lossess": 6,
+        "lossess": 7,
         "goalsfor": 10,
-        "goalsagainst": 14,
-        "goalsdiff": "-4",
+        "goalsagainst": 15,
+        "goalsdiff": "-5",
         "points": 13,
-        "form": "'LLDLW'"
+        "form": "'LLLDL'"
     },
     {
         "teamrank": 16,
         "teamname": "Brighton & Hove Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-        "played": 11,
+        "played": 12,
         "wins": 2,
         "draws": 4,
-        "lossess": 5,
+        "lossess": 6,
         "goalsfor": 15,
-        "goalsagainst": 18,
-        "goalsdiff": "-3",
+        "goalsagainst": 21,
+        "goalsdiff": "-6",
         "points": 10,
-        "form": "'LDWDL'"
+        "form": "'LLDWD'"
     },
     {
         "teamrank": 17,
+        "teamname": "Burnley",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+        "played": 11,
+        "wins": 2,
+        "draws": 3,
+        "lossess": 6,
+        "goalsfor": 6,
+        "goalsagainst": 18,
+        "goalsdiff": "-12",
+        "points": 9,
+        "form": "'WDLWD'"
+    },
+    {
+        "teamrank": 18,
         "teamname": "Fulham",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
         "played": 12,
@@ -237,20 +251,6 @@
         "goalsdiff": "-10",
         "points": 8,
         "form": "'DLWLL'"
-    },
-    {
-        "teamrank": 18,
-        "teamname": "Burnley",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-        "played": 10,
-        "wins": 1,
-        "draws": 3,
-        "lossess": 6,
-        "goalsfor": 5,
-        "goalsagainst": 18,
-        "goalsdiff": "-13",
-        "points": 6,
-        "form": "'DLWDL'"
     },
     {
         "teamrank": 19,
