@@ -848,6 +848,20 @@
   "ligue-1": [
     {
         "teamrank": 1,
+        "teamname": "Lille",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "played": 14,
+        "wins": 8,
+        "draws": 5,
+        "lossess": 1,
+        "goalsfor": 26,
+        "goalsagainst": 10,
+        "goalsdiff": "+16",
+        "points": 29,
+        "form": "'WWDWL'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "PSG",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
         "played": 13,
@@ -861,7 +875,7 @@
         "form": "'WDLWW'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Olympique Marseille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
         "played": 12,
@@ -873,20 +887,6 @@
         "goalsdiff": "+9",
         "points": 27,
         "form": "'WWWWW'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Lille",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "played": 13,
-        "wins": 7,
-        "draws": 5,
-        "lossess": 1,
-        "goalsfor": 24,
-        "goalsagainst": 9,
-        "goalsdiff": "+15",
-        "points": 26,
-        "form": "'WDWLD'"
     },
     {
         "teamrank": 4,
@@ -990,15 +990,15 @@
         "teamrank": 11,
         "teamname": "Bordeaux",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
-        "played": 13,
+        "played": 14,
         "wins": 5,
         "draws": 4,
-        "lossess": 4,
-        "goalsfor": 13,
-        "goalsagainst": 13,
-        "goalsdiff": "0",
+        "lossess": 5,
+        "goalsfor": 14,
+        "goalsagainst": 15,
+        "goalsdiff": "-1",
         "points": 19,
-        "form": "'WDWLL'"
+        "form": "'LWDWL'"
     },
     {
         "teamrank": 12,
