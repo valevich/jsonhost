@@ -382,6 +382,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Barcelona",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "played": 11,
+        "wins": 5,
+        "draws": 2,
+        "lossess": 4,
+        "goalsfor": 21,
+        "goalsagainst": 11,
+        "goalsdiff": "+10",
+        "points": 17,
+        "form": "'WLWLW'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "played": 13,
@@ -395,7 +409,7 @@
         "form": "'DWLLL'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "played": 13,
@@ -407,20 +421,6 @@
         "goalsdiff": "-1",
         "points": 15,
         "form": "'DDWDD'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Barcelona",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "played": 10,
-        "wins": 4,
-        "draws": 2,
-        "lossess": 4,
-        "goalsfor": 20,
-        "goalsagainst": 11,
-        "goalsdiff": "+9",
-        "points": 14,
-        "form": "'LWLWD'"
     },
     {
         "teamrank": 11,
@@ -524,15 +524,15 @@
         "teamrank": 18,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "played": 11,
+        "played": 12,
         "wins": 2,
         "draws": 5,
-        "lossess": 4,
+        "lossess": 5,
         "goalsfor": 13,
-        "goalsagainst": 15,
-        "goalsdiff": "-2",
+        "goalsagainst": 16,
+        "goalsdiff": "-3",
         "points": 11,
-        "form": "'WDDDD'"
+        "form": "'LWDDD'"
     },
     {
         "teamrank": 19,
@@ -568,15 +568,15 @@
         "teamrank": 1,
         "teamname": "Milan",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-        "played": 10,
+        "played": 11,
         "wins": 8,
-        "draws": 2,
+        "draws": 3,
         "lossess": 0,
-        "goalsfor": 23,
-        "goalsagainst": 9,
+        "goalsfor": 25,
+        "goalsagainst": 11,
         "goalsdiff": "+14",
-        "points": 26,
-        "form": "'WWWDW'"
+        "points": 27,
+        "form": "'DWWWD'"
     },
     {
         "teamrank": 2,
@@ -748,6 +748,20 @@
     },
     {
         "teamrank": 14,
+        "teamname": "Parma",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+        "played": 11,
+        "wins": 2,
+        "draws": 5,
+        "lossess": 4,
+        "goalsfor": 12,
+        "goalsagainst": 19,
+        "goalsdiff": "-7",
+        "points": 11,
+        "form": "'DDWLD'"
+    },
+    {
+        "teamrank": 15,
         "teamname": "Benevento",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
         "played": 11,
@@ -759,20 +773,6 @@
         "goalsdiff": "-10",
         "points": 11,
         "form": "'LDDWL'"
-    },
-    {
-        "teamrank": 15,
-        "teamname": "Parma",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-        "played": 10,
-        "wins": 2,
-        "draws": 4,
-        "lossess": 4,
-        "goalsfor": 10,
-        "goalsagainst": 17,
-        "goalsdiff": "-7",
-        "points": 10,
-        "form": "'DWLDD'"
     },
     {
         "teamrank": 16,
@@ -862,20 +862,34 @@
     },
     {
         "teamrank": 2,
-        "teamname": "PSG",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "played": 13,
-        "wins": 9,
-        "draws": 1,
-        "lossess": 3,
-        "goalsfor": 33,
-        "goalsagainst": 9,
-        "goalsdiff": "+24",
-        "points": 28,
-        "form": "'WDLWW'"
+        "teamname": "Olympique Lyonnais",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+        "played": 14,
+        "wins": 8,
+        "draws": 5,
+        "lossess": 1,
+        "goalsfor": 25,
+        "goalsagainst": 11,
+        "goalsdiff": "+14",
+        "points": 29,
+        "form": "'WWWWW'"
     },
     {
         "teamrank": 3,
+        "teamname": "PSG",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "played": 14,
+        "wins": 9,
+        "draws": 1,
+        "lossess": 4,
+        "goalsfor": 33,
+        "goalsagainst": 10,
+        "goalsdiff": "+23",
+        "points": 28,
+        "form": "'LWDLW'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Olympique Marseille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
         "played": 12,
@@ -887,20 +901,6 @@
         "goalsdiff": "+9",
         "points": 27,
         "form": "'WWWWW'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Olympique Lyonnais",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "played": 13,
-        "wins": 7,
-        "draws": 5,
-        "lossess": 1,
-        "goalsfor": 24,
-        "goalsagainst": 11,
-        "goalsdiff": "+13",
-        "points": 26,
-        "form": "'WWWWD'"
     },
     {
         "teamrank": 5,
