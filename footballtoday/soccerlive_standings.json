@@ -18,15 +18,15 @@
         "teamrank": 2,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "played": 11,
+        "played": 12,
         "wins": 7,
-        "draws": 3,
+        "draws": 4,
         "lossess": 1,
-        "goalsfor": 26,
-        "goalsagainst": 17,
+        "goalsfor": 27,
+        "goalsagainst": 18,
         "goalsdiff": "+9",
-        "points": 24,
-        "form": "'WDWDW'"
+        "points": 25,
+        "form": "'DWDWD'"
     },
     {
         "teamrank": 3,
@@ -228,15 +228,15 @@
         "teamrank": 17,
         "teamname": "Fulham",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-        "played": 11,
+        "played": 12,
         "wins": 2,
-        "draws": 1,
+        "draws": 2,
         "lossess": 8,
-        "goalsfor": 11,
-        "goalsagainst": 21,
+        "goalsfor": 12,
+        "goalsagainst": 22,
         "goalsdiff": "-10",
-        "points": 7,
-        "form": "'LWLLW'"
+        "points": 8,
+        "form": "'DLWLL'"
     },
     {
         "teamrank": 18,
