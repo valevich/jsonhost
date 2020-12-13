@@ -284,6 +284,15 @@
         "playerassists": 2
     },
     {
+        "playername": "A. Belotti",
+        "playerlink": "https://www.livesoccertv.com/player/a-belotti/186733/",
+        "playerteam": "Torino",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/torino/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+        "playergoals": 8,
+        "playerassists": 2
+    },
+    {
         "playername": "Cristiano Ronaldo",
         "playerlink": "https://www.livesoccertv.com/player/cristiano-ronaldo/515/",
         "playerteam": "Juventus",
@@ -300,15 +309,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "playergoals": 8,
         "playerassists": 1
-    },
-    {
-        "playername": "A. Belotti",
-        "playerlink": "https://www.livesoccertv.com/player/a-belotti/186733/",
-        "playerteam": "Torino",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/torino/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-        "playergoals": 7,
-        "playerassists": 2
     },
     {
         "playername": "João Pedro",
@@ -401,11 +401,11 @@
         "playerassists": 0
     },
     {
-        "playername": "G. Castrovilli",
-        "playerlink": "https://www.livesoccertv.com/player/g-castrovilli/278211/",
-        "playerteam": "Fiorentina",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/fiorentina/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+        "playername": "F. Caicedo",
+        "playerlink": "https://www.livesoccertv.com/player/f-caicedo/23365/",
+        "playerteam": "Lazio",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/lazio-roma/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
         "playergoals": 4,
         "playerassists": 0
     }
@@ -554,7 +554,7 @@
         "playerteam": "Bayern Munich",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "playergoals": 12,
+        "playergoals": 13,
         "playerassists": 2
     },
     {
@@ -612,6 +612,15 @@
         "playerassists": 2
     },
     {
+        "playername": "S. Wamangituka",
+        "playerlink": "https://www.livesoccertv.com/player/s-wamangituka/388180/",
+        "playerteam": "Stuttgart",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "playergoals": 7,
+        "playerassists": 2
+    },
+    {
         "playername": "Matheus Cunha",
         "playerlink": "https://www.livesoccertv.com/player/matheus-cunha/359098/",
         "playerteam": "Hertha BSC",
@@ -639,13 +648,13 @@
         "playerassists": 1
     },
     {
-        "playername": "S. Wamangituka",
-        "playerlink": "https://www.livesoccertv.com/player/s-wamangituka/388180/",
-        "playerteam": "Stuttgart",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "playername": "V. Grifo",
+        "playerlink": "https://www.livesoccertv.com/player/v-grifo/207069/",
+        "playerteam": "Freiburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/sc-freiburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
         "playergoals": 5,
-        "playerassists": 1
+        "playerassists": 2
     },
     {
         "playername": "D. Caligiuri",
@@ -673,15 +682,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
         "playergoals": 4,
         "playerassists": 0
-    },
-    {
-        "playername": "N. Füllkrug",
-        "playerlink": "https://www.livesoccertv.com/player/n-fullkrug/140296/",
-        "playerteam": "Werder Bremen",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/werder-bremen/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-        "playergoals": 4,
-        "playerassists": 2
     }
   ]
 }
