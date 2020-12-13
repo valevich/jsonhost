@@ -183,6 +183,15 @@
         "playerassists": 1
     },
     {
+        "playername": "Carlos Soler",
+        "playerlink": "https://www.livesoccertv.com/player/carlos-soler/296093/",
+        "playerteam": "Valencia",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/valencia/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+        "playergoals": 5,
+        "playerassists": 5
+    },
+    {
         "playername": "L. Suárez",
         "playerlink": "https://www.livesoccertv.com/player/l-suarez/2423/",
         "playerteam": "Atletico Madrid",
@@ -262,15 +271,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
         "playergoals": 4,
         "playerassists": 0
-    },
-    {
-        "playername": "Carlos Soler",
-        "playerlink": "https://www.livesoccertv.com/player/carlos-soler/296093/",
-        "playerteam": "Valencia",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/valencia/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-        "playergoals": 4,
-        "playerassists": 4
     }
   ],
   "serie-a": [
