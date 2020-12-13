@@ -4,15 +4,15 @@
         "teamrank": 1,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "played": 11,
+        "played": 12,
         "wins": 7,
-        "draws": 3,
+        "draws": 4,
         "lossess": 1,
-        "goalsfor": 23,
-        "goalsagainst": 9,
+        "goalsfor": 24,
+        "goalsagainst": 10,
         "goalsdiff": "+14",
-        "points": 24,
-        "form": "'WDWWW'"
+        "points": 25,
+        "form": "'DWDWW'"
     },
     {
         "teamrank": 2,
@@ -142,6 +142,20 @@
     },
     {
         "teamrank": 11,
+        "teamname": "Crystal Palace",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+        "played": 12,
+        "wins": 5,
+        "draws": 2,
+        "lossess": 5,
+        "goalsfor": 18,
+        "goalsagainst": 17,
+        "goalsdiff": "+1",
+        "points": 17,
+        "form": "'DWLLW'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "played": 11,
@@ -155,7 +169,7 @@
         "form": "'WWLLW'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
         "played": 12,
@@ -167,20 +181,6 @@
         "goalsdiff": "-5",
         "points": 17,
         "form": "'LLWDL'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Crystal Palace",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "played": 11,
-        "wins": 5,
-        "draws": 1,
-        "lossess": 5,
-        "goalsfor": 17,
-        "goalsagainst": 16,
-        "goalsdiff": "+1",
-        "points": 16,
-        "form": "'WLLWL'"
     },
     {
         "teamrank": 14,
@@ -1256,6 +1256,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Augsburg",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+        "played": 11,
+        "wins": 3,
+        "draws": 4,
+        "lossess": 4,
+        "goalsfor": 14,
+        "goalsagainst": 17,
+        "goalsdiff": "-3",
+        "points": 13,
+        "form": "'DLDDL'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Hoffenheim",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
         "played": 10,
@@ -1269,7 +1283,7 @@
         "form": "'WDDLL'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Hertha BSC",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
         "played": 11,
@@ -1281,20 +1295,6 @@
         "goalsdiff": "-1",
         "points": 12,
         "form": "'DWDLW'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Augsburg",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-        "played": 10,
-        "wins": 3,
-        "draws": 3,
-        "lossess": 4,
-        "goalsfor": 12,
-        "goalsagainst": 15,
-        "goalsdiff": "-3",
-        "points": 12,
-        "form": "'LDDLW'"
     },
     {
         "teamrank": 13,
@@ -1370,15 +1370,15 @@
         "teamrank": 18,
         "teamname": "Schalke 04",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
-        "played": 10,
+        "played": 11,
         "wins": 0,
-        "draws": 3,
+        "draws": 4,
         "lossess": 7,
-        "goalsfor": 6,
-        "goalsagainst": 31,
+        "goalsfor": 8,
+        "goalsagainst": 33,
         "goalsdiff": "-25",
-        "points": 3,
-        "form": "'LLLDD'"
+        "points": 4,
+        "form": "'DLLLD'"
     }
   ]
 }
