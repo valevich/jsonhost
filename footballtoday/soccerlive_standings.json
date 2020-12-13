@@ -328,15 +328,15 @@
         "teamrank": 4,
         "teamname": "Villarreal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "played": 12,
+        "played": 13,
         "wins": 5,
-        "draws": 6,
+        "draws": 7,
         "lossess": 1,
-        "goalsfor": 15,
-        "goalsagainst": 11,
+        "goalsfor": 16,
+        "goalsagainst": 12,
         "goalsdiff": "+4",
-        "points": 21,
-        "form": "'DDDWW'"
+        "points": 22,
+        "form": "'DDDDW'"
     },
     {
         "teamrank": 5,
@@ -368,6 +368,20 @@
     },
     {
         "teamrank": 7,
+        "teamname": "Real Betis",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "played": 13,
+        "wins": 5,
+        "draws": 1,
+        "lossess": 7,
+        "goalsfor": 15,
+        "goalsagainst": 24,
+        "goalsdiff": "-9",
+        "points": 16,
+        "form": "'DWLLL'"
+    },
+    {
+        "teamrank": 8,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "played": 13,
@@ -381,7 +395,7 @@
         "form": "'DDWDD'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
         "played": 11,
@@ -393,20 +407,6 @@
         "goalsdiff": "-6",
         "points": 15,
         "form": "'DLLLD'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Real Betis",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 12,
-        "wins": 5,
-        "draws": 0,
-        "lossess": 7,
-        "goalsfor": 14,
-        "goalsagainst": 23,
-        "goalsdiff": "-9",
-        "points": 15,
-        "form": "'WLLLW'"
     },
     {
         "teamrank": 10,
