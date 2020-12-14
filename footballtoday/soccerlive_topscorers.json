@@ -511,6 +511,24 @@
         "playerassists": 0
     },
     {
+        "playername": "J. Bamba",
+        "playerlink": "https://www.livesoccertv.com/player/j-bamba/249220/",
+        "playerteam": "Lille",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "playergoals": 5,
+        "playerassists": 0
+    },
+    {
+        "playername": "T. Kadewere",
+        "playerlink": "https://www.livesoccertv.com/player/t-kadewere/302725/",
+        "playerteam": "Olympique Lyonnais",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+        "playergoals": 5,
+        "playerassists": 0
+    },
+    {
         "playername": "M. Kean",
         "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
         "playerteam": "PSG",
@@ -525,24 +543,6 @@
         "playerteam": "Lens",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/lens/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-        "playergoals": 5,
-        "playerassists": 0
-    },
-    {
-        "playername": "Florian Thauvin",
-        "playerlink": "https://www.livesoccertv.com/player/f-thauvin/151539/",
-        "playerteam": "Olympique Marseille",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-marseille/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-        "playergoals": 5,
-        "playerassists": 0
-    },
-    {
-        "playername": "K. Volland",
-        "playerlink": "https://www.livesoccertv.com/player/k-volland/95821/",
-        "playerteam": "Monaco",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
         "playergoals": 5,
         "playerassists": 0
     }
@@ -581,8 +581,8 @@
         "playerteam": "Bayer Leverkusen",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-        "playergoals": 7,
-        "playerassists": 1
+        "playergoals": 8,
+        "playerassists": 2
     },
     {
         "playername": "A. Kramarić",
@@ -657,6 +657,15 @@
         "playerassists": 2
     },
     {
+        "playername": "L. Bailey",
+        "playerlink": "https://www.livesoccertv.com/player/l-bailey/304930/",
+        "playerteam": "Bayer Leverkusen",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+        "playergoals": 4,
+        "playerassists": 0
+    },
+    {
         "playername": "D. Caligiuri",
         "playerlink": "https://www.livesoccertv.com/player/d-caligiuri/54628/",
         "playerteam": "Augsburg",
@@ -673,15 +682,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
         "playergoals": 4,
         "playerassists": 1
-    },
-    {
-        "playername": "Angeliño",
-        "playerlink": "https://www.livesoccertv.com/player/angelino/250368/",
-        "playerteam": "RB Leipzig",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/rb-leipzig/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-        "playergoals": 4,
-        "playerassists": 0
     }
   ]
 }
