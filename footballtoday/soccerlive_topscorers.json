@@ -275,6 +275,15 @@
   ],
   "serie-a": [
     {
+        "playername": "Cristiano Ronaldo",
+        "playerlink": "https://www.livesoccertv.com/player/cristiano-ronaldo/515/",
+        "playerteam": "Juventus",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/juventus/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+        "playergoals": 10,
+        "playerassists": 4
+    },
+    {
         "playername": "Z. Ibrahimović",
         "playerlink": "https://www.livesoccertv.com/player/z-ibrahimovic/301/",
         "playerteam": "Milan",
@@ -298,15 +307,6 @@
         "playerteam": "Torino",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/torino/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-        "playergoals": 8,
-        "playerassists": 2
-    },
-    {
-        "playername": "Cristiano Ronaldo",
-        "playerlink": "https://www.livesoccertv.com/player/cristiano-ronaldo/515/",
-        "playerteam": "Juventus",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/juventus/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
         "playergoals": 8,
         "playerassists": 2
     },
