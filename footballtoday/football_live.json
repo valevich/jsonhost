@@ -17,7 +17,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "1:00pm",
-      "GameState": "68 ",
+      "GameState": "88 ",
       "HomeTeam": "Wolves",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
@@ -82,14 +82,14 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "12:30pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Udinese",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
       "AwayTeam": "Crotone",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN Ca…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN Caribbe…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -121,25 +121,25 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "12:30pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Eintracht",
       "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
       "AwayTeam": "Borussia M'gladbach",
       "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
     },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "2:30pm",
-      "GameState": "",
+      "GameState": "11 ",
       "HomeTeam": "Hertha BSC",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
       "AwayTeam": "Mainz 05",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
       "TVChannels": "05 ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
     },
@@ -147,12 +147,12 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "2:30pm",
-      "GameState": "",
+      "GameState": "14 ",
       "HomeTeam": "Werder Bremen",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
       "AwayTeam": "Borussia Dortmund",
-      "AwayGoals": "",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
     },
@@ -160,12 +160,12 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "2:30pm",
-      "GameState": "",
+      "GameState": "14 ",
       "HomeTeam": "Stuttgart",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
       "AwayTeam": "Union Berlin",
-      "AwayGoals": "",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet One ,  Spor…"
     }
@@ -799,7 +799,7 @@
       "AwayTeam": "Fulham",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-      "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
+      "TVChannels": "SiriusXM FC ,  DAZN ,  Sky HD ,  Blue To Go Vi…"
     },
     {
       "LeagueName": "Spanish La Liga",
