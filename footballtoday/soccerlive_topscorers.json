@@ -138,6 +138,15 @@
   ],
   "primera-division": [
     {
+        "playername": "Iago Aspas",
+        "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
+        "playerteam": "Celta Vigo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "playergoals": 7,
+        "playerassists": 2
+    },
+    {
         "playername": "Mikel Oyarzabal",
         "playerlink": "https://www.livesoccertv.com/player/mikel-oyarzabal/285896/",
         "playerteam": "Real Sociedad",
@@ -145,15 +154,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "playergoals": 7,
         "playerassists": 5
-    },
-    {
-        "playername": "Iago Aspas",
-        "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
-        "playerteam": "Celta Vigo",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "playergoals": 6,
-        "playerassists": 1
     },
     {
         "playername": "Gerard Moreno",
