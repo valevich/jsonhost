@@ -156,6 +156,15 @@
         "playerassists": 5
     },
     {
+        "playername": "Karim Benzema",
+        "playerlink": "https://www.livesoccertv.com/player/k-benzema/1728/",
+        "playerteam": "Real Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "playergoals": 6,
+        "playerassists": 0
+    },
+    {
         "playername": "Gerard Moreno Balaguero",
         "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
         "playerteam": "Villarreal",
@@ -207,15 +216,6 @@
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
         "playergoals": 5,
-        "playerassists": 0
-    },
-    {
-        "playername": "Karim Benzema",
-        "playerlink": "https://www.livesoccertv.com/player/k-benzema/1728/",
-        "playerteam": "Real Madrid",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-madrid/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "playergoals": 4,
         "playerassists": 0
     },
     {
@@ -311,6 +311,15 @@
         "playerassists": 2
     },
     {
+        "playername": "Ciro Immobile",
+        "playerlink": "https://www.livesoccertv.com/player/c-immobile/75297/",
+        "playerteam": "Lazio",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/lazio-roma/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+        "playergoals": 7,
+        "playerassists": 2
+    },
+    {
         "playername": "João Pedro Geraldino dos Santos Galvão",
         "playerlink": "https://www.livesoccertv.com/player/joao-pedro/115191/",
         "playerteam": "Cagliari",
@@ -318,15 +327,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
         "playergoals": 6,
         "playerassists": 1
-    },
-    {
-        "playername": "Ciro Immobile",
-        "playerlink": "https://www.livesoccertv.com/player/c-immobile/75297/",
-        "playerteam": "Lazio",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/lazio-roma/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-        "playergoals": 6,
-        "playerassists": 2
     },
     {
         "playername": "H. Lozano",
