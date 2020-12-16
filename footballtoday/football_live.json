@@ -63,7 +63,7 @@
       "AwayTeam": "Brighton",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
+      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Video Ev…"
     },
     {
       "LeagueName": "English Premier League",
@@ -76,7 +76,7 @@
       "AwayTeam": "Crystal Palace",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
+      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Video Ev…"
     },
     {
       "LeagueName": "English Premier League",
@@ -89,7 +89,7 @@
       "AwayTeam": "Tottenham",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  NBC Sports…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -115,7 +115,7 @@
       "AwayTeam": "Real Sociedad",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -388,7 +388,7 @@
       "AwayTeam": "Saint-Étienne",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN SPORTS CO…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -401,7 +401,7 @@
       "AwayTeam": "Brest",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN SPORTS CO…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -414,7 +414,7 @@
       "AwayTeam": "Lens",
       "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN SPORTS CO…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -427,13 +427,13 @@
       "AwayTeam": "Lorient",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN SPORTS CO…"
     },
     {
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Stade Rennes",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
