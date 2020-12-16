@@ -567,6 +567,15 @@
         "playerassists": 1
     },
     {
+        "playername": "André Miguel Valente Silva",
+        "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
+        "playerteam": "Eintracht Frankfurt",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "playergoals": 9,
+        "playerassists": 3
+    },
+    {
         "playername": "Wout Weghorst",
         "playerlink": "https://www.livesoccertv.com/player/w-weghorst/207339/",
         "playerteam": "Wolfsburg",
@@ -603,13 +612,13 @@
         "playerassists": 1
     },
     {
-        "playername": "André Miguel Valente Silva",
-        "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
-        "playerteam": "Eintracht Frankfurt",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "playername": "Lars Stindl",
+        "playerlink": "https://www.livesoccertv.com/player/l-stindl/39612/",
+        "playerteam": "Borussia M'gladbach",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
         "playergoals": 7,
-        "playerassists": 2
+        "playerassists": 3
     },
     {
         "playername": "S. Wamangituka",
@@ -657,6 +666,15 @@
         "playerassists": 2
     },
     {
+        "playername": "S. Kalajdzic",
+        "playerlink": "https://www.livesoccertv.com/player/s-kalajdzic/271246/",
+        "playerteam": "Stuttgart",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "playergoals": 5,
+        "playerassists": 0
+    },
+    {
         "playername": "L. Bailey",
         "playerlink": "https://www.livesoccertv.com/player/l-bailey/304930/",
         "playerteam": "Bayer Leverkusen",
@@ -664,24 +682,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
         "playergoals": 4,
         "playerassists": 0
-    },
-    {
-        "playername": "Daniel Caligiuri",
-        "playerlink": "https://www.livesoccertv.com/player/d-caligiuri/54628/",
-        "playerteam": "Augsburg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/fc-augsburg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-        "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "Bas Dost",
-        "playerlink": "https://www.livesoccertv.com/player/b-dost/59551/",
-        "playerteam": "Eintracht Frankfurt",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-        "playergoals": 4,
-        "playerassists": 1
     }
   ]
 }
