@@ -72,6 +72,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Manchester United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "played": 12,
+        "wins": 7,
+        "draws": 2,
+        "lossess": 3,
+        "goalsfor": 22,
+        "goalsagainst": 19,
+        "goalsdiff": "+3",
+        "points": 23,
+        "form": "'WDWWW'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 13,
@@ -85,7 +99,7 @@
         "form": "'LLWDW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "played": 13,
@@ -99,7 +113,7 @@
         "form": "'DWLWW'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "played": 12,
@@ -111,20 +125,6 @@
         "goalsdiff": "+6",
         "points": 20,
         "form": "'DDWWL'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Manchester United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "played": 11,
-        "wins": 6,
-        "draws": 2,
-        "lossess": 3,
-        "goalsfor": 19,
-        "goalsagainst": 17,
-        "goalsdiff": "+2",
-        "points": 20,
-        "form": "'DWWWW'"
     },
     {
         "teamrank": 10,
@@ -270,13 +270,13 @@
         "teamrank": 20,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 12,
+        "played": 13,
         "wins": 0,
         "draws": 1,
-        "lossess": 11,
-        "goalsfor": 5,
-        "goalsagainst": 21,
-        "goalsdiff": "-16",
+        "lossess": 12,
+        "goalsfor": 7,
+        "goalsagainst": 24,
+        "goalsdiff": "-17",
         "points": 1,
         "form": "'LLLLL'"
     }
