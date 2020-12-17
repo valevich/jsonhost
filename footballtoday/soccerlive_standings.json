@@ -608,6 +608,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Roma",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+        "played": 12,
+        "wins": 7,
+        "draws": 3,
+        "lossess": 2,
+        "goalsfor": 27,
+        "goalsagainst": 17,
+        "goalsdiff": "+10",
+        "points": 24,
+        "form": "'WWDLW'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Napoli",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
         "played": 12,
@@ -621,7 +635,7 @@
         "form": "'LWWWL'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Sassuolo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
         "played": 12,
@@ -633,20 +647,6 @@
         "goalsdiff": "+9",
         "points": 23,
         "form": "'DWDLW'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Roma",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "played": 11,
-        "wins": 6,
-        "draws": 3,
-        "lossess": 2,
-        "goalsfor": 24,
-        "goalsagainst": 16,
-        "goalsdiff": "+8",
-        "points": 21,
-        "form": "'WDLWW'"
     },
     {
         "teamrank": 7,
@@ -820,15 +820,15 @@
         "teamrank": 19,
         "teamname": "Torino",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-        "played": 11,
+        "played": 12,
         "wins": 1,
         "draws": 3,
-        "lossess": 7,
-        "goalsfor": 19,
-        "goalsagainst": 27,
-        "goalsdiff": "-8",
+        "lossess": 8,
+        "goalsfor": 20,
+        "goalsagainst": 30,
+        "goalsdiff": "-10",
         "points": 6,
-        "form": "'LLDLD'"
+        "form": "'LLLDL'"
     },
     {
         "teamrank": 20,
