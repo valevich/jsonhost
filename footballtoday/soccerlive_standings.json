@@ -144,15 +144,15 @@
         "teamrank": 11,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 10,
+        "played": 11,
         "wins": 6,
-        "draws": 0,
+        "draws": 1,
         "lossess": 4,
         "goalsfor": 21,
         "goalsagainst": 13,
         "goalsdiff": "+8",
-        "points": 18,
-        "form": "'WLLWL'"
+        "points": 19,
+        "form": "'DWLLW'"
     },
     {
         "teamrank": 12,
@@ -226,6 +226,20 @@
     },
     {
         "teamrank": 17,
+        "teamname": "Burnley",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+        "played": 12,
+        "wins": 2,
+        "draws": 4,
+        "lossess": 6,
+        "goalsfor": 6,
+        "goalsagainst": 18,
+        "goalsdiff": "-12",
+        "points": 10,
+        "form": "'DWDLW'"
+    },
+    {
+        "teamrank": 18,
         "teamname": "Fulham",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
         "played": 13,
@@ -237,20 +251,6 @@
         "goalsdiff": "-10",
         "points": 9,
         "form": "'DDLWL'"
-    },
-    {
-        "teamrank": 18,
-        "teamname": "Burnley",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-        "played": 11,
-        "wins": 2,
-        "draws": 3,
-        "lossess": 6,
-        "goalsfor": 6,
-        "goalsagainst": 18,
-        "goalsdiff": "-12",
-        "points": 9,
-        "form": "'WDLWD'"
     },
     {
         "teamrank": 19,
