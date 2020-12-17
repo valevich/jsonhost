@@ -15,7 +15,7 @@
         "playerteam": "Liverpool",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "playergoals": 10,
+        "playergoals": 11,
         "playerassists": 5
     },
     {
@@ -24,7 +24,7 @@
         "playerteam": "Tottenham Hotspur",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "playergoals": 10,
+        "playergoals": 11,
         "playerassists": 0
     },
     {
@@ -37,6 +37,15 @@
         "playerassists": 5
     },
     {
+        "playername": "P. Bamford",
+        "playerlink": "https://www.livesoccertv.com/player/p-bamford/172819/",
+        "playerteam": "Leeds United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/leeds-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
         "playername": "H. Kane",
         "playerlink": "https://www.livesoccertv.com/player/h-kane/134501/",
         "playerteam": "Tottenham Hotspur",
@@ -44,15 +53,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "playergoals": 9,
         "playerassists": 2
-    },
-    {
-        "playername": "P. Bamford",
-        "playerlink": "https://www.livesoccertv.com/player/p-bamford/172819/",
-        "playerteam": "Leeds United",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/leeds-united/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-        "playergoals": 8,
-        "playerassists": 0
     },
     {
         "playername": "Bruno Fernandes",
@@ -554,7 +554,7 @@
         "playerteam": "Bayern Munich",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "playergoals": 13,
+        "playergoals": 15,
         "playerassists": 2
     },
     {
