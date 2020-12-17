@@ -298,8 +298,8 @@
         "playerteam": "Internazionale",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "playergoals": 9,
-        "playerassists": 1
+        "playergoals": 10,
+        "playerassists": 2
     },
     {
         "playername": "A. Belotti",
@@ -345,6 +345,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
         "playergoals": 6,
         "playerassists": 0
+    },
+    {
+        "playername": "Mbala N'Zola",
+        "playerlink": "https://www.livesoccertv.com/player/m-n-apos-zola/262368/",
+        "playerteam": "Spezia",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/spezia/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
+        "playergoals": 6,
+        "playerassists": 1
     },
     {
         "playername": "D. Berardi",
@@ -399,15 +408,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
         "playergoals": 5,
         "playerassists": 0
-    },
-    {
-        "playername": "J. Veretout",
-        "playerlink": "https://www.livesoccertv.com/player/j-veretout/156122/",
-        "playerteam": "Roma",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "playergoals": 5,
-        "playerassists": 3
     }
   ],
   "ligue-1": [
