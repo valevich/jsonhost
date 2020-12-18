@@ -109,6 +109,15 @@
         "playerassists": 0
     },
     {
+        "playername": "Marcus Rashford",
+        "playerlink": "https://www.livesoccertv.com/player/m-rashford/308286/",
+        "playerteam": "Manchester United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "playergoals": 5,
+        "playerassists": 0
+    },
+    {
         "playername": "Diogo José Teixeira da Silva",
         "playerlink": "https://www.livesoccertv.com/player/diogo-jota/280723/",
         "playerteam": "Liverpool",
@@ -123,15 +132,6 @@
         "playerteam": "Southampton",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/southampton/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "playergoals": 4,
-        "playerassists": 0
-    },
-    {
-        "playername": "J. Bowen",
-        "playerlink": "https://www.livesoccertv.com/player/j-bowen/262798/",
-        "playerteam": "West Ham United",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/west-ham-united/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "playergoals": 4,
         "playerassists": 0
     }
