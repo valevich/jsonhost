@@ -68,60 +68,6 @@
   ],
   "day2": [
     {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "Friday Dec. 18, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Athletic Club",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-      "AwayTeam": "Huesca",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
-    },
-    {
-      "LeagueName": "German Bundesliga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
-      "GameTime": "Friday Dec. 18, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "German Bundesliga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
-      "GameTime": "2:30pm",
-      "GameState": "",
-      "HomeTeam": "Union Berlin",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-      "AwayTeam": "Borussia Dortmund",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
-    }
-  ],
-  "day3": [
-    {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "Saturday Dec. 19, 2020",
@@ -460,7 +406,7 @@
       "TVChannels": "nais beIN SPORTS ,  Fanatiz USA ,  fu…"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -839,7 +785,7 @@
       "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -880,7 +826,7 @@
       "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "English EFL Cup",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/41.png",
@@ -1051,7 +997,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "English EFL Cup",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/41.png",
@@ -1415,6 +1361,60 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
       "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "No League Games Today",
+      "LeagueLogo": "",
+      "GameTime": "Thursday Dec. 24, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "No League Games Today",
+      "LeagueLogo": "",
+      "GameTime": "Thursday Dec. 24, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ]
 }
