@@ -307,7 +307,7 @@
         "playerteam": "Torino",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/torino/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-        "playergoals": 8,
+        "playergoals": 9,
         "playerassists": 2
     },
     {
@@ -318,6 +318,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
         "playergoals": 7,
         "playerassists": 2
+    },
+    {
+        "playername": "H. Mkhitaryan",
+        "playerlink": "https://www.livesoccertv.com/player/h-mkhitaryan/39930/",
+        "playerteam": "Roma",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+        "playergoals": 7,
+        "playerassists": 0
     },
     {
         "playername": "João Pedro",
@@ -338,15 +347,6 @@
         "playerassists": 0
     },
     {
-        "playername": "H. Mkhitaryan",
-        "playerlink": "https://www.livesoccertv.com/player/h-mkhitaryan/39930/",
-        "playerteam": "Roma",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "playergoals": 6,
-        "playerassists": 0
-    },
-    {
         "playername": "Mbala N'Zola",
         "playerlink": "https://www.livesoccertv.com/player/m-n-apos-zola/262368/",
         "playerteam": "Spezia",
@@ -354,6 +354,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
         "playergoals": 6,
         "playerassists": 1
+    },
+    {
+        "playername": "J. Veretout",
+        "playerlink": "https://www.livesoccertv.com/player/j-veretout/156122/",
+        "playerteam": "Roma",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+        "playergoals": 6,
+        "playerassists": 4
     },
     {
         "playername": "D. Berardi",
@@ -397,15 +406,6 @@
         "playerteam": "Cagliari",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/cagliari/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-        "playergoals": 5,
-        "playerassists": 0
-    },
-    {
-        "playername": "R. Soriano",
-        "playerlink": "https://www.livesoccertv.com/player/r-soriano/72442/",
-        "playerteam": "Bologna",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/bologna/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
         "playergoals": 5,
         "playerassists": 0
     }
