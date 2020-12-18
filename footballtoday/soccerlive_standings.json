@@ -396,6 +396,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Athletic Club",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "played": 14,
+        "wins": 5,
+        "draws": 2,
+        "lossess": 7,
+        "goalsfor": 17,
+        "goalsagainst": 17,
+        "goalsdiff": "0",
+        "points": 17,
+        "form": "'WLDLD'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "played": 13,
@@ -409,7 +423,7 @@
         "form": "'WWWLD'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "played": 13,
@@ -423,7 +437,7 @@
         "form": "'DWLLL'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "played": 13,
@@ -437,7 +451,7 @@
         "form": "'DDWDD'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "played": 13,
@@ -449,20 +463,6 @@
         "goalsdiff": "0",
         "points": 14,
         "form": "'DDLDW'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Athletic Club",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "played": 13,
-        "wins": 4,
-        "draws": 2,
-        "lossess": 7,
-        "goalsfor": 15,
-        "goalsagainst": 17,
-        "goalsdiff": "-2",
-        "points": 14,
-        "form": "'LDLDW'"
     },
     {
         "teamrank": 14,
@@ -536,20 +536,6 @@
     },
     {
         "teamrank": 19,
-        "teamname": "Huesca",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-        "played": 13,
-        "wins": 1,
-        "draws": 8,
-        "lossess": 4,
-        "goalsfor": 12,
-        "goalsagainst": 20,
-        "goalsdiff": "-8",
-        "points": 11,
-        "form": "'WDLDD'"
-    },
-    {
-        "teamrank": 20,
         "teamname": "Osasuna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
         "played": 12,
@@ -561,6 +547,20 @@
         "goalsdiff": "-8",
         "points": 11,
         "form": "'LLLDL'"
+    },
+    {
+        "teamrank": 20,
+        "teamname": "Huesca",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
+        "played": 14,
+        "wins": 1,
+        "draws": 8,
+        "lossess": 5,
+        "goalsfor": 12,
+        "goalsagainst": 22,
+        "goalsdiff": "-10",
+        "points": 11,
+        "form": "'LWDLD'"
     }
   ],
   "serie-a": [
