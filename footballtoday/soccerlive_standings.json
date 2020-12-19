@@ -692,6 +692,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Sampdoria",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
+        "played": 13,
+        "wins": 5,
+        "draws": 2,
+        "lossess": 6,
+        "goalsfor": 21,
+        "goalsagainst": 21,
+        "goalsdiff": "0",
+        "points": 17,
+        "form": "'WWLLD'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Udinese",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
         "played": 11,
@@ -703,20 +717,6 @@
         "goalsdiff": "-1",
         "points": 14,
         "form": "'DWWWD'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Sampdoria",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-        "played": 12,
-        "wins": 4,
-        "draws": 2,
-        "lossess": 6,
-        "goalsfor": 18,
-        "goalsagainst": 20,
-        "goalsdiff": "-2",
-        "points": 14,
-        "form": "'WLLDL'"
     },
     {
         "teamrank": 12,
@@ -834,15 +834,15 @@
         "teamrank": 20,
         "teamname": "Crotone",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-        "played": 12,
+        "played": 13,
         "wins": 1,
         "draws": 3,
-        "lossess": 8,
-        "goalsfor": 10,
-        "goalsagainst": 25,
-        "goalsdiff": "-15",
+        "lossess": 9,
+        "goalsfor": 11,
+        "goalsagainst": 28,
+        "goalsdiff": "-17",
         "points": 6,
-        "form": "'DWLLL'"
+        "form": "'LDWLL'"
     }
   ],
   "ligue-1": [
