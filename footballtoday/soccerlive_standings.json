@@ -286,15 +286,15 @@
         "teamrank": 1,
         "teamname": "Atlético Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "played": 11,
-        "wins": 8,
+        "played": 12,
+        "wins": 9,
         "draws": 2,
         "lossess": 1,
-        "goalsfor": 21,
-        "goalsagainst": 4,
-        "goalsdiff": "+17",
-        "points": 26,
-        "form": "'LWWWW'"
+        "goalsfor": 24,
+        "goalsagainst": 5,
+        "goalsdiff": "+19",
+        "points": 29,
+        "form": "'WLWWW'"
     },
     {
         "teamrank": 2,
@@ -466,20 +466,6 @@
     },
     {
         "teamrank": 14,
-        "teamname": "Elche",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-        "played": 11,
-        "wins": 3,
-        "draws": 5,
-        "lossess": 3,
-        "goalsfor": 9,
-        "goalsagainst": 11,
-        "goalsdiff": "-2",
-        "points": 14,
-        "form": "'LDDDD'"
-    },
-    {
-        "teamrank": 15,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 13,
@@ -491,6 +477,20 @@
         "goalsdiff": "-3",
         "points": 14,
         "form": "'LDWDD'"
+    },
+    {
+        "teamrank": 15,
+        "teamname": "Elche",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+        "played": 12,
+        "wins": 3,
+        "draws": 5,
+        "lossess": 4,
+        "goalsfor": 10,
+        "goalsagainst": 14,
+        "goalsdiff": "-4",
+        "points": 14,
+        "form": "'LLDDD'"
     },
     {
         "teamrank": 16,
