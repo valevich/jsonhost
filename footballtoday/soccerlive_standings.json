@@ -4,15 +4,15 @@
         "teamrank": 1,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "played": 13,
-        "wins": 8,
+        "played": 14,
+        "wins": 9,
         "draws": 4,
         "lossess": 1,
-        "goalsfor": 29,
+        "goalsfor": 36,
         "goalsagainst": 19,
-        "goalsdiff": "+10",
-        "points": 28,
-        "form": "'WDWDW'"
+        "goalsdiff": "+17",
+        "points": 31,
+        "form": "'WWDWD'"
     },
     {
         "teamrank": 2,
@@ -158,15 +158,15 @@
         "teamrank": 12,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "played": 13,
+        "played": 14,
         "wins": 5,
         "draws": 3,
-        "lossess": 5,
+        "lossess": 6,
         "goalsfor": 19,
-        "goalsagainst": 18,
-        "goalsdiff": "+1",
+        "goalsagainst": 25,
+        "goalsdiff": "-6",
         "points": 18,
-        "form": "'DDWLL'"
+        "form": "'LDDWL'"
     },
     {
         "teamrank": 13,
