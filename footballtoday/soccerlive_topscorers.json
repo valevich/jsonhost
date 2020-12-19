@@ -156,6 +156,15 @@
         "playerassists": 5
     },
     {
+        "playername": "L. Suárez",
+        "playerlink": "https://www.livesoccertv.com/player/l-suarez/2423/",
+        "playerteam": "Atletico Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "playergoals": 7,
+        "playerassists": 0
+    },
+    {
         "playername": "K. Benzema",
         "playerlink": "https://www.livesoccertv.com/player/k-benzema/1728/",
         "playerteam": "Real Madrid",
@@ -208,15 +217,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "playergoals": 5,
         "playerassists": 5
-    },
-    {
-        "playername": "L. Suárez",
-        "playerlink": "https://www.livesoccertv.com/player/l-suarez/2423/",
-        "playerteam": "Atletico Madrid",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "playergoals": 5,
-        "playerassists": 0
     },
     {
         "playername": "Y. En-Nesyri",
