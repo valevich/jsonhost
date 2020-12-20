@@ -16,6 +16,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Leicester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+        "played": 14,
+        "wins": 9,
+        "draws": 0,
+        "lossess": 5,
+        "goalsfor": 26,
+        "goalsagainst": 17,
+        "goalsdiff": "+9",
+        "points": 27,
+        "form": "'WLWWL'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
         "played": 14,
@@ -29,32 +43,18 @@
         "form": "'WWWDL'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "played": 13,
+        "played": 14,
         "wins": 7,
         "draws": 4,
-        "lossess": 2,
+        "lossess": 3,
         "goalsfor": 25,
-        "goalsagainst": 12,
-        "goalsdiff": "+13",
+        "goalsagainst": 14,
+        "goalsdiff": "+11",
         "points": 25,
-        "form": "'LDWDW'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Leicester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "played": 13,
-        "wins": 8,
-        "draws": 0,
-        "lossess": 5,
-        "goalsfor": 24,
-        "goalsagainst": 17,
-        "goalsdiff": "+7",
-        "points": 24,
-        "form": "'LWWLL'"
+        "form": "'LLDWD'"
     },
     {
         "teamrank": 5,

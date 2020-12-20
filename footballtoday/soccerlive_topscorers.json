@@ -554,7 +554,7 @@
         "playerteam": "Bayern Munich",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "playergoals": 15,
+        "playergoals": 17,
         "playerassists": 2
     },
     {
@@ -599,8 +599,17 @@
         "playerteam": "Hoffenheim",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "playergoals": 7,
+        "playergoals": 8,
         "playerassists": 3
+    },
+    {
+        "playername": "Lars Stindl",
+        "playerlink": "https://www.livesoccertv.com/player/l-stindl/39612/",
+        "playerteam": "Borussia M'gladbach",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+        "playergoals": 8,
+        "playerassists": 4
     },
     {
         "playername": "J. Mateta",
@@ -610,15 +619,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
         "playergoals": 7,
         "playerassists": 1
-    },
-    {
-        "playername": "Lars Stindl",
-        "playerlink": "https://www.livesoccertv.com/player/l-stindl/39612/",
-        "playerteam": "Borussia M'gladbach",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-        "playergoals": 7,
-        "playerassists": 3
     },
     {
         "playername": "S. Wamangituka",
