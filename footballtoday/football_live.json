@@ -17,14 +17,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "7:00am",
-      "GameState": "85 ",
+      "GameState": "FT ",
       "HomeTeam": "Brighton",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
       "AwayTeam": "Sheffield Utd",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  B…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  Blue T…"
     },
     {
       "LeagueName": "English Premier League",
@@ -82,7 +82,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "8:00am",
-      "GameState": "44 ",
+      "GameState": "HT ",
       "HomeTeam": "Celta de Vigo",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
@@ -290,14 +290,14 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "7:00am",
-      "GameState": "87 ",
+      "GameState": "FT ",
       "HomeTeam": "Brest",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
       "AwayTeam": "Montpellier",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN SPORTS CO…"
     },
     {
       "LeagueName": "French Ligue 1",
