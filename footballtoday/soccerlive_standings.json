@@ -214,15 +214,15 @@
         "teamrank": 16,
         "teamname": "Brighton & Hove Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-        "played": 13,
+        "played": 14,
         "wins": 2,
-        "draws": 5,
+        "draws": 6,
         "lossess": 6,
-        "goalsfor": 15,
-        "goalsagainst": 21,
+        "goalsfor": 16,
+        "goalsagainst": 22,
         "goalsdiff": "-6",
-        "points": 11,
-        "form": "'DLLDW'"
+        "points": 12,
+        "form": "'DDLLD'"
     },
     {
         "teamrank": 17,
@@ -270,15 +270,15 @@
         "teamrank": 20,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 13,
+        "played": 14,
         "wins": 0,
-        "draws": 1,
+        "draws": 2,
         "lossess": 12,
-        "goalsfor": 7,
-        "goalsagainst": 24,
+        "goalsfor": 8,
+        "goalsagainst": 25,
         "goalsdiff": "-17",
-        "points": 1,
-        "form": "'LLLLL'"
+        "points": 2,
+        "form": "'DLLLL'"
     }
   ],
   "primera-division": [
@@ -906,15 +906,15 @@
         "teamrank": 5,
         "teamname": "Montpellier",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "played": 15,
+        "played": 16,
         "wins": 8,
-        "draws": 2,
+        "draws": 3,
         "lossess": 5,
-        "goalsfor": 25,
-        "goalsagainst": 23,
+        "goalsfor": 27,
+        "goalsagainst": 25,
         "goalsdiff": "+2",
-        "points": 26,
-        "form": "'LWLWW'"
+        "points": 27,
+        "form": "'DLWLW'"
     },
     {
         "teamrank": 6,
@@ -974,6 +974,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Brest",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+        "played": 16,
+        "wins": 7,
+        "draws": 2,
+        "lossess": 7,
+        "goalsfor": 27,
+        "goalsagainst": 29,
+        "goalsdiff": "-2",
+        "points": 23,
+        "form": "'DDWLW'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Angers SCO",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
         "played": 15,
@@ -985,20 +999,6 @@
         "goalsdiff": "-4",
         "points": 23,
         "form": "'LDWWL'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Brest",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-        "played": 15,
-        "wins": 7,
-        "draws": 1,
-        "lossess": 7,
-        "goalsfor": 25,
-        "goalsagainst": 27,
-        "goalsdiff": "-2",
-        "points": 22,
-        "form": "'DWLWW'"
     },
     {
         "teamrank": 12,
