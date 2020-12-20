@@ -368,6 +368,20 @@
     },
     {
         "teamrank": 7,
+        "teamname": "Celta de Vigo",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "played": 14,
+        "wins": 5,
+        "draws": 4,
+        "lossess": 5,
+        "goalsfor": 19,
+        "goalsagainst": 20,
+        "goalsdiff": "-1",
+        "points": 19,
+        "form": "'WWWWL'"
+    },
+    {
+        "teamrank": 8,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
         "played": 12,
@@ -381,7 +395,7 @@
         "form": "'WDLLL'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Cádiz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
         "played": 13,
@@ -395,7 +409,7 @@
         "form": "'LWDLL'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 14,
@@ -407,20 +421,6 @@
         "goalsdiff": "0",
         "points": 17,
         "form": "'WLDLD'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Celta de Vigo",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "played": 13,
-        "wins": 4,
-        "draws": 4,
-        "lossess": 5,
-        "goalsfor": 17,
-        "goalsagainst": 20,
-        "goalsdiff": "-3",
-        "points": 16,
-        "form": "'WWWLD'"
     },
     {
         "teamrank": 11,
@@ -480,20 +480,6 @@
     },
     {
         "teamrank": 15,
-        "teamname": "Deportivo Alavés",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-        "played": 13,
-        "wins": 3,
-        "draws": 5,
-        "lossess": 5,
-        "goalsfor": 11,
-        "goalsagainst": 14,
-        "goalsdiff": "-3",
-        "points": 14,
-        "form": "'LDWDD'"
-    },
-    {
-        "teamrank": 16,
         "teamname": "Elche",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
         "played": 12,
@@ -505,6 +491,20 @@
         "goalsdiff": "-4",
         "points": 14,
         "form": "'LLDDD'"
+    },
+    {
+        "teamrank": 16,
+        "teamname": "Deportivo Alavés",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+        "played": 14,
+        "wins": 3,
+        "draws": 5,
+        "lossess": 6,
+        "goalsfor": 11,
+        "goalsagainst": 16,
+        "goalsdiff": "-5",
+        "points": 14,
+        "form": "'LLDWD'"
     },
     {
         "teamrank": 17,
