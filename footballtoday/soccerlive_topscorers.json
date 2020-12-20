@@ -55,20 +55,20 @@
         "playerassists": 2
     },
     {
-        "playername": "Bruno Fernandes",
-        "playerlink": "https://www.livesoccertv.com/player/bruno-fernandes/222404/",
-        "playerteam": "Manchester United",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "playergoals": 7,
-        "playerassists": 3
-    },
-    {
         "playername": "C. Wilson",
         "playerlink": "https://www.livesoccertv.com/player/c-wilson/87664/",
         "playerteam": "Newcastle United",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/newcastle-united/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+        "playergoals": 8,
+        "playerassists": 4
+    },
+    {
+        "playername": "Bruno Fernandes",
+        "playerlink": "https://www.livesoccertv.com/player/bruno-fernandes/222404/",
+        "playerteam": "Manchester United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "playergoals": 7,
         "playerassists": 3
     },
