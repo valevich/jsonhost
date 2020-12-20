@@ -354,6 +354,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Granada",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
+        "played": 13,
+        "wins": 6,
+        "draws": 3,
+        "lossess": 4,
+        "goalsfor": 17,
+        "goalsagainst": 20,
+        "goalsdiff": "-3",
+        "points": 21,
+        "form": "'WWDLL'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
         "played": 12,
@@ -367,7 +381,7 @@
         "form": "'DWLWW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "played": 14,
@@ -379,20 +393,6 @@
         "goalsdiff": "-1",
         "points": 19,
         "form": "'WWWWL'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Granada",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "played": 12,
-        "wins": 5,
-        "draws": 3,
-        "lossess": 4,
-        "goalsfor": 15,
-        "goalsagainst": 20,
-        "goalsdiff": "-5",
-        "points": 18,
-        "form": "'WDLLL'"
     },
     {
         "teamrank": 9,
@@ -426,15 +426,15 @@
         "teamrank": 11,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 13,
+        "played": 14,
         "wins": 5,
         "draws": 1,
-        "lossess": 7,
+        "lossess": 8,
         "goalsfor": 15,
-        "goalsagainst": 24,
-        "goalsdiff": "-9",
+        "goalsagainst": 26,
+        "goalsdiff": "-11",
         "points": 16,
-        "form": "'DWLLL'"
+        "form": "'LDWLL'"
     },
     {
         "teamrank": 12,
