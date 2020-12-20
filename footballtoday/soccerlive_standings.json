@@ -904,6 +904,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Rennes",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+        "played": 16,
+        "wins": 8,
+        "draws": 4,
+        "lossess": 4,
+        "goalsfor": 25,
+        "goalsagainst": 19,
+        "goalsdiff": "+6",
+        "points": 28,
+        "form": "'WWWLD'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Montpellier",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "played": 16,
@@ -917,7 +931,7 @@
         "form": "'DLWLW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Monaco",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
         "played": 16,
@@ -929,20 +943,6 @@
         "goalsdiff": "+3",
         "points": 26,
         "form": "'WLLLW'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Rennes",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-        "played": 15,
-        "wins": 7,
-        "draws": 4,
-        "lossess": 4,
-        "goalsfor": 22,
-        "goalsagainst": 19,
-        "goalsdiff": "+3",
-        "points": 25,
-        "form": "'WWLDL'"
     },
     {
         "teamrank": 8,
@@ -1102,15 +1102,15 @@
         "teamrank": 19,
         "teamname": "Lorient",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-        "played": 15,
+        "played": 16,
         "wins": 3,
         "draws": 2,
-        "lossess": 10,
+        "lossess": 11,
         "goalsfor": 15,
-        "goalsagainst": 26,
-        "goalsdiff": "-11",
+        "goalsagainst": 29,
+        "goalsdiff": "-14",
         "points": 11,
-        "form": "'LWLLL'"
+        "form": "'LLWLL'"
     },
     {
         "teamrank": 20,
