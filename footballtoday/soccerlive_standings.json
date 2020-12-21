@@ -58,6 +58,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Chelsea",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+        "played": 14,
+        "wins": 7,
+        "draws": 4,
+        "lossess": 3,
+        "goalsfor": 29,
+        "goalsagainst": 14,
+        "goalsdiff": "+15",
+        "points": 25,
+        "form": "'WLLWD'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 14,
@@ -71,7 +85,7 @@
         "form": "'LLDWD'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
         "played": 14,
@@ -85,7 +99,7 @@
         "form": "'LDWWL'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "played": 13,
@@ -97,20 +111,6 @@
         "goalsdiff": "+7",
         "points": 23,
         "form": "'WDDWW'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Chelsea",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "played": 13,
-        "wins": 6,
-        "draws": 4,
-        "lossess": 3,
-        "goalsfor": 26,
-        "goalsagainst": 14,
-        "goalsdiff": "+12",
-        "points": 22,
-        "form": "'LLWDW'"
     },
     {
         "teamrank": 9,
@@ -130,15 +130,15 @@
         "teamrank": 10,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-        "played": 13,
+        "played": 14,
         "wins": 6,
         "draws": 3,
-        "lossess": 4,
+        "lossess": 5,
         "goalsfor": 21,
-        "goalsagainst": 16,
-        "goalsdiff": "+5",
+        "goalsagainst": 19,
+        "goalsdiff": "+2",
         "points": 21,
-        "form": "'DWLWW'"
+        "form": "'LDWLW'"
     },
     {
         "teamrank": 11,
