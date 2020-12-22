@@ -764,15 +764,15 @@
         "teamrank": 15,
         "teamname": "Parma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-        "played": 13,
+        "played": 14,
         "wins": 2,
         "draws": 6,
-        "lossess": 5,
-        "goalsfor": 12,
-        "goalsagainst": 23,
-        "goalsdiff": "-11",
+        "lossess": 6,
+        "goalsfor": 13,
+        "goalsagainst": 25,
+        "goalsdiff": "-12",
         "points": 12,
-        "form": "'LDDDW'"
+        "form": "'LLDDD'"
     },
     {
         "teamrank": 16,
@@ -804,6 +804,20 @@
     },
     {
         "teamrank": 18,
+        "teamname": "Crotone",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
+        "played": 14,
+        "wins": 2,
+        "draws": 3,
+        "lossess": 9,
+        "goalsfor": 13,
+        "goalsagainst": 29,
+        "goalsdiff": "-16",
+        "points": 9,
+        "form": "'WLDWL'"
+    },
+    {
+        "teamrank": 19,
         "teamname": "Torino",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
         "played": 13,
@@ -817,7 +831,7 @@
         "form": "'DLLLD'"
     },
     {
-        "teamrank": 19,
+        "teamrank": 20,
         "teamname": "Genoa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
         "played": 13,
@@ -829,20 +843,6 @@
         "goalsdiff": "-14",
         "points": 7,
         "form": "'LDLDL'"
-    },
-    {
-        "teamrank": 20,
-        "teamname": "Crotone",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-        "played": 13,
-        "wins": 1,
-        "draws": 3,
-        "lossess": 9,
-        "goalsfor": 11,
-        "goalsagainst": 28,
-        "goalsdiff": "-17",
-        "points": 6,
-        "form": "'LDWLL'"
     }
   ],
   "ligue-1": [
