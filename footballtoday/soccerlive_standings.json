@@ -610,15 +610,15 @@
         "teamrank": 4,
         "teamname": "Juventus",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-        "played": 12,
+        "played": 13,
         "wins": 6,
         "draws": 6,
-        "lossess": 0,
+        "lossess": 1,
         "goalsfor": 25,
-        "goalsagainst": 10,
-        "goalsdiff": "+15",
+        "goalsagainst": 13,
+        "goalsdiff": "+12",
         "points": 24,
-        "form": "'WDWWD'"
+        "form": "'LWDWW'"
     },
     {
         "teamrank": 5,
@@ -762,6 +762,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Fiorentina",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+        "played": 14,
+        "wins": 3,
+        "draws": 5,
+        "lossess": 6,
+        "goalsfor": 16,
+        "goalsagainst": 21,
+        "goalsdiff": "-5",
+        "points": 14,
+        "form": "'WDDLD'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Parma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
         "played": 14,
@@ -773,20 +787,6 @@
         "goalsdiff": "-12",
         "points": 12,
         "form": "'LLDDD'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Fiorentina",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "played": 13,
-        "wins": 2,
-        "draws": 5,
-        "lossess": 6,
-        "goalsfor": 13,
-        "goalsagainst": 21,
-        "goalsdiff": "-8",
-        "points": 11,
-        "form": "'DDLDL'"
     },
     {
         "teamrank": 17,
