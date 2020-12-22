@@ -340,6 +340,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Sevilla",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+        "played": 13,
+        "wins": 7,
+        "draws": 2,
+        "lossess": 4,
+        "goalsfor": 15,
+        "goalsagainst": 10,
+        "goalsdiff": "+5",
+        "points": 23,
+        "form": "'WDWLW'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Barcelona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
         "played": 13,
@@ -353,7 +367,7 @@
         "form": "'DWWLW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
         "played": 13,
@@ -365,20 +379,6 @@
         "goalsdiff": "-3",
         "points": 21,
         "form": "'WWDLL'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Sevilla",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-        "played": 12,
-        "wins": 6,
-        "draws": 2,
-        "lossess": 4,
-        "goalsfor": 14,
-        "goalsagainst": 10,
-        "goalsdiff": "+4",
-        "points": 20,
-        "form": "'DWLWW'"
     },
     {
         "teamrank": 8,
@@ -454,15 +454,15 @@
         "teamrank": 13,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-        "played": 14,
+        "played": 15,
         "wins": 3,
         "draws": 6,
-        "lossess": 5,
+        "lossess": 6,
         "goalsfor": 21,
-        "goalsagainst": 21,
-        "goalsdiff": "0",
+        "goalsagainst": 22,
+        "goalsdiff": "-1",
         "points": 15,
-        "form": "'DDDLD'"
+        "form": "'LDDDL'"
     },
     {
         "teamrank": 14,
@@ -480,6 +480,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Elche",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+        "played": 13,
+        "wins": 3,
+        "draws": 6,
+        "lossess": 4,
+        "goalsfor": 12,
+        "goalsagainst": 16,
+        "goalsdiff": "-4",
+        "points": 15,
+        "form": "'DLLDD'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 13,
@@ -491,20 +505,6 @@
         "goalsdiff": "-2",
         "points": 14,
         "form": "'WLWDD'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Elche",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-        "played": 12,
-        "wins": 3,
-        "draws": 5,
-        "lossess": 4,
-        "goalsfor": 10,
-        "goalsagainst": 14,
-        "goalsdiff": "-4",
-        "points": 14,
-        "form": "'LLDDD'"
     },
     {
         "teamrank": 17,
@@ -536,6 +536,20 @@
     },
     {
         "teamrank": 19,
+        "teamname": "Osasuna",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+        "played": 14,
+        "wins": 3,
+        "draws": 3,
+        "lossess": 8,
+        "goalsfor": 13,
+        "goalsagainst": 23,
+        "goalsdiff": "-10",
+        "points": 12,
+        "form": "'DLLLL'"
+    },
+    {
+        "teamrank": 20,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
         "played": 14,
@@ -547,20 +561,6 @@
         "goalsdiff": "-10",
         "points": 11,
         "form": "'LWDLD'"
-    },
-    {
-        "teamrank": 20,
-        "teamname": "Osasuna",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-        "played": 13,
-        "wins": 3,
-        "draws": 2,
-        "lossess": 8,
-        "goalsfor": 11,
-        "goalsagainst": 21,
-        "goalsdiff": "-10",
-        "points": 11,
-        "form": "'LLLLD'"
     }
   ],
   "serie-a": [
