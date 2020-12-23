@@ -300,15 +300,15 @@
         "teamrank": 2,
         "teamname": "Real Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "played": 14,
-        "wins": 9,
+        "played": 15,
+        "wins": 10,
         "draws": 2,
         "lossess": 3,
-        "goalsfor": 25,
+        "goalsfor": 27,
         "goalsagainst": 14,
-        "goalsdiff": "+11",
-        "points": 29,
-        "form": "'WWWWL'"
+        "goalsdiff": "+13",
+        "points": 32,
+        "form": "'WWWWW'"
     },
     {
         "teamrank": 3,
@@ -370,15 +370,15 @@
         "teamrank": 7,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "played": 13,
+        "played": 14,
         "wins": 6,
         "draws": 3,
-        "lossess": 4,
+        "lossess": 5,
         "goalsfor": 17,
-        "goalsagainst": 20,
-        "goalsdiff": "-3",
+        "goalsagainst": 22,
+        "goalsdiff": "-5",
         "points": 21,
-        "form": "'WWDLL'"
+        "form": "'LWWDL'"
     },
     {
         "teamrank": 8,
