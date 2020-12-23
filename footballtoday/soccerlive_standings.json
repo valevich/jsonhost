@@ -384,15 +384,15 @@
         "teamrank": 8,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "played": 14,
+        "played": 15,
         "wins": 5,
-        "draws": 4,
+        "draws": 5,
         "lossess": 5,
-        "goalsfor": 19,
-        "goalsagainst": 20,
+        "goalsfor": 20,
+        "goalsagainst": 21,
         "goalsdiff": "-1",
-        "points": 19,
-        "form": "'WWWWL'"
+        "points": 20,
+        "form": "'DWWWW'"
     },
     {
         "teamrank": 9,
@@ -426,15 +426,15 @@
         "teamrank": 11,
         "teamname": "Getafe",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-        "played": 13,
+        "played": 14,
         "wins": 4,
-        "draws": 4,
+        "draws": 5,
         "lossess": 5,
-        "goalsfor": 11,
-        "goalsagainst": 14,
+        "goalsfor": 12,
+        "goalsagainst": 15,
         "goalsdiff": "-3",
-        "points": 16,
-        "form": "'WLLDD'"
+        "points": 17,
+        "form": "'DWLLD'"
     },
     {
         "teamrank": 12,
