@@ -138,22 +138,13 @@
   ],
   "primera-division": [
     {
-        "playername": "Gerard Moreno",
-        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
-        "playerteam": "Villarreal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "playergoals": 8,
-        "playerassists": 4
-    },
-    {
         "playername": "Iago Aspas",
         "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
         "playerteam": "Celta Vigo",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "playergoals": 7,
-        "playerassists": 2
+        "playergoals": 8,
+        "playerassists": 3
     },
     {
         "playername": "K. Benzema",
@@ -161,8 +152,17 @@
         "playerteam": "Real Madrid",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-madrid/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "playergoals": 7,
+        "playergoals": 8,
         "playerassists": 0
+    },
+    {
+        "playername": "Gerard Moreno",
+        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
+        "playerteam": "Villarreal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "playergoals": 8,
+        "playerassists": 4
     },
     {
         "playername": "L. Messi",
