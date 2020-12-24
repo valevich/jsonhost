@@ -316,7 +316,25 @@
         "playerteam": "Lazio",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/lazio-roma/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+        "playergoals": 9,
+        "playerassists": 2
+    },
+    {
+        "playername": "João Pedro",
+        "playerlink": "https://www.livesoccertv.com/player/joao-pedro/115191/",
+        "playerteam": "Cagliari",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/cagliari/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
         "playergoals": 8,
+        "playerassists": 2
+    },
+    {
+        "playername": "D. Berardi",
+        "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
+        "playerteam": "Sassuolo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+        "playergoals": 7,
         "playerassists": 2
     },
     {
@@ -329,31 +347,13 @@
         "playerassists": 0
     },
     {
-        "playername": "D. Berardi",
-        "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
-        "playerteam": "Sassuolo",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-        "playergoals": 6,
-        "playerassists": 2
-    },
-    {
-        "playername": "João Pedro",
-        "playerlink": "https://www.livesoccertv.com/player/joao-pedro/115191/",
-        "playerteam": "Cagliari",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/cagliari/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-        "playergoals": 6,
+        "playername": "L. Muriel",
+        "playerlink": "https://www.livesoccertv.com/player/l-muriel/83663/",
+        "playerteam": "Atalanta",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+        "playergoals": 7,
         "playerassists": 1
-    },
-    {
-        "playername": "H. Lozano",
-        "playerlink": "https://www.livesoccertv.com/player/h-lozano/259658/",
-        "playerteam": "Napoli",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "playergoals": 6,
-        "playerassists": 0
     },
     {
         "playername": "M. N'Zola",
@@ -361,7 +361,7 @@
         "playerteam": "Spezia",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/spezia/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
-        "playergoals": 6,
+        "playergoals": 7,
         "playerassists": 1
     },
     {
@@ -370,17 +370,8 @@
         "playerteam": "Sampdoria",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/sampdoria/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-        "playergoals": 6,
+        "playergoals": 7,
         "playerassists": 1
-    },
-    {
-        "playername": "R. Soriano",
-        "playerlink": "https://www.livesoccertv.com/player/r-soriano/72442/",
-        "playerteam": "Bologna",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/bologna/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-        "playergoals": 6,
-        "playerassists": 0
     },
     {
         "playername": "J. Veretout",
@@ -388,7 +379,7 @@
         "playerteam": "Roma",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "playergoals": 6,
+        "playergoals": 7,
         "playerassists": 4
     },
     {
@@ -397,7 +388,7 @@
         "playerteam": "Sassuolo",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-        "playergoals": 5,
+        "playergoals": 6,
         "playerassists": 1
     },
     {
@@ -406,7 +397,16 @@
         "playerteam": "Roma",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "playergoals": 5,
+        "playergoals": 6,
+        "playerassists": 0
+    },
+    {
+        "playername": "H. Lozano",
+        "playerlink": "https://www.livesoccertv.com/player/h-lozano/259658/",
+        "playerteam": "Napoli",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "playergoals": 6,
         "playerassists": 0
     }
   ],
