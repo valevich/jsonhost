@@ -55,34 +55,6 @@
   ],
   "day2": [
     {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
-      "GameTime": "Friday Dec. 25, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    }
-  ],
-  "day3": [
-    {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "Saturday Dec. 26, 2020",
@@ -174,7 +146,7 @@
       "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -241,7 +213,7 @@
       "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -295,7 +267,7 @@
       "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  B…"
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -440,7 +412,7 @@
       "TVChannels": "Fanatiz USA ,  beIN SPORTS en Espa…"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -543,6 +515,47 @@
       "AwayTeam": "Real Madrid",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "Thursday Dec. 31, 2020",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "8:00am",
+      "GameState": "",
+      "HomeTeam": "Athletic Club",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+      "AwayTeam": "Real Sociedad",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "10:15am",
+      "GameState": "",
+      "HomeTeam": "Osasuna",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+      "AwayTeam": "Alavés",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
       "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
     }
   ]
