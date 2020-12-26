@@ -16,6 +16,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Everton",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+        "played": 15,
+        "wins": 9,
+        "draws": 2,
+        "lossess": 4,
+        "goalsfor": 26,
+        "goalsagainst": 19,
+        "goalsdiff": "+7",
+        "points": 29,
+        "form": "'WWWWD'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Leicester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
         "played": 15,
@@ -29,7 +43,7 @@
         "form": "'DWLWW'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Manchester United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "played": 14,
@@ -43,21 +57,21 @@
         "form": "'DWWDW'"
     },
     {
-        "teamrank": 4,
-        "teamname": "Everton",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+        "teamrank": 5,
+        "teamname": "Manchester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "played": 14,
-        "wins": 8,
-        "draws": 2,
-        "lossess": 4,
-        "goalsfor": 25,
-        "goalsagainst": 19,
-        "goalsdiff": "+6",
+        "wins": 7,
+        "draws": 5,
+        "lossess": 2,
+        "goalsfor": 21,
+        "goalsagainst": 12,
+        "goalsdiff": "+9",
         "points": 26,
-        "form": "'WWWDL'"
+        "form": "'WWDDW'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "played": 13,
@@ -71,7 +85,7 @@
         "form": "'WWDWL'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 15,
@@ -85,7 +99,7 @@
         "form": "'LWLLW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 14,
@@ -99,7 +113,7 @@
         "form": "'LLDWD'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
         "played": 15,
@@ -111,20 +125,6 @@
         "goalsdiff": "+6",
         "points": 25,
         "form": "'DLDWW'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Manchester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "played": 13,
-        "wins": 6,
-        "draws": 5,
-        "lossess": 2,
-        "goalsfor": 19,
-        "goalsagainst": 12,
-        "goalsdiff": "+7",
-        "points": 23,
-        "form": "'WDDWW'"
     },
     {
         "teamrank": 10,
@@ -158,15 +158,15 @@
         "teamrank": 12,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-        "played": 13,
+        "played": 14,
         "wins": 5,
         "draws": 3,
-        "lossess": 5,
+        "lossess": 6,
         "goalsfor": 17,
-        "goalsagainst": 22,
-        "goalsdiff": "-5",
+        "goalsagainst": 24,
+        "goalsdiff": "-7",
         "points": 18,
-        "form": "'DLWWL'"
+        "form": "'LDLWW'"
     },
     {
         "teamrank": 13,
@@ -270,15 +270,15 @@
         "teamrank": 20,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 14,
+        "played": 15,
         "wins": 0,
         "draws": 2,
-        "lossess": 12,
+        "lossess": 13,
         "goalsfor": 8,
-        "goalsagainst": 25,
-        "goalsdiff": "-17",
+        "goalsagainst": 26,
+        "goalsdiff": "-18",
         "points": 2,
-        "form": "'DLLLL'"
+        "form": "'LDLLL'"
     }
   ],
   "primera-division": [
