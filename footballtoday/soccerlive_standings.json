@@ -58,20 +58,6 @@
     },
     {
         "teamrank": 5,
-        "teamname": "Chelsea",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "played": 14,
-        "wins": 7,
-        "draws": 4,
-        "lossess": 3,
-        "goalsfor": 29,
-        "goalsagainst": 14,
-        "goalsdiff": "+15",
-        "points": 25,
-        "form": "'WLLWD'"
-    },
-    {
-        "teamrank": 6,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "played": 13,
@@ -83,6 +69,20 @@
         "goalsdiff": "+14",
         "points": 25,
         "form": "'WWDWL'"
+    },
+    {
+        "teamrank": 6,
+        "teamname": "Chelsea",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+        "played": 15,
+        "wins": 7,
+        "draws": 4,
+        "lossess": 4,
+        "goalsfor": 30,
+        "goalsagainst": 17,
+        "goalsdiff": "+13",
+        "points": 25,
+        "form": "'LWLLW'"
     },
     {
         "teamrank": 7,
@@ -184,6 +184,20 @@
     },
     {
         "teamrank": 14,
+        "teamname": "Arsenal",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "played": 15,
+        "wins": 5,
+        "draws": 2,
+        "lossess": 8,
+        "goalsfor": 15,
+        "goalsagainst": 19,
+        "goalsdiff": "-4",
+        "points": 17,
+        "form": "'WLDLL'"
+    },
+    {
+        "teamrank": 15,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "played": 14,
@@ -195,20 +209,6 @@
         "goalsdiff": "-6",
         "points": 17,
         "form": "'LWLLW'"
-    },
-    {
-        "teamrank": 15,
-        "teamname": "Arsenal",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "played": 14,
-        "wins": 4,
-        "draws": 2,
-        "lossess": 8,
-        "goalsfor": 12,
-        "goalsagainst": 18,
-        "goalsdiff": "-6",
-        "points": 14,
-        "form": "'LDLLL'"
     },
     {
         "teamrank": 16,
