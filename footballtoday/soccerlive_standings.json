@@ -72,6 +72,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Aston Villa",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "played": 13,
+        "wins": 8,
+        "draws": 1,
+        "lossess": 4,
+        "goalsfor": 27,
+        "goalsagainst": 13,
+        "goalsdiff": "+14",
+        "points": 25,
+        "form": "'WWDWL'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 14,
@@ -85,21 +99,21 @@
         "form": "'LLDWD'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "played": 14,
+        "played": 15,
         "wins": 7,
-        "draws": 3,
+        "draws": 4,
         "lossess": 4,
         "goalsfor": 25,
         "goalsagainst": 19,
         "goalsdiff": "+6",
-        "points": 24,
-        "form": "'LDWWL'"
+        "points": 25,
+        "form": "'DLDWW'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "played": 13,
@@ -111,20 +125,6 @@
         "goalsdiff": "+7",
         "points": 23,
         "form": "'WDDWW'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Aston Villa",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 12,
-        "wins": 7,
-        "draws": 1,
-        "lossess": 4,
-        "goalsfor": 24,
-        "goalsagainst": 13,
-        "goalsdiff": "+11",
-        "points": 22,
-        "form": "'WDWLL'"
     },
     {
         "teamrank": 10,
@@ -172,15 +172,15 @@
         "teamrank": 13,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "played": 14,
+        "played": 15,
         "wins": 5,
         "draws": 3,
-        "lossess": 6,
+        "lossess": 7,
         "goalsfor": 19,
-        "goalsagainst": 25,
-        "goalsdiff": "-6",
+        "goalsagainst": 28,
+        "goalsdiff": "-9",
         "points": 18,
-        "form": "'LDDWL'"
+        "form": "'LLDDW'"
     },
     {
         "teamrank": 14,
@@ -242,15 +242,15 @@
         "teamrank": 18,
         "teamname": "Fulham",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-        "played": 14,
+        "played": 15,
         "wins": 2,
-        "draws": 4,
+        "draws": 5,
         "lossess": 8,
         "goalsfor": 13,
         "goalsagainst": 23,
         "goalsdiff": "-10",
-        "points": 10,
-        "form": "'DDDLW'"
+        "points": 11,
+        "form": "'DDDDL'"
     },
     {
         "teamrank": 19,
