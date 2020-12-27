@@ -4,15 +4,15 @@
         "teamrank": 1,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "played": 14,
+        "played": 15,
         "wins": 9,
-        "draws": 4,
+        "draws": 5,
         "lossess": 1,
-        "goalsfor": 36,
-        "goalsagainst": 19,
+        "goalsfor": 37,
+        "goalsagainst": 20,
         "goalsdiff": "+17",
-        "points": 31,
-        "form": "'WWDWD'"
+        "points": 32,
+        "form": "'DWWDW'"
     },
     {
         "teamrank": 2,
@@ -256,15 +256,15 @@
         "teamrank": 19,
         "teamname": "West Bromwich Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-        "played": 14,
+        "played": 15,
         "wins": 1,
-        "draws": 4,
+        "draws": 5,
         "lossess": 9,
-        "goalsfor": 10,
-        "goalsagainst": 29,
+        "goalsfor": 11,
+        "goalsagainst": 30,
         "goalsdiff": "-19",
-        "points": 7,
-        "form": "'LDLLW'"
+        "points": 8,
+        "form": "'DLDLL'"
     },
     {
         "teamrank": 20,
