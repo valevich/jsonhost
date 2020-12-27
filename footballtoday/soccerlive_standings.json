@@ -142,6 +142,20 @@
     },
     {
         "teamrank": 11,
+        "teamname": "Leeds United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+        "played": 15,
+        "wins": 6,
+        "draws": 2,
+        "lossess": 7,
+        "goalsfor": 25,
+        "goalsagainst": 30,
+        "goalsdiff": "-5",
+        "points": 20,
+        "form": "'WLWLL'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
         "played": 14,
@@ -155,7 +169,7 @@
         "form": "'LWLLW'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "played": 14,
@@ -169,7 +183,7 @@
         "form": "'LDLWW'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
         "played": 15,
@@ -183,7 +197,7 @@
         "form": "'LLDDW'"
     },
     {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "played": 15,
@@ -197,32 +211,18 @@
         "form": "'WLDLL'"
     },
     {
-        "teamrank": 15,
-        "teamname": "Leeds United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-        "played": 14,
-        "wins": 5,
-        "draws": 2,
-        "lossess": 7,
-        "goalsfor": 24,
-        "goalsagainst": 30,
-        "goalsdiff": "-6",
-        "points": 17,
-        "form": "'LWLLW'"
-    },
-    {
         "teamrank": 16,
         "teamname": "Burnley",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-        "played": 13,
+        "played": 14,
         "wins": 3,
         "draws": 4,
-        "lossess": 6,
+        "lossess": 7,
         "goalsfor": 8,
-        "goalsagainst": 19,
-        "goalsdiff": "-11",
+        "goalsagainst": 20,
+        "goalsdiff": "-12",
         "points": 13,
-        "form": "'WDWDL'"
+        "form": "'LWDWD'"
     },
     {
         "teamrank": 17,
