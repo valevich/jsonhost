@@ -58,6 +58,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Tottenham Hotspur",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+        "played": 15,
+        "wins": 7,
+        "draws": 5,
+        "lossess": 3,
+        "goalsfor": 26,
+        "goalsagainst": 15,
+        "goalsdiff": "+11",
+        "points": 26,
+        "form": "'DLLDW'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "played": 14,
@@ -71,7 +85,7 @@
         "form": "'WWDDW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "played": 13,
@@ -85,7 +99,7 @@
         "form": "'WWDWL'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 15,
@@ -97,20 +111,6 @@
         "goalsdiff": "+13",
         "points": 25,
         "form": "'LWLLW'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Tottenham Hotspur",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "played": 14,
-        "wins": 7,
-        "draws": 4,
-        "lossess": 3,
-        "goalsfor": 25,
-        "goalsagainst": 14,
-        "goalsdiff": "+11",
-        "points": 25,
-        "form": "'LLDWD'"
     },
     {
         "teamrank": 9,
@@ -142,6 +142,20 @@
     },
     {
         "teamrank": 11,
+        "teamname": "Wolverhampton Wanderers",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+        "played": 15,
+        "wins": 6,
+        "draws": 3,
+        "lossess": 6,
+        "goalsfor": 15,
+        "goalsagainst": 20,
+        "goalsdiff": "-5",
+        "points": 21,
+        "form": "'DLWLL'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "played": 15,
@@ -153,20 +167,6 @@
         "goalsdiff": "-5",
         "points": 20,
         "form": "'WLWLL'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Wolverhampton Wanderers",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-        "played": 14,
-        "wins": 6,
-        "draws": 2,
-        "lossess": 6,
-        "goalsfor": 14,
-        "goalsagainst": 19,
-        "goalsdiff": "-5",
-        "points": 20,
-        "form": "'LWLLW'"
     },
     {
         "teamrank": 13,
