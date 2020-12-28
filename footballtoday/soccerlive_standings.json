@@ -16,6 +16,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Leicester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+        "played": 16,
+        "wins": 9,
+        "draws": 2,
+        "lossess": 5,
+        "goalsfor": 29,
+        "goalsagainst": 20,
+        "goalsdiff": "+9",
+        "points": 29,
+        "form": "'DDWLW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
         "played": 15,
@@ -27,20 +41,6 @@
         "goalsdiff": "+7",
         "points": 29,
         "form": "'WWWWD'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Leicester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "played": 15,
-        "wins": 9,
-        "draws": 1,
-        "lossess": 5,
-        "goalsfor": 28,
-        "goalsagainst": 19,
-        "goalsdiff": "+9",
-        "points": 28,
-        "form": "'DWLWW'"
     },
     {
         "teamrank": 4,
@@ -170,6 +170,20 @@
     },
     {
         "teamrank": 13,
+        "teamname": "Crystal Palace",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+        "played": 16,
+        "wins": 5,
+        "draws": 4,
+        "lossess": 7,
+        "goalsfor": 20,
+        "goalsagainst": 29,
+        "goalsdiff": "-9",
+        "points": 19,
+        "form": "'DLLDD'"
+    },
+    {
+        "teamrank": 14,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "played": 14,
@@ -181,20 +195,6 @@
         "goalsdiff": "-7",
         "points": 18,
         "form": "'LDLWW'"
-    },
-    {
-        "teamrank": 14,
-        "teamname": "Crystal Palace",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "played": 15,
-        "wins": 5,
-        "draws": 3,
-        "lossess": 7,
-        "goalsfor": 19,
-        "goalsagainst": 28,
-        "goalsdiff": "-9",
-        "points": 18,
-        "form": "'LLDDW'"
     },
     {
         "teamrank": 15,
