@@ -58,6 +58,34 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Aston Villa",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "played": 14,
+        "wins": 8,
+        "draws": 2,
+        "lossess": 4,
+        "goalsfor": 28,
+        "goalsagainst": 14,
+        "goalsdiff": "+14",
+        "points": 26,
+        "form": "'DWWDW'"
+    },
+    {
+        "teamrank": 6,
+        "teamname": "Chelsea",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+        "played": 16,
+        "wins": 7,
+        "draws": 5,
+        "lossess": 4,
+        "goalsfor": 31,
+        "goalsagainst": 18,
+        "goalsdiff": "+13",
+        "points": 26,
+        "form": "'DLWLL'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 15,
@@ -71,7 +99,7 @@
         "form": "'DLLDW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 8,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "played": 14,
@@ -83,34 +111,6 @@
         "goalsdiff": "+9",
         "points": 26,
         "form": "'WWDDW'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Aston Villa",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 13,
-        "wins": 8,
-        "draws": 1,
-        "lossess": 4,
-        "goalsfor": 27,
-        "goalsagainst": 13,
-        "goalsdiff": "+14",
-        "points": 25,
-        "form": "'WWDWL'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Chelsea",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "played": 15,
-        "wins": 7,
-        "draws": 4,
-        "lossess": 4,
-        "goalsfor": 30,
-        "goalsagainst": 17,
-        "goalsdiff": "+13",
-        "points": 25,
-        "form": "'LWLLW'"
     },
     {
         "teamrank": 9,
