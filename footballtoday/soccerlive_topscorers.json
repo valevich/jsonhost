@@ -100,6 +100,15 @@
         "playerassists": 2
     },
     {
+        "playername": "S. Mané",
+        "playerlink": "https://www.livesoccertv.com/player/s-mane/167200/",
+        "playerteam": "Liverpool",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "playergoals": 6,
+        "playerassists": 0
+    },
+    {
         "playername": "M. Rashford",
         "playerlink": "https://www.livesoccertv.com/player/m-rashford/308286/",
         "playerteam": "Manchester United",
@@ -123,15 +132,6 @@
         "playerteam": "Liverpool",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "playergoals": 5,
-        "playerassists": 0
-    },
-    {
-        "playername": "J. Grealish",
-        "playerlink": "https://www.livesoccertv.com/player/j-grealish/175570/",
-        "playerteam": "Aston Villa",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/aston-villa/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "playergoals": 5,
         "playerassists": 0
     }
