@@ -356,15 +356,15 @@
         "teamrank": 6,
         "teamname": "Barcelona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "played": 14,
+        "played": 15,
         "wins": 7,
-        "draws": 3,
+        "draws": 4,
         "lossess": 4,
-        "goalsfor": 28,
-        "goalsagainst": 14,
+        "goalsfor": 29,
+        "goalsagainst": 15,
         "goalsdiff": "+14",
-        "points": 24,
-        "form": "'WDWWL'"
+        "points": 25,
+        "form": "'DWDWW'"
     },
     {
         "teamrank": 7,
@@ -466,6 +466,20 @@
     },
     {
         "teamrank": 14,
+        "teamname": "Eibar",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
+        "played": 16,
+        "wins": 3,
+        "draws": 7,
+        "lossess": 6,
+        "goalsfor": 12,
+        "goalsagainst": 16,
+        "goalsdiff": "-4",
+        "points": 16,
+        "form": "'DLLDD'"
+    },
+    {
+        "teamrank": 15,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "played": 15,
@@ -479,7 +493,7 @@
         "form": "'LDDDL'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 14,
@@ -493,7 +507,7 @@
         "form": "'DWLWD'"
     },
     {
-        "teamrank": 16,
+        "teamrank": 17,
         "teamname": "Elche",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
         "played": 13,
@@ -505,20 +519,6 @@
         "goalsdiff": "-4",
         "points": 15,
         "form": "'DLLDD'"
-    },
-    {
-        "teamrank": 17,
-        "teamname": "Eibar",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 15,
-        "wins": 3,
-        "draws": 6,
-        "lossess": 6,
-        "goalsfor": 11,
-        "goalsagainst": 15,
-        "goalsdiff": "-4",
-        "points": 15,
-        "form": "'LLDDW'"
     },
     {
         "teamrank": 18,
