@@ -16,6 +16,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Manchester United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "played": 15,
+        "wins": 9,
+        "draws": 3,
+        "lossess": 3,
+        "goalsfor": 31,
+        "goalsagainst": 23,
+        "goalsdiff": "+8",
+        "points": 30,
+        "form": "'WDWWD'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Leicester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
         "played": 16,
@@ -29,7 +43,7 @@
         "form": "'DDWLW'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
         "played": 15,
@@ -41,20 +55,6 @@
         "goalsdiff": "+7",
         "points": 29,
         "form": "'WWWWD'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Manchester United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "played": 14,
-        "wins": 8,
-        "draws": 3,
-        "lossess": 3,
-        "goalsfor": 30,
-        "goalsagainst": 23,
-        "goalsdiff": "+7",
-        "points": 27,
-        "form": "'DWWDW'"
     },
     {
         "teamrank": 5,
@@ -158,15 +158,15 @@
         "teamrank": 12,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-        "played": 15,
+        "played": 16,
         "wins": 6,
         "draws": 3,
-        "lossess": 6,
+        "lossess": 7,
         "goalsfor": 15,
-        "goalsagainst": 20,
-        "goalsdiff": "-5",
+        "goalsagainst": 21,
+        "goalsdiff": "-6",
         "points": 21,
-        "form": "'DLWLL'"
+        "form": "'LDLWL'"
     },
     {
         "teamrank": 13,
