@@ -286,15 +286,15 @@
         "teamrank": 1,
         "teamname": "Atlético Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "played": 13,
-        "wins": 10,
+        "played": 14,
+        "wins": 11,
         "draws": 2,
         "lossess": 1,
-        "goalsfor": 26,
+        "goalsfor": 27,
         "goalsagainst": 5,
-        "goalsdiff": "+21",
-        "points": 32,
-        "form": "'WWLWW'"
+        "goalsdiff": "+22",
+        "points": 35,
+        "form": "'WWWLW'"
     },
     {
         "teamrank": 2,
@@ -384,15 +384,15 @@
         "teamrank": 8,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "played": 15,
-        "wins": 5,
+        "played": 16,
+        "wins": 6,
         "draws": 5,
         "lossess": 5,
-        "goalsfor": 20,
-        "goalsagainst": 21,
-        "goalsdiff": "-1",
-        "points": 20,
-        "form": "'DWWWW'"
+        "goalsfor": 22,
+        "goalsagainst": 22,
+        "goalsdiff": "0",
+        "points": 23,
+        "form": "'WDWWW'"
     },
     {
         "teamrank": 9,
@@ -452,20 +452,6 @@
     },
     {
         "teamrank": 13,
-        "teamname": "Getafe",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-        "played": 14,
-        "wins": 4,
-        "draws": 5,
-        "lossess": 5,
-        "goalsfor": 12,
-        "goalsagainst": 15,
-        "goalsdiff": "-3",
-        "points": 17,
-        "form": "'DWLLD'"
-    },
-    {
-        "teamrank": 14,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 15,
@@ -477,6 +463,20 @@
         "goalsdiff": "-4",
         "points": 17,
         "form": "'WLLDW'"
+    },
+    {
+        "teamrank": 14,
+        "teamname": "Getafe",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+        "played": 15,
+        "wins": 4,
+        "draws": 5,
+        "lossess": 6,
+        "goalsfor": 12,
+        "goalsagainst": 16,
+        "goalsdiff": "-4",
+        "points": 17,
+        "form": "'LDWLL'"
     },
     {
         "teamrank": 15,
@@ -536,20 +536,6 @@
     },
     {
         "teamrank": 19,
-        "teamname": "Huesca",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-        "played": 15,
-        "wins": 1,
-        "draws": 9,
-        "lossess": 5,
-        "goalsfor": 13,
-        "goalsagainst": 23,
-        "goalsdiff": "-10",
-        "points": 12,
-        "form": "'DLWDL'"
-    },
-    {
-        "teamrank": 20,
         "teamname": "Osasuna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
         "played": 14,
@@ -561,6 +547,20 @@
         "goalsdiff": "-10",
         "points": 12,
         "form": "'DLLLL'"
+    },
+    {
+        "teamrank": 20,
+        "teamname": "Huesca",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
+        "played": 16,
+        "wins": 1,
+        "draws": 9,
+        "lossess": 6,
+        "goalsfor": 14,
+        "goalsagainst": 25,
+        "goalsdiff": "-11",
+        "points": 12,
+        "form": "'LDLWD'"
     }
   ],
   "serie-a": [
