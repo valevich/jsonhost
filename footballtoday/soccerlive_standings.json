@@ -300,15 +300,15 @@
         "teamrank": 2,
         "teamname": "Real Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "played": 15,
+        "played": 16,
         "wins": 10,
-        "draws": 2,
+        "draws": 3,
         "lossess": 3,
-        "goalsfor": 27,
-        "goalsagainst": 14,
+        "goalsfor": 28,
+        "goalsagainst": 15,
         "goalsdiff": "+13",
-        "points": 32,
-        "form": "'WWWWW'"
+        "points": 33,
+        "form": "'DWWWW'"
     },
     {
         "teamrank": 3,
@@ -480,6 +480,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Elche",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+        "played": 14,
+        "wins": 3,
+        "draws": 7,
+        "lossess": 4,
+        "goalsfor": 13,
+        "goalsagainst": 17,
+        "goalsdiff": "-4",
+        "points": 16,
+        "form": "'DDLLD'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "played": 16,
@@ -493,7 +507,7 @@
         "form": "'DLLDD'"
     },
     {
-        "teamrank": 16,
+        "teamrank": 17,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "played": 16,
@@ -505,20 +519,6 @@
         "goalsdiff": "-2",
         "points": 15,
         "form": "'LLDDD'"
-    },
-    {
-        "teamrank": 17,
-        "teamname": "Elche",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-        "played": 13,
-        "wins": 3,
-        "draws": 6,
-        "lossess": 4,
-        "goalsfor": 12,
-        "goalsagainst": 16,
-        "goalsdiff": "-4",
-        "points": 15,
-        "form": "'DLLDD'"
     },
     {
         "teamrank": 18,
