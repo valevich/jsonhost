@@ -527,6 +527,24 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "playergoals": 6,
         "playerassists": 0
+    },
+    {
+        "playername": "I. Niane",
+        "playerlink": "https://www.livesoccertv.com/player/i-niane/351474/",
+        "playerteam": "Metz",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/metz/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
+        "playergoals": 6,
+        "playerassists": 1
+    },
+    {
+        "playername": "Florian Thauvin",
+        "playerlink": "https://www.livesoccertv.com/player/f-thauvin/151539/",
+        "playerteam": "Olympique Marseille",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-marseille/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+        "playergoals": 6,
+        "playerassists": 0
     }
   ],
   "bundesliga": [
