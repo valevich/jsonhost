@@ -1,35 +1,9 @@
 {
   "today": [
     {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "Wednesday Dec. 30, 2020",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Newcastle Utd",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-      "AwayTeam": "Newcastle Utd",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-      "TVChannels": "0 - 0  Liverpool NBCSN ,  fuboTV ,  NBCSports.com ,  NBC Sports…"
-    },
-    {
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "Wednesday Dec. 30, 2020",
+      "GameTime": "Thursday Dec. 31, 2020",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -42,54 +16,28 @@
     {
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "11:00am",
+      "GameTime": "8:00am",
       "GameState": "",
-      "HomeTeam": "Granada",
+      "HomeTeam": "Athletic Club",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-      "AwayTeam": "Granada",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+      "AwayTeam": "Real Sociedad",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-      "TVChannels": "2 - 1  Valencia beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
     },
     {
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "1:15pm",
+      "GameTime": "10:15am",
       "GameState": "",
-      "HomeTeam": "Atletico Madrid",
+      "HomeTeam": "Osasuna",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-      "AwayTeam": "Atletico Madrid",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+      "AwayTeam": "Alavés",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-      "TVChannels": "ético Madrid  1 - 0  Getafe beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "1:15pm",
-      "GameState": "",
-      "HomeTeam": "Celta de Vigo",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-      "AwayTeam": "Celta de Vigo",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-      "TVChannels": "2 - 1  Huesca Fanatiz USA ,  fuboTV ,  beIN SPORTS CO…"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "3:30pm",
-      "GameState": "",
-      "HomeTeam": "Real Madrid",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-      "AwayTeam": "Elche",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-      "TVChannels": "1 - 1  Real Madrid beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
     }
   ],
   "day2": [
