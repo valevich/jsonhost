@@ -314,15 +314,15 @@
         "teamrank": 3,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "played": 16,
-        "wins": 7,
+        "played": 17,
+        "wins": 8,
         "draws": 5,
         "lossess": 4,
-        "goalsfor": 25,
+        "goalsfor": 26,
         "goalsagainst": 12,
-        "goalsdiff": "+13",
-        "points": 26,
-        "form": "'LLLDD'"
+        "goalsdiff": "+14",
+        "points": 29,
+        "form": "'WLLLD'"
     },
     {
         "teamrank": 4,
@@ -424,20 +424,6 @@
     },
     {
         "teamrank": 11,
-        "teamname": "Athletic Club",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "played": 15,
-        "wins": 5,
-        "draws": 3,
-        "lossess": 7,
-        "goalsfor": 18,
-        "goalsagainst": 18,
-        "goalsdiff": "0",
-        "points": 18,
-        "form": "'DWLDL'"
-    },
-    {
-        "teamrank": 12,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 15,
@@ -449,6 +435,20 @@
         "goalsdiff": "-1",
         "points": 18,
         "form": "'WDWLW'"
+    },
+    {
+        "teamrank": 12,
+        "teamname": "Athletic Club",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "played": 16,
+        "wins": 5,
+        "draws": 3,
+        "lossess": 8,
+        "goalsfor": 18,
+        "goalsagainst": 19,
+        "goalsdiff": "-1",
+        "points": 18,
+        "form": "'LDWLD'"
     },
     {
         "teamrank": 13,
