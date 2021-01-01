@@ -1,9 +1,9 @@
 {
-  "today": [
+    },
     {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "Thursday Dec. 31, 2020",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -12,32 +12,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "8:00am",
-      "GameState": "FT ",
-      "HomeTeam": "Athletic Club",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-      "AwayTeam": "Real Sociedad",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "10:15am",
-      "GameState": "FT ",
-      "HomeTeam": "Osasuna",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-      "AwayTeam": "Alavés",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
     }
   ],
   "day2": [
@@ -457,7 +431,7 @@
       "AwayTeam": "Napoli",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+      "TVChannels": "ESPN+ ,  Fanatiz USA ,  fuboT…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -535,7 +509,7 @@
       "AwayTeam": "Milan",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+      "TVChannels": "ESPN+ ,  Fanatiz USA ,  fuboT…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -548,7 +522,7 @@
       "AwayTeam": "Udinese",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+      "TVChannels": "ESPN+ ,  Fanatiz USA ,  fuboT…"
     },
     {
       "LeagueName": "German Bundesliga",
