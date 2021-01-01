@@ -46,15 +46,15 @@
         "teamrank": 4,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-        "played": 15,
+        "played": 16,
         "wins": 9,
         "draws": 2,
-        "lossess": 4,
+        "lossess": 5,
         "goalsfor": 26,
-        "goalsagainst": 19,
-        "goalsdiff": "+7",
+        "goalsagainst": 20,
+        "goalsdiff": "+6",
         "points": 29,
-        "form": "'WWWWD'"
+        "form": "'LWWWW'"
     },
     {
         "teamrank": 5,
@@ -130,15 +130,15 @@
         "teamrank": 10,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-        "played": 16,
-        "wins": 6,
+        "played": 17,
+        "wins": 7,
         "draws": 5,
         "lossess": 5,
-        "goalsfor": 23,
+        "goalsfor": 24,
         "goalsagainst": 21,
-        "goalsdiff": "+2",
-        "points": 23,
-        "form": "'DDLDW'"
+        "goalsdiff": "+3",
+        "points": 26,
+        "form": "'WDDLD'"
     },
     {
         "teamrank": 11,
