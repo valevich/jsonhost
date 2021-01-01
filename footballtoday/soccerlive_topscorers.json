@@ -246,6 +246,15 @@
         "playerassists": 1
     },
     {
+        "playername": "Portu",
+        "playerlink": "https://www.livesoccertv.com/player/portu/171121/",
+        "playerteam": "Real Sociedad",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+        "playergoals": 5,
+        "playerassists": 0
+    },
+    {
         "playername": "João Félix",
         "playerlink": "https://www.livesoccertv.com/player/joao-felix/338331/",
         "playerteam": "Atletico Madrid",
@@ -262,15 +271,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "playergoals": 5,
         "playerassists": 5
-    },
-    {
-        "playername": "Nolito",
-        "playerlink": "https://www.livesoccertv.com/player/nolito/62938/",
-        "playerteam": "Celta Vigo",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "playergoals": 4,
-        "playerassists": 0
     }
   ],
   "serie-a": [
