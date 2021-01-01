@@ -18,15 +18,15 @@
         "teamrank": 2,
         "teamname": "Manchester United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "played": 15,
-        "wins": 9,
+        "played": 16,
+        "wins": 10,
         "draws": 3,
         "lossess": 3,
-        "goalsfor": 31,
-        "goalsagainst": 23,
-        "goalsdiff": "+8",
-        "points": 30,
-        "form": "'WDWWD'"
+        "goalsfor": 33,
+        "goalsagainst": 24,
+        "goalsdiff": "+9",
+        "points": 33,
+        "form": "'WWDWW'"
     },
     {
         "teamrank": 3,
@@ -58,20 +58,6 @@
     },
     {
         "teamrank": 5,
-        "teamname": "Aston Villa",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 14,
-        "wins": 8,
-        "draws": 2,
-        "lossess": 4,
-        "goalsfor": 28,
-        "goalsagainst": 14,
-        "goalsdiff": "+14",
-        "points": 26,
-        "form": "'DWWDW'"
-    },
-    {
-        "teamrank": 6,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 16,
@@ -83,6 +69,20 @@
         "goalsdiff": "+13",
         "points": 26,
         "form": "'DLWLL'"
+    },
+    {
+        "teamrank": 6,
+        "teamname": "Aston Villa",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "played": 15,
+        "wins": 8,
+        "draws": 2,
+        "lossess": 5,
+        "goalsfor": 29,
+        "goalsagainst": 16,
+        "goalsdiff": "+13",
+        "points": 26,
+        "form": "'LDWWD'"
     },
     {
         "teamrank": 7,
