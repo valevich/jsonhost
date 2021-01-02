@@ -342,15 +342,15 @@
         "teamrank": 5,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-        "played": 14,
+        "played": 15,
         "wins": 8,
-        "draws": 2,
+        "draws": 3,
         "lossess": 4,
-        "goalsfor": 17,
-        "goalsagainst": 10,
+        "goalsfor": 18,
+        "goalsagainst": 11,
         "goalsdiff": "+7",
-        "points": 26,
-        "form": "'WWDWL'"
+        "points": 27,
+        "form": "'DWWDW'"
     },
     {
         "teamrank": 6,
@@ -396,6 +396,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Real Betis",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "played": 17,
+        "wins": 6,
+        "draws": 2,
+        "lossess": 9,
+        "goalsfor": 20,
+        "goalsagainst": 31,
+        "goalsdiff": "-11",
+        "points": 20,
+        "form": "'DLWLD'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Cádiz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
         "played": 16,
@@ -407,20 +421,6 @@
         "goalsdiff": "-9",
         "points": 19,
         "form": "'DLLLW'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Real Betis",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 16,
-        "wins": 6,
-        "draws": 1,
-        "lossess": 9,
-        "goalsfor": 19,
-        "goalsagainst": 30,
-        "goalsdiff": "-11",
-        "points": 19,
-        "form": "'LWLDW'"
     },
     {
         "teamrank": 11,
