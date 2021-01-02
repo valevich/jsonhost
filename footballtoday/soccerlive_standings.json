@@ -156,6 +156,20 @@
     },
     {
         "teamrank": 12,
+        "teamname": "Crystal Palace",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+        "played": 17,
+        "wins": 6,
+        "draws": 4,
+        "lossess": 7,
+        "goalsfor": 22,
+        "goalsagainst": 29,
+        "goalsdiff": "-7",
+        "points": 22,
+        "form": "'WDLLD'"
+    },
+    {
+        "teamrank": 13,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
         "played": 16,
@@ -169,7 +183,7 @@
         "form": "'LDLWL'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "played": 16,
@@ -183,7 +197,7 @@
         "form": "'WWLDL'"
     },
     {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "played": 15,
@@ -195,20 +209,6 @@
         "goalsdiff": "-7",
         "points": 19,
         "form": "'DLDLW'"
-    },
-    {
-        "teamrank": 15,
-        "teamname": "Crystal Palace",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "played": 16,
-        "wins": 5,
-        "draws": 4,
-        "lossess": 7,
-        "goalsfor": 20,
-        "goalsagainst": 29,
-        "goalsdiff": "-9",
-        "points": 19,
-        "form": "'DLLDD'"
     },
     {
         "teamrank": 16,
@@ -270,15 +270,15 @@
         "teamrank": 20,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 16,
+        "played": 17,
         "wins": 0,
         "draws": 2,
-        "lossess": 14,
+        "lossess": 15,
         "goalsfor": 8,
-        "goalsagainst": 27,
-        "goalsdiff": "-19",
+        "goalsagainst": 29,
+        "goalsdiff": "-21",
         "points": 2,
-        "form": "'LLDLL'"
+        "form": "'LLLDL'"
     }
   ],
   "primera-division": [
