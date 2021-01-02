@@ -326,6 +326,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Villarreal",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "played": 17,
+        "wins": 7,
+        "draws": 8,
+        "lossess": 2,
+        "goalsfor": 22,
+        "goalsagainst": 17,
+        "goalsdiff": "+5",
+        "points": 29,
+        "form": "'WLDWD'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
         "played": 14,
@@ -337,20 +351,6 @@
         "goalsdiff": "+7",
         "points": 26,
         "form": "'WWDWL'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Villarreal",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "played": 16,
-        "wins": 6,
-        "draws": 8,
-        "lossess": 2,
-        "goalsfor": 20,
-        "goalsagainst": 16,
-        "goalsdiff": "+4",
-        "points": 26,
-        "form": "'LDWDD'"
     },
     {
         "teamrank": 6,
@@ -424,20 +424,6 @@
     },
     {
         "teamrank": 11,
-        "teamname": "Levante",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "played": 15,
-        "wins": 4,
-        "draws": 6,
-        "lossess": 5,
-        "goalsfor": 20,
-        "goalsagainst": 21,
-        "goalsdiff": "-1",
-        "points": 18,
-        "form": "'WDWLW'"
-    },
-    {
-        "teamrank": 12,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 16,
@@ -449,6 +435,20 @@
         "goalsdiff": "-1",
         "points": 18,
         "form": "'LDWLD'"
+    },
+    {
+        "teamrank": 12,
+        "teamname": "Levante",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "played": 16,
+        "wins": 4,
+        "draws": 6,
+        "lossess": 6,
+        "goalsfor": 21,
+        "goalsagainst": 23,
+        "goalsdiff": "-2",
+        "points": 18,
+        "form": "'LWDWL'"
     },
     {
         "teamrank": 13,
