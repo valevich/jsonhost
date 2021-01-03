@@ -82,9 +82,9 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "12:30pm",
-      "GameState": "49 ",
+      "GameState": "73 ",
       "HomeTeam": "Eibar",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
       "AwayTeam": "Granada",
       "AwayGoals": "0",
@@ -95,7 +95,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "12:30pm",
-      "GameState": "51 ",
+      "GameState": "74 ",
       "HomeTeam": "Real Sociedad",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
@@ -238,14 +238,14 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "12:00pm",
-      "GameState": "77 ",
+      "GameState": "FT ",
       "HomeTeam": "Benevento",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
       "AwayTeam": "Milan",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "TVChannels": "ESPN+ ,  Fanatiz USA ,  fuboT…"
+      "TVChannels": "ESPN+ ,  Fanatiz USA ,  fuboTV ,  ESPN App ,  Ra…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -290,14 +290,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "12:00pm",
-      "GameState": "78 ",
+      "GameState": "FT ",
       "HomeTeam": "Bayern Munich",
-      "HomeGoals": "4",
+      "HomeGoals": "5",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
       "AwayTeam": "Mainz 05",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-      "TVChannels": "05 ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+      "TVChannels": "05 ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
     }
   ],
   "day2": [
