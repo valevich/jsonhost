@@ -58,6 +58,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Manchester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "played": 15,
+        "wins": 8,
+        "draws": 5,
+        "lossess": 2,
+        "goalsfor": 24,
+        "goalsagainst": 13,
+        "goalsdiff": "+11",
+        "points": 29,
+        "form": "'WWWDD'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
         "played": 16,
@@ -69,20 +83,6 @@
         "goalsdiff": "+6",
         "points": 29,
         "form": "'LWWWW'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Chelsea",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "played": 16,
-        "wins": 7,
-        "draws": 5,
-        "lossess": 4,
-        "goalsfor": 31,
-        "goalsagainst": 18,
-        "goalsdiff": "+13",
-        "points": 26,
-        "form": "'DLWLL'"
     },
     {
         "teamrank": 7,
@@ -100,17 +100,17 @@
     },
     {
         "teamrank": 8,
-        "teamname": "Manchester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "played": 14,
+        "teamname": "Chelsea",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+        "played": 17,
         "wins": 7,
         "draws": 5,
-        "lossess": 2,
-        "goalsfor": 21,
-        "goalsagainst": 12,
-        "goalsdiff": "+9",
+        "lossess": 5,
+        "goalsfor": 32,
+        "goalsagainst": 21,
+        "goalsdiff": "+11",
         "points": 26,
-        "form": "'WWDDW'"
+        "form": "'LDLWL'"
     },
     {
         "teamrank": 9,
