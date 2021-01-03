@@ -284,6 +284,20 @@
   "primera-division": [
     {
         "teamrank": 1,
+        "teamname": "Atlético Madrid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "played": 15,
+        "wins": 12,
+        "draws": 2,
+        "lossess": 1,
+        "goalsfor": 29,
+        "goalsagainst": 6,
+        "goalsdiff": "+23",
+        "points": 38,
+        "form": "'WWWWL'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Real Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
         "played": 17,
@@ -295,20 +309,6 @@
         "goalsdiff": "+15",
         "points": 36,
         "form": "'WDWWW'"
-    },
-    {
-        "teamrank": 2,
-        "teamname": "Atlético Madrid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "played": 14,
-        "wins": 11,
-        "draws": 2,
-        "lossess": 1,
-        "goalsfor": 27,
-        "goalsagainst": 5,
-        "goalsdiff": "+22",
-        "points": 35,
-        "form": "'WWWLW'"
     },
     {
         "teamrank": 3,
@@ -454,15 +454,15 @@
         "teamrank": 13,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-        "played": 16,
+        "played": 17,
         "wins": 4,
         "draws": 6,
-        "lossess": 6,
-        "goalsfor": 14,
-        "goalsagainst": 18,
-        "goalsdiff": "-4",
+        "lossess": 7,
+        "goalsfor": 15,
+        "goalsagainst": 20,
+        "goalsdiff": "-5",
         "points": 18,
-        "form": "'DWLLD'"
+        "form": "'LDWLL'"
     },
     {
         "teamrank": 14,
