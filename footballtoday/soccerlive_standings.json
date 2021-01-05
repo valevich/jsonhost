@@ -1351,34 +1351,6 @@
         "goalsdiff": "-15",
         "points": 10,
         "form": "'LWLLW'"
-    },
-    {
-        "teamrank": 17,
-        "teamname": "Mainz 05",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-        "played": 14,
-        "wins": 1,
-        "draws": 3,
-        "lossess": 10,
-        "goalsfor": 14,
-        "goalsagainst": 31,
-        "goalsdiff": "-17",
-        "points": 6,
-        "form": "'LLDLL'"
-    },
-    {
-        "teamrank": 18,
-        "teamname": "Schalke 04",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
-        "played": 14,
-        "wins": 0,
-        "draws": 4,
-        "lossess": 10,
-        "goalsfor": 8,
-        "goalsagainst": 39,
-        "goalsdiff": "-31",
-        "points": 4,
-        "form": "'LLLDL'"
     }
   ]
 }
