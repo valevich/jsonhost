@@ -1,9 +1,9 @@
 {
   "today": [
     {
-      "LeagueName": "English EFL Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/41.png",
-      "GameTime": "Tuesday Jan. 5, 2021",
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "Monday Jan. 4, 2021",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -14,17 +14,43 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "English EFL Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/41.png",
-      "GameTime": "2:45pm",
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Tottenham",
+      "HomeTeam": "Southampton",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-      "AwayTeam": "Brentford",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+      "AwayTeam": "Southampton",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/337.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Caribb…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+      "TVChannels": "1 - 0  Liverpool NBCSN ,  fuboTV ,  NBCSports.com ,  NBC Sports…"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "Monday Jan. 4, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Valencia",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+      "AwayTeam": "Valencia",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+      "TVChannels": "1 - 1  Cádiz beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
     }
   ],
   "day2": [
