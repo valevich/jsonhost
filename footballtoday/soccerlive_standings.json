@@ -624,15 +624,15 @@
         "teamrank": 5,
         "teamname": "Napoli",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "played": 14,
+        "played": 15,
         "wins": 9,
         "draws": 1,
-        "lossess": 4,
-        "goalsfor": 31,
-        "goalsagainst": 13,
-        "goalsdiff": "+18",
+        "lossess": 5,
+        "goalsfor": 32,
+        "goalsagainst": 15,
+        "goalsdiff": "+17",
         "points": 28,
-        "form": "'WDLLW'"
+        "form": "'LWDLL'"
     },
     {
         "teamrank": 6,
@@ -776,6 +776,20 @@
     },
     {
         "teamrank": 16,
+        "teamname": "Spezia",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
+        "played": 16,
+        "wins": 3,
+        "draws": 5,
+        "lossess": 8,
+        "goalsfor": 21,
+        "goalsagainst": 31,
+        "goalsdiff": "-10",
+        "points": 14,
+        "form": "'WLLLD'"
+    },
+    {
+        "teamrank": 17,
         "teamname": "Torino",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
         "played": 16,
@@ -789,7 +803,7 @@
         "form": "'DWDDL'"
     },
     {
-        "teamrank": 17,
+        "teamrank": 18,
         "teamname": "Parma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
         "played": 16,
@@ -801,20 +815,6 @@
         "goalsdiff": "-18",
         "points": 12,
         "form": "'LLLLD'"
-    },
-    {
-        "teamrank": 18,
-        "teamname": "Spezia",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
-        "played": 15,
-        "wins": 2,
-        "draws": 5,
-        "lossess": 8,
-        "goalsfor": 19,
-        "goalsagainst": 30,
-        "goalsdiff": "-11",
-        "points": 11,
-        "form": "'LLLDL'"
     },
     {
         "teamrank": 19,
