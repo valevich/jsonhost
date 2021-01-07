@@ -147,6 +147,15 @@
         "playerassists": 3
     },
     {
+        "playername": "L. Messi",
+        "playerlink": "https://www.livesoccertv.com/player/l-messi/252/",
+        "playerteam": "Barcelona",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "playergoals": 9,
+        "playerassists": 2
+    },
+    {
         "playername": "Gerard Moreno",
         "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
         "playerteam": "Villarreal",
@@ -172,15 +181,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
         "playergoals": 8,
         "playerassists": 0
-    },
-    {
-        "playername": "L. Messi",
-        "playerlink": "https://www.livesoccertv.com/player/l-messi/252/",
-        "playerteam": "Barcelona",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "playergoals": 7,
-        "playerassists": 2
     },
     {
         "playername": "Mikel Oyarzabal",
