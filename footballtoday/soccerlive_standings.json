@@ -312,6 +312,20 @@
     },
     {
         "teamrank": 3,
+        "teamname": "Villarreal",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "played": 18,
+        "wins": 8,
+        "draws": 8,
+        "lossess": 2,
+        "goalsfor": 26,
+        "goalsagainst": 17,
+        "goalsdiff": "+9",
+        "points": 32,
+        "form": "'WWLDW'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Barcelona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
         "played": 17,
@@ -325,7 +339,7 @@
         "form": "'WWDWD'"
     },
     {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "played": 18,
@@ -337,20 +351,6 @@
         "goalsdiff": "+14",
         "points": 30,
         "form": "'DWLLL'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Villarreal",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "played": 17,
-        "wins": 7,
-        "draws": 8,
-        "lossess": 2,
-        "goalsfor": 22,
-        "goalsagainst": 17,
-        "goalsdiff": "+5",
-        "points": 29,
-        "form": "'WLDWD'"
     },
     {
         "teamrank": 6,
@@ -384,15 +384,15 @@
         "teamrank": 8,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "played": 17,
+        "played": 18,
         "wins": 6,
         "draws": 5,
-        "lossess": 6,
+        "lossess": 7,
         "goalsfor": 22,
-        "goalsagainst": 24,
-        "goalsdiff": "-2",
+        "goalsagainst": 28,
+        "goalsdiff": "-6",
         "points": 23,
-        "form": "'LWDWW'"
+        "form": "'LLWDW'"
     },
     {
         "teamrank": 9,
