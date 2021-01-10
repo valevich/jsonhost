@@ -138,6 +138,15 @@
   ],
   "primera-division": [
     {
+        "playername": "L. Messi",
+        "playerlink": "https://www.livesoccertv.com/player/l-messi/252/",
+        "playerteam": "Barcelona",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "playergoals": 11,
+        "playerassists": 2
+    },
+    {
         "playername": "Gerard Moreno",
         "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
         "playerteam": "Villarreal",
@@ -154,15 +163,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "playergoals": 9,
         "playerassists": 3
-    },
-    {
-        "playername": "L. Messi",
-        "playerlink": "https://www.livesoccertv.com/player/l-messi/252/",
-        "playerteam": "Barcelona",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "playergoals": 9,
-        "playerassists": 2
     },
     {
         "playername": "L. Suárez",
@@ -320,6 +320,15 @@
         "playerassists": 2
     },
     {
+        "playername": "L. Muriel",
+        "playerlink": "https://www.livesoccertv.com/player/l-muriel/83663/",
+        "playerteam": "Atalanta",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+        "playergoals": 10,
+        "playerassists": 1
+    },
+    {
         "playername": "A. Belotti",
         "playerlink": "https://www.livesoccertv.com/player/a-belotti/186733/",
         "playerteam": "Torino",
@@ -336,15 +345,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "playergoals": 9,
         "playerassists": 0
-    },
-    {
-        "playername": "L. Muriel",
-        "playerlink": "https://www.livesoccertv.com/player/l-muriel/83663/",
-        "playerteam": "Atalanta",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "playergoals": 9,
-        "playerassists": 1
     },
     {
         "playername": "H. Mkhitaryan",
@@ -558,6 +558,15 @@
         "playerassists": 4
     },
     {
+        "playername": "André Silva",
+        "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
+        "playerteam": "Eintracht Frankfurt",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "playergoals": 11,
+        "playerassists": 5
+    },
+    {
         "playername": "E. Haaland",
         "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
         "playerteam": "Borussia Dortmund",
@@ -567,22 +576,13 @@
         "playerassists": 1
     },
     {
-        "playername": "André Silva",
-        "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
-        "playerteam": "Eintracht Frankfurt",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-        "playergoals": 9,
-        "playerassists": 3
-    },
-    {
         "playername": "W. Weghorst",
         "playerlink": "https://www.livesoccertv.com/player/w-weghorst/207339/",
         "playerteam": "Wolfsburg",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "playergoals": 9,
-        "playerassists": 1
+        "playergoals": 10,
+        "playerassists": 2
     },
     {
         "playername": "L. Alario",
