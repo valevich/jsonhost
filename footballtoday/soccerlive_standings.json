@@ -396,6 +396,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Cádiz",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
+        "played": 18,
+        "wins": 6,
+        "draws": 5,
+        "lossess": 7,
+        "goalsfor": 15,
+        "goalsagainst": 22,
+        "goalsdiff": "-7",
+        "points": 23,
+        "form": "'WDDLL'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 17,
@@ -409,7 +423,7 @@
         "form": "'WLWDW'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 18,
@@ -421,20 +435,6 @@
         "goalsdiff": "-1",
         "points": 21,
         "form": "'LWLDW'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Cádiz",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
-        "played": 17,
-        "wins": 5,
-        "draws": 5,
-        "lossess": 7,
-        "goalsfor": 12,
-        "goalsagainst": 21,
-        "goalsdiff": "-9",
-        "points": 20,
-        "form": "'DDLLL'"
     },
     {
         "teamrank": 12,
@@ -468,15 +468,15 @@
         "teamrank": 14,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-        "played": 17,
+        "played": 18,
         "wins": 4,
         "draws": 6,
-        "lossess": 7,
-        "goalsfor": 15,
-        "goalsagainst": 20,
-        "goalsdiff": "-5",
+        "lossess": 8,
+        "goalsfor": 16,
+        "goalsagainst": 23,
+        "goalsdiff": "-7",
         "points": 18,
-        "form": "'LDWLL'"
+        "form": "'LLDWL'"
     },
     {
         "teamrank": 15,
