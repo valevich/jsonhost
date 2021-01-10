@@ -246,6 +246,15 @@
         "playerassists": 0
     },
     {
+        "playername": "A. Griezmann",
+        "playerlink": "https://www.livesoccertv.com/player/a-griezmann/90283/",
+        "playerteam": "Barcelona",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "playergoals": 5,
+        "playerassists": 0
+    },
+    {
         "playername": "Roger Martí",
         "playerlink": "https://www.livesoccertv.com/player/roger-marti/182383/",
         "playerteam": "Levante",
@@ -262,15 +271,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "playergoals": 5,
         "playerassists": 0
-    },
-    {
-        "playername": "João Félix",
-        "playerlink": "https://www.livesoccertv.com/player/joao-felix/338331/",
-        "playerteam": "Atletico Madrid",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "playergoals": 5,
-        "playerassists": 1
     }
   ],
   "serie-a": [
@@ -412,6 +412,15 @@
   ],
   "ligue-1": [
     {
+        "playername": "B. Dia",
+        "playerlink": "https://www.livesoccertv.com/player/b-dia/360970/",
+        "playerteam": "Reims",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/reims/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
+        "playergoals": 12,
+        "playerassists": 5
+    },
+    {
         "playername": "K. Mbappé",
         "playerlink": "https://www.livesoccertv.com/player/k-mbappe/281806/",
         "playerteam": "PSG",
@@ -426,17 +435,17 @@
         "playerteam": "Olympique Lyonnais",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "playergoals": 10,
+        "playergoals": 11,
         "playerassists": 6
     },
     {
-        "playername": "B. Dia",
-        "playerlink": "https://www.livesoccertv.com/player/b-dia/360970/",
-        "playerteam": "Reims",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/reims/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-        "playergoals": 10,
-        "playerassists": 4
+        "playername": "M. Kean",
+        "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
+        "playerteam": "PSG",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "playergoals": 9,
+        "playerassists": 0
     },
     {
         "playername": "K. Toko Ekambi",
@@ -446,6 +455,24 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "playergoals": 9,
         "playerassists": 0
+    },
+    {
+        "playername": "K. Volland",
+        "playerlink": "https://www.livesoccertv.com/player/k-volland/95821/",
+        "playerteam": "Monaco",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
+        "playername": "B. Yılmaz",
+        "playerlink": "https://www.livesoccertv.com/player/b-y-lmaz/4921/",
+        "playerteam": "Lille",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "playergoals": 9,
+        "playerassists": 2
     },
     {
         "playername": "L. Ajorque",
@@ -466,33 +493,6 @@
         "playerassists": 0
     },
     {
-        "playername": "M. Kean",
-        "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
-        "playerteam": "PSG",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "playergoals": 8,
-        "playerassists": 0
-    },
-    {
-        "playername": "K. Volland",
-        "playerlink": "https://www.livesoccertv.com/player/k-volland/95821/",
-        "playerteam": "Monaco",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "playergoals": 8,
-        "playerassists": 0
-    },
-    {
-        "playername": "B. Yılmaz",
-        "playerlink": "https://www.livesoccertv.com/player/b-y-lmaz/4921/",
-        "playerteam": "Lille",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "playergoals": 8,
-        "playerassists": 2
-    },
-    {
         "playername": "W. Ben Yedder",
         "playerlink": "https://www.livesoccertv.com/player/w-ben-yedder/126219/",
         "playerteam": "Monaco",
@@ -500,6 +500,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
         "playergoals": 7,
         "playerassists": 4
+    },
+    {
+        "playername": "H. Diallo",
+        "playerlink": "https://www.livesoccertv.com/player/h-diallo/259590/",
+        "playerteam": "Strasbourg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/strasbourg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+        "playergoals": 7,
+        "playerassists": 1
     },
     {
         "playername": "T. Kadewere",
@@ -520,13 +529,13 @@
         "playerassists": 5
     },
     {
-        "playername": "H. Diallo",
-        "playerlink": "https://www.livesoccertv.com/player/h-diallo/259590/",
-        "playerteam": "Strasbourg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/strasbourg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+        "playername": "A. Gouiri",
+        "playerlink": "https://www.livesoccertv.com/player/a-gouiri/334272/",
+        "playerteam": "Nice",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/nice/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
         "playergoals": 6,
-        "playerassists": 1
+        "playerassists": 2
     },
     {
         "playername": "G. Laborde",
@@ -536,15 +545,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "playergoals": 6,
         "playerassists": 0
-    },
-    {
-        "playername": "I. Niane",
-        "playerlink": "https://www.livesoccertv.com/player/i-niane/351474/",
-        "playerteam": "Metz",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/metz/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
-        "playergoals": 6,
-        "playerassists": 1
     }
   ],
   "bundesliga": [
