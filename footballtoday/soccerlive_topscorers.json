@@ -558,6 +558,15 @@
         "playerassists": 4
     },
     {
+        "playername": "E. Haaland",
+        "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
+        "playerteam": "Borussia Dortmund",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+        "playergoals": 12,
+        "playerassists": 1
+    },
+    {
         "playername": "André Silva",
         "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
         "playerteam": "Eintracht Frankfurt",
@@ -565,15 +574,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
         "playergoals": 11,
         "playerassists": 5
-    },
-    {
-        "playername": "E. Haaland",
-        "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
-        "playerteam": "Borussia Dortmund",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-        "playergoals": 10,
-        "playerassists": 1
     },
     {
         "playername": "W. Weghorst",
