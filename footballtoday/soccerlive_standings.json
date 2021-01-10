@@ -396,6 +396,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Levante",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "played": 17,
+        "wins": 5,
+        "draws": 6,
+        "lossess": 6,
+        "goalsfor": 23,
+        "goalsagainst": 24,
+        "goalsdiff": "-1",
+        "points": 21,
+        "form": "'WLWDW'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 18,
@@ -409,7 +423,7 @@
         "form": "'LWLDW'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Cádiz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
         "played": 17,
@@ -423,7 +437,7 @@
         "form": "'DDLLL'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "played": 17,
@@ -437,32 +451,18 @@
         "form": "'DLWLD'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 17,
+        "played": 18,
         "wins": 4,
         "draws": 7,
-        "lossess": 6,
-        "goalsfor": 14,
-        "goalsagainst": 16,
-        "goalsdiff": "-2",
+        "lossess": 7,
+        "goalsfor": 15,
+        "goalsagainst": 18,
+        "goalsdiff": "-3",
         "points": 19,
-        "form": "'WDLLD'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Levante",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "played": 16,
-        "wins": 4,
-        "draws": 6,
-        "lossess": 6,
-        "goalsfor": 21,
-        "goalsagainst": 23,
-        "goalsdiff": "-2",
-        "points": 18,
-        "form": "'LWDWL'"
+        "form": "'LWDLL'"
     },
     {
         "teamrank": 14,
