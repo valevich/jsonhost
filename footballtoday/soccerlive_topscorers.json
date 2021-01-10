@@ -138,6 +138,15 @@
   ],
   "primera-division": [
     {
+        "playername": "Gerard Moreno",
+        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
+        "playerteam": "Villarreal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "playergoals": 10,
+        "playerassists": 4
+    },
+    {
         "playername": "Iago Aspas",
         "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
         "playerteam": "Celta Vigo",
@@ -156,15 +165,6 @@
         "playerassists": 2
     },
     {
-        "playername": "Gerard Moreno",
-        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
-        "playerteam": "Villarreal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "playergoals": 9,
-        "playerassists": 4
-    },
-    {
         "playername": "L. Suárez",
         "playerlink": "https://www.livesoccertv.com/player/l-suarez/2423/",
         "playerteam": "Atletico Madrid",
@@ -179,6 +179,15 @@
         "playerteam": "Real Madrid",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-madrid/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "playergoals": 8,
+        "playerassists": 0
+    },
+    {
+        "playername": "Y. En-Nesyri",
+        "playerlink": "https://www.livesoccertv.com/player/y-en-nesyri/333354/",
+        "playerteam": "Sevilla",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/sevilla/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
         "playergoals": 8,
         "playerassists": 0
     },
@@ -217,15 +226,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
         "playergoals": 5,
         "playerassists": 1
-    },
-    {
-        "playername": "Y. En-Nesyri",
-        "playerlink": "https://www.livesoccertv.com/player/y-en-nesyri/333354/",
-        "playerteam": "Sevilla",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/sevilla/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-        "playergoals": 5,
-        "playerassists": 0
     },
     {
         "playername": "Kike",
