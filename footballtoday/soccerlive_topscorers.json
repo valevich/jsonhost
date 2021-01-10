@@ -192,6 +192,15 @@
         "playerassists": 0
     },
     {
+        "playername": "Morales",
+        "playerlink": "https://www.livesoccertv.com/player/jose-luis-morales/211121/",
+        "playerteam": "Levante",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "playergoals": 7,
+        "playerassists": 0
+    },
+    {
         "playername": "Mikel Oyarzabal",
         "playerlink": "https://www.livesoccertv.com/player/mikel-oyarzabal/285896/",
         "playerteam": "Real Sociedad",
@@ -206,15 +215,6 @@
         "playerteam": "Atletico Madrid",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "playergoals": 6,
-        "playerassists": 0
-    },
-    {
-        "playername": "Morales",
-        "playerlink": "https://www.livesoccertv.com/player/jose-luis-morales/211121/",
-        "playerteam": "Levante",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "playergoals": 6,
         "playerassists": 0
     },
