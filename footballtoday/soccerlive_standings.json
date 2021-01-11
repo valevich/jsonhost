@@ -410,6 +410,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Real Betis",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "played": 18,
+        "wins": 7,
+        "draws": 2,
+        "lossess": 9,
+        "goalsfor": 22,
+        "goalsagainst": 31,
+        "goalsdiff": "-9",
+        "points": 23,
+        "form": "'WDLWL'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 17,
@@ -423,7 +437,7 @@
         "form": "'WLWDW'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 18,
@@ -437,7 +451,7 @@
         "form": "'LWLDW'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Getafe",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
         "played": 17,
@@ -449,20 +463,6 @@
         "goalsdiff": "-3",
         "points": 20,
         "form": "'WLLDW'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Real Betis",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 17,
-        "wins": 6,
-        "draws": 2,
-        "lossess": 9,
-        "goalsfor": 20,
-        "goalsagainst": 31,
-        "goalsdiff": "-11",
-        "points": 20,
-        "form": "'DLWLD'"
     },
     {
         "teamrank": 14,
@@ -552,15 +552,15 @@
         "teamrank": 20,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-        "played": 17,
+        "played": 18,
         "wins": 1,
         "draws": 9,
-        "lossess": 7,
+        "lossess": 8,
         "goalsfor": 14,
-        "goalsagainst": 26,
-        "goalsdiff": "-12",
+        "goalsagainst": 28,
+        "goalsdiff": "-14",
         "points": 12,
-        "form": "'LLDLW'"
+        "form": "'LLLDL'"
     }
   ],
   "serie-a": [
@@ -708,15 +708,15 @@
         "teamrank": 11,
         "teamname": "Sampdoria",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-        "played": 16,
+        "played": 17,
         "wins": 6,
         "draws": 2,
-        "lossess": 8,
-        "goalsfor": 25,
-        "goalsagainst": 26,
-        "goalsdiff": "-1",
+        "lossess": 9,
+        "goalsfor": 26,
+        "goalsagainst": 28,
+        "goalsdiff": "-2",
         "points": 20,
-        "form": "'WLLWW'"
+        "form": "'LWLLW'"
     },
     {
         "teamrank": 12,
@@ -748,6 +748,20 @@
     },
     {
         "teamrank": 14,
+        "teamname": "Spezia",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
+        "played": 17,
+        "wins": 4,
+        "draws": 5,
+        "lossess": 8,
+        "goalsfor": 23,
+        "goalsagainst": 32,
+        "goalsdiff": "-9",
+        "points": 17,
+        "form": "'WWLLL'"
+    },
+    {
+        "teamrank": 15,
         "teamname": "Udinese",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
         "played": 16,
@@ -759,20 +773,6 @@
         "goalsdiff": "-7",
         "points": 16,
         "form": "'LDLLD'"
-    },
-    {
-        "teamrank": 15,
-        "teamname": "Spezia",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
-        "played": 16,
-        "wins": 3,
-        "draws": 5,
-        "lossess": 8,
-        "goalsfor": 21,
-        "goalsagainst": 31,
-        "goalsdiff": "-10",
-        "points": 14,
-        "form": "'WLLLD'"
     },
     {
         "teamrank": 16,
