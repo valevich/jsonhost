@@ -438,6 +438,20 @@
     },
     {
         "teamrank": 12,
+        "teamname": "Getafe",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+        "played": 17,
+        "wins": 5,
+        "draws": 5,
+        "lossess": 7,
+        "goalsfor": 15,
+        "goalsagainst": 18,
+        "goalsdiff": "-3",
+        "points": 20,
+        "form": "'WLLDW'"
+    },
+    {
+        "teamrank": 13,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "played": 17,
@@ -451,7 +465,7 @@
         "form": "'DLWLD'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "played": 18,
@@ -465,7 +479,7 @@
         "form": "'WDLLD'"
     },
     {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "played": 18,
@@ -479,7 +493,7 @@
         "form": "'LWDLL'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 18,
@@ -493,7 +507,7 @@
         "form": "'LLDWL'"
     },
     {
-        "teamrank": 16,
+        "teamrank": 17,
         "teamname": "Real Valladolid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
         "played": 18,
@@ -507,32 +521,18 @@
         "form": "'LWDLD'"
     },
     {
-        "teamrank": 17,
-        "teamname": "Getafe",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-        "played": 16,
-        "wins": 4,
-        "draws": 5,
-        "lossess": 7,
-        "goalsfor": 12,
-        "goalsagainst": 17,
-        "goalsdiff": "-5",
-        "points": 17,
-        "form": "'LLDWL'"
-    },
-    {
         "teamrank": 18,
         "teamname": "Elche",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-        "played": 15,
+        "played": 16,
         "wins": 3,
         "draws": 7,
-        "lossess": 5,
-        "goalsfor": 13,
-        "goalsagainst": 18,
-        "goalsdiff": "-5",
+        "lossess": 6,
+        "goalsfor": 14,
+        "goalsagainst": 21,
+        "goalsdiff": "-7",
         "points": 16,
-        "form": "'LDDLL'"
+        "form": "'LLDDL'"
     },
     {
         "teamrank": 19,
