@@ -46,7 +46,7 @@
     "iso_alpha2": "AR",
     "name": "Argentina",
     "score": "Entry prohibited",
-    "updated": "Foreign nationals are prohibited from entering Argentina. This policy does not apply to legal residents. A nationwide home quarantine order is in effect until at least January 31, 2021. Most international flights are suspended."
+    "updated": "Foreign nationals are prohibited from entering Argentina. This policy does not apply to lawful residents. All persons permitted to enter Argentina must present proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test and undergo a 7-day quarantine upon arrival. A nationwide stay-at-home order is in effect until at least January 31, 2021. Most international flights are suspended."
   },
   {
     "continent": "",
@@ -144,7 +144,7 @@
     "iso_alpha2": "BJ",
     "name": "Benin",
     "score": "Partially restricted",
-    "updated": "All non-essential travel to Benin is prohibited. Persons seeking to enter Benin must undergo screening for COVID-19 and those exhibiting symptoms will be quarantined. Persons arriving at Cotonou Cadjehoun Airport (COO) must, at their own expense, undergo testing for COVID-19 upon arrival and again after 15 days. The cost of testing is 50,000 West African CFA francs. Persons who test positive will be sent to designated facilities for quarantine and treatment. All travelers must complete the health declaration form found at the following URL prior to arrival in Benin: https://centresurveillancesanitaire.bj/"
+    "updated": "All non-essential travel to Benin is prohibited. Persons seeking to enter Benin must undergo screening for COVID-19. Those exhibiting symptoms will be quarantined. Persons arriving at Cotonou Cadjehoun Airport (COO) must, at their own expense, undergo testing for COVID-19 upon arrival and again after 15 days. Preregistration and confirmation of payment in full in the amount of 50,000 West African CFA francs are required prior to travel. Persons who test positive will be sent to designated facilities for quarantine and treatment. All travelers must complete a health declaration form. More information including prepayment instructions and health declaration forms is available at the following URL: https://centresurveillancesanitaire.bj/"
   },
   {
     "continent": "",
@@ -158,7 +158,7 @@
     "iso_alpha2": "BO",
     "name": "Bolivia",
     "score": "Partially restricted",
-    "updated": "From December 25, 2020, all commercial passenger flights from locations in Europe are suspended. All persons arriving in Bolivia must show proof of a negative test result for COVID-19 issued no more than 72 hours prior to departure."
+    "updated": "From December 25, 2020, all commercial passenger flights from locations in Europe are suspended and foreign nationals who, within 14 days of their scheduled departure, have visited the United Kingdom are prohibited from entering Bolivia. This policy does not apply to lawful permanent residents. All persons arriving in Bolivia must show proof of a negative test result for COVID-19 issued no more than 72 hours prior to departure."
   },
   {
     "continent": "",
@@ -186,7 +186,7 @@
     "iso_alpha2": "BW",
     "name": "Botswana",
     "score": "Entry prohibited",
-    "updated": "International flights are suspended and cross-border movement between neighboring countries / regions (including Eswatini and Lesotho) is restricted. Foreign nationals who have visited countries or regions the Botswanan government considers high-risk for COVID-19 are prohibited from entering. Botswanan nationals returning from such locations must undergo a 14-day quarantine upon arrival. A nationwide state of emergency is in effect and all persons seeking to travel to different regions within Botswana must obtain a movement permit. More information is available at the following URL: https://covid19.gov.bw/"
+    "updated": "All persons traveling to Botswana must present proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Persons who lack such proof must, at their own expense, undergo testing and quarantine upon arrival. All persons seeking to depart Botswana must obtain proof of a negative PCR test result for COVID-19 issued no more than 72 hours prior to their intended departure. Traveling between domestic regions in Botswana requires special documentation. A nightly curfew is in effect nationwide between 20:00 (8:00 p.m.) and 04:00 (4:00 a.m.) until at least January 31, 2021. More information including on domestic travel documentation is available at the following URL: https://covid19.gov.bw/"
   },
   {
     "continent": "",
@@ -340,7 +340,7 @@
     "iso_alpha2": "DK",
     "name": "Denmark",
     "score": "Partially restricted",
-    "updated": "Foreign nationals are prohibited from entering Denmark. This policy does not apply to persons arriving from countries or regions in the European Union (with the exception of Belgium, Bulgaria, Luxembourg, Malta, Romania, and Spain) countries or regions associated with the Schengen Area (with the exception of Andorra and Monaco), Australia, Japan, New Zealand, Singapore, South Korea, Thailand, and Uruguay. Foreign nationals seeking to travel to Denmark must have a worthy purpose or present documentation showing a minimum stay of 6 nights. This policy does not apply to persons arriving from Norway, the provinces of Scania, Halland, or Blekinge in Sweden, or the state of Schleswig-Holstein in Germany. Health screening will occur at border checkpoints and persons exhibiting symptoms of illness will be denied entry. Additional information is available at the following URL: https://politi.dk/en/coronavirus-in-denmark/travelling-in-or-out-of-denmark/is-my-country-open-or-banned"
+    "updated": "From January 9, 2021, foreign nationals are prohibited from entering Denmark. This policy does not apply to persons arriving from countries or regions in the European Union (with the exception of Belgium, Bulgaria, Luxembourg, Malta, Romania, and Spain) countries or regions associated with the Schengen Area (with the exception of Andorra and Monaco), Australia, Japan, New Zealand, Singapore, South Korea, Thailand. Foreign nationals seeking to travel to Denmark must have a worthy purpose or present documentation showing a minimum stay of 6 nights. This policy does not apply to persons arriving from Norway, the provinces of Scania, Halland, or Blekinge in Sweden, or the state of Schleswig-Holstein in Germany. All persons aged 13 and over must have proof of a negative result for COVID-19 issued no more than 24 hours prior to departure. Persons lacking such proof are prohibited from boarding flights bound for Denmark. This policy does not apply to cargo flights or passenger flights from the Faroe Islands and Greenland. Health screening will occur at border checkpoints and persons exhibiting symptoms of illness will be denied entry. Additional information is available at the following URL: https://politi.dk/en/coronavirus-in-denmark/travelling-in-or-out-of-denmark/is-my-country-open-or-banned"
   },
   {
     "continent": "",
@@ -480,7 +480,7 @@
     "iso_alpha2": "GM",
     "name": "Gambia",
     "score": "Partially restricted",
-    "updated": "From October 16, 2020, all persons must provide proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test."
+    "updated": "From January 9, 2021, all persons (regardless of origin) must provide proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. All persons arriving from countries or regions with confirmed cases of the new so-called VOC-202012/01 or 501Y.V2 variants of the SARS-CoV-2 virus must undergo additional testing and quarantine at their own expense upon arrival in the Gambia."
   },
   {
     "continent": "",
@@ -508,7 +508,7 @@
     "iso_alpha2": "GT",
     "name": "Guatemala",
     "score": "Partially restricted",
-    "updated": "From September 18, 2020, all persons entering Guatemala must present proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test, or undergo a 14-day quarantine upon arrival. All persons must complete a health questionnaire found at the following URL: https://servicios.igm.gob.gt/pasedesalud/"
+    "updated": "From December 23, 2020, foreign nationals who, within 14 days of their scheduled departure, have visited South Africa or the United Kingdom are prohibited from entering Guatemala. This policy does not apply to lawful residents. All persons entering Guatemala must present proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test, or undergo a 14-day quarantine upon arrival. All persons must complete a health questionnaire found at the following URL: https://servicios.igm.gob.gt/pasedesalud/"
   },
   {
     "continent": "",
@@ -571,7 +571,7 @@
     "iso_alpha2": "IE",
     "name": "Ireland",
     "score": "Partially restricted",
-    "updated": "From December 20, 2020, foreign nationals are prohibited from entering Ireland. This policy does not apply to persons arriving from countries or regions in the European Union, countries or regions associated with the Schengen Area, or the United Kingdom. All persons (including Irish nationals) are requested to restrict their movement for 14 days following their arrival in Ireland. This policy does not apply to persons arriving from countries or regions classified as green by the European Centre for Disease Prevention and Control. Further exemptions exist persons engaged in international transportation in the aviation, maritime, or road haulage sectors, persons traveling for established essential reasons, and persons arriving from orange locations who hold proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Prior to arrival, all persons (including Irish nationals) must submit a COVID-19 Passenger Locator Form. All flights arriving from England, Scotland, and Wales are suspended until at least December 31, 2020. Locator forms are available online at the following URL: https://www.gov.ie/locatorform/"
+    "updated": "From January 9, 2021, foreign nationals are prohibited from entering Ireland. This policy does not apply to persons arriving from countries or regions in the European Union, countries or regions associated with the Schengen Area, or the United Kingdom. All persons (including Irish nationals) whose journey originates in Great Britain or South Africa must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Additionally, all persons (regardless of origin) are requested to restrict their movement for 14 days following their arrival in Ireland. This policy does not apply to persons arriving from countries or regions classified as green by the European Centre for Disease Prevention and Control. Further exemptions exist for persons engaged in international transportation in the aviation, maritime, or road haulage sectors, persons traveling for established essential reasons, and persons arriving from orange locations who hold proof of a negative PCR test result for COVID-19 issued no more than 72 hours prior to departure. Prior to arrival, all persons (including Irish nationals) must submit a COVID-19 Passenger Locator Form. Locator forms are available online at the following URL: https://www.gov.ie/locatorform/"
   },
   {
     "continent": "",
@@ -641,14 +641,14 @@
     "iso_alpha2": "KE",
     "name": "Kenya",
     "score": "Partially restricted",
-    "updated": "From August 1, 2020, persons arriving in Kenya must present proof of a negative test result for COVID-19 issued no more than 72 hours prior to departure. Those exhibiting symptoms consistent with COVID-19 are subject to quarantine."
+    "updated": "All persons arriving in Kenya must carry proof of a negative test result for COVID-19 issued no more than 96 hours prior to departure and performed by a testing provider recognized under the African Union's new Trusted Travel Initiative. Persons whose COVID-19 test results were not issued by an authorized testing provider must submit their results for certification prior to boarding transpiration bound for Kenya. Information about this procedure is available from the follow URL: https://globalhaven.org/All persons must fill out and submit a Travelers Health Surveillance Form online and receive a valid QR code to show upon arrival in Kenya. Persons exhibiting symptoms consistent with COVID-19 are subject to quarantine upon arrival. Travelers Health Surveillance Forms are available at the following URL: https://ears.health.go.ke/airline_registration/"
   },
   {
     "continent": "",
     "iso_alpha2": "KG",
     "name": "Kyrgyzstan",
     "score": "Entry prohibited",
-    "updated": "From March 19, Kyrgyzstan will ban entry of citizens of foreign states and stateless persons into Kyrgyzstan. The exception is drivers engaged in international freight transport, crews and flight personnel of aircraft, train and locomotive teams of international railway traffic. The ban also does not apply to accredited employees of diplomatic missions and consular offices of foreign states, as well as accredited employees of international organizations and family members of these persons in case of informing in advance about their arrival through the Ministry of Foreign Affairs.Foreign citizens and stateless persons, who are members of the families of Kyrgyzstanis with documentary evidence of close family ties, or have a permanent residence permit in the Kyrgyz Republic, will be able to enter.The Ministry of Foreign Affairs will suspend issuance of entry visas of all categories to foreign citizens and stateless persons for the period of the ban. The entry ban for foreigners will remain in effect until the government decree is canceled."
+    "updated": "From December 4, 2020, entry into Kyrgyzstan by foreign nationals is restricted to arrivals by air at Issyk-Kul International Airport (IKU), Manas International Airport (FRU), and Osh International Airport (OSS). All persons must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Persons lacking such proof must undergo testing upon arrival. All land border checkpoints are closed to foreign nationals.The Ministry of Foreign Affairs will suspend issuance of entry visas of all categories to foreign citizens and stateless persons for the period of the ban. The entry ban for foreigners will remain in effect until the government decree is canceled."
   },
   {
     "continent": "",
@@ -753,7 +753,7 @@
     "iso_alpha2": "LT",
     "name": "Lithuania",
     "score": "Partially restricted",
-    "updated": "Foreign nationals are prohibited from entering Lithuania. This policy does not apply to citizens and legal residents from countries or regions in the European Union, countries or regions associated with the Schengen Area, Australia, Japan, New Zealand, Rwanda, Singapore, South Korea, Thailand, or the United Kingdom. Prior to boarding transportation bound for Lithuania, all persons must submit an online form to the National Public Health Center containing their personal information for contact tracing purposes. A confirmation QR code must be presented at the time of boarding. Forms are available online at the following URL: https://keleiviams.nvsc.lt/en/formPersons arriving from countries / regions not part of the European Union or associated with the Schengen Area must self-isolate for 10 days upon arrival or until they receive confirmation of a negative test result for COVID-19 issued by an accredited testing provider in Lithuania. Additional information including a list of approved testing providers is available online at the following URL: https://nvsc.lrv.lt/en/news/procedures-to-be-followed-upon-return-arrival-from-abroad-trebovaniia-pri-pribytii-iz-za-rubezha"
+    "updated": "Foreign nationals are prohibited from entering Lithuania. This policy does not apply to citizens and legal residents from countries or regions in the European Union, countries or regions associated with the Schengen Area, Australia, Japan, New Zealand, Rwanda, Singapore, South Korea, Thailand, or the United Kingdom. Prior to boarding transportation bound for Lithuania, all persons must submit an online form to the National Public Health Center containing their personal information for contact tracing purposes. A confirmation QR code must be presented at the time of boarding. Forms are available online at the following URL: https://keleiviams.nvsc.lt/en/formPersons arriving from countries / regions considered by the Lithuanian government as being affected by COVID-19 must self-isolate for 10 days upon arrival or until they receive confirmation of a negative test result for COVID-19 issued by an accredited testing provider in Lithuania. Additional information including a list of affected locations is available at the following URL: https://urm.lt/default/en/important-covid19"
   },
   {
     "continent": "",
@@ -872,7 +872,7 @@
     "iso_alpha2": "MU",
     "name": "Mauritius",
     "score": "Partially restricted",
-    "updated": "From October 1, 2020, all persons (including infants and children) arriving in Mauritius must have proof of a negative result for COVID-19 issued no more than 7 days prior to departure and proof of a purchased travel package that includes a 14-day in-room quarantine accomidation. All persons must undergo a polymerase chain reaction (PCR) test for COVID-19 on the 7th day following their arrival and then again on the 14th day. Quarantine accommodation can be booked online at the following URL: https://booking.mymauritius.travel/"
+    "updated": "All persons who, within 14 days of their scheduled departure, have visited or transited through South Africa or the United Kingdom are prohibited from entering Mauritius. All persons traveling to Mauritius (including infants and children) must carry proof of a negative result for COVID-19 issued no more than 7 days prior to departure from their last point of embarkation using a polymerase chain reaction (PCR) test. Additionally, all persons must show proof of a purchased travel package that includes a 14-day accommodation at a designated quarantine hotel. Travel package costs include a fee in the amount of RS13,500 for additional COVID-19 testing. All persons must undergo 3 post-arrival PCR tests at staggered intervals prior to being released from quarantine. Finally, upon arrival all persons must submit a Public Health COVID-19 Passenger Health Self-Declaration Form and a Passenger Locator Form. More information is available at the following URL: https://booking.mymauritius.travel/"
   },
   {
     "continent": "",
@@ -935,7 +935,7 @@
     "iso_alpha2": "NI",
     "name": "Nicaragua",
     "score": "Partially restricted",
-    "updated": "All persons traveling to Nicaragua must hold proof of a negative test result for COVID-19 issued no more than 72 hours prior to departure. Upon arrival, travelers must undergo health screening. Persons exhibiting symptoms consistent with COVID-19 will be quarantined."
+    "updated": "All persons traveling to Nicaragua must hold proof of a negative test result for COVID-19 issued no more than 72 hours prior to departure. Additionally, all persons between the ages of 1 and 60 must show an original certificate proving they were vaccinated against yellow fever was at least 10 days prior to scheduled departure. Upon arrival, travelers must undergo health screening. Persons exhibiting symptoms consistent with COVID-19 will be quarantined."
   },
   {
     "continent": "",
@@ -1082,14 +1082,14 @@
     "iso_alpha2": "RW",
     "name": "Rwanda",
     "score": "Partially restricted",
-    "updated": "Persons traveling to Rwanda must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test and fill in the online form found at the following URL: https://caa.gov.rw . All persons must, at their own expense, undergo an additional PCR test for COVID-19 at the cost of US$50 and a 24-hour quarantine at a designated facility upon arrival. A nightly curfew is in effect nationwide between 21:00 (9:00 p.m.) and 05:00 (5:00 a.m.) and several districts in Kigali are under confinement orders. Masks must be worn in public and all land border checkpoints remain closed."
+    "updated": "Persons traveling to Rwanda must carry proof of a negative result for COVID-19 issued no more than 120 hours prior to departure using a polymerase chain reaction (PCR) test. Upon arrival, all persons must, at their own expense, undergo an additional PCR test for COVID-19 at the cost of US$60 and a 24-hour quarantine at a designated facility while awaiting their results. All persons must fill in and submit the online form found at the following URL: https://caa.gov.rwA nightly curfew is in effect nationwide between 21:00 (9:00 p.m.) and 05:00 (5:00 a.m.) and several districts in Kigali are under confinement orders. Masks must be worn in public and all land border checkpoints remain closed."
   },
   {
     "continent": "",
     "iso_alpha2": "SA",
     "name": "Saudi Arabia",
     "score": "Partially restricted",
-    "updated": "From January 3, 2021, all persons from countries or regions identified by the Saudi Ministry of Health as having confirmed cases of the new SARS-CoV-2 variant known as VOC-202012/01 are prohibited from entering Saudi Arabia. This policy does not apply to persons who can prove they underwent a 14-day quarantine in a safe country / region prior to departure for Saudi Arabia and who also carry proof of a negative polymerase chain reaction (PCR) test result for COVID-19. All persons arriving in Saudi Arabia must undergo quarantine for between 3 and 7 days following by a PCR test. Persons with a travel history in locations with known VOC-202012/01 transmission may be required to undergo additional quarantine measures."
+    "updated": "From January 3, 2021, all persons from countries or regions identified by the Saudi Ministry of Health as having confirmed cases of the new so-called VOC-202012/01 or 501Y.V2 variants of the SARS-CoV-2 virus are prohibited from entering Saudi Arabia. This policy does not apply to persons who can prove they underwent a 14-day quarantine in a safe country / region prior to departure for Saudi Arabia and who also carry proof of a negative result for COVID-19 using a polymerase chain reaction (PCR) test. Before boarding flights bound for Saudi Arabia, all persons aged 8 and above must show proof of a negative PCR test for COVID-19 issued no more than 72 hours prior to departure. Additionally, all persons must undergo quarantine upon arrival for between 3 and 7 days following by a PCR test. Persons with a travel history in locations known to have VOC-202012/01 or 501Y.V2 transmission may be required to undergo additional quarantine measures."
   },
   {
     "continent": "",
@@ -1103,7 +1103,7 @@
     "iso_alpha2": "SC",
     "name": "Seychelles",
     "score": "Partially restricted",
-    "updated": "From August 31, 2020, foreign nationals are prohibited from visiting the Seychelles. This policy does not apply to persons traveling from the following countries or regions: Austria, Cambodia, Canada, China, Cyprus, Denmark, Estonia, Finland, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Malaysia, Mauritius, Monaco, New Zealand, Norway, Portugal, Qatar, Singapore, Slovakia, Slovenia, Sri Lanka, Switzerland, Thailand, orUnited Arab EmiratesPersons arriving in the Seychelles must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Results should submitted using the official form provided at the following URL: http://tourism.gov.sc/wp-content/uploads/2020/05/Submission-of-Covid-test-result-to-PHA-updated.pdf and afterwards emailed directly to health authorities at visitor@health.gov.sc . More information is available at the following URL: http://tourism.gov.sc/"
+    "updated": "Foreign nationals are prohibited from entering the Seychelles. This policy does not apply to countries and regions designated by the Seychellois government as either Category 1 or Category 2. Persons traveling from Category 1 locations must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test performed by an accredited laboratory. Persons traveling from Category 2 locations must carry proof of a negative result for COVID-19 issued no more than 48 hours prior to departure using a PCR test performed by an accredited laboratory. Additionally, such persons must undergo a 10-day quarantine and an additional PCR test upon arrival. More information is available at the following URLs: https://advisory.seychelles.travel/http://tourism.gov.sc/ http://www.health.gov.sc/"
   },
   {
     "continent": "",
@@ -1152,7 +1152,7 @@
     "iso_alpha2": "SN",
     "name": "Senegal",
     "score": "Partially restricted",
-    "updated": "All persons traveling to Senegal must present proof of a negative test result for COVID-19 issued no more than 5 days prior to departure."
+    "updated": "Foreign nationals are prohibited from entering Senegal. This policy does not apply to persons arriving by air who hold a valid residence permit. Additional exemptions exist for persons who hold special authorization from the Senegalese government. All persons allowed entry to Senegal must present proof of a negative test result for COVID-19 issued no more than 5 days prior to departure. All land and sea border checkpoints are closed until further notice."
   },
   {
     "continent": "",
@@ -1320,7 +1320,7 @@
     "iso_alpha2": "UY",
     "name": "Uruguay",
     "score": "Entry prohibited",
-    "updated": "From March 25, 2020, foreign nationals are prohibited from entering Uruguay. This policy does not apply to legal residents, diplomats accredited to the Uruguayan government or to international organizations based in Uruguay, persons engaged in the transport of goods, merchandise, correspondence, supplies, or humanitarian and health aid. From July 6, 2020, all persons permitted entering Uruguay must provide a negative PCR test results with 72 hours prior to their arrival and self-isolate for 7 days after entry."
+    "updated": "All entry into Uruguay is suspended until at least January 31, 2021. This policy does not apply to persons holding special authorization and who booked transportation prior to January 6, 2021. Additional exemptions exist for diplomats accredited to the Uruguayan government or to international organizations based in Uruguay, persons engaged in the transport of goods, merchandise, correspondence, supplies, or humanitarian and health aid. All persons permitted to enter Uruguay must present proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Upon arrival, all persons must self-isolate for 7 days."
   },
   {
     "continent": "",
@@ -1376,7 +1376,7 @@
     "iso_alpha2": "ZA",
     "name": "South Africa",
     "score": "Partially restricted",
-    "updated": "From October 1, 2020, persons in countries or regions considered by South African authorities to have a high rate of COVID-19 infection and transmission are prohibited from entering South Africa. This policy does not apply to countries or regions on the African continent, or to business travelers holding special permission from the Department of Home Affairs. Persons traveling to South Africa must have proof of a negative test result for COVID-19 issued no more than 72 hours prior to departure, or undergo quarantine upon arrival at their own expense. International flights are restricted to the following airports: Cape Town International Airport (CPT), King Shaka International Airport (DUR), and O. R. Tambo International Airport (JNB). More information is available at the following URL: https://sacoronavirus.co.za/"
+    "updated": "Travelers arriving by air are restricted to the following airports: Cape Town International Airport (CPT), King Shaka International Airport (DUR), and O.R. Tambo International Airport (JNB). All persons must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Upon arrival, all persons must, at their own expense, undergo an additional antigen test for COVID-19. Persons who test positive must undergo quarantine at their own expense. Land border checkpoints are partially restricted. More information is available at the following URL: https://sacoronavirus.co.za/"
   },
   {
     "continent": "",
