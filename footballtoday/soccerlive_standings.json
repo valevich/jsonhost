@@ -2,6 +2,20 @@
   "premier-league": [
     {
         "teamrank": 1,
+        "teamname": "Manchester United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "played": 17,
+        "wins": 11,
+        "draws": 3,
+        "lossess": 3,
+        "goalsfor": 34,
+        "goalsagainst": 24,
+        "goalsdiff": "+10",
+        "points": 36,
+        "form": "'WWWDW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "played": 17,
@@ -13,20 +27,6 @@
         "goalsdiff": "+16",
         "points": 33,
         "form": "'LDDWW'"
-    },
-    {
-        "teamrank": 2,
-        "teamname": "Manchester United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "played": 16,
-        "wins": 10,
-        "draws": 3,
-        "lossess": 3,
-        "goalsfor": 33,
-        "goalsagainst": 24,
-        "goalsdiff": "+9",
-        "points": 33,
-        "form": "'WWDWW'"
     },
     {
         "teamrank": 3,
@@ -214,15 +214,15 @@
         "teamrank": 16,
         "teamname": "Burnley",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-        "played": 15,
+        "played": 16,
         "wins": 4,
         "draws": 4,
-        "lossess": 7,
+        "lossess": 8,
         "goalsfor": 9,
-        "goalsagainst": 20,
-        "goalsdiff": "-11",
+        "goalsagainst": 21,
+        "goalsdiff": "-12",
         "points": 16,
-        "form": "'WLWDW'"
+        "form": "'LWLWD'"
     },
     {
         "teamrank": 17,
