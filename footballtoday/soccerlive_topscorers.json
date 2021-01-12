@@ -347,6 +347,15 @@
         "playerassists": 0
     },
     {
+        "playername": "M. N'Zola",
+        "playerlink": "https://www.livesoccertv.com/player/m-n-apos-zola/262368/",
+        "playerteam": "Spezia",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/spezia/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
+        "playergoals": 9,
+        "playerassists": 3
+    },
+    {
         "playername": "H. Mkhitaryan",
         "playerlink": "https://www.livesoccertv.com/player/h-mkhitaryan/39930/",
         "playerteam": "Roma",
@@ -354,15 +363,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
         "playergoals": 8,
         "playerassists": 1
-    },
-    {
-        "playername": "M. N'Zola",
-        "playerlink": "https://www.livesoccertv.com/player/m-n-apos-zola/262368/",
-        "playerteam": "Spezia",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/spezia/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
-        "playergoals": 8,
-        "playerassists": 2
     },
     {
         "playername": "D. Berardi",
