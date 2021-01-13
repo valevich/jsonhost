@@ -74,15 +74,15 @@
         "teamrank": 6,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "played": 16,
+        "played": 17,
         "wins": 8,
-        "draws": 5,
+        "draws": 6,
         "lossess": 3,
-        "goalsfor": 29,
-        "goalsagainst": 15,
+        "goalsfor": 30,
+        "goalsagainst": 16,
         "goalsdiff": "+14",
-        "points": 29,
-        "form": "'WDLLD'"
+        "points": 30,
+        "form": "'DWDLL'"
     },
     {
         "teamrank": 7,
@@ -242,15 +242,15 @@
         "teamrank": 18,
         "teamname": "Fulham",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-        "played": 15,
+        "played": 16,
         "wins": 2,
-        "draws": 5,
+        "draws": 6,
         "lossess": 8,
-        "goalsfor": 13,
-        "goalsagainst": 23,
+        "goalsfor": 14,
+        "goalsagainst": 24,
         "goalsdiff": "-10",
-        "points": 11,
-        "form": "'DDDDL'"
+        "points": 12,
+        "form": "'DDDDD'"
     },
     {
         "teamrank": 19,
