@@ -1044,26 +1044,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "2:30pm",
       "GameState": "",
-      "HomeTeam": "RB Leipzig",
+      "HomeTeam": "Arminia Bielefeld",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-      "AwayTeam": "Union Berlin",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
+      "AwayTeam": "Stuttgart",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
-    },
-    {
-      "LeagueName": "German Bundesliga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
-      "GameTime": "2:30pm",
-      "GameState": "",
-      "HomeTeam": "Freiburg",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-      "AwayTeam": "Eintracht",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet One ,  Spor…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World No…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -1083,13 +1070,26 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "2:30pm",
       "GameState": "",
-      "HomeTeam": "Arminia Bielefeld",
+      "HomeTeam": "Freiburg",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
-      "AwayTeam": "Stuttgart",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+      "AwayTeam": "Eintracht",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World No…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet One ,  Spor…"
+    },
+    {
+      "LeagueName": "German Bundesliga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+      "GameTime": "2:30pm",
+      "GameState": "",
+      "HomeTeam": "RB Leipzig",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+      "AwayTeam": "Union Berlin",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
     },
     {
       "LeagueName": "French Ligue 1",
