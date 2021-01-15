@@ -1160,18 +1160,32 @@
         "teamrank": 3,
         "teamname": "Bayer Leverkusen",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-        "played": 15,
+        "played": 16,
         "wins": 8,
         "draws": 5,
-        "lossess": 2,
+        "lossess": 3,
         "goalsfor": 30,
-        "goalsagainst": 15,
-        "goalsdiff": "+15",
+        "goalsagainst": 16,
+        "goalsdiff": "+14",
         "points": 29,
-        "form": "'DLLWW'"
+        "form": "'LDLLW'"
     },
     {
         "teamrank": 4,
+        "teamname": "Union Berlin",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+        "played": 16,
+        "wins": 7,
+        "draws": 7,
+        "lossess": 2,
+        "goalsfor": 32,
+        "goalsagainst": 20,
+        "goalsdiff": "+12",
+        "points": 28,
+        "form": "'WDWWD'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Borussia Dortmund",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
         "played": 15,
@@ -1183,20 +1197,6 @@
         "goalsdiff": "+12",
         "points": 28,
         "form": "'WWLWL'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Union Berlin",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-        "played": 15,
-        "wins": 6,
-        "draws": 7,
-        "lossess": 2,
-        "goalsfor": 31,
-        "goalsagainst": 20,
-        "goalsdiff": "+11",
-        "points": 25,
-        "form": "'DWWDD'"
     },
     {
         "teamrank": 6,
