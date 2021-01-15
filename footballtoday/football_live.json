@@ -17,12 +17,12 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "",
+      "GameState": "12 ",
       "HomeTeam": "Lazio",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
       "AwayTeam": "Roma",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
       "TVChannels": "ESPN+ ,  Fanatiz USA ,  ESPN App ,  …"
     },
@@ -43,7 +43,7 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "2:30pm",
-      "GameState": "9 '",
+      "GameState": "29 ",
       "HomeTeam": "Union Berlin",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
@@ -130,7 +130,7 @@
       "AwayTeam": "Burnley",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  B…"
     },
     {
       "LeagueName": "English Premier League",
@@ -156,7 +156,7 @@
       "AwayTeam": "Southampton",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  B…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -379,7 +379,7 @@
       "AwayTeam": "Manchester Utd",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "TVChannels": "Peacock ,  MUTV App ,  DAZN ,  Sky HD ,  Blue…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  MUTV App ,  DAZN ,  …"
     },
     {
       "LeagueName": "English Premier League",
@@ -392,7 +392,7 @@
       "AwayTeam": "Crystal Palace",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  B…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -695,7 +695,7 @@
       "AwayTeam": "West Bromwich",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-      "TVChannels": "wich Albion DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
+      "TVChannels": "wich Albion SiriusXM FC ,  DAZN ,  Sky HD ,  Blue To Go Vi…"
     },
     {
       "LeagueName": "English Premier League",
@@ -892,7 +892,7 @@
       "AwayTeam": "Manchester Utd",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "TVChannels": "MUTV App ,  DAZN ,  Sky HD ,  Blue To Go Video…"
+      "TVChannels": "SiriusXM FC ,  MUTV App ,  DAZN ,  Sky HD ,  Blu…"
     },
     {
       "LeagueName": "Spanish La Liga",
