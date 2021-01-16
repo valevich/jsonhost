@@ -680,15 +680,15 @@
         "teamrank": 9,
         "teamname": "Hellas Verona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
-        "played": 17,
+        "played": 18,
         "wins": 7,
         "draws": 6,
-        "lossess": 4,
+        "lossess": 5,
         "goalsfor": 22,
-        "goalsagainst": 16,
-        "goalsdiff": "+6",
+        "goalsagainst": 17,
+        "goalsdiff": "+5",
         "points": 27,
-        "form": "'WDWLD'"
+        "form": "'LWDWL'"
     },
     {
         "teamrank": 10,
@@ -720,6 +720,20 @@
     },
     {
         "teamrank": 12,
+        "teamname": "Bologna",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+        "played": 18,
+        "wins": 5,
+        "draws": 5,
+        "lossess": 8,
+        "goalsfor": 24,
+        "goalsagainst": 31,
+        "goalsdiff": "-7",
+        "points": 20,
+        "form": "'WLDDD'"
+    },
+    {
+        "teamrank": 13,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
         "played": 17,
@@ -731,20 +745,6 @@
         "goalsdiff": "-5",
         "points": 18,
         "form": "'WLDWD'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Bologna",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-        "played": 17,
-        "wins": 4,
-        "draws": 5,
-        "lossess": 8,
-        "goalsfor": 23,
-        "goalsagainst": 31,
-        "goalsdiff": "-8",
-        "points": 17,
-        "form": "'LDDDD'"
     },
     {
         "teamrank": 14,
