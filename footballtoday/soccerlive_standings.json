@@ -920,15 +920,15 @@
         "teamrank": 6,
         "teamname": "Olympique Marseille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-        "played": 17,
+        "played": 18,
         "wins": 9,
         "draws": 5,
-        "lossess": 3,
-        "goalsfor": 25,
-        "goalsagainst": 16,
-        "goalsdiff": "+9",
+        "lossess": 4,
+        "goalsfor": 26,
+        "goalsagainst": 18,
+        "goalsdiff": "+8",
         "points": 32,
-        "form": "'DWLDL'"
+        "form": "'LDWLD'"
     },
     {
         "teamrank": 7,
@@ -1086,6 +1086,20 @@
     },
     {
         "teamrank": 18,
+        "teamname": "Nîmes",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
+        "played": 20,
+        "wins": 4,
+        "draws": 3,
+        "lossess": 13,
+        "goalsfor": 16,
+        "goalsagainst": 41,
+        "goalsdiff": "-25",
+        "points": 15,
+        "form": "'WLLLD'"
+    },
+    {
+        "teamrank": 19,
         "teamname": "Dijon",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
         "played": 19,
@@ -1099,7 +1113,7 @@
         "form": "'DDWLL'"
     },
     {
-        "teamrank": 19,
+        "teamrank": 20,
         "teamname": "Lorient",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
         "played": 19,
@@ -1111,20 +1125,6 @@
         "goalsdiff": "-18",
         "points": 12,
         "form": "'LLDLL'"
-    },
-    {
-        "teamrank": 20,
-        "teamname": "Nîmes",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
-        "played": 19,
-        "wins": 3,
-        "draws": 3,
-        "lossess": 13,
-        "goalsfor": 14,
-        "goalsagainst": 40,
-        "goalsdiff": "-26",
-        "points": 12,
-        "form": "'LLLDL'"
     }
   ],
   "bundesliga": [
