@@ -16,6 +16,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Leicester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+        "played": 18,
+        "wins": 11,
+        "draws": 2,
+        "lossess": 5,
+        "goalsfor": 33,
+        "goalsagainst": 21,
+        "goalsdiff": "+12",
+        "points": 35,
+        "form": "'WWDDW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "played": 17,
@@ -29,7 +43,7 @@
         "form": "'LDDWW'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "played": 16,
@@ -41,20 +55,6 @@
         "goalsdiff": "+12",
         "points": 32,
         "form": "'WWWWD'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Leicester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "played": 17,
-        "wins": 10,
-        "draws": 2,
-        "lossess": 5,
-        "goalsfor": 31,
-        "goalsagainst": 21,
-        "goalsdiff": "+10",
-        "points": 32,
-        "form": "'WDDWL'"
     },
     {
         "teamrank": 5,
@@ -102,15 +102,15 @@
         "teamrank": 8,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "played": 17,
+        "played": 18,
         "wins": 8,
         "draws": 5,
-        "lossess": 4,
+        "lossess": 5,
         "goalsfor": 26,
-        "goalsagainst": 19,
-        "goalsdiff": "+7",
+        "goalsagainst": 21,
+        "goalsdiff": "+5",
         "points": 29,
-        "form": "'WDDLD'"
+        "form": "'LWDDL'"
     },
     {
         "teamrank": 9,
@@ -848,6 +848,20 @@
   "ligue-1": [
     {
         "teamrank": 1,
+        "teamname": "PSG",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "played": 20,
+        "wins": 13,
+        "draws": 3,
+        "lossess": 4,
+        "goalsfor": 44,
+        "goalsagainst": 11,
+        "goalsdiff": "+33",
+        "points": 42,
+        "form": "'WWDWD'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Olympique Lyonnais",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "played": 19,
@@ -859,20 +873,6 @@
         "goalsdiff": "+21",
         "points": 40,
         "form": "'DWWWD'"
-    },
-    {
-        "teamrank": 2,
-        "teamname": "PSG",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "played": 19,
-        "wins": 12,
-        "draws": 3,
-        "lossess": 4,
-        "goalsfor": 43,
-        "goalsagainst": 11,
-        "goalsdiff": "+32",
-        "points": 39,
-        "form": "'WDWDW'"
     },
     {
         "teamrank": 3,
@@ -934,15 +934,15 @@
         "teamrank": 7,
         "teamname": "Angers SCO",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-        "played": 19,
+        "played": 20,
         "wins": 9,
         "draws": 3,
-        "lossess": 7,
+        "lossess": 8,
         "goalsfor": 25,
-        "goalsagainst": 30,
-        "goalsdiff": "-5",
+        "goalsagainst": 31,
+        "goalsdiff": "-6",
         "points": 30,
-        "form": "'LWWDL'"
+        "form": "'LLWWD'"
     },
     {
         "teamrank": 8,
