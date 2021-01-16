@@ -692,6 +692,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Sampdoria",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
+        "played": 18,
+        "wins": 7,
+        "draws": 2,
+        "lossess": 9,
+        "goalsfor": 28,
+        "goalsagainst": 29,
+        "goalsdiff": "-1",
+        "points": 23,
+        "form": "'WLWLL'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Benevento",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
         "played": 17,
@@ -703,20 +717,6 @@
         "goalsdiff": "-10",
         "points": 21,
         "form": "'LWLWW'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Sampdoria",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-        "played": 17,
-        "wins": 6,
-        "draws": 2,
-        "lossess": 9,
-        "goalsfor": 26,
-        "goalsagainst": 28,
-        "goalsdiff": "-2",
-        "points": 20,
-        "form": "'LWLLW'"
     },
     {
         "teamrank": 12,
@@ -764,15 +764,15 @@
         "teamrank": 15,
         "teamname": "Udinese",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-        "played": 16,
+        "played": 17,
         "wins": 4,
         "draws": 4,
-        "lossess": 8,
-        "goalsfor": 18,
-        "goalsagainst": 25,
-        "goalsdiff": "-7",
+        "lossess": 9,
+        "goalsfor": 19,
+        "goalsagainst": 27,
+        "goalsdiff": "-8",
         "points": 16,
-        "form": "'LDLLD'"
+        "form": "'LLDLL'"
     },
     {
         "teamrank": 16,
