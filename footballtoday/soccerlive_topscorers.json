@@ -284,21 +284,21 @@
         "playerassists": 4
     },
     {
+        "playername": "C. Immobile",
+        "playerlink": "https://www.livesoccertv.com/player/c-immobile/75297/",
+        "playerteam": "Lazio",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/lazio-roma/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+        "playergoals": 12,
+        "playerassists": 3
+    },
+    {
         "playername": "R. Lukaku",
         "playerlink": "https://www.livesoccertv.com/player/r-lukaku/79627/",
         "playerteam": "Internazionale",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "playergoals": 12,
-        "playerassists": 3
-    },
-    {
-        "playername": "C. Immobile",
-        "playerlink": "https://www.livesoccertv.com/player/c-immobile/75297/",
-        "playerteam": "Lazio",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/lazio-roma/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-        "playergoals": 11,
         "playerassists": 3
     },
     {
@@ -448,6 +448,24 @@
         "playerassists": 0
     },
     {
+        "playername": "W. Ben Yedder",
+        "playerlink": "https://www.livesoccertv.com/player/w-ben-yedder/126219/",
+        "playerteam": "Monaco",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "playergoals": 9,
+        "playerassists": 5
+    },
+    {
+        "playername": "A. Delort",
+        "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
+        "playerteam": "Montpellier",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
         "playername": "M. Kean",
         "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
         "playerteam": "PSG",
@@ -482,24 +500,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
         "playergoals": 8,
         "playerassists": 3
-    },
-    {
-        "playername": "W. Ben Yedder",
-        "playerlink": "https://www.livesoccertv.com/player/w-ben-yedder/126219/",
-        "playerteam": "Monaco",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "playergoals": 8,
-        "playerassists": 4
-    },
-    {
-        "playername": "A. Delort",
-        "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
-        "playerteam": "Montpellier",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "playergoals": 8,
-        "playerassists": 0
     },
     {
         "playername": "H. Diallo",
