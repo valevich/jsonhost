@@ -4,15 +4,15 @@
         "teamrank": 1,
         "teamname": "Manchester United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "played": 17,
+        "played": 18,
         "wins": 11,
-        "draws": 3,
+        "draws": 4,
         "lossess": 3,
         "goalsfor": 34,
         "goalsagainst": 24,
         "goalsdiff": "+10",
-        "points": 36,
-        "form": "'WWWDW'"
+        "points": 37,
+        "form": "'DWWWD'"
     },
     {
         "teamrank": 2,
@@ -32,15 +32,15 @@
         "teamrank": 3,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "played": 17,
+        "played": 18,
         "wins": 9,
-        "draws": 6,
+        "draws": 7,
         "lossess": 2,
         "goalsfor": 37,
         "goalsagainst": 21,
         "goalsdiff": "+16",
-        "points": 33,
-        "form": "'LDDWW'"
+        "points": 34,
+        "form": "'DLDDW'"
     },
     {
         "teamrank": 4,
@@ -1323,6 +1323,62 @@
         "goalsdiff": "-8",
         "points": 16,
         "form": "'DLLWL'"
+    },
+    {
+        "teamrank": 15,
+        "teamname": "Arminia Bielefeld",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
+        "played": 16,
+        "wins": 4,
+        "draws": 2,
+        "lossess": 10,
+        "goalsfor": 10,
+        "goalsagainst": 24,
+        "goalsdiff": "-14",
+        "points": 14,
+        "form": "'DWLWL'"
+    },
+    {
+        "teamrank": 16,
+        "teamname": "Köln",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+        "played": 16,
+        "wins": 2,
+        "draws": 6,
+        "lossess": 8,
+        "goalsfor": 13,
+        "goalsagainst": 27,
+        "goalsdiff": "-14",
+        "points": 12,
+        "form": "'DLLDL'"
+    },
+    {
+        "teamrank": 17,
+        "teamname": "Mainz 05",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+        "played": 16,
+        "wins": 1,
+        "draws": 4,
+        "lossess": 11,
+        "goalsfor": 15,
+        "goalsagainst": 34,
+        "goalsdiff": "-19",
+        "points": 7,
+        "form": "'DLLLD'"
+    },
+    {
+        "teamrank": 18,
+        "teamname": "Schalke 04",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
+        "played": 15,
+        "wins": 1,
+        "draws": 4,
+        "lossess": 10,
+        "goalsfor": 12,
+        "goalsagainst": 39,
+        "goalsdiff": "-27",
+        "points": 7,
+        "form": "'WLLLD'"
     }
   ]
 }
