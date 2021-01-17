@@ -16,6 +16,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Manchester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "played": 17,
+        "wins": 10,
+        "draws": 5,
+        "lossess": 2,
+        "goalsfor": 29,
+        "goalsagainst": 13,
+        "goalsdiff": "+16",
+        "points": 35,
+        "form": "'WWWWW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Leicester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
         "played": 18,
@@ -29,7 +43,7 @@
         "form": "'WWDDW'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "played": 18,
@@ -43,7 +57,7 @@
         "form": "'DLDDW'"
     },
     {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 18,
@@ -55,20 +69,6 @@
         "goalsdiff": "+16",
         "points": 33,
         "form": "'WDWDL'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Manchester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "played": 16,
-        "wins": 9,
-        "draws": 5,
-        "lossess": 2,
-        "goalsfor": 25,
-        "goalsagainst": 13,
-        "goalsdiff": "+12",
-        "points": 32,
-        "form": "'WWWWD'"
     },
     {
         "teamrank": 6,
@@ -172,15 +172,15 @@
         "teamrank": 13,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "played": 18,
+        "played": 19,
         "wins": 6,
         "draws": 5,
-        "lossess": 7,
+        "lossess": 8,
         "goalsfor": 22,
-        "goalsagainst": 29,
-        "goalsdiff": "-7",
+        "goalsagainst": 33,
+        "goalsdiff": "-11",
         "points": 23,
-        "form": "'DWDLL'"
+        "form": "'LDWDL'"
     },
     {
         "teamrank": 14,
