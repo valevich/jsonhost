@@ -638,15 +638,15 @@
         "teamrank": 6,
         "teamname": "Atalanta",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "played": 16,
+        "played": 17,
         "wins": 9,
-        "draws": 4,
+        "draws": 5,
         "lossess": 3,
         "goalsfor": 40,
         "goalsagainst": 22,
         "goalsdiff": "+18",
-        "points": 31,
-        "form": "'WWWDW'"
+        "points": 32,
+        "form": "'DWWWD'"
     },
     {
         "teamrank": 7,
@@ -776,6 +776,20 @@
     },
     {
         "teamrank": 16,
+        "teamname": "Genoa",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+        "played": 18,
+        "wins": 3,
+        "draws": 6,
+        "lossess": 9,
+        "goalsfor": 18,
+        "goalsagainst": 30,
+        "goalsdiff": "-12",
+        "points": 15,
+        "form": "'DWLDW'"
+    },
+    {
+        "teamrank": 17,
         "teamname": "Cagliari",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
         "played": 17,
@@ -787,20 +801,6 @@
         "goalsdiff": "-11",
         "points": 14,
         "form": "'LLLLD'"
-    },
-    {
-        "teamrank": 17,
-        "teamname": "Genoa",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-        "played": 17,
-        "wins": 3,
-        "draws": 5,
-        "lossess": 9,
-        "goalsfor": 18,
-        "goalsagainst": 30,
-        "goalsdiff": "-12",
-        "points": 14,
-        "form": "'WLDWL'"
     },
     {
         "teamrank": 18,
@@ -1214,6 +1214,20 @@
     },
     {
         "teamrank": 7,
+        "teamname": "Eintracht Frankfurt",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "played": 16,
+        "wins": 6,
+        "draws": 8,
+        "lossess": 2,
+        "goalsfor": 28,
+        "goalsagainst": 24,
+        "goalsdiff": "+4",
+        "points": 26,
+        "form": "'WWWWD'"
+    },
+    {
+        "teamrank": 8,
         "teamname": "Borussia M'gladbach",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
         "played": 16,
@@ -1227,7 +1241,7 @@
         "form": "'DWWLD'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Freiburg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
         "played": 16,
@@ -1239,20 +1253,6 @@
         "goalsdiff": "+3",
         "points": 23,
         "form": "'LWWWW'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Eintracht Frankfurt",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-        "played": 15,
-        "wins": 5,
-        "draws": 8,
-        "lossess": 2,
-        "goalsfor": 25,
-        "goalsagainst": 23,
-        "goalsdiff": "+2",
-        "points": 23,
-        "form": "'WWWDL'"
     },
     {
         "teamrank": 10,
@@ -1370,15 +1370,15 @@
         "teamrank": 18,
         "teamname": "Schalke 04",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
-        "played": 15,
+        "played": 16,
         "wins": 1,
         "draws": 4,
-        "lossess": 10,
-        "goalsfor": 12,
-        "goalsagainst": 39,
-        "goalsdiff": "-27",
+        "lossess": 11,
+        "goalsfor": 13,
+        "goalsagainst": 42,
+        "goalsdiff": "-29",
         "points": 7,
-        "form": "'WLLLD'"
+        "form": "'LWLLL'"
     }
   ]
 }
