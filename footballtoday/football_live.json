@@ -121,14 +121,14 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "86 ",
+      "GameState": "FT ",
       "HomeTeam": "Inter",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
       "AwayTeam": "Juventus",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-      "TVChannels": "ESPN+ ,  Fanatiz USA ,  fuboT…"
+      "TVChannels": "ESPN+ ,  Fanatiz USA ,  fuboTV ,  ESPN App ,  Ra…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -251,12 +251,12 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
-      "GameState": "75 ",
+      "GameState": "FT ",
       "HomeTeam": "Lyon",
-      "HomeGoals": "1",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
       "AwayTeam": "Metz",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
       "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
     }
