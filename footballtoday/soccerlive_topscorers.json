@@ -581,8 +581,26 @@
         "playerteam": "Wolfsburg",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "playergoals": 10,
+        "playergoals": 11,
         "playerassists": 2
+    },
+    {
+        "playername": "Lars Stindl",
+        "playerlink": "https://www.livesoccertv.com/player/l-stindl/39612/",
+        "playerteam": "Borussia M'gladbach",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+        "playergoals": 9,
+        "playerassists": 5
+    },
+    {
+        "playername": "S. Wamangituka",
+        "playerlink": "https://www.livesoccertv.com/player/s-wamangituka/388180/",
+        "playerteam": "Stuttgart",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "playergoals": 9,
+        "playerassists": 3
     },
     {
         "playername": "L. Alario",
@@ -601,24 +619,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
         "playergoals": 8,
         "playerassists": 3
-    },
-    {
-        "playername": "Lars Stindl",
-        "playerlink": "https://www.livesoccertv.com/player/l-stindl/39612/",
-        "playerteam": "Borussia M'gladbach",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-        "playergoals": 8,
-        "playerassists": 4
-    },
-    {
-        "playername": "S. Wamangituka",
-        "playerlink": "https://www.livesoccertv.com/player/s-wamangituka/388180/",
-        "playerteam": "Stuttgart",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-        "playergoals": 8,
-        "playerassists": 2
     },
     {
         "playername": "V. Grifo",
@@ -648,6 +648,15 @@
         "playerassists": 2
     },
     {
+        "playername": "N. González",
+        "playerlink": "https://www.livesoccertv.com/player/n-gonzalez/330698/",
+        "playerteam": "Stuttgart",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "playergoals": 6,
+        "playerassists": 3
+    },
+    {
         "playername": "M. Kruse",
         "playerlink": "https://www.livesoccertv.com/player/m-kruse/38633/",
         "playerteam": "Union Berlin",
@@ -673,15 +682,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
         "playergoals": 5,
         "playerassists": 0
-    },
-    {
-        "playername": "N. González",
-        "playerlink": "https://www.livesoccertv.com/player/n-gonzalez/330698/",
-        "playerteam": "Stuttgart",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-        "playergoals": 5,
-        "playerassists": 3
     }
   ]
 }
