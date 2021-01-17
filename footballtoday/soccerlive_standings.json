@@ -582,15 +582,15 @@
         "teamrank": 2,
         "teamname": "Internazionale",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "played": 17,
-        "wins": 11,
+        "played": 18,
+        "wins": 12,
         "draws": 4,
         "lossess": 2,
-        "goalsfor": 43,
+        "goalsfor": 45,
         "goalsagainst": 23,
-        "goalsdiff": "+20",
-        "points": 37,
-        "form": "'DLWWW'"
+        "goalsdiff": "+22",
+        "points": 40,
+        "form": "'WDLWW'"
     },
     {
         "teamrank": 3,
@@ -624,15 +624,15 @@
         "teamrank": 5,
         "teamname": "Juventus",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-        "played": 16,
+        "played": 17,
         "wins": 9,
         "draws": 6,
-        "lossess": 1,
+        "lossess": 2,
         "goalsfor": 35,
-        "goalsagainst": 16,
-        "goalsdiff": "+19",
+        "goalsagainst": 18,
+        "goalsdiff": "+17",
         "points": 33,
-        "form": "'WWWLW'"
+        "form": "'LWWWL'"
     },
     {
         "teamrank": 6,
@@ -878,15 +878,15 @@
         "teamrank": 3,
         "teamname": "Olympique Lyonnais",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "played": 19,
+        "played": 20,
         "wins": 11,
         "draws": 7,
-        "lossess": 1,
+        "lossess": 2,
         "goalsfor": 39,
-        "goalsagainst": 18,
-        "goalsdiff": "+21",
+        "goalsagainst": 19,
+        "goalsdiff": "+20",
         "points": 40,
-        "form": "'DWWWD'"
+        "form": "'LDWWW'"
     },
     {
         "teamrank": 4,
@@ -960,6 +960,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Metz",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
+        "played": 20,
+        "wins": 7,
+        "draws": 7,
+        "lossess": 6,
+        "goalsfor": 21,
+        "goalsagainst": 18,
+        "goalsdiff": "+3",
+        "points": 28,
+        "form": "'WDDLW'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Lens",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
         "played": 19,
@@ -973,7 +987,7 @@
         "form": "'DLLWL'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Montpellier",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "played": 20,
@@ -987,7 +1001,7 @@
         "form": "'LDLLD'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Brest",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
         "played": 20,
@@ -999,20 +1013,6 @@
         "goalsdiff": "-5",
         "points": 26,
         "form": "'LLWLD'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Metz",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
-        "played": 19,
-        "wins": 6,
-        "draws": 7,
-        "lossess": 6,
-        "goalsfor": 20,
-        "goalsagainst": 18,
-        "goalsdiff": "+2",
-        "points": 25,
-        "form": "'DDLWW'"
     },
     {
         "teamrank": 13,
