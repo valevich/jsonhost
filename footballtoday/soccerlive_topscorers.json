@@ -100,6 +100,15 @@
         "playerassists": 1
     },
     {
+        "playername": "Neal Maupay",
+        "playerlink": "https://www.livesoccertv.com/player/n-maupay/213470/",
+        "playerteam": "Brighton & Hove Albion",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/brighton-hove-albion/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+        "playergoals": 7,
+        "playerassists": 3
+    },
+    {
         "playername": "M. Rashford",
         "playerlink": "https://www.livesoccertv.com/player/m-rashford/308286/",
         "playerteam": "Manchester United",
@@ -118,22 +127,13 @@
         "playerassists": 0
     },
     {
-        "playername": "S. Mané",
-        "playerlink": "https://www.livesoccertv.com/player/s-mane/167200/",
-        "playerteam": "Liverpool",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "playername": "Harvey Lewis Barnes",
+        "playerlink": "https://www.livesoccertv.com/player/h-barnes/334086/",
+        "playerteam": "Leicester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
         "playergoals": 6,
         "playerassists": 0
-    },
-    {
-        "playername": "Neal Maupay",
-        "playerlink": "https://www.livesoccertv.com/player/n-maupay/213470/",
-        "playerteam": "Brighton & Hove Albion",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/brighton-hove-albion/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-        "playergoals": 6,
-        "playerassists": 3
     }
   ],
   "primera-division": [
