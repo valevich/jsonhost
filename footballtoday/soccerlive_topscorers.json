@@ -338,6 +338,15 @@
         "playerassists": 2
     },
     {
+        "playername": "L. Insigne",
+        "playerlink": "https://www.livesoccertv.com/player/l-insigne/104026/",
+        "playerteam": "Napoli",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "playergoals": 9,
+        "playerassists": 3
+    },
+    {
         "playername": "L. Martínez",
         "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
         "playerteam": "Internazionale",
@@ -354,6 +363,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
         "playergoals": 9,
         "playerassists": 3
+    },
+    {
+        "playername": "H. Lozano",
+        "playerlink": "https://www.livesoccertv.com/player/h-lozano/259658/",
+        "playerteam": "Napoli",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "playergoals": 8,
+        "playerassists": 0
     },
     {
         "playername": "H. Mkhitaryan",
@@ -379,24 +397,6 @@
         "playerteam": "Roma",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "playergoals": 7,
-        "playerassists": 0
-    },
-    {
-        "playername": "L. Insigne",
-        "playerlink": "https://www.livesoccertv.com/player/l-insigne/104026/",
-        "playerteam": "Napoli",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "playergoals": 7,
-        "playerassists": 2
-    },
-    {
-        "playername": "H. Lozano",
-        "playerlink": "https://www.livesoccertv.com/player/h-lozano/259658/",
-        "playerteam": "Napoli",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
         "playergoals": 7,
         "playerassists": 0
     },
