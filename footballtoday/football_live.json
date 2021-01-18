@@ -1,9 +1,9 @@
 {
-    },
+  "today": [
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "Monday Jan. 18, 2021",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -12,13 +12,52 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Arsenal",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+      "AwayTeam": "Newcastle Utd",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
+    },
+    {
+      "LeagueName": "Italian Serie A",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
+      "GameTime": "Monday Jan. 18, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Italian Serie A",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
+      "GameTime": "2:45pm",
+      "GameState": "",
+      "HomeTeam": "Cagliari",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+      "AwayTeam": "Milan",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
     }
   ],
-    },
+  "day2": [
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "Tuesday Jan. 19, 2021",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -27,6 +66,175 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "West Ham",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
+      "AwayTeam": "West Bromwich",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
+      "TVChannels": "wich Albion Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  B…"
+    },
+    {
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "3:15pm",
+      "GameState": "",
+      "HomeTeam": "Leicester",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+      "AwayTeam": "Chelsea",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "Tuesday Jan. 19, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Cádiz",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
+      "AwayTeam": "Levante",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Real Valladolid",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
+      "AwayTeam": "Elche",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "3:30pm",
+      "GameState": "",
+      "HomeTeam": "Alavés",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+      "AwayTeam": "Sevilla FC",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
+    },
+    {
+      "LeagueName": "German Bundesliga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+      "GameTime": "Tuesday Jan. 19, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "German Bundesliga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+      "GameTime": "12:30pm",
+      "GameState": "",
+      "HomeTeam": "Borussia M'gladbach",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+      "AwayTeam": "Werder Bremen",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+    },
+    {
+      "LeagueName": "German Bundesliga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+      "GameTime": "2:30pm",
+      "GameState": "",
+      "HomeTeam": "Bayer Leverkusen",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+      "AwayTeam": "Borussia Dortmund",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+    },
+    {
+      "LeagueName": "German Bundesliga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+      "GameTime": "2:30pm",
+      "GameState": "",
+      "HomeTeam": "Hertha BSC",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
+      "AwayTeam": "Hoffenheim",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet One ,  Spor…"
+    },
+    {
+      "LeagueName": "German Bundesliga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+      "GameTime": "2:30pm",
+      "GameState": "",
+      "HomeTeam": "Mainz 05",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+      "AwayTeam": "Wolfsburg",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
+    },
+    {
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "Tuesday Jan. 19, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Southampton",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+      "AwayTeam": "Shrewsbury Town",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/302.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet One ,  Spor…"
     }
   ],
   "day3": [
@@ -894,7 +1102,7 @@
       "AwayTeam": "Granada",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-      "TVChannels": "fuboTV ,  beIN SPORTS CONNECT ,  Sk…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -907,7 +1115,7 @@
       "AwayTeam": "Barcelona",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-      "TVChannels": "beIN SPORTS ,  beIN SPORTS en Español ,  …"
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -920,7 +1128,7 @@
       "AwayTeam": "Eibar",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-      "TVChannels": "beIN SPORTS ,  beIN SPORTS en Español ,  …"
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -933,7 +1141,7 @@
       "AwayTeam": "Valencia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-      "TVChannels": "beIN SPORTS ,  beIN SPORTS en Español ,  …"
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1076,7 +1284,7 @@
       "AwayTeam": "Angers",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-      "TVChannels": "SCO fuboTV ,  beIN SPORTS CONNECT ,  …"
+      "TVChannels": "SCO Fanatiz USA ,  fuboTV ,  beIN…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1102,7 +1310,7 @@
       "AwayTeam": "Nantes",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-      "TVChannels": "fuboTV ,  beIN SPORTS CONNECT ,  …"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -1115,7 +1323,7 @@
       "AwayTeam": "Lorient",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-      "TVChannels": "fuboTV ,  beIN SPORTS CONNECT ,  …"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
     {
       "LeagueName": "French Ligue 1",
