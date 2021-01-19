@@ -2,6 +2,20 @@
   "premier-league": [
     {
         "teamrank": 1,
+        "teamname": "Leicester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+        "played": 19,
+        "wins": 12,
+        "draws": 2,
+        "lossess": 5,
+        "goalsfor": 35,
+        "goalsagainst": 21,
+        "goalsdiff": "+14",
+        "points": 38,
+        "form": "'WWWDD'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Manchester United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "played": 18,
@@ -15,7 +29,7 @@
         "form": "'DWWWD'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "played": 17,
@@ -27,20 +41,6 @@
         "goalsdiff": "+16",
         "points": 35,
         "form": "'WWWWW'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Leicester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "played": 18,
-        "wins": 11,
-        "draws": 2,
-        "lossess": 5,
-        "goalsfor": 33,
-        "goalsagainst": 21,
-        "goalsdiff": "+12",
-        "points": 35,
-        "form": "'WWDDW'"
     },
     {
         "teamrank": 4,
@@ -102,15 +102,15 @@
         "teamrank": 8,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "played": 18,
+        "played": 19,
         "wins": 8,
         "draws": 5,
-        "lossess": 5,
+        "lossess": 6,
         "goalsfor": 33,
-        "goalsagainst": 21,
-        "goalsdiff": "+12",
+        "goalsagainst": 23,
+        "goalsdiff": "+10",
         "points": 29,
-        "form": "'WLDLW'"
+        "form": "'LWLDL'"
     },
     {
         "teamrank": 9,
