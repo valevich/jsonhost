@@ -326,6 +326,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Sevilla",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+        "played": 18,
+        "wins": 10,
+        "draws": 3,
+        "lossess": 5,
+        "goalsfor": 23,
+        "goalsagainst": 16,
+        "goalsdiff": "+7",
+        "points": 33,
+        "form": "'WLWDW'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Villarreal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
         "played": 18,
@@ -339,7 +353,7 @@
         "form": "'WWLDW'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "played": 19,
@@ -351,20 +365,6 @@
         "goalsdiff": "+13",
         "points": 30,
         "form": "'LDWLL'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Sevilla",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-        "played": 17,
-        "wins": 9,
-        "draws": 3,
-        "lossess": 5,
-        "goalsfor": 21,
-        "goalsagainst": 15,
-        "goalsdiff": "+6",
-        "points": 30,
-        "form": "'LWDWW'"
     },
     {
         "teamrank": 7,
@@ -510,15 +510,15 @@
         "teamrank": 17,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-        "played": 18,
+        "played": 19,
         "wins": 4,
         "draws": 6,
-        "lossess": 8,
-        "goalsfor": 16,
-        "goalsagainst": 23,
-        "goalsdiff": "-7",
+        "lossess": 9,
+        "goalsfor": 17,
+        "goalsagainst": 25,
+        "goalsdiff": "-8",
         "points": 18,
-        "form": "'LLDWL'"
+        "form": "'LLLDW'"
     },
     {
         "teamrank": 18,
