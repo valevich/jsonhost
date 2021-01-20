@@ -2,6 +2,20 @@
   "premier-league": [
     {
         "teamrank": 1,
+        "teamname": "Manchester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "played": 18,
+        "wins": 11,
+        "draws": 5,
+        "lossess": 2,
+        "goalsfor": 31,
+        "goalsagainst": 13,
+        "goalsdiff": "+18",
+        "points": 38,
+        "form": "'WWWWW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Leicester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
         "played": 19,
@@ -15,7 +29,7 @@
         "form": "'WWWDD'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Manchester United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "played": 18,
@@ -27,20 +41,6 @@
         "goalsdiff": "+10",
         "points": 37,
         "form": "'DWWWD'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Manchester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "played": 17,
-        "wins": 10,
-        "draws": 5,
-        "lossess": 2,
-        "goalsfor": 29,
-        "goalsagainst": 13,
-        "goalsdiff": "+16",
-        "points": 35,
-        "form": "'WWWWW'"
     },
     {
         "teamrank": 4,
@@ -144,15 +144,15 @@
         "teamrank": 11,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 15,
+        "played": 16,
         "wins": 8,
         "draws": 2,
-        "lossess": 5,
+        "lossess": 6,
         "goalsfor": 29,
-        "goalsagainst": 16,
-        "goalsdiff": "+13",
+        "goalsagainst": 18,
+        "goalsdiff": "+11",
         "points": 26,
-        "form": "'LDWWD'"
+        "form": "'LLDWW'"
     },
     {
         "teamrank": 12,
@@ -396,6 +396,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Getafe",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+        "played": 18,
+        "wins": 6,
+        "draws": 5,
+        "lossess": 7,
+        "goalsfor": 16,
+        "goalsagainst": 18,
+        "goalsdiff": "-2",
+        "points": 23,
+        "form": "'WWLLD'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "played": 18,
@@ -409,7 +423,7 @@
         "form": "'LLWDW'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "played": 18,
@@ -423,7 +437,7 @@
         "form": "'WDLWL'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 18,
@@ -437,7 +451,7 @@
         "form": "'DWLWD'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 18,
@@ -449,20 +463,6 @@
         "goalsdiff": "-1",
         "points": 21,
         "form": "'LWLDW'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Getafe",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-        "played": 17,
-        "wins": 5,
-        "draws": 5,
-        "lossess": 7,
-        "goalsfor": 15,
-        "goalsagainst": 18,
-        "goalsdiff": "-3",
-        "points": 20,
-        "form": "'WLLDW'"
     },
     {
         "teamrank": 14,
@@ -552,15 +552,15 @@
         "teamrank": 20,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-        "played": 18,
+        "played": 19,
         "wins": 1,
         "draws": 9,
-        "lossess": 8,
+        "lossess": 9,
         "goalsfor": 14,
-        "goalsagainst": 28,
-        "goalsdiff": "-14",
+        "goalsagainst": 29,
+        "goalsdiff": "-15",
         "points": 12,
-        "form": "'LLLDL'"
+        "form": "'LLLLD'"
     }
   ],
   "serie-a": [
