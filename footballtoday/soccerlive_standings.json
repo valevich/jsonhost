@@ -2,6 +2,20 @@
   "premier-league": [
     {
         "teamrank": 1,
+        "teamname": "Manchester United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "played": 19,
+        "wins": 12,
+        "draws": 4,
+        "lossess": 3,
+        "goalsfor": 36,
+        "goalsagainst": 25,
+        "goalsdiff": "+11",
+        "points": 40,
+        "form": "'WDWWW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "played": 18,
@@ -15,7 +29,7 @@
         "form": "'WWWWW'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Leicester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
         "played": 19,
@@ -27,20 +41,6 @@
         "goalsdiff": "+14",
         "points": 38,
         "form": "'WWWDD'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Manchester United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "played": 18,
-        "wins": 11,
-        "draws": 4,
-        "lossess": 3,
-        "goalsfor": 34,
-        "goalsagainst": 24,
-        "goalsdiff": "+10",
-        "points": 37,
-        "form": "'DWWWD'"
     },
     {
         "teamrank": 4,
@@ -242,15 +242,15 @@
         "teamrank": 18,
         "teamname": "Fulham",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-        "played": 17,
+        "played": 18,
         "wins": 2,
         "draws": 6,
-        "lossess": 9,
-        "goalsfor": 14,
-        "goalsagainst": 25,
-        "goalsdiff": "-11",
+        "lossess": 10,
+        "goalsfor": 15,
+        "goalsagainst": 27,
+        "goalsdiff": "-12",
         "points": 12,
-        "form": "'LDDDD'"
+        "form": "'LLDDD'"
     },
     {
         "teamrank": 19,
@@ -326,6 +326,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Villarreal",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "played": 19,
+        "wins": 8,
+        "draws": 9,
+        "lossess": 2,
+        "goalsfor": 28,
+        "goalsagainst": 19,
+        "goalsdiff": "+9",
+        "points": 33,
+        "form": "'DWWLD'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
         "played": 18,
@@ -337,20 +351,6 @@
         "goalsdiff": "+7",
         "points": 33,
         "form": "'WLWDW'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Villarreal",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "played": 18,
-        "wins": 8,
-        "draws": 8,
-        "lossess": 2,
-        "goalsfor": 26,
-        "goalsagainst": 17,
-        "goalsdiff": "+9",
-        "points": 32,
-        "form": "'WWLDW'"
     },
     {
         "teamrank": 6,
@@ -370,15 +370,15 @@
         "teamrank": 7,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "played": 18,
+        "played": 19,
         "wins": 8,
-        "draws": 3,
+        "draws": 4,
         "lossess": 7,
-        "goalsfor": 21,
-        "goalsagainst": 29,
+        "goalsfor": 23,
+        "goalsagainst": 31,
         "goalsdiff": "-8",
-        "points": 27,
-        "form": "'WLLWL'"
+        "points": 28,
+        "form": "'DWLLW'"
     },
     {
         "teamrank": 8,
