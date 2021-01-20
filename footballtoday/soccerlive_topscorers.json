@@ -165,6 +165,15 @@
         "playerassists": 3
     },
     {
+        "playername": "Y. En-Nesyri",
+        "playerlink": "https://www.livesoccertv.com/player/y-en-nesyri/333354/",
+        "playerteam": "Sevilla",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/sevilla/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
         "playername": "L. Suárez",
         "playerlink": "https://www.livesoccertv.com/player/l-suarez/2423/",
         "playerteam": "Atletico Madrid",
@@ -179,15 +188,6 @@
         "playerteam": "Real Madrid",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-madrid/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "playergoals": 8,
-        "playerassists": 0
-    },
-    {
-        "playername": "Y. En-Nesyri",
-        "playerlink": "https://www.livesoccertv.com/player/y-en-nesyri/333354/",
-        "playerteam": "Sevilla",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/sevilla/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
         "playergoals": 8,
         "playerassists": 0
     },
@@ -581,8 +581,17 @@
         "playerteam": "Wolfsburg",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "playergoals": 11,
+        "playergoals": 12,
         "playerassists": 2
+    },
+    {
+        "playername": "Andrej Kramarić",
+        "playerlink": "https://www.livesoccertv.com/player/a-kramaric/83705/",
+        "playerteam": "Hoffenheim",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+        "playergoals": 10,
+        "playerassists": 3
     },
     {
         "playername": "Lars Stindl",
@@ -610,15 +619,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
         "playergoals": 8,
         "playerassists": 2
-    },
-    {
-        "playername": "Andrej Kramarić",
-        "playerlink": "https://www.livesoccertv.com/player/a-kramaric/83705/",
-        "playerteam": "Hoffenheim",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "playergoals": 8,
-        "playerassists": 3
     },
     {
         "playername": "V. Grifo",
