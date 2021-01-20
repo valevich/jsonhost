@@ -30,12 +30,12 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:15pm",
-      "GameState": "48 ",
+      "GameState": "67 ",
       "HomeTeam": "Fulham",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
       "AwayTeam": "Manchester Utd",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
       "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
     },
@@ -69,7 +69,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "65 ",
+      "GameState": "85 ",
       "HomeTeam": "Real Betis",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
@@ -82,7 +82,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:30pm",
-      "GameState": "HT ",
+      "GameState": "55 ",
       "HomeTeam": "Villarreal",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
@@ -154,33 +154,33 @@
       "AwayTeam": "Union Berlin",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sportsn…"
     },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "2:30pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Freiburg",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
       "AwayTeam": "Eintracht",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet One ,  Spor…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet One ,  Sportsnet…"
     },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "2:30pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Augsburg",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
       "AwayTeam": "Bayern Munich",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-      "TVChannels": "'   Augsburg  0 - 1  Bayern München ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+      "TVChannels": "Augsburg  0 - 1  Bayern München ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -193,7 +193,7 @@
       "AwayTeam": "Stuttgart",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World No…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World Now ,  Spo…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -212,7 +212,7 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
-      "GameState": "62 ",
+      "GameState": "82 ",
       "HomeTeam": "Marseille",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
@@ -1278,12 +1278,12 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "1:00pm",
       "GameState": "",
-      "HomeTeam": "Newcastle Utd",
+      "HomeTeam": "Crystal Palace",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-      "AwayTeam": "Leeds United",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+      "AwayTeam": "West Ham",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
       "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
     },
     {
@@ -1291,12 +1291,12 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "1:00pm",
       "GameState": "",
-      "HomeTeam": "Crystal Palace",
+      "HomeTeam": "Newcastle Utd",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-      "AwayTeam": "West Ham",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+      "AwayTeam": "Leeds United",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
       "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
     },
     {
