@@ -748,6 +748,19 @@
     {
       "LeagueName": "English FA Cup",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "10:00am",
+      "GameState": "",
+      "HomeTeam": "Bournemouth",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+      "AwayTeam": "Crawley Town",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2594.png",
+      "TVChannels": ""
+    },
+    {
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
       "GameTime": "12:30pm",
       "GameState": "",
       "HomeTeam": "Cheltenham Town",
