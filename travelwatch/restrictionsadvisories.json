@@ -52,8 +52,8 @@
     "continent": "",
     "iso_alpha2": "AS",
     "name": "American Samoa",
-    "score": "Partially restricted",
-    "updated": "Travelers from affected foreign countries or regions (Mainland China, Hong Kong SAR, South Korea)entering American Samoa have to spend 14 days in a country or region not affected by the coronavirus and acquire a 3-day health clearance — day 11 of the 14 days — before entry."
+    "score": "Entry prohibited",
+    "updated": "All entry permits are suspended until further notice. Persons authorized to travel to American Samoa must have proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. All persons arriving in American Samoa are subject to a 14-day quarantine. Most international flights are suspended."
   },
   {
     "continent": "",
@@ -67,7 +67,7 @@
     "iso_alpha2": "AU",
     "name": "Australia",
     "score": "Partially restricted",
-    "updated": "Foreign nationals are prohibited from entering Australia. This policy does not apply to lawful residents and their immediate family members, or persons traveling from New Zealand. Additional exemptions are possible on a case-by-case basis. Persons should apply online for an exemption at least 2 weeks prior to their intended departure. All persons arriving in Australia (including Australian nationals) must undergo a 14-day quarantine in a designated facility at their port of arrival. This policy does not apply to persons traveling from New Zealand to New South Wales, the Australian Capital Territory, the Northern Territory, Queensland, or Victoria aboard special quarantine-free flights provided such persons have not traveled outside of New Zealand during the 14 days prior to their arrival in Australia. Applications for exemption from Australian travel restrictions are available at the following URL: https://travel-exemptions.homeaffairs.gov.au/tep"
+    "updated": "Foreign nationals are prohibited from entering Australia. This policy does not apply to lawful residents and their immediate family members, or persons traveling from New Zealand (see below). Additional exemptions are possible on a case-by-case basis. Persons should apply online for an exemption at least 2 weeks prior to their intended departure. All persons (including Australian nationals) must present proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test prior to boarding flights bound for Australia. This policy does not apply to persons traveling from the following locations: Kiribati, New Zealand, Niue, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, and Vanuatu. Upon arrival, all persons must undergo a 14-day quarantine in a designated facility. This policy does not apply to persons traveling from New Zealand to New South Wales, the Australian Capital Territory, the Northern Territory, Queensland, or Victoria aboard special quarantine-free flights provided such persons have not traveled outside of New Zealand during the 14 days prior to their arrival in Australia. Applications for exemption from Australian travel restrictions are available at the following URL: https://travel-exemptions.homeaffairs.gov.au/tep"
   },
   {
     "continent": "",
@@ -248,8 +248,8 @@
     "continent": "",
     "iso_alpha2": "CK",
     "name": "Cook Islands",
-    "score": "Partially restricted",
-    "updated": "From March 25, all travelers will be denied entry, except for: New Zealand passport holders; New Zealand Permanent Resident holder; Australia Citizens and Permanent Residents who normally live in New Zealand; Cook Islanders; Permanent Residents of the Cook Islands; Cook Islands Work permit holders; Cook Island Residents permit holders.Entry will also be permitted for any immediate family (partner or spouse, legal guardian and dependent children) if they are travelling with one of the above persons. All new arrivals are required to undergo supervised quarantine for 14 days upon arrival."
+    "score": "Entry prohibited",
+    "updated": "All persons are prohibited from entering into the Cook Islands. This policy does not apply to persons holding a written exemption issued by the Ministry of Foreign Affairs andImmigration. Further exemptions exist for Cook Islanders, lawful permanent residents, persons who hold a valid work permit for the Cook Islands, and persons who hold a valid residence permit for the Cook Islands. All persons authorized to travel to the Cook Islands must, for the 14 days prior to their departure, remain in New Zealand. Additionally, all persons must provide proof of a negative result for COVID-19 issued no more than 96 hours prior to their departure from Auckland, New Zealand."
   },
   {
     "continent": "",
@@ -417,7 +417,7 @@
     "iso_alpha2": "FJ",
     "name": "Fiji",
     "score": "Entry prohibited",
-    "updated": "Until July 31, 2020, all international flights on Fiji Airways are cancelled. Domestic flights will begin to resume May 15, 2020. A nationwide curfew from 20:00 (8:00 p.m.) to 05:00 (5:00 a.m.) is in effect."
+    "updated": "Nadi International Airport (NAN) is closed and all international flights are suspended until further notice."
   },
   {
     "continent": "",
@@ -809,7 +809,7 @@
     "iso_alpha2": "MH",
     "name": "Marshall Islands",
     "score": "Entry prohibited",
-    "updated": "From March 25, all international travelers will not be allowed entry."
+    "updated": "All persons are prohibited from entering the Marshall Islands until further notice."
   },
   {
     "continent": "",
