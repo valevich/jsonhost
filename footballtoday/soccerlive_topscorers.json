@@ -648,6 +648,15 @@
         "playerassists": 1
     },
     {
+        "playername": "N. Petersen",
+        "playerlink": "https://www.livesoccertv.com/player/n-petersen/16443/",
+        "playerteam": "Freiburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/sc-freiburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+        "playergoals": 7,
+        "playerassists": 1
+    },
+    {
         "playername": "Matheus Cunha",
         "playerlink": "https://www.livesoccertv.com/player/matheus-cunha/359098/",
         "playerteam": "Hertha BSC",
@@ -673,15 +682,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
         "playergoals": 6,
         "playerassists": 3
-    },
-    {
-        "playername": "N. Petersen",
-        "playerlink": "https://www.livesoccertv.com/player/n-petersen/16443/",
-        "playerteam": "Freiburg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/sc-freiburg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-        "playergoals": 6,
-        "playerassists": 1
     }
   ]
 }
