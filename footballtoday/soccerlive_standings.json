@@ -410,6 +410,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Levante",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "played": 19,
+        "wins": 5,
+        "draws": 8,
+        "lossess": 6,
+        "goalsfor": 27,
+        "goalsagainst": 28,
+        "goalsdiff": "-1",
+        "points": 23,
+        "form": "'DDWLW'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Getafe",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
         "played": 18,
@@ -423,7 +437,7 @@
         "form": "'WWLLD'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "played": 19,
@@ -435,20 +449,6 @@
         "goalsdiff": "-7",
         "points": 23,
         "form": "'LLLWD'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Levante",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "played": 18,
-        "wins": 5,
-        "draws": 7,
-        "lossess": 6,
-        "goalsfor": 25,
-        "goalsagainst": 26,
-        "goalsdiff": "-1",
-        "points": 22,
-        "form": "'DWLWD'"
     },
     {
         "teamrank": 13,
@@ -480,6 +480,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Real Valladolid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
+        "played": 20,
+        "wins": 4,
+        "draws": 8,
+        "lossess": 8,
+        "goalsfor": 20,
+        "goalsagainst": 29,
+        "goalsdiff": "-9",
+        "points": 20,
+        "form": "'DDLWD'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "played": 19,
@@ -491,20 +505,6 @@
         "goalsdiff": "-4",
         "points": 19,
         "form": "'LLWDL'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Real Valladolid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-        "played": 19,
-        "wins": 4,
-        "draws": 7,
-        "lossess": 8,
-        "goalsfor": 18,
-        "goalsagainst": 27,
-        "goalsdiff": "-9",
-        "points": 19,
-        "form": "'DLWDL'"
     },
     {
         "teamrank": 17,
@@ -850,15 +850,15 @@
         "teamrank": 1,
         "teamname": "PSG",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "played": 20,
-        "wins": 13,
+        "played": 21,
+        "wins": 14,
         "draws": 3,
         "lossess": 4,
-        "goalsfor": 44,
+        "goalsfor": 48,
         "goalsagainst": 11,
-        "goalsdiff": "+33",
-        "points": 42,
-        "form": "'WWDWD'"
+        "goalsdiff": "+37",
+        "points": 45,
+        "form": "'WWWDW'"
     },
     {
         "teamrank": 2,
@@ -990,15 +990,15 @@
         "teamrank": 11,
         "teamname": "Montpellier",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "played": 20,
+        "played": 21,
         "wins": 8,
         "draws": 4,
-        "lossess": 8,
+        "lossess": 9,
         "goalsfor": 33,
-        "goalsagainst": 35,
-        "goalsdiff": "-2",
+        "goalsagainst": 39,
+        "goalsdiff": "-6",
         "points": 28,
-        "form": "'LDLLD'"
+        "form": "'LLDLL'"
     },
     {
         "teamrank": 12,
