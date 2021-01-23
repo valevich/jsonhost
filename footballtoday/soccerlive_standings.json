@@ -328,15 +328,15 @@
         "teamrank": 4,
         "teamname": "Villarreal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "played": 19,
+        "played": 20,
         "wins": 8,
-        "draws": 9,
+        "draws": 10,
         "lossess": 2,
         "goalsfor": 28,
         "goalsagainst": 19,
         "goalsdiff": "+9",
-        "points": 33,
-        "form": "'DWWLD'"
+        "points": 34,
+        "form": "'DDWWL'"
     },
     {
         "teamrank": 5,
@@ -552,15 +552,15 @@
         "teamrank": 20,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-        "played": 19,
+        "played": 20,
         "wins": 1,
-        "draws": 9,
+        "draws": 10,
         "lossess": 9,
         "goalsfor": 14,
         "goalsagainst": 29,
         "goalsdiff": "-15",
-        "points": 12,
-        "form": "'LLLLD'"
+        "points": 13,
+        "form": "'DLLLL'"
     }
   ],
   "serie-a": [
