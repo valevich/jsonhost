@@ -568,29 +568,29 @@
         "teamrank": 1,
         "teamname": "Milan",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-        "played": 18,
+        "played": 19,
         "wins": 13,
         "draws": 4,
-        "lossess": 1,
+        "lossess": 2,
         "goalsfor": 39,
-        "goalsagainst": 19,
-        "goalsdiff": "+20",
+        "goalsagainst": 22,
+        "goalsdiff": "+17",
         "points": 43,
-        "form": "'WWLWW'"
+        "form": "'LWWLW'"
     },
     {
         "teamrank": 2,
         "teamname": "Internazionale",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "played": 18,
+        "played": 19,
         "wins": 12,
-        "draws": 4,
+        "draws": 5,
         "lossess": 2,
         "goalsfor": 45,
         "goalsagainst": 23,
         "goalsdiff": "+22",
-        "points": 40,
-        "form": "'WDLWW'"
+        "points": 41,
+        "form": "'DWDLW'"
     },
     {
         "teamrank": 3,
@@ -608,6 +608,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Atalanta",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+        "played": 19,
+        "wins": 10,
+        "draws": 6,
+        "lossess": 3,
+        "goalsfor": 44,
+        "goalsagainst": 23,
+        "goalsdiff": "+21",
+        "points": 36,
+        "form": "'WDDWW'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Napoli",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
         "played": 17,
@@ -621,7 +635,7 @@
         "form": "'WWLWD'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Juventus",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
         "played": 17,
@@ -633,20 +647,6 @@
         "goalsdiff": "+17",
         "points": 33,
         "form": "'LWWWL'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Atalanta",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "played": 18,
-        "wins": 9,
-        "draws": 6,
-        "lossess": 3,
-        "goalsfor": 41,
-        "goalsagainst": 23,
-        "goalsdiff": "+18",
-        "points": 33,
-        "form": "'DDWWW'"
     },
     {
         "teamrank": 7,
@@ -748,6 +748,20 @@
     },
     {
         "teamrank": 14,
+        "teamname": "Udinese",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+        "played": 19,
+        "wins": 4,
+        "draws": 6,
+        "lossess": 9,
+        "goalsfor": 20,
+        "goalsagainst": 28,
+        "goalsdiff": "-8",
+        "points": 18,
+        "form": "'DDLLD'"
+    },
+    {
+        "teamrank": 15,
         "teamname": "Spezia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
         "played": 19,
@@ -759,20 +773,6 @@
         "goalsdiff": "-10",
         "points": 18,
         "form": "'LDWWL'"
-    },
-    {
-        "teamrank": 15,
-        "teamname": "Udinese",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-        "played": 18,
-        "wins": 4,
-        "draws": 5,
-        "lossess": 9,
-        "goalsfor": 20,
-        "goalsagainst": 28,
-        "goalsdiff": "-8",
-        "points": 17,
-        "form": "'DLLDL'"
     },
     {
         "teamrank": 16,
