@@ -43,7 +43,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "8:00am",
-      "GameState": "43 ",
+      "GameState": "HT ",
       "HomeTeam": "Huesca",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
@@ -303,7 +303,7 @@
       "LeagueName": "English FA Cup",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
       "GameTime": "7:15am",
-      "GameState": "71 ",
+      "GameState": "81 ",
       "HomeTeam": "Southampton",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
@@ -429,7 +429,7 @@
       "AwayTeam": "Granada",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  Sky HD ,  …"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -663,7 +663,7 @@
       "AwayTeam": "Lille",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-      "TVChannels": "ESPN Play Norte ,  DIRECTV Sports Pue…"
+      "TVChannels": "beIN SPORTS XTRA ,  ESPN Play Norte ,  …"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -676,7 +676,7 @@
       "AwayTeam": "Lyon",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "TVChannels": "nais ESPN Play Norte ,  ESPNPlay Caribbean ,  …"
+      "TVChannels": "nais beIN SPORTS XTRA ,  ESPN Play Norte ,  …"
     },
     {
       "LeagueName": "English FA Cup",
