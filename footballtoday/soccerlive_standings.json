@@ -370,15 +370,15 @@
         "teamrank": 7,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "played": 19,
+        "played": 20,
         "wins": 8,
         "draws": 4,
-        "lossess": 7,
-        "goalsfor": 23,
-        "goalsagainst": 31,
-        "goalsdiff": "-8",
+        "lossess": 8,
+        "goalsfor": 24,
+        "goalsagainst": 34,
+        "goalsdiff": "-10",
         "points": 28,
-        "form": "'DWLLW'"
+        "form": "'LDWLL'"
     },
     {
         "teamrank": 8,
@@ -508,6 +508,20 @@
     },
     {
         "teamrank": 17,
+        "teamname": "Osasuna",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+        "played": 20,
+        "wins": 4,
+        "draws": 7,
+        "lossess": 9,
+        "goalsfor": 19,
+        "goalsagainst": 29,
+        "goalsdiff": "-10",
+        "points": 19,
+        "form": "'WDLDD'"
+    },
+    {
+        "teamrank": 18,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 20,
@@ -521,7 +535,7 @@
         "form": "'LLLLD'"
     },
     {
-        "teamrank": 18,
+        "teamrank": 19,
         "teamname": "Elche",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
         "played": 17,
@@ -533,20 +547,6 @@
         "goalsdiff": "-7",
         "points": 17,
         "form": "'DLLDD'"
-    },
-    {
-        "teamrank": 19,
-        "teamname": "Osasuna",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-        "played": 19,
-        "wins": 3,
-        "draws": 7,
-        "lossess": 9,
-        "goalsfor": 16,
-        "goalsagainst": 28,
-        "goalsdiff": "-12",
-        "points": 16,
-        "form": "'DLDDD'"
     },
     {
         "teamrank": 20,
@@ -1002,20 +1002,6 @@
     },
     {
         "teamrank": 12,
-        "teamname": "Brest",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-        "played": 20,
-        "wins": 8,
-        "draws": 2,
-        "lossess": 10,
-        "goalsfor": 31,
-        "goalsagainst": 36,
-        "goalsdiff": "-5",
-        "points": 26,
-        "form": "'LLWLD'"
-    },
-    {
-        "teamrank": 13,
         "teamname": "Nice",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
         "played": 20,
@@ -1029,7 +1015,35 @@
         "form": "'WLDLD'"
     },
     {
+        "teamrank": 13,
+        "teamname": "Brest",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+        "played": 21,
+        "wins": 8,
+        "draws": 2,
+        "lossess": 11,
+        "goalsfor": 31,
+        "goalsagainst": 37,
+        "goalsdiff": "-6",
+        "points": 26,
+        "form": "'LLLWL'"
+    },
+    {
         "teamrank": 14,
+        "teamname": "Reims",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
+        "played": 21,
+        "wins": 6,
+        "draws": 6,
+        "lossess": 9,
+        "goalsfor": 29,
+        "goalsagainst": 31,
+        "goalsdiff": "-2",
+        "points": 24,
+        "form": "'WLWDW'"
+    },
+    {
+        "teamrank": 15,
         "teamname": "Strasbourg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
         "played": 20,
@@ -1041,20 +1055,6 @@
         "goalsdiff": "-3",
         "points": 23,
         "form": "'WWWLL'"
-    },
-    {
-        "teamrank": 15,
-        "teamname": "Reims",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-        "played": 20,
-        "wins": 5,
-        "draws": 6,
-        "lossess": 9,
-        "goalsfor": 28,
-        "goalsagainst": 31,
-        "goalsdiff": "-3",
-        "points": 21,
-        "form": "'LWDWD'"
     },
     {
         "teamrank": 16,
