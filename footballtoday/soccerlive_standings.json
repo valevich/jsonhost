@@ -864,15 +864,15 @@
         "teamrank": 2,
         "teamname": "Lille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "played": 20,
-        "wins": 12,
+        "played": 21,
+        "wins": 13,
         "draws": 6,
         "lossess": 2,
-        "goalsfor": 35,
+        "goalsfor": 36,
         "goalsagainst": 15,
-        "goalsdiff": "+20",
-        "points": 42,
-        "form": "'WWLWD'"
+        "goalsdiff": "+21",
+        "points": 45,
+        "form": "'WWWLW'"
     },
     {
         "teamrank": 3,
@@ -906,15 +906,15 @@
         "teamrank": 5,
         "teamname": "Rennes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-        "played": 20,
+        "played": 21,
         "wins": 10,
         "draws": 6,
-        "lossess": 4,
+        "lossess": 5,
         "goalsfor": 30,
-        "goalsagainst": 22,
-        "goalsdiff": "+8",
+        "goalsagainst": 23,
+        "goalsdiff": "+7",
         "points": 36,
-        "form": "'WDDWW'"
+        "form": "'LWDDW'"
     },
     {
         "teamrank": 6,
