@@ -210,6 +210,15 @@
         "playerassists": 5
     },
     {
+        "playername": "Canales",
+        "playerlink": "https://www.livesoccertv.com/player/canales/61820/",
+        "playerteam": "Real Betis",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-betis/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "playergoals": 7,
+        "playerassists": 2
+    },
+    {
         "playername": "Morales",
         "playerlink": "https://www.livesoccertv.com/player/jose-luis-morales/211121/",
         "playerteam": "Levante",
@@ -217,15 +226,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "playergoals": 7,
         "playerassists": 0
-    },
-    {
-        "playername": "Canales",
-        "playerlink": "https://www.livesoccertv.com/player/canales/61820/",
-        "playerteam": "Real Betis",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-betis/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "playergoals": 6,
-        "playerassists": 2
     },
     {
         "playername": "Llorente",
@@ -383,6 +383,15 @@
         "playerassists": 1
     },
     {
+        "playername": "D. Zapata",
+        "playerlink": "https://www.livesoccertv.com/player/d-zapata/33409/",
+        "playerteam": "Atalanta",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+        "playergoals": 8,
+        "playerassists": 1
+    },
+    {
         "playername": "D. Berardi",
         "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
         "playerteam": "Sassuolo",
@@ -399,15 +408,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
         "playergoals": 7,
         "playerassists": 0
-    },
-    {
-        "playername": "F. Quagliarella",
-        "playerlink": "https://www.livesoccertv.com/player/f-quagliarella/4297/",
-        "playerteam": "Sampdoria",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/sampdoria/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-        "playergoals": 7,
-        "playerassists": 1
     }
   ],
   "ligue-1": [
@@ -591,6 +591,96 @@
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
         "playergoals": 10,
+        "playerassists": 3
+    },
+    {
+        "playername": "Lars Stindl",
+        "playerlink": "https://www.livesoccertv.com/player/l-stindl/39612/",
+        "playerteam": "Borussia M'gladbach",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+        "playergoals": 9,
+        "playerassists": 5
+    },
+    {
+        "playername": "Silas Wamangituka",
+        "playerlink": "https://www.livesoccertv.com/player/s-wamangituka/388180/",
+        "playerteam": "Stuttgart",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "playergoals": 9,
+        "playerassists": 3
+    },
+    {
+        "playername": "L. Alario",
+        "playerlink": "https://www.livesoccertv.com/player/l-alario/160318/",
+        "playerteam": "Bayer Leverkusen",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+        "playergoals": 8,
+        "playerassists": 2
+    },
+    {
+        "playername": "V. Grifo",
+        "playerlink": "https://www.livesoccertv.com/player/v-grifo/207069/",
+        "playerteam": "Freiburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/sc-freiburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+        "playergoals": 7,
+        "playerassists": 3
+    },
+    {
+        "playername": "J. Mateta",
+        "playerlink": "https://www.livesoccertv.com/player/j-mateta/289035/",
+        "playerteam": "Mainz 05",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/1-fsv-mainz-05/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+        "playergoals": 7,
+        "playerassists": 1
+    },
+    {
+        "playername": "T. Müller",
+        "playerlink": "https://www.livesoccertv.com/player/t-muller/38348/",
+        "playerteam": "Bayern Munich",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "playergoals": 7,
+        "playerassists": 1
+    },
+    {
+        "playername": "N. Petersen",
+        "playerlink": "https://www.livesoccertv.com/player/n-petersen/16443/",
+        "playerteam": "Freiburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/sc-freiburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+        "playergoals": 7,
+        "playerassists": 1
+    },
+    {
+        "playername": "Matheus Santos Carneiro da Cunha",
+        "playerlink": "https://www.livesoccertv.com/player/matheus-cunha/359098/",
+        "playerteam": "Hertha BSC",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
+        "playergoals": 6,
+        "playerassists": 2
+    },
+    {
+        "playername": "N. González",
+        "playerlink": "https://www.livesoccertv.com/player/n-gonzalez/330698/",
+        "playerteam": "Stuttgart",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "playergoals": 6,
+        "playerassists": 3
+    },
+    {
+        "playername": "M. Kruse",
+        "playerlink": "https://www.livesoccertv.com/player/m-kruse/38633/",
+        "playerteam": "Union Berlin",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/union-berlin/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+        "playergoals": 6,
         "playerassists": 3
     }
   ]
