@@ -694,15 +694,15 @@
         "teamrank": 10,
         "teamname": "Sampdoria",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-        "played": 18,
-        "wins": 7,
+        "played": 19,
+        "wins": 8,
         "draws": 2,
         "lossess": 9,
-        "goalsfor": 28,
+        "goalsfor": 30,
         "goalsagainst": 29,
-        "goalsdiff": "-1",
-        "points": 23,
-        "form": "'WLWLL'"
+        "goalsdiff": "+1",
+        "points": 26,
+        "form": "'WWLWL'"
     },
     {
         "teamrank": 11,
@@ -820,15 +820,15 @@
         "teamrank": 19,
         "teamname": "Parma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-        "played": 18,
+        "played": 19,
         "wins": 2,
         "draws": 7,
-        "lossess": 9,
+        "lossess": 10,
         "goalsfor": 14,
-        "goalsagainst": 34,
-        "goalsdiff": "-20",
+        "goalsagainst": 36,
+        "goalsdiff": "-22",
         "points": 13,
-        "form": "'DLLLL'"
+        "form": "'LDLLL'"
     },
     {
         "teamrank": 20,
