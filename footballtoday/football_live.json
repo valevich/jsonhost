@@ -30,7 +30,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "10:15am",
-      "GameState": "HT ",
+      "GameState": "58 ",
       "HomeTeam": "Elche",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
@@ -160,14 +160,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "86 ",
+      "GameState": "FT ",
       "HomeTeam": "Schalke 04",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
       "AwayTeam": "Bayern Munich",
-      "AwayGoals": "2",
+      "AwayGoals": "4",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-      "TVChannels": "'   Schalke 04  0 - 2  Bayern München ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
+      "TVChannels": "Schalke 04  0 - 4  Bayern München ESPN+ ,  ESPN App ,  Sportsnet World ,  Sportsn…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -251,12 +251,12 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "11:00am",
-      "GameState": "14 ",
+      "GameState": "29 ",
       "HomeTeam": "Stade Rennes",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
       "AwayTeam": "Lille",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
       "TVChannels": "beIN SPORTS XTRA ,  ESPN Play Norte ,  …"
     },
@@ -303,27 +303,27 @@
       "LeagueName": "English FA Cup",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
       "GameTime": "9:30am",
-      "GameState": "86 ",
+      "GameState": "FT ",
       "HomeTeam": "Fulham",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
       "AwayTeam": "Burnley",
       "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World No…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World Now ,  Spo…"
     },
     {
       "LeagueName": "English FA Cup",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
       "GameTime": "9:30am",
-      "GameState": "86 ",
+      "GameState": "FT ",
       "HomeTeam": "Brentford",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/337.png",
       "AwayTeam": "Leicester",
       "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
     },
     {
       "LeagueName": "English FA Cup",
