@@ -608,6 +608,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Juventus",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+        "played": 18,
+        "wins": 10,
+        "draws": 6,
+        "lossess": 2,
+        "goalsfor": 37,
+        "goalsagainst": 18,
+        "goalsdiff": "+19",
+        "points": 36,
+        "form": "'WLWWW'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Atalanta",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
         "played": 19,
@@ -621,7 +635,7 @@
         "form": "'WDDWW'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Napoli",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
         "played": 17,
@@ -633,20 +647,6 @@
         "goalsdiff": "+24",
         "points": 34,
         "form": "'WWLWD'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Juventus",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-        "played": 17,
-        "wins": 9,
-        "draws": 6,
-        "lossess": 2,
-        "goalsfor": 35,
-        "goalsagainst": 18,
-        "goalsdiff": "+17",
-        "points": 33,
-        "form": "'LWWWL'"
     },
     {
         "teamrank": 7,
@@ -736,15 +736,15 @@
         "teamrank": 13,
         "teamname": "Bologna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-        "played": 18,
+        "played": 19,
         "wins": 5,
         "draws": 5,
-        "lossess": 8,
+        "lossess": 9,
         "goalsfor": 24,
-        "goalsagainst": 31,
-        "goalsdiff": "-7",
+        "goalsagainst": 33,
+        "goalsdiff": "-9",
         "points": 20,
-        "form": "'WLDDD'"
+        "form": "'LWLDD'"
     },
     {
         "teamrank": 14,
@@ -932,6 +932,20 @@
     },
     {
         "teamrank": 7,
+        "teamname": "Bordeaux",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
+        "played": 21,
+        "wins": 9,
+        "draws": 5,
+        "lossess": 7,
+        "goalsfor": 25,
+        "goalsagainst": 22,
+        "goalsdiff": "+3",
+        "points": 32,
+        "form": "'WWWDL'"
+    },
+    {
+        "teamrank": 8,
         "teamname": "Lens",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
         "played": 21,
@@ -945,32 +959,18 @@
         "form": "'LWDLL'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Angers SCO",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-        "played": 20,
+        "played": 21,
         "wins": 9,
         "draws": 3,
-        "lossess": 8,
-        "goalsfor": 25,
-        "goalsagainst": 31,
-        "goalsdiff": "-6",
+        "lossess": 9,
+        "goalsfor": 26,
+        "goalsagainst": 33,
+        "goalsdiff": "-7",
         "points": 30,
-        "form": "'LLWWD'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Bordeaux",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
-        "played": 20,
-        "wins": 8,
-        "draws": 5,
-        "lossess": 7,
-        "goalsfor": 23,
-        "goalsagainst": 21,
-        "goalsdiff": "+2",
-        "points": 29,
-        "form": "'WWDLW'"
+        "form": "'LLLWW'"
     },
     {
         "teamrank": 10,
