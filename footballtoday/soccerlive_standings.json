@@ -396,6 +396,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Celta de Vigo",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "played": 20,
+        "wins": 6,
+        "draws": 6,
+        "lossess": 8,
+        "goalsfor": 24,
+        "goalsagainst": 31,
+        "goalsdiff": "-7",
+        "points": 24,
+        "form": "'DLLLW'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Cádiz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
         "played": 20,
@@ -409,7 +423,7 @@
         "form": "'LDWDD'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 19,
@@ -423,7 +437,7 @@
         "form": "'DDWLW'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Getafe",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
         "played": 18,
@@ -435,20 +449,6 @@
         "goalsdiff": "-2",
         "points": 23,
         "form": "'WWLLD'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Celta de Vigo",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "played": 19,
-        "wins": 6,
-        "draws": 5,
-        "lossess": 8,
-        "goalsfor": 23,
-        "goalsagainst": 30,
-        "goalsdiff": "-7",
-        "points": 23,
-        "form": "'LLLWD'"
     },
     {
         "teamrank": 13,
@@ -480,6 +480,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Eibar",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
+        "played": 20,
+        "wins": 4,
+        "draws": 8,
+        "lossess": 8,
+        "goalsfor": 17,
+        "goalsagainst": 21,
+        "goalsdiff": "-4",
+        "points": 20,
+        "form": "'DLLWD'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Real Valladolid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
         "played": 20,
@@ -491,20 +505,6 @@
         "goalsdiff": "-9",
         "points": 20,
         "form": "'DDLWD'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Eibar",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 19,
-        "wins": 4,
-        "draws": 7,
-        "lossess": 8,
-        "goalsfor": 16,
-        "goalsagainst": 20,
-        "goalsdiff": "-4",
-        "points": 19,
-        "form": "'LLWDL'"
     },
     {
         "teamrank": 17,
