@@ -284,20 +284,20 @@
         "playerassists": 4
     },
     {
-        "playername": "Z. Ibrahimović",
-        "playerlink": "https://www.livesoccertv.com/player/z-ibrahimovic/301/",
-        "playerteam": "Milan",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/ac-milan/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-        "playergoals": 12,
-        "playerassists": 3
-    },
-    {
         "playername": "C. Immobile",
         "playerlink": "https://www.livesoccertv.com/player/c-immobile/75297/",
         "playerteam": "Lazio",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/lazio-roma/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+        "playergoals": 13,
+        "playerassists": 3
+    },
+    {
+        "playername": "Z. Ibrahimović",
+        "playerlink": "https://www.livesoccertv.com/player/z-ibrahimovic/301/",
+        "playerteam": "Milan",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/ac-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
         "playergoals": 12,
         "playerassists": 3
     },
@@ -347,6 +347,15 @@
         "playerassists": 3
     },
     {
+        "playername": "H. Lozano",
+        "playerlink": "https://www.livesoccertv.com/player/h-lozano/259658/",
+        "playerteam": "Napoli",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
         "playername": "L. Martínez",
         "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
         "playerteam": "Internazionale",
@@ -363,15 +372,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
         "playergoals": 9,
         "playerassists": 3
-    },
-    {
-        "playername": "H. Lozano",
-        "playerlink": "https://www.livesoccertv.com/player/h-lozano/259658/",
-        "playerteam": "Napoli",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "playergoals": 8,
-        "playerassists": 0
     },
     {
         "playername": "H. Mkhitaryan",
@@ -401,13 +401,13 @@
         "playerassists": 2
     },
     {
-        "playername": "E. Džeko",
-        "playerlink": "https://www.livesoccertv.com/player/e-dzeko/20721/",
-        "playerteam": "Roma",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+        "playername": "F. Caputo",
+        "playerlink": "https://www.livesoccertv.com/player/f-caputo/63860/",
+        "playerteam": "Sassuolo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
         "playergoals": 7,
-        "playerassists": 0
+        "playerassists": 1
     }
   ],
   "ligue-1": [
@@ -439,6 +439,15 @@
         "playerassists": 6
     },
     {
+        "playername": "L. Ajorque",
+        "playerlink": "https://www.livesoccertv.com/player/l-ajorque/214402/",
+        "playerteam": "Strasbourg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/strasbourg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+        "playergoals": 10,
+        "playerassists": 3
+    },
+    {
         "playername": "K. Volland",
         "playerlink": "https://www.livesoccertv.com/player/k-volland/95821/",
         "playerteam": "Monaco",
@@ -446,15 +455,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
         "playergoals": 10,
         "playerassists": 0
-    },
-    {
-        "playername": "L. Ajorque",
-        "playerlink": "https://www.livesoccertv.com/player/l-ajorque/214402/",
-        "playerteam": "Strasbourg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/strasbourg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-        "playergoals": 9,
-        "playerassists": 3
     },
     {
         "playername": "W. Ben Yedder",
@@ -471,6 +471,15 @@
         "playerteam": "Montpellier",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
+        "playername": "T. Kadewere",
+        "playerlink": "https://www.livesoccertv.com/player/t-kadewere/302725/",
+        "playerteam": "Olympique Lyonnais",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "playergoals": 9,
         "playerassists": 0
     },
@@ -520,15 +529,6 @@
         "playerassists": 1
     },
     {
-        "playername": "T. Kadewere",
-        "playerlink": "https://www.livesoccertv.com/player/t-kadewere/302725/",
-        "playerteam": "Olympique Lyonnais",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "playergoals": 7,
-        "playerassists": 0
-    },
-    {
         "playername": "J. Bamba",
         "playerlink": "https://www.livesoccertv.com/player/j-bamba/249220/",
         "playerteam": "Lille",
@@ -554,7 +554,7 @@
         "playerteam": "Bayern Munich",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "playergoals": 22,
+        "playergoals": 23,
         "playerassists": 5
     },
     {
@@ -576,6 +576,15 @@
         "playerassists": 5
     },
     {
+        "playername": "A. Kramarić",
+        "playerlink": "https://www.livesoccertv.com/player/a-kramaric/83705/",
+        "playerteam": "Hoffenheim",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+        "playergoals": 12,
+        "playerassists": 5
+    },
+    {
         "playername": "W. Weghorst",
         "playerlink": "https://www.livesoccertv.com/player/w-weghorst/207339/",
         "playerteam": "Wolfsburg",
@@ -585,15 +594,6 @@
         "playerassists": 2
     },
     {
-        "playername": "A. Kramarić",
-        "playerlink": "https://www.livesoccertv.com/player/a-kramaric/83705/",
-        "playerteam": "Hoffenheim",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "playergoals": 10,
-        "playerassists": 3
-    },
-    {
         "playername": "Silas Wamangituka",
         "playerlink": "https://www.livesoccertv.com/player/s-wamangituka/388180/",
         "playerteam": "Stuttgart",
@@ -601,6 +601,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
         "playergoals": 10,
         "playerassists": 3
+    },
+    {
+        "playername": "T. Müller",
+        "playerlink": "https://www.livesoccertv.com/player/t-muller/38348/",
+        "playerteam": "Bayern Munich",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "playergoals": 9,
+        "playerassists": 1
     },
     {
         "playername": "Lars Stindl",
@@ -635,15 +644,6 @@
         "playerteam": "Mainz 05",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/1-fsv-mainz-05/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-        "playergoals": 7,
-        "playerassists": 1
-    },
-    {
-        "playername": "T. Müller",
-        "playerlink": "https://www.livesoccertv.com/player/t-muller/38348/",
-        "playerteam": "Bayern Munich",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
         "playergoals": 7,
         "playerassists": 1
     },
