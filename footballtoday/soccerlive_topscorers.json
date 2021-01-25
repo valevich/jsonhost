@@ -421,15 +421,6 @@
         "playerassists": 4
     },
     {
-        "playername": "M. Depay",
-        "playerlink": "https://www.livesoccertv.com/player/m-depay/136392/",
-        "playerteam": "Olympique Lyonnais",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "playergoals": 12,
-        "playerassists": 6
-    },
-    {
         "playername": "B. Dia",
         "playerlink": "https://www.livesoccertv.com/player/b-dia/360970/",
         "playerteam": "Reims",
@@ -437,6 +428,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
         "playergoals": 12,
         "playerassists": 5
+    },
+    {
+        "playername": "M. Depay",
+        "playerlink": "https://www.livesoccertv.com/player/m-depay/136392/",
+        "playerteam": "Olympique Lyonnais",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+        "playergoals": 11,
+        "playerassists": 6
     },
     {
         "playername": "L. Ajorque",
