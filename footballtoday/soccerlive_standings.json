@@ -2,6 +2,20 @@
   "premier-league": [
     {
         "teamrank": 1,
+        "teamname": "Manchester City",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "played": 19,
+        "wins": 12,
+        "draws": 5,
+        "lossess": 2,
+        "goalsfor": 36,
+        "goalsagainst": 13,
+        "goalsdiff": "+23",
+        "points": 41,
+        "form": "'WWWWW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Manchester United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "played": 19,
@@ -13,20 +27,6 @@
         "goalsdiff": "+11",
         "points": 40,
         "form": "'WDWWW'"
-    },
-    {
-        "teamrank": 2,
-        "teamname": "Manchester City",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "played": 18,
-        "wins": 11,
-        "draws": 5,
-        "lossess": 2,
-        "goalsfor": 31,
-        "goalsagainst": 13,
-        "goalsdiff": "+18",
-        "points": 38,
-        "form": "'WWWWW'"
     },
     {
         "teamrank": 3,
@@ -100,6 +100,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Arsenal",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "played": 20,
+        "wins": 9,
+        "draws": 3,
+        "lossess": 8,
+        "goalsfor": 26,
+        "goalsagainst": 20,
+        "goalsdiff": "+6",
+        "points": 30,
+        "form": "'WWDWW'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "played": 17,
@@ -113,7 +127,7 @@
         "form": "'WLLDW'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 19,
@@ -127,32 +141,18 @@
         "form": "'LWLDL'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "played": 18,
-        "wins": 8,
-        "draws": 5,
-        "lossess": 5,
-        "goalsfor": 26,
-        "goalsagainst": 21,
-        "goalsdiff": "+5",
-        "points": 29,
-        "form": "'LWDDL'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Arsenal",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "played": 19,
         "wins": 8,
-        "draws": 3,
-        "lossess": 8,
-        "goalsfor": 23,
-        "goalsagainst": 19,
-        "goalsdiff": "+4",
-        "points": 27,
-        "form": "'WDWWW'"
+        "draws": 5,
+        "lossess": 6,
+        "goalsfor": 27,
+        "goalsagainst": 24,
+        "goalsdiff": "+3",
+        "points": 29,
+        "form": "'LLWDD'"
     },
     {
         "teamrank": 12,
@@ -256,15 +256,15 @@
         "teamrank": 19,
         "teamname": "West Bromwich Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-        "played": 19,
+        "played": 20,
         "wins": 2,
         "draws": 5,
-        "lossess": 12,
+        "lossess": 13,
         "goalsfor": 15,
-        "goalsagainst": 43,
-        "goalsdiff": "-28",
+        "goalsagainst": 48,
+        "goalsdiff": "-33",
         "points": 11,
-        "form": "'LWLLD'"
+        "form": "'LLWLL'"
     },
     {
         "teamrank": 20,
