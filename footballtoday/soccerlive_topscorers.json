@@ -64,6 +64,15 @@
         "playerassists": 1
     },
     {
+        "playername": "Wilfried Zaha",
+        "playerlink": "https://www.livesoccertv.com/player/w-zaha/110122/",
+        "playerteam": "Crystal Palace",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/crystal-palace/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+        "playergoals": 9,
+        "playerassists": 2
+    },
+    {
         "playername": "Callum Wilson",
         "playerlink": "https://www.livesoccertv.com/player/c-wilson/87664/",
         "playerteam": "Newcastle United",
@@ -71,15 +80,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "playergoals": 8,
         "playerassists": 4
-    },
-    {
-        "playername": "Wilfried Zaha",
-        "playerlink": "https://www.livesoccertv.com/player/w-zaha/110122/",
-        "playerteam": "Crystal Palace",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/crystal-palace/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "playergoals": 8,
-        "playerassists": 2
     },
     {
         "playername": "Daniel William John Ings",
@@ -118,6 +118,15 @@
         "playerassists": 0
     },
     {
+        "playername": "T. Souček",
+        "playerlink": "https://www.livesoccertv.com/player/t-soucek/254136/",
+        "playerteam": "West Ham United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/west-ham-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
+        "playergoals": 7,
+        "playerassists": 0
+    },
+    {
         "playername": "O. Watkins",
         "playerlink": "https://www.livesoccertv.com/player/o-watkins/264917/",
         "playerteam": "Aston Villa",
@@ -125,15 +134,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "playergoals": 7,
         "playerassists": 1
-    },
-    {
-        "playername": "T. Abraham",
-        "playerlink": "https://www.livesoccertv.com/player/t-abraham/280385/",
-        "playerteam": "Chelsea",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/chelsea/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "playergoals": 6,
-        "playerassists": 0
     }
   ],
   "primera-division": [
