@@ -73,6 +73,15 @@
         "playerassists": 2
     },
     {
+        "playername": "Alexandre Lacazette",
+        "playerlink": "https://www.livesoccertv.com/player/a-lacazette/86665/",
+        "playerteam": "Arsenal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/arsenal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "playergoals": 8,
+        "playerassists": 1
+    },
+    {
         "playername": "Callum Wilson",
         "playerlink": "https://www.livesoccertv.com/player/c-wilson/87664/",
         "playerteam": "Newcastle United",
@@ -98,15 +107,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
         "playergoals": 7,
         "playerassists": 2
-    },
-    {
-        "playername": "Alexandre Lacazette",
-        "playerlink": "https://www.livesoccertv.com/player/a-lacazette/86665/",
-        "playerteam": "Arsenal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/arsenal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "playergoals": 7,
-        "playerassists": 1
     },
     {
         "playername": "Neal Maupay",
