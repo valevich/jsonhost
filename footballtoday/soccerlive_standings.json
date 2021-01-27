@@ -100,6 +100,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Chelsea",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+        "played": 20,
+        "wins": 8,
+        "draws": 6,
+        "lossess": 6,
+        "goalsfor": 33,
+        "goalsagainst": 23,
+        "goalsdiff": "+10",
+        "points": 30,
+        "form": "'DLWLD'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "played": 20,
@@ -113,32 +127,18 @@
         "form": "'WWDWW'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 17,
+        "played": 18,
         "wins": 9,
         "draws": 2,
-        "lossess": 6,
-        "goalsfor": 31,
-        "goalsagainst": 18,
-        "goalsdiff": "+13",
-        "points": 29,
-        "form": "'WLLDW'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Chelsea",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "played": 19,
-        "wins": 8,
-        "draws": 5,
-        "lossess": 6,
+        "lossess": 7,
         "goalsfor": 33,
-        "goalsagainst": 23,
-        "goalsdiff": "+10",
+        "goalsagainst": 21,
+        "goalsdiff": "+12",
         "points": 29,
-        "form": "'LWLDL'"
+        "form": "'LWLLD'"
     },
     {
         "teamrank": 11,
@@ -170,6 +170,20 @@
     },
     {
         "teamrank": 13,
+        "teamname": "Wolverhampton Wanderers",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+        "played": 20,
+        "wins": 6,
+        "draws": 5,
+        "lossess": 9,
+        "goalsfor": 21,
+        "goalsagainst": 29,
+        "goalsdiff": "-8",
+        "points": 23,
+        "form": "'DLLDL'"
+    },
+    {
+        "teamrank": 14,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
         "played": 20,
@@ -183,32 +197,18 @@
         "form": "'LLDWD'"
     },
     {
-        "teamrank": 14,
-        "teamname": "Wolverhampton Wanderers",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+        "teamrank": 15,
+        "teamname": "Burnley",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
         "played": 19,
         "wins": 6,
         "draws": 4,
         "lossess": 9,
-        "goalsfor": 21,
-        "goalsagainst": 29,
-        "goalsdiff": "-8",
+        "goalsfor": 13,
+        "goalsagainst": 24,
+        "goalsdiff": "-11",
         "points": 22,
-        "form": "'LLDLD'"
-    },
-    {
-        "teamrank": 15,
-        "teamname": "Burnley",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-        "played": 18,
-        "wins": 5,
-        "draws": 4,
-        "lossess": 9,
-        "goalsfor": 10,
-        "goalsagainst": 22,
-        "goalsdiff": "-12",
-        "points": 19,
-        "form": "'WLLWL'"
+        "form": "'WWLLW'"
     },
     {
         "teamrank": 16,
