@@ -82,6 +82,15 @@
         "playerassists": 1
     },
     {
+        "playername": "Ollie Watkins",
+        "playerlink": "https://www.livesoccertv.com/player/o-watkins/264917/",
+        "playerteam": "Aston Villa",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/aston-villa/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "playergoals": 8,
+        "playerassists": 1
+    },
+    {
         "playername": "C. Wilson",
         "playerlink": "https://www.livesoccertv.com/player/c-wilson/87664/",
         "playerteam": "Newcastle United",
@@ -123,15 +132,6 @@
         "playerteam": "Manchester United",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "playergoals": 7,
-        "playerassists": 0
-    },
-    {
-        "playername": "T. Souček",
-        "playerlink": "https://www.livesoccertv.com/player/t-soucek/254136/",
-        "playerteam": "West Ham United",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/west-ham-united/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "playergoals": 7,
         "playerassists": 0
     }
@@ -529,6 +529,15 @@
         "playerassists": 1
     },
     {
+        "playername": "Mama Baldé",
+        "playerlink": "https://www.livesoccertv.com/player/balde/268155/",
+        "playerteam": "Dijon",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/dijon/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
+        "playergoals": 6,
+        "playerassists": 0
+    },
+    {
         "playername": "J. Bamba",
         "playerlink": "https://www.livesoccertv.com/player/j-bamba/249220/",
         "playerteam": "Lille",
@@ -536,15 +545,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "playergoals": 6,
         "playerassists": 0
-    },
-    {
-        "playername": "Amine Gouiri",
-        "playerlink": "https://www.livesoccertv.com/player/a-gouiri/334272/",
-        "playerteam": "Nice",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/nice/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-        "playergoals": 6,
-        "playerassists": 2
     }
   ],
   "bundesliga": [
