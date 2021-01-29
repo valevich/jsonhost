@@ -533,6 +533,34 @@
         "goalsdiff": "-11",
         "points": 18,
         "form": "'LLLLD'"
+    },
+    {
+        "teamrank": 19,
+        "teamname": "Elche",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+        "played": 18,
+        "wins": 3,
+        "draws": 8,
+        "lossess": 7,
+        "goalsfor": 16,
+        "goalsagainst": 25,
+        "goalsdiff": "-9",
+        "points": 17,
+        "form": "'LDLLD'"
+    },
+    {
+        "teamrank": 20,
+        "teamname": "Huesca",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
+        "played": 20,
+        "wins": 1,
+        "draws": 10,
+        "lossess": 9,
+        "goalsfor": 14,
+        "goalsagainst": 29,
+        "goalsdiff": "-15",
+        "points": 13,
+        "form": "'DLLLL'"
     }
   ],
   "serie-a": [
