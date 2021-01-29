@@ -17,12 +17,12 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "55 ",
+      "GameState": "70 ",
       "HomeTeam": "Real Valladolid",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
       "AwayTeam": "Huesca",
-      "AwayGoals": "2",
+      "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
       "TVChannels": "Fanatiz USA ,  beIN SPORTS en Espa…"
     },
@@ -43,7 +43,7 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "68 ",
+      "GameState": "83 ",
       "HomeTeam": "Torino",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
@@ -69,14 +69,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "2:30pm",
-      "GameState": "86 ",
+      "GameState": "FT ",
       "HomeTeam": "Stuttgart",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
       "AwayTeam": "Mainz 05",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-      "TVChannels": "05 ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
+      "TVChannels": "05 ESPN+ ,  ESPN App ,  Sportsnet World ,  Sportsn…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -95,7 +95,7 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
-      "GameState": "57 ",
+      "GameState": "72 ",
       "HomeTeam": "Lyon",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
@@ -260,7 +260,7 @@
       "AwayTeam": "Real Sociedad",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  Sky HD ,  …"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
     {
       "LeagueName": "Italian Serie A",
