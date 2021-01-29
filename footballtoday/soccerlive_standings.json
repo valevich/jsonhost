@@ -1258,15 +1258,15 @@
         "teamrank": 10,
         "teamname": "Stuttgart",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-        "played": 18,
-        "wins": 5,
+        "played": 19,
+        "wins": 6,
         "draws": 7,
         "lossess": 6,
-        "goalsfor": 33,
+        "goalsfor": 35,
         "goalsagainst": 29,
-        "goalsdiff": "+4",
-        "points": 22,
-        "form": "'LLDWL'"
+        "goalsdiff": "+6",
+        "points": 25,
+        "form": "'WLLDW'"
     },
     {
         "teamrank": 11,
@@ -1356,15 +1356,15 @@
         "teamrank": 17,
         "teamname": "Mainz 05",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-        "played": 18,
+        "played": 19,
         "wins": 2,
         "draws": 4,
-        "lossess": 12,
+        "lossess": 13,
         "goalsfor": 18,
-        "goalsagainst": 38,
-        "goalsdiff": "-20",
+        "goalsagainst": 40,
+        "goalsdiff": "-22",
         "points": 10,
-        "form": "'WLDLL'"
+        "form": "'LWLDL'"
     },
     {
         "teamrank": 18,
