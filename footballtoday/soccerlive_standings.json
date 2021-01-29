@@ -496,15 +496,15 @@
         "teamrank": 16,
         "teamname": "Real Valladolid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-        "played": 20,
+        "played": 21,
         "wins": 4,
         "draws": 8,
-        "lossess": 8,
-        "goalsfor": 20,
-        "goalsagainst": 29,
-        "goalsdiff": "-9",
+        "lossess": 9,
+        "goalsfor": 21,
+        "goalsagainst": 32,
+        "goalsdiff": "-11",
         "points": 20,
-        "form": "'DDLWD'"
+        "form": "'LDDLW'"
     },
     {
         "teamrank": 17,
@@ -552,15 +552,15 @@
         "teamrank": 20,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-        "played": 20,
-        "wins": 1,
+        "played": 21,
+        "wins": 2,
         "draws": 10,
         "lossess": 9,
-        "goalsfor": 14,
-        "goalsagainst": 29,
-        "goalsdiff": "-15",
-        "points": 13,
-        "form": "'DLLLL'"
+        "goalsfor": 17,
+        "goalsagainst": 30,
+        "goalsdiff": "-13",
+        "points": 16,
+        "form": "'WDLLL'"
     }
   ],
   "serie-a": [
@@ -722,15 +722,15 @@
         "teamrank": 12,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "played": 19,
+        "played": 20,
         "wins": 5,
-        "draws": 6,
+        "draws": 7,
         "lossess": 8,
-        "goalsfor": 20,
-        "goalsagainst": 30,
+        "goalsfor": 21,
+        "goalsagainst": 31,
         "goalsdiff": "-10",
-        "points": 21,
-        "form": "'WLWLD'"
+        "points": 22,
+        "form": "'DWLWL'"
     },
     {
         "teamrank": 13,
@@ -792,15 +792,15 @@
         "teamrank": 17,
         "teamname": "Torino",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-        "played": 19,
+        "played": 20,
         "wins": 2,
-        "draws": 8,
+        "draws": 9,
         "lossess": 9,
-        "goalsfor": 28,
-        "goalsagainst": 37,
+        "goalsfor": 29,
+        "goalsagainst": 38,
         "goalsdiff": "-9",
-        "points": 14,
-        "form": "'DDLDW'"
+        "points": 15,
+        "form": "'DDDLD'"
     },
     {
         "teamrank": 18,
@@ -848,6 +848,20 @@
   "ligue-1": [
     {
         "teamrank": 1,
+        "teamname": "Olympique Lyonnais",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+        "played": 22,
+        "wins": 13,
+        "draws": 7,
+        "lossess": 2,
+        "goalsfor": 46,
+        "goalsagainst": 20,
+        "goalsdiff": "+26",
+        "points": 46,
+        "form": "'WWLDW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "PSG",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
         "played": 21,
@@ -861,7 +875,7 @@
         "form": "'WWWDW'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Lille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "played": 21,
@@ -873,20 +887,6 @@
         "goalsdiff": "+21",
         "points": 45,
         "form": "'WWWLW'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Olympique Lyonnais",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "played": 21,
-        "wins": 12,
-        "draws": 7,
-        "lossess": 2,
-        "goalsfor": 44,
-        "goalsagainst": 19,
-        "goalsdiff": "+25",
-        "points": 43,
-        "form": "'WLDWW'"
     },
     {
         "teamrank": 4,
@@ -934,15 +934,15 @@
         "teamrank": 7,
         "teamname": "Bordeaux",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
-        "played": 21,
+        "played": 22,
         "wins": 9,
         "draws": 5,
-        "lossess": 7,
-        "goalsfor": 25,
-        "goalsagainst": 22,
-        "goalsdiff": "+3",
+        "lossess": 8,
+        "goalsfor": 26,
+        "goalsagainst": 24,
+        "goalsdiff": "+2",
         "points": 32,
-        "form": "'WWWDL'"
+        "form": "'LWWWD'"
     },
     {
         "teamrank": 8,
