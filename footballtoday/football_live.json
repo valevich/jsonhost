@@ -17,12 +17,12 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "7:30am",
-      "GameState": "77 ",
+      "GameState": "FT ",
       "HomeTeam": "Everton",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
       "AwayTeam": "Newcastle Utd",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
       "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
     },
@@ -108,12 +108,12 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "8:00am",
-      "GameState": "HT ",
+      "GameState": "63 ",
       "HomeTeam": "Eibar",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
       "AwayTeam": "Sevilla FC",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
       "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
@@ -173,7 +173,7 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "9:00am",
-      "GameState": "3 '",
+      "GameState": "23 ",
       "HomeTeam": "Bologna",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
@@ -1023,6 +1023,32 @@
       "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     }
   ],
+  "day6": [
+    {
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "Thursday Feb. 4, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Tottenham",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+      "AwayTeam": "Chelsea",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+      "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
     }
   ],
   "day7": [
