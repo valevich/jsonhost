@@ -100,6 +100,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Aston Villa",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "played": 19,
+        "wins": 10,
+        "draws": 2,
+        "lossess": 7,
+        "goalsfor": 34,
+        "goalsagainst": 21,
+        "goalsdiff": "+13",
+        "points": 32,
+        "form": "'WLWLL'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "played": 21,
@@ -113,7 +127,7 @@
         "form": "'DWWDW'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 20,
@@ -127,32 +141,18 @@
         "form": "'DLWLD'"
     },
     {
-        "teamrank": 10,
-        "teamname": "Aston Villa",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 18,
-        "wins": 9,
-        "draws": 2,
-        "lossess": 7,
-        "goalsfor": 33,
-        "goalsagainst": 21,
-        "goalsdiff": "+12",
-        "points": 29,
-        "form": "'LWLLD'"
-    },
-    {
         "teamrank": 11,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "played": 19,
+        "played": 20,
         "wins": 8,
         "draws": 5,
-        "lossess": 6,
+        "lossess": 7,
         "goalsfor": 27,
-        "goalsagainst": 24,
-        "goalsdiff": "+3",
+        "goalsagainst": 25,
+        "goalsdiff": "+2",
         "points": 29,
-        "form": "'LLWDD'"
+        "form": "'LLLWD'"
     },
     {
         "teamrank": 12,
@@ -342,29 +342,29 @@
         "teamrank": 5,
         "teamname": "Villarreal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "played": 20,
+        "played": 21,
         "wins": 8,
-        "draws": 10,
+        "draws": 11,
         "lossess": 2,
-        "goalsfor": 28,
-        "goalsagainst": 19,
+        "goalsfor": 29,
+        "goalsagainst": 20,
         "goalsdiff": "+9",
-        "points": 34,
-        "form": "'DDWWL'"
+        "points": 35,
+        "form": "'DDDWW'"
     },
     {
         "teamrank": 6,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "played": 20,
+        "played": 21,
         "wins": 8,
-        "draws": 7,
+        "draws": 8,
         "lossess": 5,
-        "goalsfor": 31,
-        "goalsagainst": 18,
+        "goalsfor": 32,
+        "goalsagainst": 19,
         "goalsdiff": "+13",
-        "points": 31,
-        "form": "'DLDWL'"
+        "points": 32,
+        "form": "'DDLDW'"
     },
     {
         "teamrank": 7,
