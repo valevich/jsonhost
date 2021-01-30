@@ -582,15 +582,15 @@
         "teamrank": 2,
         "teamname": "Internazionale",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "played": 19,
-        "wins": 12,
+        "played": 20,
+        "wins": 13,
         "draws": 5,
         "lossess": 2,
-        "goalsfor": 45,
+        "goalsfor": 49,
         "goalsagainst": 23,
-        "goalsdiff": "+22",
-        "points": 41,
-        "form": "'DWDLW'"
+        "goalsdiff": "+26",
+        "points": 44,
+        "form": "'WDWDL'"
     },
     {
         "teamrank": 3,
@@ -706,20 +706,6 @@
     },
     {
         "teamrank": 11,
-        "teamname": "Benevento",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
-        "played": 19,
-        "wins": 6,
-        "draws": 4,
-        "lossess": 9,
-        "goalsfor": 23,
-        "goalsagainst": 36,
-        "goalsdiff": "-13",
-        "points": 22,
-        "form": "'DLLWL'"
-    },
-    {
-        "teamrank": 12,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
         "played": 20,
@@ -731,6 +717,20 @@
         "goalsdiff": "-10",
         "points": 22,
         "form": "'DWLWL'"
+    },
+    {
+        "teamrank": 12,
+        "teamname": "Benevento",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
+        "played": 20,
+        "wins": 6,
+        "draws": 4,
+        "lossess": 10,
+        "goalsfor": 23,
+        "goalsagainst": 40,
+        "goalsdiff": "-17",
+        "points": 22,
+        "form": "'LDLLW'"
     },
     {
         "teamrank": 13,
