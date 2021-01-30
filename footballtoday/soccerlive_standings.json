@@ -300,15 +300,15 @@
         "teamrank": 2,
         "teamname": "Real Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "played": 19,
+        "played": 20,
         "wins": 12,
         "draws": 4,
-        "lossess": 3,
-        "goalsfor": 34,
-        "goalsagainst": 16,
-        "goalsdiff": "+18",
+        "lossess": 4,
+        "goalsfor": 35,
+        "goalsagainst": 18,
+        "goalsdiff": "+17",
         "points": 40,
-        "form": "'WDWDW'"
+        "form": "'LWDWD'"
     },
     {
         "teamrank": 3,
@@ -396,6 +396,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Levante",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "played": 20,
+        "wins": 6,
+        "draws": 8,
+        "lossess": 6,
+        "goalsfor": 29,
+        "goalsagainst": 29,
+        "goalsdiff": "0",
+        "points": 26,
+        "form": "'WDDWL'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 19,
@@ -409,7 +423,7 @@
         "form": "'WLWLD'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "played": 20,
@@ -423,7 +437,7 @@
         "form": "'DLLLW'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Cádiz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
         "played": 20,
@@ -435,20 +449,6 @@
         "goalsdiff": "-10",
         "points": 24,
         "form": "'LDWDD'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Levante",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "played": 19,
-        "wins": 5,
-        "draws": 8,
-        "lossess": 6,
-        "goalsfor": 27,
-        "goalsagainst": 28,
-        "goalsdiff": "-1",
-        "points": 23,
-        "form": "'DDWLW'"
     },
     {
         "teamrank": 13,
