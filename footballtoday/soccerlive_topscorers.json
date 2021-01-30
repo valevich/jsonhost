@@ -448,6 +448,15 @@
         "playerassists": 3
     },
     {
+        "playername": "K. Toko Ekambi",
+        "playerlink": "https://www.livesoccertv.com/player/k-toko-ekambi/156672/",
+        "playerteam": "Olympique Lyonnais",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+        "playergoals": 10,
+        "playerassists": 0
+    },
+    {
         "playername": "K. Volland",
         "playerlink": "https://www.livesoccertv.com/player/k-volland/95821/",
         "playerteam": "Monaco",
@@ -489,15 +498,6 @@
         "playerteam": "PSG",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "playergoals": 9,
-        "playerassists": 0
-    },
-    {
-        "playername": "K. Toko Ekambi",
-        "playerlink": "https://www.livesoccertv.com/player/k-toko-ekambi/156672/",
-        "playerteam": "Olympique Lyonnais",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "playergoals": 9,
         "playerassists": 0
     },
