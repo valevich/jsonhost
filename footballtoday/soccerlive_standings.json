@@ -918,6 +918,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Lens",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+        "played": 22,
+        "wins": 10,
+        "draws": 4,
+        "lossess": 8,
+        "goalsfor": 32,
+        "goalsagainst": 31,
+        "goalsdiff": "+1",
+        "points": 34,
+        "form": "'WLWDL'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Olympique Marseille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
         "played": 20,
@@ -931,7 +945,7 @@
         "form": "'LLLDW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Bordeaux",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
         "played": 22,
@@ -945,7 +959,7 @@
         "form": "'LWWWD'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Metz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
         "played": 21,
@@ -957,20 +971,6 @@
         "goalsdiff": "+5",
         "points": 31,
         "form": "'WWDDL'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Lens",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-        "played": 21,
-        "wins": 9,
-        "draws": 4,
-        "lossess": 8,
-        "goalsfor": 30,
-        "goalsagainst": 30,
-        "goalsdiff": "0",
-        "points": 31,
-        "form": "'LWDLL'"
     },
     {
         "teamrank": 10,
@@ -990,15 +990,15 @@
         "teamrank": 11,
         "teamname": "Montpellier",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "played": 21,
+        "played": 22,
         "wins": 8,
         "draws": 4,
-        "lossess": 9,
-        "goalsfor": 33,
-        "goalsagainst": 39,
-        "goalsdiff": "-6",
+        "lossess": 10,
+        "goalsfor": 34,
+        "goalsagainst": 41,
+        "goalsdiff": "-7",
         "points": 28,
-        "form": "'LLDLL'"
+        "form": "'LLLDL'"
     },
     {
         "teamrank": 12,
