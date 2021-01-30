@@ -88,15 +88,15 @@
         "teamrank": 7,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-        "played": 18,
+        "played": 19,
         "wins": 10,
         "draws": 3,
-        "lossess": 5,
+        "lossess": 6,
         "goalsfor": 29,
-        "goalsagainst": 22,
-        "goalsdiff": "+7",
+        "goalsagainst": 24,
+        "goalsdiff": "+5",
         "points": 33,
-        "form": "'DWLWW'"
+        "form": "'LDWLW'"
     },
     {
         "teamrank": 8,
@@ -214,15 +214,15 @@
         "teamrank": 16,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-        "played": 20,
-        "wins": 5,
+        "played": 21,
+        "wins": 6,
         "draws": 4,
         "lossess": 11,
-        "goalsfor": 19,
+        "goalsfor": 21,
         "goalsagainst": 34,
-        "goalsdiff": "-15",
-        "points": 19,
-        "form": "'LLLLL'"
+        "goalsdiff": "-13",
+        "points": 22,
+        "form": "'WLLLL'"
     },
     {
         "teamrank": 17,
