@@ -17,12 +17,12 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "7:30am",
-      "GameState": "67 ",
+      "GameState": "77 ",
       "HomeTeam": "Everton",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
       "AwayTeam": "Newcastle Utd",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
       "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
     },
@@ -173,12 +173,12 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "9:00am",
-      "GameState": "",
+      "GameState": "3 '",
       "HomeTeam": "Bologna",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
       "AwayTeam": "Milan",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
     },
@@ -1023,32 +1023,6 @@
       "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     }
   ],
-  "day6": [
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "Thursday Feb. 4, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Tottenham",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-      "AwayTeam": "Chelsea",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
     }
   ],
   "day7": [
