@@ -608,6 +608,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Napoli",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "played": 19,
+        "wins": 12,
+        "draws": 1,
+        "lossess": 6,
+        "goalsfor": 43,
+        "goalsagainst": 19,
+        "goalsdiff": "+24",
+        "points": 37,
+        "form": "'WLWWL'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Roma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
         "played": 19,
@@ -621,7 +635,7 @@
         "form": "'WLDWW'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Lazio",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
         "played": 20,
@@ -635,7 +649,7 @@
         "form": "'WWWWW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Atalanta",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
         "played": 20,
@@ -647,20 +661,6 @@
         "goalsdiff": "+19",
         "points": 36,
         "form": "'LWDDW'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Napoli",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "played": 18,
-        "wins": 11,
-        "draws": 1,
-        "lossess": 6,
-        "goalsfor": 41,
-        "goalsagainst": 19,
-        "goalsdiff": "+22",
-        "points": 34,
-        "form": "'LWWLW'"
     },
     {
         "teamrank": 8,
@@ -820,15 +820,15 @@
         "teamrank": 19,
         "teamname": "Parma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-        "played": 19,
+        "played": 20,
         "wins": 2,
         "draws": 7,
-        "lossess": 10,
+        "lossess": 11,
         "goalsfor": 14,
-        "goalsagainst": 36,
-        "goalsdiff": "-22",
+        "goalsagainst": 38,
+        "goalsdiff": "-24",
         "points": 13,
-        "form": "'LDLLL'"
+        "form": "'LLDLL'"
     },
     {
         "teamrank": 20,
@@ -1158,6 +1158,20 @@
     },
     {
         "teamrank": 3,
+        "teamname": "Wolfsburg",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+        "played": 19,
+        "wins": 9,
+        "draws": 8,
+        "lossess": 2,
+        "goalsfor": 30,
+        "goalsagainst": 19,
+        "goalsdiff": "+11",
+        "points": 35,
+        "form": "'WWWDD'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Eintracht Frankfurt",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
         "played": 19,
@@ -1171,7 +1185,7 @@
         "form": "'WWDWW'"
     },
     {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Bayer Leverkusen",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
         "played": 19,
@@ -1185,7 +1199,7 @@
         "form": "'LLWLD'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Borussia Dortmund",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
         "played": 19,
@@ -1197,20 +1211,6 @@
         "goalsdiff": "+11",
         "points": 32,
         "form": "'WLLDW'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Wolfsburg",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "played": 18,
-        "wins": 8,
-        "draws": 8,
-        "lossess": 2,
-        "goalsfor": 27,
-        "goalsagainst": 19,
-        "goalsdiff": "+8",
-        "points": 32,
-        "form": "'WWDDL'"
     },
     {
         "teamrank": 7,
@@ -1244,15 +1244,15 @@
         "teamrank": 9,
         "teamname": "Freiburg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-        "played": 18,
+        "played": 19,
         "wins": 7,
         "draws": 6,
-        "lossess": 5,
+        "lossess": 6,
         "goalsfor": 33,
-        "goalsagainst": 29,
-        "goalsdiff": "+4",
+        "goalsagainst": 32,
+        "goalsdiff": "+1",
         "points": 27,
-        "form": "'WDLWW'"
+        "form": "'LWDLW'"
     },
     {
         "teamrank": 10,
