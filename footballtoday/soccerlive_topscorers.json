@@ -64,6 +64,15 @@
         "playerassists": 1
     },
     {
+        "playername": "C. Wilson",
+        "playerlink": "https://www.livesoccertv.com/player/c-wilson/87664/",
+        "playerteam": "Newcastle United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/newcastle-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+        "playergoals": 10,
+        "playerassists": 4
+    },
+    {
         "playername": "W. Zaha",
         "playerlink": "https://www.livesoccertv.com/player/w-zaha/110122/",
         "playerteam": "Crystal Palace",
@@ -89,15 +98,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "playergoals": 8,
         "playerassists": 1
-    },
-    {
-        "playername": "C. Wilson",
-        "playerlink": "https://www.livesoccertv.com/player/c-wilson/87664/",
-        "playerteam": "Newcastle United",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/newcastle-united/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-        "playergoals": 8,
-        "playerassists": 4
     },
     {
         "playername": "İ. Gündoğan",
@@ -197,8 +197,17 @@
         "playerteam": "Levante",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "playergoals": 8,
+        "playergoals": 9,
         "playerassists": 1
+    },
+    {
+        "playername": "Morales",
+        "playerlink": "https://www.livesoccertv.com/player/jose-luis-morales/211121/",
+        "playerteam": "Levante",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "playergoals": 8,
+        "playerassists": 0
     },
     {
         "playername": "Mikel Oyarzabal",
@@ -217,15 +226,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "playergoals": 7,
         "playerassists": 2
-    },
-    {
-        "playername": "Morales",
-        "playerlink": "https://www.livesoccertv.com/player/jose-luis-morales/211121/",
-        "playerteam": "Levante",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "playergoals": 7,
-        "playerassists": 0
     },
     {
         "playername": "Llorente",
@@ -284,6 +284,15 @@
         "playerassists": 4
     },
     {
+        "playername": "R. Lukaku",
+        "playerlink": "https://www.livesoccertv.com/player/r-lukaku/79627/",
+        "playerteam": "Internazionale",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+        "playergoals": 14,
+        "playerassists": 3
+    },
+    {
         "playername": "C. Immobile",
         "playerlink": "https://www.livesoccertv.com/player/c-immobile/75297/",
         "playerteam": "Lazio",
@@ -298,15 +307,6 @@
         "playerteam": "Milan",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/ac-milan/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-        "playergoals": 12,
-        "playerassists": 3
-    },
-    {
-        "playername": "R. Lukaku",
-        "playerlink": "https://www.livesoccertv.com/player/r-lukaku/79627/",
-        "playerteam": "Internazionale",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "playergoals": 12,
         "playerassists": 3
     },
@@ -338,6 +338,15 @@
         "playerassists": 2
     },
     {
+        "playername": "L. Martínez",
+        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
+        "playerteam": "Internazionale",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+        "playergoals": 10,
+        "playerassists": 0
+    },
+    {
         "playername": "L. Insigne",
         "playerlink": "https://www.livesoccertv.com/player/l-insigne/104026/",
         "playerteam": "Napoli",
@@ -352,15 +361,6 @@
         "playerteam": "Napoli",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "playergoals": 9,
-        "playerassists": 0
-    },
-    {
-        "playername": "L. Martínez",
-        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
-        "playerteam": "Internazionale",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "playergoals": 9,
         "playerassists": 0
     },
