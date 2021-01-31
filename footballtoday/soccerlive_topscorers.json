@@ -228,6 +228,15 @@
         "playerassists": 2
     },
     {
+        "playername": "A. Isak",
+        "playerlink": "https://www.livesoccertv.com/player/a-isak/309686/",
+        "playerteam": "Real Sociedad",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+        "playergoals": 6,
+        "playerassists": 0
+    },
+    {
         "playername": "Llorente",
         "playerlink": "https://www.livesoccertv.com/player/marcos-llorente/250443/",
         "playerteam": "Atletico Madrid",
@@ -262,15 +271,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "playergoals": 6,
         "playerassists": 5
-    },
-    {
-        "playername": "Paco Alcácer",
-        "playerlink": "https://www.livesoccertv.com/player/paco-alcacer/138913/",
-        "playerteam": "Villarreal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "playergoals": 5,
-        "playerassists": 1
     }
   ],
   "serie-a": [
@@ -493,6 +493,15 @@
         "playerassists": 0
     },
     {
+        "playername": "G. Kakuta",
+        "playerlink": "https://www.livesoccertv.com/player/g-kakuta/92854/",
+        "playerteam": "Lens",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lens/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+        "playergoals": 9,
+        "playerassists": 5
+    },
+    {
         "playername": "M. Kean",
         "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
         "playerteam": "PSG",
@@ -509,15 +518,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "playergoals": 9,
         "playerassists": 2
-    },
-    {
-        "playername": "G. Kakuta",
-        "playerlink": "https://www.livesoccertv.com/player/g-kakuta/92854/",
-        "playerteam": "Lens",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/lens/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-        "playergoals": 8,
-        "playerassists": 5
     },
     {
         "playername": "H. Diallo",
