@@ -424,6 +424,20 @@
     },
     {
         "teamrank": 11,
+        "teamname": "Getafe",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+        "played": 20,
+        "wins": 6,
+        "draws": 6,
+        "lossess": 8,
+        "goalsfor": 17,
+        "goalsagainst": 23,
+        "goalsdiff": "-6",
+        "points": 24,
+        "form": "'DLWWL'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "played": 20,
@@ -437,7 +451,7 @@
         "form": "'DLLLW'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Cádiz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
         "played": 20,
@@ -451,7 +465,7 @@
         "form": "'LDWDD'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "played": 21,
@@ -463,20 +477,6 @@
         "goalsdiff": "-2",
         "points": 23,
         "form": "'WLDWD'"
-    },
-    {
-        "teamrank": 14,
-        "teamname": "Getafe",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-        "played": 19,
-        "wins": 6,
-        "draws": 5,
-        "lossess": 8,
-        "goalsfor": 17,
-        "goalsagainst": 23,
-        "goalsdiff": "-6",
-        "points": 23,
-        "form": "'LWWLL'"
     },
     {
         "teamrank": 15,
@@ -524,15 +524,15 @@
         "teamrank": 18,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-        "played": 20,
+        "played": 21,
         "wins": 4,
-        "draws": 6,
+        "draws": 7,
         "lossess": 10,
         "goalsfor": 18,
         "goalsagainst": 29,
         "goalsdiff": "-11",
-        "points": 18,
-        "form": "'LLLLD'"
+        "points": 19,
+        "form": "'DLLLL'"
     },
     {
         "teamrank": 19,
