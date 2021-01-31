@@ -370,15 +370,15 @@
         "teamrank": 7,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "played": 20,
+        "played": 21,
         "wins": 8,
-        "draws": 4,
+        "draws": 5,
         "lossess": 8,
         "goalsfor": 24,
         "goalsagainst": 34,
         "goalsdiff": "-10",
-        "points": 28,
-        "form": "'LDWLL'"
+        "points": 29,
+        "form": "'DLDWL'"
     },
     {
         "teamrank": 8,
@@ -410,6 +410,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Celta de Vigo",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "played": 21,
+        "wins": 6,
+        "draws": 7,
+        "lossess": 8,
+        "goalsfor": 24,
+        "goalsagainst": 31,
+        "goalsdiff": "-7",
+        "points": 25,
+        "form": "'DDLLL'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 19,
@@ -423,7 +437,7 @@
         "form": "'WLWLD'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Getafe",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
         "played": 20,
@@ -435,20 +449,6 @@
         "goalsdiff": "-6",
         "points": 24,
         "form": "'DLWWL'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Celta de Vigo",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "played": 20,
-        "wins": 6,
-        "draws": 6,
-        "lossess": 8,
-        "goalsfor": 24,
-        "goalsagainst": 31,
-        "goalsdiff": "-7",
-        "points": 24,
-        "form": "'DLLLW'"
     },
     {
         "teamrank": 13,
