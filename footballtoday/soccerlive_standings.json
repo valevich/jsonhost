@@ -86,6 +86,20 @@
     },
     {
         "teamrank": 7,
+        "teamname": "Chelsea",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+        "played": 21,
+        "wins": 9,
+        "draws": 6,
+        "lossess": 6,
+        "goalsfor": 35,
+        "goalsagainst": 23,
+        "goalsdiff": "+12",
+        "points": 33,
+        "form": "'WDLWL'"
+    },
+    {
+        "teamrank": 8,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
         "played": 19,
@@ -99,7 +113,7 @@
         "form": "'LDWLW'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "played": 19,
@@ -113,7 +127,7 @@
         "form": "'WLWLL'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "played": 21,
@@ -125,20 +139,6 @@
         "goalsdiff": "+6",
         "points": 31,
         "form": "'DWWDW'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Chelsea",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "played": 20,
-        "wins": 8,
-        "draws": 6,
-        "lossess": 6,
-        "goalsfor": 33,
-        "goalsagainst": 23,
-        "goalsdiff": "+10",
-        "points": 30,
-        "form": "'DLWLD'"
     },
     {
         "teamrank": 11,
@@ -198,20 +198,6 @@
     },
     {
         "teamrank": 15,
-        "teamname": "Burnley",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-        "played": 19,
-        "wins": 6,
-        "draws": 4,
-        "lossess": 9,
-        "goalsfor": 13,
-        "goalsagainst": 24,
-        "goalsdiff": "-11",
-        "points": 22,
-        "form": "'WWLLW'"
-    },
-    {
-        "teamrank": 16,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "played": 21,
@@ -223,6 +209,20 @@
         "goalsdiff": "-13",
         "points": 22,
         "form": "'WLLLL'"
+    },
+    {
+        "teamrank": 16,
+        "teamname": "Burnley",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+        "played": 20,
+        "wins": 6,
+        "draws": 4,
+        "lossess": 10,
+        "goalsfor": 13,
+        "goalsagainst": 26,
+        "goalsdiff": "-13",
+        "points": 22,
+        "form": "'LWWLL'"
     },
     {
         "teamrank": 17,
@@ -1002,20 +1002,6 @@
     },
     {
         "teamrank": 12,
-        "teamname": "Nice",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-        "played": 20,
-        "wins": 7,
-        "draws": 5,
-        "lossess": 8,
-        "goalsfor": 23,
-        "goalsagainst": 28,
-        "goalsdiff": "-5",
-        "points": 26,
-        "form": "'WLDLD'"
-    },
-    {
-        "teamrank": 13,
         "teamname": "Brest",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
         "played": 21,
@@ -1027,6 +1013,20 @@
         "goalsdiff": "-6",
         "points": 26,
         "form": "'LLLWL'"
+    },
+    {
+        "teamrank": 13,
+        "teamname": "Nice",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+        "played": 21,
+        "wins": 7,
+        "draws": 5,
+        "lossess": 9,
+        "goalsfor": 23,
+        "goalsagainst": 29,
+        "goalsdiff": "-6",
+        "points": 26,
+        "form": "'LWLDL'"
     },
     {
         "teamrank": 14,
@@ -1060,15 +1060,15 @@
         "teamrank": 16,
         "teamname": "Saint-Étienne",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-        "played": 21,
-        "wins": 4,
+        "played": 22,
+        "wins": 5,
         "draws": 7,
         "lossess": 10,
-        "goalsfor": 20,
+        "goalsfor": 21,
         "goalsagainst": 35,
-        "goalsdiff": "-15",
-        "points": 19,
-        "form": "'LLLDD'"
+        "goalsdiff": "-14",
+        "points": 22,
+        "form": "'WLLLD'"
     },
     {
         "teamrank": 17,
