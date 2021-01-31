@@ -63,7 +63,7 @@
       "AwayTeam": "Tottenham",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  B…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  Blue T…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -121,9 +121,9 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "51 ",
+      "GameState": "82 ",
       "HomeTeam": "Barcelona",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
       "AwayTeam": "Athletic Club",
       "AwayGoals": "1",
@@ -212,7 +212,7 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "64 ",
+      "GameState": "FT ",
       "HomeTeam": "Roma",
       "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
@@ -355,12 +355,12 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
-      "GameState": "52 ",
+      "GameState": "84 ",
       "HomeTeam": "Nantes",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
       "AwayTeam": "Monaco",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
       "TVChannels": "fuboTV ,  TV5 Monde ,  beIN SPORTS…"
     }
