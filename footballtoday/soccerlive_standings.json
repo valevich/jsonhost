@@ -1312,6 +1312,20 @@
     },
     {
         "teamrank": 14,
+        "teamname": "Köln",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+        "played": 19,
+        "wins": 4,
+        "draws": 6,
+        "lossess": 9,
+        "goalsfor": 18,
+        "goalsagainst": 32,
+        "goalsdiff": "-14",
+        "points": 18,
+        "form": "'WLWDL'"
+    },
+    {
+        "teamrank": 15,
         "teamname": "Hertha BSC",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
         "played": 19,
@@ -1325,32 +1339,18 @@
         "form": "'LLLDL'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Arminia Bielefeld",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
-        "played": 18,
+        "played": 19,
         "wins": 5,
         "draws": 2,
-        "lossess": 11,
-        "goalsfor": 14,
-        "goalsagainst": 29,
-        "goalsdiff": "-15",
-        "points": 17,
-        "form": "'LWDWL'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Köln",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-        "played": 18,
-        "wins": 3,
-        "draws": 6,
-        "lossess": 9,
+        "lossess": 12,
         "goalsfor": 15,
-        "goalsagainst": 31,
-        "goalsdiff": "-16",
-        "points": 15,
-        "form": "'LWDLL'"
+        "goalsagainst": 32,
+        "goalsdiff": "-17",
+        "points": 17,
+        "form": "'LLWDW'"
     },
     {
         "teamrank": 17,
