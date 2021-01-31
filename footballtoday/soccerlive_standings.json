@@ -298,6 +298,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Barcelona",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "played": 20,
+        "wins": 12,
+        "draws": 4,
+        "lossess": 4,
+        "goalsfor": 41,
+        "goalsagainst": 18,
+        "goalsdiff": "+23",
+        "points": 40,
+        "form": "'WWWWW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Real Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
         "played": 20,
@@ -311,7 +325,7 @@
         "form": "'LWDWD'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
         "played": 20,
@@ -323,20 +337,6 @@
         "goalsdiff": "+12",
         "points": 39,
         "form": "'WWWLW'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Barcelona",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "played": 19,
-        "wins": 11,
-        "draws": 4,
-        "lossess": 4,
-        "goalsfor": 39,
-        "goalsagainst": 17,
-        "goalsdiff": "+22",
-        "points": 37,
-        "form": "'WWWWD'"
     },
     {
         "teamrank": 5,
@@ -426,15 +426,15 @@
         "teamrank": 11,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "played": 19,
+        "played": 20,
         "wins": 7,
         "draws": 3,
-        "lossess": 9,
-        "goalsfor": 26,
-        "goalsagainst": 23,
-        "goalsdiff": "+3",
+        "lossess": 10,
+        "goalsfor": 27,
+        "goalsagainst": 25,
+        "goalsdiff": "+2",
         "points": 24,
-        "form": "'WLWLD'"
+        "form": "'LWLWL'"
     },
     {
         "teamrank": 12,
@@ -892,15 +892,15 @@
         "teamrank": 4,
         "teamname": "Monaco",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "played": 21,
-        "wins": 12,
+        "played": 22,
+        "wins": 13,
         "draws": 3,
         "lossess": 6,
-        "goalsfor": 42,
-        "goalsagainst": 30,
-        "goalsdiff": "+12",
-        "points": 39,
-        "form": "'WWWWD'"
+        "goalsfor": 44,
+        "goalsagainst": 31,
+        "goalsdiff": "+13",
+        "points": 42,
+        "form": "'WWWWW'"
     },
     {
         "teamrank": 5,
@@ -1074,15 +1074,15 @@
         "teamrank": 17,
         "teamname": "Nantes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-        "played": 21,
+        "played": 22,
         "wins": 3,
         "draws": 9,
-        "lossess": 9,
-        "goalsfor": 20,
-        "goalsagainst": 34,
-        "goalsdiff": "-14",
+        "lossess": 10,
+        "goalsfor": 21,
+        "goalsagainst": 36,
+        "goalsdiff": "-15",
         "points": 18,
-        "form": "'LDDDL'"
+        "form": "'LLDDD'"
     },
     {
         "teamrank": 18,
