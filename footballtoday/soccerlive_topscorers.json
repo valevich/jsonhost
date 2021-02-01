@@ -439,6 +439,15 @@
         "playerassists": 6
     },
     {
+        "playername": "K. Volland",
+        "playerlink": "https://www.livesoccertv.com/player/k-volland/95821/",
+        "playerteam": "Monaco",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "playergoals": 11,
+        "playerassists": 0
+    },
+    {
         "playername": "L. Ajorque",
         "playerlink": "https://www.livesoccertv.com/player/l-ajorque/214402/",
         "playerteam": "Strasbourg",
@@ -453,15 +462,6 @@
         "playerteam": "Olympique Lyonnais",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "playergoals": 10,
-        "playerassists": 0
-    },
-    {
-        "playername": "K. Volland",
-        "playerlink": "https://www.livesoccertv.com/player/k-volland/95821/",
-        "playerteam": "Monaco",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
         "playergoals": 10,
         "playerassists": 0
     },
@@ -529,20 +529,20 @@
         "playerassists": 1
     },
     {
+        "playername": "F. Honorat",
+        "playerlink": "https://www.livesoccertv.com/player/f-honorat/219006/",
+        "playerteam": "Brest",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/brest/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+        "playergoals": 7,
+        "playerassists": 0
+    },
+    {
         "playername": "Mama Baldé",
         "playerlink": "https://www.livesoccertv.com/player/balde/268155/",
         "playerteam": "Dijon",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/dijon/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
-        "playergoals": 6,
-        "playerassists": 0
-    },
-    {
-        "playername": "J. Bamba",
-        "playerlink": "https://www.livesoccertv.com/player/j-bamba/249220/",
-        "playerteam": "Lille",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "playergoals": 6,
         "playerassists": 0
     }
