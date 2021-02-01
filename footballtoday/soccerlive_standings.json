@@ -368,6 +368,20 @@
     },
     {
         "teamrank": 7,
+        "teamname": "Real Betis",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "played": 21,
+        "wins": 9,
+        "draws": 3,
+        "lossess": 9,
+        "goalsfor": 27,
+        "goalsagainst": 34,
+        "goalsdiff": "-7",
+        "points": 30,
+        "form": "'WDWWD'"
+    },
+    {
+        "teamrank": 8,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
         "played": 21,
@@ -379,20 +393,6 @@
         "goalsdiff": "-10",
         "points": 29,
         "form": "'DLDWL'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Real Betis",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 20,
-        "wins": 8,
-        "draws": 3,
-        "lossess": 9,
-        "goalsfor": 26,
-        "goalsagainst": 34,
-        "goalsdiff": "-8",
-        "points": 27,
-        "form": "'DWWDL'"
     },
     {
         "teamrank": 9,
@@ -510,15 +510,15 @@
         "teamrank": 17,
         "teamname": "Osasuna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-        "played": 20,
+        "played": 21,
         "wins": 4,
         "draws": 7,
-        "lossess": 9,
+        "lossess": 10,
         "goalsfor": 19,
-        "goalsagainst": 29,
-        "goalsdiff": "-10",
+        "goalsagainst": 30,
+        "goalsdiff": "-11",
         "points": 19,
-        "form": "'WDLDD'"
+        "form": "'LWDLD'"
     },
     {
         "teamrank": 18,
