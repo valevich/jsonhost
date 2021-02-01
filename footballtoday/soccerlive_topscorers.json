@@ -161,7 +161,7 @@
         "playerteam": "Barcelona",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "playergoals": 11,
+        "playergoals": 12,
         "playerassists": 2
     },
     {
@@ -228,6 +228,15 @@
         "playerassists": 2
     },
     {
+        "playername": "A. Griezmann",
+        "playerlink": "https://www.livesoccertv.com/player/a-griezmann/90283/",
+        "playerteam": "Barcelona",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "playergoals": 6,
+        "playerassists": 0
+    },
+    {
         "playername": "A. Isak",
         "playerlink": "https://www.livesoccertv.com/player/a-isak/309686/",
         "playerteam": "Real Sociedad",
@@ -262,15 +271,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
         "playergoals": 6,
         "playerassists": 0
-    },
-    {
-        "playername": "João Félix",
-        "playerlink": "https://www.livesoccertv.com/player/joao-felix/338331/",
-        "playerteam": "Atletico Madrid",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "playergoals": 6,
-        "playerassists": 1
     }
   ],
   "serie-a": [
@@ -590,7 +590,7 @@
         "playerteam": "Wolfsburg",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "playergoals": 12,
+        "playergoals": 13,
         "playerassists": 2
     },
     {
