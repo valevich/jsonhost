@@ -18,15 +18,15 @@
         "teamrank": 2,
         "teamname": "Manchester United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "played": 21,
-        "wins": 12,
+        "played": 22,
+        "wins": 13,
         "draws": 5,
         "lossess": 4,
-        "goalsfor": 37,
+        "goalsfor": 46,
         "goalsagainst": 27,
-        "goalsdiff": "+10",
-        "points": 41,
-        "form": "'DLWDW'"
+        "goalsdiff": "+19",
+        "points": 44,
+        "form": "'WDLWD'"
     },
     {
         "teamrank": 3,
@@ -142,20 +142,6 @@
     },
     {
         "teamrank": 11,
-        "teamname": "Southampton",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "played": 20,
-        "wins": 8,
-        "draws": 5,
-        "lossess": 7,
-        "goalsfor": 27,
-        "goalsagainst": 25,
-        "goalsdiff": "+2",
-        "points": 29,
-        "form": "'LLLWD'"
-    },
-    {
-        "teamrank": 12,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "played": 20,
@@ -169,7 +155,35 @@
         "form": "'WWLLW'"
     },
     {
+        "teamrank": 12,
+        "teamname": "Southampton",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+        "played": 21,
+        "wins": 8,
+        "draws": 5,
+        "lossess": 8,
+        "goalsfor": 27,
+        "goalsagainst": 34,
+        "goalsdiff": "-7",
+        "points": 29,
+        "form": "'LLLLW'"
+    },
+    {
         "teamrank": 13,
+        "teamname": "Crystal Palace",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+        "played": 22,
+        "wins": 8,
+        "draws": 5,
+        "lossess": 9,
+        "goalsfor": 27,
+        "goalsagainst": 37,
+        "goalsdiff": "-10",
+        "points": 29,
+        "form": "'WWLLD'"
+    },
+    {
+        "teamrank": 14,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
         "played": 22,
@@ -183,35 +197,7 @@
         "form": "'WLDLL'"
     },
     {
-        "teamrank": 14,
-        "teamname": "Crystal Palace",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "played": 21,
-        "wins": 7,
-        "draws": 5,
-        "lossess": 9,
-        "goalsfor": 25,
-        "goalsagainst": 36,
-        "goalsdiff": "-11",
-        "points": 26,
-        "form": "'WLLDW'"
-    },
-    {
         "teamrank": 15,
-        "teamname": "Newcastle United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-        "played": 21,
-        "wins": 6,
-        "draws": 4,
-        "lossess": 11,
-        "goalsfor": 21,
-        "goalsagainst": 34,
-        "goalsdiff": "-13",
-        "points": 22,
-        "form": "'WLLLL'"
-    },
-    {
-        "teamrank": 16,
         "teamname": "Burnley",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
         "played": 20,
@@ -223,6 +209,20 @@
         "goalsdiff": "-13",
         "points": 22,
         "form": "'LWWLL'"
+    },
+    {
+        "teamrank": 16,
+        "teamname": "Newcastle United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+        "played": 22,
+        "wins": 6,
+        "draws": 4,
+        "lossess": 12,
+        "goalsfor": 22,
+        "goalsagainst": 36,
+        "goalsdiff": "-14",
+        "points": 22,
+        "form": "'LWLLL'"
     },
     {
         "teamrank": 17,
