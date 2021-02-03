@@ -10,6 +10,15 @@
         "playerassists": 5
     },
     {
+        "playername": "Bruno Fernandes",
+        "playerlink": "https://www.livesoccertv.com/player/bruno-fernandes/222404/",
+        "playerteam": "Manchester United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "playergoals": 12,
+        "playerassists": 6
+    },
+    {
         "playername": "H. Kane",
         "playerlink": "https://www.livesoccertv.com/player/h-kane/134501/",
         "playerteam": "Tottenham Hotspur",
@@ -35,15 +44,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "playergoals": 11,
         "playerassists": 1
-    },
-    {
-        "playername": "Bruno Fernandes",
-        "playerlink": "https://www.livesoccertv.com/player/bruno-fernandes/222404/",
-        "playerteam": "Manchester United",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "playergoals": 11,
-        "playerassists": 5
     },
     {
         "playername": "D. Calvert-Lewin",
