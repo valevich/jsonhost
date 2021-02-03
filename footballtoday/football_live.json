@@ -17,7 +17,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "1:00pm",
-      "GameState": "78 ",
+      "GameState": "FT ",
       "HomeTeam": "Fulham",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
@@ -30,7 +30,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "1:00pm",
-      "GameState": "80 ",
+      "GameState": "FT ",
       "HomeTeam": "Burnley",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
@@ -43,12 +43,12 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "2:30pm",
-      "GameState": "4 '",
+      "GameState": "25 ",
       "HomeTeam": "Leeds United",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
       "AwayTeam": "Everton",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
       "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
     },
@@ -95,12 +95,12 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "1:00pm",
-      "GameState": "80 ",
+      "GameState": "FT ",
       "HomeTeam": "Bordeaux",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
       "AwayTeam": "Lille",
-      "AwayGoals": "2",
+      "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
       "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  fu…"
     },
@@ -108,12 +108,12 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "1:00pm",
-      "GameState": "80 ",
+      "GameState": "FT ",
       "HomeTeam": "Stade Rennes",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
       "AwayTeam": "Lorient",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
       "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
@@ -121,7 +121,7 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "1:00pm",
-      "GameState": "80 ",
+      "GameState": "FT ",
       "HomeTeam": "Metz",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
@@ -134,7 +134,7 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "1:00pm",
-      "GameState": "80 ",
+      "GameState": "FT ",
       "HomeTeam": "Stade de Reims",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
@@ -147,12 +147,12 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "1:00pm",
-      "GameState": "81 ",
+      "GameState": "FT ",
       "HomeTeam": "Strasbourg",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
       "AwayTeam": "Brest",
-      "AwayGoals": "0",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
       "TVChannels": "Viaplay Denmark ,  Viaplay Sweden ,  Viaplay N…"
     },
@@ -301,7 +301,7 @@
       "AwayTeam": "Inter",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN2 Nort…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -498,7 +498,7 @@
       "AwayTeam": "Torino",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN2 Cari…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -537,7 +537,7 @@
       "AwayTeam": "Napoli",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN2 Nort…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -851,7 +851,7 @@
       "AwayTeam": "Crotone",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN2 Cari…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -877,7 +877,7 @@
       "AwayTeam": "Bologna",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Norte ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN No…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -890,7 +890,7 @@
       "AwayTeam": "Cagliari",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Norte ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN No…"
     },
     {
       "LeagueName": "German Bundesliga",
