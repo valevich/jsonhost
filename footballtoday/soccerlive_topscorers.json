@@ -91,6 +91,15 @@
         "playerassists": 1
     },
     {
+        "playername": "M. Rashford",
+        "playerlink": "https://www.livesoccertv.com/player/m-rashford/308286/",
+        "playerteam": "Manchester United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "playergoals": 8,
+        "playerassists": 0
+    },
+    {
         "playername": "O. Watkins",
         "playerlink": "https://www.livesoccertv.com/player/o-watkins/264917/",
         "playerteam": "Aston Villa",
@@ -125,15 +134,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
         "playergoals": 7,
         "playerassists": 2
-    },
-    {
-        "playername": "S. Mané",
-        "playerlink": "https://www.livesoccertv.com/player/s-mane/167200/",
-        "playerteam": "Liverpool",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "playergoals": 7,
-        "playerassists": 0
     }
   ],
   "primera-division": [
