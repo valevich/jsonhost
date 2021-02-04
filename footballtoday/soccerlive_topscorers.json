@@ -19,6 +19,15 @@
         "playerassists": 6
     },
     {
+        "playername": "D. Calvert-Lewin",
+        "playerlink": "https://www.livesoccertv.com/player/d-calvert-lewin/258776/",
+        "playerteam": "Everton",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/everton/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+        "playergoals": 12,
+        "playerassists": 0
+    },
+    {
         "playername": "H. Kane",
         "playerlink": "https://www.livesoccertv.com/player/h-kane/134501/",
         "playerteam": "Tottenham Hotspur",
@@ -46,15 +55,6 @@
         "playerassists": 1
     },
     {
-        "playername": "D. Calvert-Lewin",
-        "playerlink": "https://www.livesoccertv.com/player/d-calvert-lewin/258776/",
-        "playerteam": "Everton",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/everton/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-        "playergoals": 11,
-        "playerassists": 0
-    },
-    {
         "playername": "J. Vardy",
         "playerlink": "https://www.livesoccertv.com/player/j-vardy/135178/",
         "playerteam": "Leicester City",
@@ -71,6 +71,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "playergoals": 10,
         "playerassists": 4
+    },
+    {
+        "playername": "O. Watkins",
+        "playerlink": "https://www.livesoccertv.com/player/o-watkins/264917/",
+        "playerteam": "Aston Villa",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/aston-villa/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "playergoals": 9,
+        "playerassists": 1
     },
     {
         "playername": "W. Zaha",
@@ -100,13 +109,13 @@
         "playerassists": 0
     },
     {
-        "playername": "O. Watkins",
-        "playerlink": "https://www.livesoccertv.com/player/o-watkins/264917/",
-        "playerteam": "Aston Villa",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/aston-villa/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "playername": "T. Souček",
+        "playerlink": "https://www.livesoccertv.com/player/t-soucek/254136/",
+        "playerteam": "West Ham United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/west-ham-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "playergoals": 8,
-        "playerassists": 1
+        "playerassists": 0
     },
     {
         "playername": "H. Barnes",
@@ -125,15 +134,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "playergoals": 7,
         "playerassists": 1
-    },
-    {
-        "playername": "D. Ings",
-        "playerlink": "https://www.livesoccertv.com/player/d-ings/120917/",
-        "playerteam": "Southampton",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/southampton/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "playergoals": 7,
-        "playerassists": 2
     }
   ],
   "primera-division": [
