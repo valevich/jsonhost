@@ -108,7 +108,7 @@
     "continent": "",
     "iso_alpha2": "BE",
     "name": "Belgium",
-    "score": "Partially restricted",
+    "score": "Entry prohibited",
     "updated": "Foreign nationals are prohibited from entering Belgium. This policy does not apply to residents from countries or regions in the European Union, countries or regions associated with the Schengen Area, Australia, Japan, New Zealand, Rwanda, Singapore, South Korea, Thailand, or the United Kingdom. All persons arriving from a location Belgian authorities consider high-risk for COVID-19 infection must carry proof of a negative test result issued no more than 72 hours prior to departure. All persons, regardless of origin, must complete a Public Health Passenger Locator Form within 48 hours of arrival in Belgium. After submitting their locator form, travelers will receive notification as to whether they are obliged to undergo quarantine. Persons arriving from high-risk locations will also receive a code for use when seeking additional testing for COVID-19. More information and locator forms are available via the following URL: https://www.info-coronavirus.be/en/travels/"
   },
   {
@@ -731,7 +731,7 @@
     "continent": "",
     "iso_alpha2": "LK",
     "name": "Sri Lanka",
-    "score": "Entry prohibited",
+    "score": "Partially restricted",
     "updated": "All travelers must, prior to departure, apply online to Sri Lankan immigration authorities for an entry visa. Confirmation of a pre-booked quarantine hotel, prepayment for on-arrival polymerase chain reaction (PCR) tests for COVID-19, and proof of valid medical insurance with a minimum coverage amount of US$50,000 are required during the visa application process. More information is available at the following URL: https://www.srilanka.travel/helloagain/"
   },
   {
@@ -948,7 +948,7 @@
     "continent": "",
     "iso_alpha2": "NO",
     "name": "Norway",
-    "score": "Partially restricted",
+    "score": "Entry prohibited",
     "updated": "From January 29, 2021, foreign nationals are prohibited from entering Norway. This policy does not apply to lawful foreign residents, transit passengers, persons with special reasons to enter Norway, persons traveling in order to have formalized contact with a parent or child, close family members of persons residing in Norway, journalists and other personnel on assignment for a foreign media institution, seafarers and aviation personnel, persons who perform commercial transport of goods and passengers, persons who work in critical public functions, and healthcare personnel from Sweden and Finland who work in the Norwegian health and care services. More information is available at the following URL: https://www.regjeringen.no/en/aktuelt/norway-introduces-its-strictest-entry-rules-since-march-2020/id2830390/"
   },
   {
@@ -1116,7 +1116,7 @@
     "continent": "",
     "iso_alpha2": "SE",
     "name": "Sweden",
-    "score": "Partially restricted",
+    "score": "Entry prohibited",
     "updated": "From January 25, 2021, foreign nationals are prohibited from entering Sweden for non-essential travel. This policy does not apply to persons traveling from countries or regions in the European Union (with the exception of Denmark) and countries or regions associated with the Schengen Area (with the exception of Norway). More information is available at the following URL: https://www.government.se/articles/2020/04/faqs--entry-to-the-eu-via-sweden-banned"
   },
   {
@@ -1207,7 +1207,7 @@
     "continent": "",
     "iso_alpha2": "SZ",
     "name": "Eswatini",
-    "score": "Entry prohibited",
+    "score": "Partially restricted",
     "updated": "All persons must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Persons transiting Eswatini or who intend to cross land border checkpoints several times en route to Mozambique or South Africa may use their initial PCR test results for up to 14 days from the date of testing. All persons departing Eswatini by air must, before boarding aircraft bound for destinations abroad, show proof of a negative PCR test result issued no more than 72 hours prior to departure."
   },
   {
