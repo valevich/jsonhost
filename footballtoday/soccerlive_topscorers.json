@@ -417,7 +417,7 @@
         "playerteam": "PSG",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "playergoals": 14,
+        "playergoals": 15,
         "playerassists": 4
     },
     {
@@ -428,6 +428,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
         "playergoals": 12,
         "playerassists": 5
+    },
+    {
+        "playername": "W. Ben Yedder",
+        "playerlink": "https://www.livesoccertv.com/player/w-ben-yedder/126219/",
+        "playerteam": "Monaco",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "playergoals": 11,
+        "playerassists": 6
     },
     {
         "playername": "M. Depay",
@@ -464,15 +473,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "playergoals": 10,
         "playerassists": 0
-    },
-    {
-        "playername": "W. Ben Yedder",
-        "playerlink": "https://www.livesoccertv.com/player/w-ben-yedder/126219/",
-        "playerteam": "Monaco",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "playergoals": 9,
-        "playerassists": 5
     },
     {
         "playername": "A. Delort",
@@ -538,12 +538,12 @@
         "playerassists": 0
     },
     {
-        "playername": "Mama Baldé",
-        "playerlink": "https://www.livesoccertv.com/player/balde/268155/",
-        "playerteam": "Dijon",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/dijon/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
-        "playergoals": 6,
+        "playername": "G. Laborde",
+        "playerlink": "https://www.livesoccertv.com/player/g-laborde/153154/",
+        "playerteam": "Montpellier",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playergoals": 7,
         "playerassists": 0
     }
   ],
