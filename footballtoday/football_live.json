@@ -17,9 +17,9 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "53 ",
+      "GameState": "84 ",
       "HomeTeam": "Alavés",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
       "AwayTeam": "Real Valladolid",
       "AwayGoals": "0",
@@ -43,7 +43,7 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "65 ",
+      "GameState": "FT ",
       "HomeTeam": "Fiorentina",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
@@ -351,7 +351,7 @@
       "AwayTeam": "Stuttgart",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World No…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  A Spor ,  Sportsnet W…"
     },
     {
       "LeagueName": "German Bundesliga",
