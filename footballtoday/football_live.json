@@ -69,14 +69,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
-      "GameState": "75 ",
+      "GameState": "FT ",
       "HomeTeam": "Manchester Utd",
       "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
       "AwayTeam": "Everton",
-      "AwayGoals": "2",
+      "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  NBC Sports…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -134,14 +134,14 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "76 ",
+      "GameState": "FT ",
       "HomeTeam": "Sevilla FC",
-      "HomeGoals": "1",
+      "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
       "AwayTeam": "Getafe",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -199,14 +199,14 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Genoa",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
       "AwayTeam": "Napoli",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2 Norte"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -342,7 +342,7 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
-      "GameState": "74 ",
+      "GameState": "FT ",
       "HomeTeam": "Lens",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
