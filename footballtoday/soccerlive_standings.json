@@ -410,6 +410,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Athletic Club",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "played": 21,
+        "wins": 7,
+        "draws": 4,
+        "lossess": 10,
+        "goalsfor": 28,
+        "goalsagainst": 26,
+        "goalsdiff": "+2",
+        "points": 25,
+        "form": "'DLWLW'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "played": 21,
@@ -423,21 +437,21 @@
         "form": "'DDLLL'"
     },
     {
-        "teamrank": 11,
-        "teamname": "Athletic Club",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "played": 20,
-        "wins": 7,
-        "draws": 3,
-        "lossess": 10,
-        "goalsfor": 27,
-        "goalsagainst": 25,
-        "goalsdiff": "+2",
+        "teamrank": 12,
+        "teamname": "Valencia",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+        "played": 22,
+        "wins": 5,
+        "draws": 9,
+        "lossess": 8,
+        "goalsfor": 28,
+        "goalsagainst": 30,
+        "goalsdiff": "-2",
         "points": 24,
-        "form": "'LWLWL'"
+        "form": "'DWLDW'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Getafe",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
         "played": 21,
@@ -451,7 +465,7 @@
         "form": "'LDLWW'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Cádiz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
         "played": 22,
@@ -463,20 +477,6 @@
         "goalsdiff": "-15",
         "points": 24,
         "form": "'LLLDW'"
-    },
-    {
-        "teamrank": 14,
-        "teamname": "Valencia",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-        "played": 21,
-        "wins": 5,
-        "draws": 8,
-        "lossess": 8,
-        "goalsfor": 27,
-        "goalsagainst": 29,
-        "goalsdiff": "-2",
-        "points": 23,
-        "form": "'WLDWD'"
     },
     {
         "teamrank": 15,
