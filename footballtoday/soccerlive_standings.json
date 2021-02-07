@@ -480,6 +480,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Osasuna",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+        "played": 22,
+        "wins": 5,
+        "draws": 7,
+        "lossess": 10,
+        "goalsfor": 21,
+        "goalsagainst": 31,
+        "goalsdiff": "-10",
+        "points": 22,
+        "form": "'WLWDL'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 22,
@@ -493,21 +507,21 @@
         "form": "'WDLLL'"
     },
     {
-        "teamrank": 16,
+        "teamrank": 17,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 21,
+        "played": 22,
         "wins": 4,
         "draws": 8,
-        "lossess": 9,
-        "goalsfor": 17,
-        "goalsagainst": 23,
-        "goalsdiff": "-6",
+        "lossess": 10,
+        "goalsfor": 18,
+        "goalsagainst": 25,
+        "goalsdiff": "-7",
         "points": 20,
-        "form": "'LDLLW'"
+        "form": "'LLDLL'"
     },
     {
-        "teamrank": 17,
+        "teamrank": 18,
         "teamname": "Real Valladolid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
         "played": 22,
@@ -519,20 +533,6 @@
         "goalsdiff": "-12",
         "points": 20,
         "form": "'LLDDL'"
-    },
-    {
-        "teamrank": 18,
-        "teamname": "Osasuna",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-        "played": 21,
-        "wins": 4,
-        "draws": 7,
-        "lossess": 10,
-        "goalsfor": 19,
-        "goalsagainst": 30,
-        "goalsdiff": "-11",
-        "points": 19,
-        "form": "'LWDLD'"
     },
     {
         "teamrank": 19,
@@ -734,6 +734,20 @@
     },
     {
         "teamrank": 13,
+        "teamname": "Bologna",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+        "played": 21,
+        "wins": 6,
+        "draws": 5,
+        "lossess": 10,
+        "goalsfor": 28,
+        "goalsagainst": 35,
+        "goalsdiff": "-7",
+        "points": 23,
+        "form": "'WLLWL'"
+    },
+    {
+        "teamrank": 14,
         "teamname": "Benevento",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
         "played": 21,
@@ -747,7 +761,7 @@
         "form": "'DLDLL'"
     },
     {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
         "played": 21,
@@ -761,7 +775,7 @@
         "form": "'LDWLW'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Spezia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
         "played": 21,
@@ -773,20 +787,6 @@
         "goalsdiff": "-10",
         "points": 21,
         "form": "'WLLDW'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Bologna",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-        "played": 20,
-        "wins": 5,
-        "draws": 5,
-        "lossess": 10,
-        "goalsfor": 25,
-        "goalsagainst": 35,
-        "goalsdiff": "-10",
-        "points": 20,
-        "form": "'LLWLD'"
     },
     {
         "teamrank": 17,
@@ -820,15 +820,15 @@
         "teamrank": 19,
         "teamname": "Parma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-        "played": 20,
+        "played": 21,
         "wins": 2,
         "draws": 7,
-        "lossess": 11,
+        "lossess": 12,
         "goalsfor": 14,
-        "goalsagainst": 38,
-        "goalsdiff": "-24",
+        "goalsagainst": 41,
+        "goalsdiff": "-27",
         "points": 13,
-        "form": "'LLDLL'"
+        "form": "'LLLDL'"
     },
     {
         "teamrank": 20,
