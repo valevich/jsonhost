@@ -58,6 +58,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Chelsea",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+        "played": 23,
+        "wins": 11,
+        "draws": 6,
+        "lossess": 6,
+        "goalsfor": 38,
+        "goalsagainst": 24,
+        "goalsdiff": "+14",
+        "points": 39,
+        "form": "'WWWDL'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "played": 23,
@@ -71,7 +85,7 @@
         "form": "'DWLWW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
         "played": 21,
@@ -85,7 +99,7 @@
         "form": "'DWLDW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 22,
@@ -97,20 +111,6 @@
         "goalsdiff": "+14",
         "points": 36,
         "form": "'WLLLW'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Chelsea",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "played": 22,
-        "wins": 10,
-        "draws": 6,
-        "lossess": 6,
-        "goalsfor": 36,
-        "goalsagainst": 23,
-        "goalsdiff": "+13",
-        "points": 36,
-        "form": "'WWDLW'"
     },
     {
         "teamrank": 9,
@@ -270,15 +270,15 @@
         "teamrank": 20,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 22,
+        "played": 23,
         "wins": 3,
         "draws": 2,
-        "lossess": 17,
-        "goalsfor": 14,
-        "goalsagainst": 35,
-        "goalsdiff": "-21",
+        "lossess": 18,
+        "goalsfor": 15,
+        "goalsagainst": 37,
+        "goalsdiff": "-22",
         "points": 11,
-        "form": "'WLWLW'"
+        "form": "'LWLWL'"
     }
   ],
   "primera-division": [
