@@ -421,6 +421,15 @@
         "playerassists": 4
     },
     {
+        "playername": "M. Depay",
+        "playerlink": "https://www.livesoccertv.com/player/m-depay/136392/",
+        "playerteam": "Olympique Lyonnais",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+        "playergoals": 13,
+        "playerassists": 6
+    },
+    {
         "playername": "B. Dia",
         "playerlink": "https://www.livesoccertv.com/player/b-dia/360970/",
         "playerteam": "Reims",
@@ -439,13 +448,13 @@
         "playerassists": 6
     },
     {
-        "playername": "M. Depay",
-        "playerlink": "https://www.livesoccertv.com/player/m-depay/136392/",
+        "playername": "K. Toko Ekambi",
+        "playerlink": "https://www.livesoccertv.com/player/k-toko-ekambi/156672/",
         "playerteam": "Olympique Lyonnais",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "playergoals": 11,
-        "playerassists": 6
+        "playerassists": 0
     },
     {
         "playername": "K. Volland",
@@ -464,15 +473,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
         "playergoals": 10,
         "playerassists": 3
-    },
-    {
-        "playername": "K. Toko Ekambi",
-        "playerlink": "https://www.livesoccertv.com/player/k-toko-ekambi/156672/",
-        "playerteam": "Olympique Lyonnais",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "playergoals": 10,
-        "playerassists": 0
     },
     {
         "playername": "A. Delort",
