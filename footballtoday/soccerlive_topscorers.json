@@ -152,7 +152,7 @@
         "playerteam": "Sevilla",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/sevilla/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-        "playergoals": 12,
+        "playergoals": 13,
         "playerassists": 0
     },
     {
@@ -165,6 +165,15 @@
         "playerassists": 2
     },
     {
+        "playername": "Gerard Moreno",
+        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
+        "playerteam": "Villarreal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "playergoals": 12,
+        "playerassists": 4
+    },
+    {
         "playername": "K. Benzema",
         "playerlink": "https://www.livesoccertv.com/player/k-benzema/1728/",
         "playerteam": "Real Madrid",
@@ -174,13 +183,13 @@
         "playerassists": 0
     },
     {
-        "playername": "Gerard Moreno",
-        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
-        "playerteam": "Villarreal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "playername": "Morales",
+        "playerlink": "https://www.livesoccertv.com/player/jose-luis-morales/211121/",
+        "playerteam": "Levante",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "playergoals": 10,
-        "playerassists": 4
+        "playerassists": 0
     },
     {
         "playername": "Iago Aspas",
@@ -199,15 +208,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "playergoals": 9,
         "playerassists": 1
-    },
-    {
-        "playername": "Morales",
-        "playerlink": "https://www.livesoccertv.com/player/jose-luis-morales/211121/",
-        "playerteam": "Levante",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "playergoals": 8,
-        "playerassists": 0
     },
     {
         "playername": "Mikel Oyarzabal",
