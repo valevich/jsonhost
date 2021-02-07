@@ -15,7 +15,7 @@
         "playerteam": "Manchester United",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "playergoals": 12,
+        "playergoals": 13,
         "playerassists": 6
     },
     {
@@ -24,7 +24,7 @@
         "playerteam": "Everton",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/everton/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-        "playergoals": 12,
+        "playergoals": 13,
         "playerassists": 0
     },
     {
@@ -64,6 +64,15 @@
         "playerassists": 6
     },
     {
+        "playername": "O. Watkins",
+        "playerlink": "https://www.livesoccertv.com/player/o-watkins/264917/",
+        "playerteam": "Aston Villa",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/aston-villa/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "playergoals": 10,
+        "playerassists": 1
+    },
+    {
         "playername": "C. Wilson",
         "playerlink": "https://www.livesoccertv.com/player/c-wilson/87664/",
         "playerteam": "Newcastle United",
@@ -71,15 +80,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "playergoals": 10,
         "playerassists": 4
-    },
-    {
-        "playername": "O. Watkins",
-        "playerlink": "https://www.livesoccertv.com/player/o-watkins/264917/",
-        "playerteam": "Aston Villa",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/aston-villa/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "playergoals": 9,
-        "playerassists": 1
     },
     {
         "playername": "W. Zaha",
