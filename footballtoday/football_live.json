@@ -600,13 +600,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Levante",
+      "HomeTeam": "Celta de Vigo",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-      "AwayTeam": "Osasuna",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+      "AwayTeam": "Elche",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  Sky HD ,  …"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -771,12 +771,12 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "12:30pm",
       "GameState": "",
-      "HomeTeam": "Celta de Vigo",
+      "HomeTeam": "Eibar",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-      "AwayTeam": "Elche",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
+      "AwayTeam": "Real Valladolid",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
       "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
     {
@@ -938,7 +938,7 @@
     {
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "00:00am",
+      "GameTime": "11:00am",
       "GameState": "",
       "HomeTeam": "PSG",
       "HomeGoals": "",
@@ -946,7 +946,33 @@
       "AwayTeam": "Nice",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-      "TVChannels": ""
+      "TVChannels": "Viaplay Denmark ,  Viaplay Sweden ,  Viaplay N…"
+    },
+    {
+      "LeagueName": "French Ligue 1",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Stade de Reims",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
+      "AwayTeam": "Lens",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+      "TVChannels": "Viaplay Denmark ,  Viaplay Sweden ,  Viaplay N…"
+    },
+    {
+      "LeagueName": "French Ligue 1",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Lyon",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+      "AwayTeam": "Montpellier",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+      "TVChannels": "Viaplay Denmark ,  Viaplay Sweden ,  Viaplay N…"
     }
   ]
 }
