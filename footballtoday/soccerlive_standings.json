@@ -1172,6 +1172,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Eintracht Frankfurt",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "played": 20,
+        "wins": 9,
+        "draws": 9,
+        "lossess": 2,
+        "goalsfor": 41,
+        "goalsagainst": 29,
+        "goalsdiff": "+12",
+        "points": 36,
+        "form": "'WWWDW'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Bayer Leverkusen",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
         "played": 20,
@@ -1183,20 +1197,6 @@
         "goalsdiff": "+16",
         "points": 35,
         "form": "'WLLWL'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Eintracht Frankfurt",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-        "played": 19,
-        "wins": 8,
-        "draws": 9,
-        "lossess": 2,
-        "goalsfor": 38,
-        "goalsagainst": 28,
-        "goalsdiff": "+10",
-        "points": 33,
-        "form": "'WWDWW'"
     },
     {
         "teamrank": 6,
@@ -1286,15 +1286,15 @@
         "teamrank": 12,
         "teamname": "Hoffenheim",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "played": 19,
+        "played": 20,
         "wins": 6,
         "draws": 4,
-        "lossess": 9,
-        "goalsfor": 29,
-        "goalsagainst": 34,
-        "goalsdiff": "-5",
+        "lossess": 10,
+        "goalsfor": 30,
+        "goalsagainst": 37,
+        "goalsdiff": "-7",
         "points": 22,
-        "form": "'LWWDL'"
+        "form": "'LLWWD'"
     },
     {
         "teamrank": 13,
