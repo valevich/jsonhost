@@ -694,15 +694,15 @@
         "teamrank": 10,
         "teamname": "Sampdoria",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-        "played": 20,
+        "played": 21,
         "wins": 8,
-        "draws": 2,
+        "draws": 3,
         "lossess": 10,
-        "goalsfor": 30,
-        "goalsagainst": 31,
+        "goalsfor": 31,
+        "goalsagainst": 32,
         "goalsdiff": "-1",
-        "points": 26,
-        "form": "'LWWLW'"
+        "points": 27,
+        "form": "'DLWWL'"
     },
     {
         "teamrank": 11,
@@ -722,15 +722,15 @@
         "teamrank": 12,
         "teamname": "Benevento",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
-        "played": 20,
+        "played": 21,
         "wins": 6,
-        "draws": 4,
+        "draws": 5,
         "lossess": 10,
-        "goalsfor": 23,
-        "goalsagainst": 40,
+        "goalsfor": 24,
+        "goalsagainst": 41,
         "goalsdiff": "-17",
-        "points": 22,
-        "form": "'LDLLW'"
+        "points": 23,
+        "form": "'DLDLL'"
     },
     {
         "teamrank": 13,
