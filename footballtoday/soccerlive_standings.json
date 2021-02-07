@@ -848,6 +848,20 @@
   "ligue-1": [
     {
         "teamrank": 1,
+        "teamname": "Lille",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "played": 24,
+        "wins": 16,
+        "draws": 6,
+        "lossess": 2,
+        "goalsfor": 42,
+        "goalsagainst": 15,
+        "goalsdiff": "+27",
+        "points": 54,
+        "form": "'WWWWW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Olympique Lyonnais",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "played": 24,
@@ -859,20 +873,6 @@
         "goalsdiff": "+30",
         "points": 52,
         "form": "'WWWWL'"
-    },
-    {
-        "teamrank": 2,
-        "teamname": "Lille",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "played": 23,
-        "wins": 15,
-        "draws": 6,
-        "lossess": 2,
-        "goalsfor": 40,
-        "goalsagainst": 15,
-        "goalsdiff": "+25",
-        "points": 51,
-        "form": "'WWWWW'"
     },
     {
         "teamrank": 3,
@@ -1088,15 +1088,15 @@
         "teamrank": 18,
         "teamname": "Nantes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-        "played": 23,
+        "played": 24,
         "wins": 3,
         "draws": 10,
-        "lossess": 10,
+        "lossess": 11,
         "goalsfor": 22,
-        "goalsagainst": 37,
-        "goalsdiff": "-15",
+        "goalsagainst": 39,
+        "goalsdiff": "-17",
         "points": 19,
-        "form": "'DLLDD'"
+        "form": "'LDLLD'"
     },
     {
         "teamrank": 19,
