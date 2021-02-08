@@ -161,7 +161,7 @@
         "playerteam": "Barcelona",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "playergoals": 12,
+        "playergoals": 13,
         "playerassists": 2
     },
     {
@@ -192,6 +192,15 @@
         "playerassists": 0
     },
     {
+        "playername": "Mikel Oyarzabal",
+        "playerlink": "https://www.livesoccertv.com/player/mikel-oyarzabal/285896/",
+        "playerteam": "Real Sociedad",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+        "playergoals": 10,
+        "playerassists": 6
+    },
+    {
         "playername": "Iago Aspas",
         "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
         "playerteam": "Celta Vigo",
@@ -210,13 +219,13 @@
         "playerassists": 1
     },
     {
-        "playername": "Mikel Oyarzabal",
-        "playerlink": "https://www.livesoccertv.com/player/mikel-oyarzabal/285896/",
+        "playername": "A. Isak",
+        "playerlink": "https://www.livesoccertv.com/player/a-isak/309686/",
         "playerteam": "Real Sociedad",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "playergoals": 8,
-        "playerassists": 5
+        "playerassists": 0
     },
     {
         "playername": "Canales",
@@ -228,20 +237,20 @@
         "playerassists": 2
     },
     {
+        "playername": "Kike",
+        "playerlink": "https://www.livesoccertv.com/player/kike/62297/",
+        "playerteam": "Eibar",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/eibar/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
+        "playergoals": 6,
+        "playerassists": 0
+    },
+    {
         "playername": "A. Griezmann",
         "playerlink": "https://www.livesoccertv.com/player/a-griezmann/90283/",
         "playerteam": "Barcelona",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "playergoals": 6,
-        "playerassists": 0
-    },
-    {
-        "playername": "A. Isak",
-        "playerlink": "https://www.livesoccertv.com/player/a-isak/309686/",
-        "playerteam": "Real Sociedad",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "playergoals": 6,
         "playerassists": 0
     },
@@ -260,15 +269,6 @@
         "playerteam": "Huesca",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/sd-huesca/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-        "playergoals": 6,
-        "playerassists": 0
-    },
-    {
-        "playername": "Álvaro Negredo",
-        "playerlink": "https://www.livesoccertv.com/player/alvaro-negredo/18031/",
-        "playerteam": "Cádiz",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/cadiz-cf/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
         "playergoals": 6,
         "playerassists": 0
     }
@@ -563,7 +563,7 @@
         "playerteam": "Eintracht Frankfurt",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-        "playergoals": 16,
+        "playergoals": 17,
         "playerassists": 6
     },
     {
