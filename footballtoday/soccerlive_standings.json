@@ -128,6 +128,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Leeds United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+        "played": 22,
+        "wins": 10,
+        "draws": 2,
+        "lossess": 10,
+        "goalsfor": 38,
+        "goalsagainst": 38,
+        "goalsdiff": "0",
+        "points": 32,
+        "form": "'WLWWL'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "played": 23,
@@ -139,20 +153,6 @@
         "goalsdiff": "+4",
         "points": 31,
         "form": "'LLDWW'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Leeds United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-        "played": 21,
-        "wins": 9,
-        "draws": 2,
-        "lossess": 10,
-        "goalsfor": 36,
-        "goalsagainst": 38,
-        "goalsdiff": "-2",
-        "points": 29,
-        "form": "'LWWLL'"
     },
     {
         "teamrank": 12,
@@ -172,15 +172,15 @@
         "teamrank": 13,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "played": 22,
+        "played": 23,
         "wins": 8,
         "draws": 5,
-        "lossess": 9,
+        "lossess": 10,
         "goalsfor": 27,
-        "goalsagainst": 37,
-        "goalsdiff": "-10",
+        "goalsagainst": 39,
+        "goalsdiff": "-12",
         "points": 29,
-        "form": "'WWLLD'"
+        "form": "'LWWLL'"
     },
     {
         "teamrank": 14,
@@ -286,15 +286,15 @@
         "teamrank": 1,
         "teamname": "Atlético Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "played": 19,
+        "played": 20,
         "wins": 16,
-        "draws": 2,
+        "draws": 3,
         "lossess": 1,
-        "goalsfor": 40,
-        "goalsagainst": 10,
+        "goalsfor": 42,
+        "goalsagainst": 12,
         "goalsdiff": "+30",
-        "points": 50,
-        "form": "'WWWWW'"
+        "points": 51,
+        "form": "'DWWWW'"
     },
     {
         "teamrank": 2,
@@ -410,6 +410,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Celta de Vigo",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "played": 22,
+        "wins": 6,
+        "draws": 8,
+        "lossess": 8,
+        "goalsfor": 26,
+        "goalsagainst": 33,
+        "goalsdiff": "-7",
+        "points": 26,
+        "form": "'DDDLL'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 21,
@@ -421,20 +435,6 @@
         "goalsdiff": "+2",
         "points": 25,
         "form": "'DLWLW'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Celta de Vigo",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "played": 21,
-        "wins": 6,
-        "draws": 7,
-        "lossess": 8,
-        "goalsfor": 24,
-        "goalsagainst": 31,
-        "goalsdiff": "-7",
-        "points": 25,
-        "form": "'DDLLL'"
     },
     {
         "teamrank": 12,
