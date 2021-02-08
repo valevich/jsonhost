@@ -6,8 +6,8 @@
         "playerteam": "Liverpool",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "playergoals": 15,
-        "playerassists": 5
+        "playergoals": 16,
+        "playerassists": 6
     },
     {
         "playername": "Bruno Fernandes",
@@ -33,7 +33,7 @@
         "playerteam": "Tottenham Hotspur",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "playergoals": 12,
+        "playergoals": 13,
         "playerassists": 3
     },
     {
@@ -42,7 +42,7 @@
         "playerteam": "Tottenham Hotspur",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "playergoals": 12,
+        "playergoals": 13,
         "playerassists": 0
     },
     {
@@ -82,6 +82,15 @@
         "playerassists": 4
     },
     {
+        "playername": "İ. Gündoğan",
+        "playerlink": "https://www.livesoccertv.com/player/gundo-an/69183/",
+        "playerteam": "Manchester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "playergoals": 9,
+        "playerassists": 1
+    },
+    {
         "playername": "W. Zaha",
         "playerlink": "https://www.livesoccertv.com/player/w-zaha/110122/",
         "playerteam": "Crystal Palace",
@@ -118,22 +127,13 @@
         "playerassists": 0
     },
     {
-        "playername": "Harvey Lewis Barnes",
-        "playerlink": "https://www.livesoccertv.com/player/h-barnes/334086/",
-        "playerteam": "Leicester City",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "playergoals": 7,
-        "playerassists": 0
-    },
-    {
-        "playername": "İ. Gündoğan",
-        "playerlink": "https://www.livesoccertv.com/player/gundo-an/69183/",
+        "playername": "R. Sterling",
+        "playerlink": "https://www.livesoccertv.com/player/r-sterling/135689/",
         "playerteam": "Manchester City",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "playergoals": 7,
-        "playerassists": 1
+        "playergoals": 8,
+        "playerassists": 0
     }
   ],
   "primera-division": [
