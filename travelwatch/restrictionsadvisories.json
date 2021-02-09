@@ -417,7 +417,7 @@
     "iso_alpha2": "FJ",
     "name": "Fiji",
     "score": "Entry prohibited",
-    "updated": "Nadi International Airport (NAN) is closed and all international flights are suspended until further notice."
+    "updated": "Foreign nationals are prohibited from entering Fiji. This policy does not apply to persons holding valid residence or work permits. All persons seeking entry to Fiji must obtain travel authorization from the Fijian government. Additionally, all persons must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Commercial flights to Nadi International Airport (NAN) are suspended. This policy does not apply to special repatriation flights. More information is available at the following URL: https://www.fiji.travel/covid-19"
   },
   {
     "continent": "",
@@ -452,7 +452,7 @@
     "iso_alpha2": "GD",
     "name": "Grenada",
     "score": "Partially restricted",
-    "updated": "All persons traveling to Grenada must have proof of a negative result for COVID-19 issued no more than 7 days prior to departure using a polymerase chain reaction (PCR) test and submit document online including their travel information and a “Waiver of Liability Agreement.” This policy do not apply to children age 5 or under. Upon arrival, all persons must undergo screening for COVID-19. Additional information is available at the following URL: https://covid19.gov.gd/travel/"
+    "updated": "All persons traveling to Grenada must obtain a Pure Safe Travel Certificate prior to departure. Additionally, all persons must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. All persons must undergo a 14-day quarantine upon arrival and hold a confirmed booking for an approved quarantine accommodation. Persons who carry special preapproval may be eligible for self-isolation at their residence. More information is available at the following URL: https://covid19.gov.gd/travel-covid/"
   },
   {
     "continent": "",
@@ -627,7 +627,7 @@
     "iso_alpha2": "JO",
     "name": "Jordan",
     "score": "Partially restricted",
-    "updated": "From January 14, 2021, all persons must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Upon arrival, all persons 6 years of age or above must undergo an additional PCR test at their own expense. Persons who test positive must self-isolate for 14 days."
+    "updated": "From February 3, 2021, all persons must carry proof of a negative result for COVID-19 issued no more than 72 hours prior to departure using a polymerase chain reaction (PCR) test. Upon arrival, all persons 6 years of age or above must undergo an additional PCR test at their own expense. Proof of prepayment for testing on arrival is required to board flights bound for Jordan. Persons who test positive must self-isolate for 14 days. More information is available at the following URLs: https://registration.questlabjo.com/ https://COVID19.biolab.jo"
   },
   {
     "continent": "",
@@ -689,8 +689,8 @@
     "continent": "",
     "iso_alpha2": "KW",
     "name": "Kuwait",
-    "score": "Partially restricted",
-    "updated": "From January 2, 2021, foreign nationals are permitted to enter Kuwait provided they are not traveling from one of 34 prohibited countries / regions. All persons traveling to Kuwait must preregister using the Shlonik mobile application. Additionally, all persons must carry proof of a negative test result for COVID-19 issued no more than 96 hours prior to departure using a polymerase chain reaction (PCR) test. Upon arrival, all persons must undergo a 14-day quarantine and possible additional PCR testing. An updated list of prohibited countries / regions is available from Kuwaiti civil aviation authorities via their official Twitter account at the following URL: https://twitter.com/Kuwait_DGCA Persons seeking to depart Kuwait must register using the Kuwait-Musafer system and obtain a barcode for use throughout their journey. Additionally, departing travelers must obtain confirmation of negative test results for COVID-19 prior to departure. Kuwaiti nationals traveling abroad must carry health insurance valid for use in their destination and sufficient to cover all expenses relating to the detection and treatment of COVID-19."
+    "score": "Entry prohibited",
+    "updated": "From February 7 2021, foreign nationals are prohibited from entering Kuwait. Limited exemptions exist for certain relatives of Kuwaiti nationals, domestic employees traveling with their employers, and medical staff. Persons seeking to depart Kuwait must register using the Kuwait-Musafer system and obtain a barcode for use throughout their journey. Additionally, departing travelers must obtain confirmation of a negative test result for COVID-19 prior to departure. Kuwaiti nationals traveling abroad must carry health insurance valid for use in their destination with coverage sufficient for all expenses relating to the detection and treatment of COVID-19."
   },
   {
     "continent": "",
@@ -1116,7 +1116,7 @@
     "continent": "",
     "iso_alpha2": "SE",
     "name": "Sweden",
-    "score": "Entry prohibited",
+    "score": "Partially restricted",
     "updated": "From January 25, 2021, foreign nationals are prohibited from entering Sweden for non-essential travel. This policy does not apply to persons traveling from countries or regions in the European Union (with the exception of Denmark) and countries or regions associated with the Schengen Area (with the exception of Norway). More information is available at the following URL: https://www.government.se/articles/2020/04/faqs--entry-to-the-eu-via-sweden-banned"
   },
   {
@@ -1334,7 +1334,7 @@
     "iso_alpha2": "VC",
     "name": "Saint Vincent and the Grenadines",
     "score": "Partially restricted",
-    "updated": "All persons arriving in Saint Vincent and the Grenadines must observe strict health control measures upon arrival."
+    "updated": "All persons arriving from locations considered high-risk for COVID-19 transmission must carry proof of a negative result for COVID-19 issued no more than 5 days prior to departure using a reverse transcription polymerase chain reaction (RT-PCR) test. All travelers are required to complete an online Pre-Arrival Travel Form prior to arrival in St. Vincent and the Grenadines. Upon arrival, all persons must undergo an additional RT-PCR test and a 5-day quarantine in a designated location at their own expense. Additional information, including a list of approved quarantine accommodations, is available at the following URL: http://health.gov.vc/health/index.php/covid-19-protocols-documents . Pre-Arrival Travel Forms are available at the following URL: https://stv.servicedx.com/formmgmt/travelform"
   },
   {
     "continent": "",
