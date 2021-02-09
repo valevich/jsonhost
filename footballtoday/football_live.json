@@ -1,9 +1,9 @@
 {
-    },
+  "today": [
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "Tuesday Feb. 9, 2021",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -12,13 +12,65 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Real Madrid",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+      "AwayTeam": "Getafe",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
+    },
+    {
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "Tuesday Feb. 9, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "12:30pm",
+      "GameState": "",
+      "HomeTeam": "Burnley",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+      "AwayTeam": "Bournemouth",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+    },
+    {
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "2:30pm",
+      "GameState": "",
+      "HomeTeam": "Manchester Utd",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+      "AwayTeam": "West Ham",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
     }
   ],
-    },
+  "day2": [
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "Wednesday Feb. 10, 2021",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -27,6 +79,58 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "12:30pm",
+      "GameState": "",
+      "HomeTeam": "Swansea City",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/318.png",
+      "AwayTeam": "Manchester City",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+    },
+    {
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "2:30pm",
+      "GameState": "",
+      "HomeTeam": "Sheffield Utd",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
+      "AwayTeam": "Bristol City",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/333.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  ESPN Play Norte ,  …"
+    },
+    {
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "2:30pm",
+      "GameState": "",
+      "HomeTeam": "Leicester",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+      "AwayTeam": "Brighton",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
+    },
+    {
+      "LeagueName": "English FA Cup",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
+      "GameTime": "3:15pm",
+      "GameState": "",
+      "HomeTeam": "Everton",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+      "AwayTeam": "Tottenham",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
     }
   ],
   "day3": [
@@ -318,7 +422,7 @@
       "AwayTeam": "Juventus",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+      "TVChannels": "ESPN+ ,  Fanatiz USA ,  fuboT…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -435,7 +539,7 @@
       "AwayTeam": "Nice",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-      "TVChannels": "beIN SPORTS ,  fuboTV ,  beIN SP…"
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  fu…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -448,7 +552,7 @@
       "AwayTeam": "Lens",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-      "TVChannels": "fuboTV ,  beIN SPORTS CONNECT ,  …"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -736,7 +840,7 @@
       "AwayTeam": "Lorient",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-      "TVChannels": "fuboTV ,  beIN SPORTS CONNECT ,  …"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -762,7 +866,7 @@
       "AwayTeam": "Strasbourg",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-      "TVChannels": "fuboTV ,  beIN SPORTS CONNECT ,  …"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -775,7 +879,7 @@
       "AwayTeam": "Nantes",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-      "TVChannels": "fuboTV ,  beIN SPORTS CONNECT ,  …"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -788,7 +892,7 @@
       "AwayTeam": "Saint-Étienne",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-      "TVChannels": "fuboTV ,  beIN SPORTS CONNECT ,  …"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -814,7 +918,7 @@
       "AwayTeam": "Marseille",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-      "TVChannels": "fuboTV ,  beIN SPORTS CONNECT ,  T…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     }
   ],
   "day7": [
