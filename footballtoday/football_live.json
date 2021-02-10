@@ -70,73 +70,6 @@
     {
       "LeagueName": "English FA Cup",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
-      "GameTime": "Wednesday Feb. 10, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "English FA Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
-      "GameTime": "12:30pm",
-      "GameState": "",
-      "HomeTeam": "Swansea City",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/318.png",
-      "AwayTeam": "Manchester City",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
-    },
-    {
-      "LeagueName": "English FA Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
-      "GameTime": "2:30pm",
-      "GameState": "",
-      "HomeTeam": "Sheffield Utd",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-      "AwayTeam": "Bristol City",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/333.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  ESPN Play Norte ,  …"
-    },
-    {
-      "LeagueName": "English FA Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
-      "GameTime": "2:30pm",
-      "GameState": "",
-      "HomeTeam": "Leicester",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-      "AwayTeam": "Brighton",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
-    },
-    {
-      "LeagueName": "English FA Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
-      "GameTime": "3:15pm",
-      "GameState": "",
-      "HomeTeam": "Everton",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-      "AwayTeam": "Tottenham",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
-    }
-  ],
-  "day3": [
-    {
-      "LeagueName": "English FA Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
       "GameTime": "Thursday Feb. 11, 2021",
       "GameState": "",
       "HomeTeam": "",
@@ -174,7 +107,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
@@ -254,7 +187,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -568,7 +501,7 @@
       "TVChannels": "DAZN ,  Arena Sport 4 Serbia ,  Ring.bg ,  Viapl…"
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -921,7 +854,7 @@
       "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -1038,6 +971,47 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "Tuesday Feb. 16, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Barcelona",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+      "AwayTeam": "PSG",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "TVChannels": "CBS All Access ,  fuboTV ,  TUDN…"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "RB Leipzig",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+      "AwayTeam": "Liverpool",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+      "TVChannels": "CBS All Access ,  fuboTV ,  Galavisi…"
     }
   ]
 }
