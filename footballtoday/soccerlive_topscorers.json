@@ -491,6 +491,60 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "playergoals": 9,
         "playerassists": 0
+    },
+    {
+        "playername": "Gaël Kakuta",
+        "playerlink": "https://www.livesoccertv.com/player/g-kakuta/92854/",
+        "playerteam": "Lens",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lens/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+        "playergoals": 9,
+        "playerassists": 5
+    },
+    {
+        "playername": "M. Kean",
+        "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
+        "playerteam": "PSG",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
+        "playername": "Gaëtan  Laborde",
+        "playerlink": "https://www.livesoccertv.com/player/g-laborde/153154/",
+        "playerteam": "Montpellier",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
+        "playername": "B. Yılmaz",
+        "playerlink": "https://www.livesoccertv.com/player/b-y-lmaz/4921/",
+        "playerteam": "Lille",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "playergoals": 9,
+        "playerassists": 2
+    },
+    {
+        "playername": "J. David",
+        "playerlink": "https://www.livesoccertv.com/player/j-david/390484/",
+        "playerteam": "Lille",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "playergoals": 7,
+        "playerassists": 0
+    },
+    {
+        "playername": "H. Diallo",
+        "playerlink": "https://www.livesoccertv.com/player/h-diallo/259590/",
+        "playerteam": "Strasbourg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/strasbourg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+        "playergoals": 7,
+        "playerassists": 1
     }
   ],
   "bundesliga": [
