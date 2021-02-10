@@ -1,9 +1,35 @@
 {
   "today": [
     {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "Tuesday Feb. 9, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Real Madrid",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+      "AwayTeam": "Real Madrid",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+      "TVChannels": "2 - 0  Getafe beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
+    },
+    {
       "LeagueName": "English FA Cup",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
-      "GameTime": "Wednesday Feb. 10, 2021",
+      "GameTime": "Tuesday Feb. 9, 2021",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -18,52 +44,26 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
       "GameTime": "12:30pm",
       "GameState": "",
-      "HomeTeam": "Swansea City",
+      "HomeTeam": "Burnley",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/318.png",
-      "AwayTeam": "Manchester City",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+      "AwayTeam": "Burnley",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+      "TVChannels": "0 - 2  AFC Bournemouth ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
     },
     {
       "LeagueName": "English FA Cup",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
       "GameTime": "2:30pm",
       "GameState": "",
-      "HomeTeam": "Sheffield Utd",
+      "HomeTeam": "Manchester Utd",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-      "AwayTeam": "Bristol City",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+      "AwayTeam": "Manchester United",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/333.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  ESPN Play Norte ,  …"
-    },
-    {
-      "LeagueName": "English FA Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
-      "GameTime": "2:30pm",
-      "GameState": "",
-      "HomeTeam": "Leicester",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-      "AwayTeam": "Brighton",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
-    },
-    {
-      "LeagueName": "English FA Cup",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
-      "GameTime": "3:15pm",
-      "GameState": "",
-      "HomeTeam": "Everton",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-      "AwayTeam": "Tottenham",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/360.png",
+      "TVChannels": "1 - 0  West Ham United ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
     }
   ],
   "day2": [
