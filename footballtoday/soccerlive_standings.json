@@ -734,20 +734,6 @@
     },
     {
         "teamrank": 13,
-        "teamname": "Bologna",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-        "played": 21,
-        "wins": 6,
-        "draws": 5,
-        "lossess": 10,
-        "goalsfor": 28,
-        "goalsagainst": 35,
-        "goalsdiff": "-7",
-        "points": 23,
-        "form": "'WLLWL'"
-    },
-    {
-        "teamrank": 14,
         "teamname": "Benevento",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
         "played": 21,
@@ -759,6 +745,20 @@
         "goalsdiff": "-17",
         "points": 23,
         "form": "'DLDLL'"
+    },
+    {
+        "teamrank": 14,
+        "teamname": "Bologna",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+        "played": 21,
+        "wins": 6,
+        "draws": 5,
+        "lossess": 10,
+        "goalsfor": 28,
+        "goalsagainst": 35,
+        "goalsdiff": "-7",
+        "points": 23,
+        "form": "'WLLWL'"
     },
     {
         "teamrank": 15,
