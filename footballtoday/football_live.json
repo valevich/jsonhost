@@ -56,7 +56,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
-      "GameState": "82 ",
+      "GameState": "90 ",
       "HomeTeam": "Brighton",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
@@ -121,7 +121,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "81 ",
+      "GameState": "FT ",
       "HomeTeam": "Barcelona",
       "HomeGoals": "5",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
@@ -180,7 +180,7 @@
       "AwayTeam": "Milan",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2 Norte"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -303,7 +303,7 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
-      "GameState": "77 ",
+      "GameState": "89 ",
       "HomeTeam": "Lyon",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
