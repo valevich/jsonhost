@@ -706,6 +706,20 @@
     },
     {
         "teamrank": 11,
+        "teamname": "Genoa",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+        "played": 22,
+        "wins": 6,
+        "draws": 7,
+        "lossess": 9,
+        "goalsfor": 24,
+        "goalsagainst": 31,
+        "goalsdiff": "-7",
+        "points": 25,
+        "form": "'DWWWD'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Udinese",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
         "played": 21,
@@ -717,20 +731,6 @@
         "goalsdiff": "-5",
         "points": 24,
         "form": "'WWDDL'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Genoa",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-        "played": 21,
-        "wins": 6,
-        "draws": 6,
-        "lossess": 9,
-        "goalsfor": 24,
-        "goalsagainst": 31,
-        "goalsdiff": "-7",
-        "points": 24,
-        "form": "'WWWDW'"
     },
     {
         "teamrank": 13,
@@ -792,15 +792,15 @@
         "teamrank": 17,
         "teamname": "Torino",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-        "played": 21,
+        "played": 22,
         "wins": 2,
-        "draws": 10,
+        "draws": 11,
         "lossess": 9,
         "goalsfor": 32,
         "goalsagainst": 41,
         "goalsdiff": "-9",
-        "points": 16,
-        "form": "'DDDDL'"
+        "points": 17,
+        "form": "'DDDDD'"
     },
     {
         "teamrank": 18,
