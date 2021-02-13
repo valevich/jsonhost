@@ -43,14 +43,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "12:30pm",
-      "GameState": "85 ",
+      "GameState": "FT ",
       "HomeTeam": "Manchester City",
       "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
       "AwayTeam": "Tottenham",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-      "TVChannels": "NBC ,  fuboTV ,  NBCSports.com ,  …"
+      "TVChannels": "NBC ,  fuboTV ,  NBCSports.com ,  NBC Sports Ap…"
     },
     {
       "LeagueName": "English Premier League",
@@ -108,14 +108,14 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "12:30pm",
-      "GameState": "87 ",
+      "GameState": "FT ",
       "HomeTeam": "Eibar",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
       "AwayTeam": "Real Valladolid",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -251,14 +251,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "12:30pm",
-      "GameState": "83 ",
+      "GameState": "FT ",
       "HomeTeam": "Union Berlin",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
       "AwayTeam": "Schalke 04",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sportsn…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -290,12 +290,12 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "1:00pm",
-      "GameState": "55 ",
+      "GameState": "70 ",
       "HomeTeam": "Stade de Reims",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
       "AwayTeam": "Lens",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
       "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
