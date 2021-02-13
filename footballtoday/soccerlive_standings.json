@@ -920,15 +920,15 @@
         "teamrank": 6,
         "teamname": "Lens",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-        "played": 24,
+        "played": 25,
         "wins": 10,
-        "draws": 6,
+        "draws": 7,
         "lossess": 8,
-        "goalsfor": 34,
-        "goalsagainst": 33,
+        "goalsfor": 35,
+        "goalsagainst": 34,
         "goalsdiff": "+1",
-        "points": 36,
-        "form": "'DDWLW'"
+        "points": 37,
+        "form": "'DDDWL'"
     },
     {
         "teamrank": 7,
@@ -1016,6 +1016,20 @@
     },
     {
         "teamrank": 13,
+        "teamname": "Reims",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
+        "played": 25,
+        "wins": 7,
+        "draws": 8,
+        "lossess": 10,
+        "goalsfor": 31,
+        "goalsagainst": 33,
+        "goalsdiff": "-2",
+        "points": 29,
+        "form": "'DLDWW'"
+    },
+    {
+        "teamrank": 14,
         "teamname": "Nice",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
         "played": 24,
@@ -1027,20 +1041,6 @@
         "goalsdiff": "-5",
         "points": 29,
         "form": "'LWLLW'"
-    },
-    {
-        "teamrank": 14,
-        "teamname": "Reims",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-        "played": 24,
-        "wins": 7,
-        "draws": 7,
-        "lossess": 10,
-        "goalsfor": 30,
-        "goalsagainst": 32,
-        "goalsdiff": "-2",
-        "points": 28,
-        "form": "'LDWWL'"
     },
     {
         "teamrank": 15,
