@@ -572,7 +572,7 @@
         "playerteam": "Borussia Dortmund",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-        "playergoals": 14,
+        "playergoals": 15,
         "playerassists": 1
     },
     {
@@ -612,21 +612,12 @@
         "playerassists": 1
     },
     {
-        "playername": "Lars Stindl",
-        "playerlink": "https://www.livesoccertv.com/player/l-stindl/39612/",
-        "playerteam": "Borussia M'gladbach",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-        "playergoals": 9,
-        "playerassists": 5
-    },
-    {
         "playername": "Lucas Nicolás Alario",
         "playerlink": "https://www.livesoccertv.com/player/l-alario/160318/",
         "playerteam": "Bayer Leverkusen",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-        "playergoals": 8,
+        "playergoals": 9,
         "playerassists": 2
     },
     {
@@ -635,8 +626,17 @@
         "playerteam": "Stuttgart",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-        "playergoals": 8,
+        "playergoals": 9,
         "playerassists": 0
+    },
+    {
+        "playername": "Lars Stindl",
+        "playerlink": "https://www.livesoccertv.com/player/l-stindl/39612/",
+        "playerteam": "Borussia M'gladbach",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+        "playergoals": 9,
+        "playerassists": 5
     },
     {
         "playername": "Vincenzo Grifo",
