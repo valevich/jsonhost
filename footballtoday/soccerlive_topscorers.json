@@ -6,7 +6,7 @@
         "playerteam": "Liverpool",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "playergoals": 16,
+        "playergoals": 17,
         "playerassists": 6
     },
     {
@@ -60,8 +60,17 @@
         "playerteam": "Leicester City",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "playergoals": 11,
+        "playergoals": 12,
         "playerassists": 6
+    },
+    {
+        "playername": "İlkay Gündoğan",
+        "playerlink": "https://www.livesoccertv.com/player/gundo-an/69183/",
+        "playerteam": "Manchester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "playergoals": 11,
+        "playerassists": 1
     },
     {
         "playername": "Ollie Watkins",
@@ -82,15 +91,6 @@
         "playerassists": 4
     },
     {
-        "playername": "İlkay Gündoğan",
-        "playerlink": "https://www.livesoccertv.com/player/gundo-an/69183/",
-        "playerteam": "Manchester City",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "playergoals": 9,
-        "playerassists": 1
-    },
-    {
         "playername": "Wilfried Zaha",
         "playerlink": "https://www.livesoccertv.com/player/w-zaha/110122/",
         "playerteam": "Crystal Palace",
@@ -98,6 +98,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
         "playergoals": 9,
         "playerassists": 2
+    },
+    {
+        "playername": "H. Barnes",
+        "playerlink": "https://www.livesoccertv.com/player/h-barnes/334086/",
+        "playerteam": "Leicester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+        "playergoals": 8,
+        "playerassists": 0
     },
     {
         "playername": "Alexandre Lacazette",
@@ -125,15 +134,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "playergoals": 8,
         "playerassists": 0
-    },
-    {
-        "playername": "Raheem Shaquille Sterling",
-        "playerlink": "https://www.livesoccertv.com/player/r-sterling/135689/",
-        "playerteam": "Manchester City",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "playergoals": 8,
-        "playerassists": 0
     }
   ],
   "primera-division": [
@@ -147,6 +147,15 @@
         "playerassists": 2
     },
     {
+        "playername": "L. Messi",
+        "playerlink": "https://www.livesoccertv.com/player/l-messi/252/",
+        "playerteam": "Barcelona",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "playergoals": 15,
+        "playerassists": 2
+    },
+    {
         "playername": "Youssef En-Nesyri",
         "playerlink": "https://www.livesoccertv.com/player/y-en-nesyri/333354/",
         "playerteam": "Sevilla",
@@ -154,15 +163,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
         "playergoals": 13,
         "playerassists": 0
-    },
-    {
-        "playername": "L. Messi",
-        "playerlink": "https://www.livesoccertv.com/player/l-messi/252/",
-        "playerteam": "Barcelona",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "playergoals": 13,
-        "playerassists": 2
     },
     {
         "playername": "Gerard Moreno Balaguero",
@@ -242,16 +242,7 @@
         "playerteam": "Eibar",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/eibar/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "playergoals": 6,
-        "playerassists": 0
-    },
-    {
-        "playername": "Antoine Griezmann",
-        "playerlink": "https://www.livesoccertv.com/player/a-griezmann/90283/",
-        "playerteam": "Barcelona",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "playergoals": 6,
+        "playergoals": 7,
         "playerassists": 0
     },
     {
@@ -260,6 +251,15 @@
         "playerteam": "Atletico Madrid",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "playergoals": 7,
+        "playerassists": 0
+    },
+    {
+        "playername": "Antoine Griezmann",
+        "playerlink": "https://www.livesoccertv.com/player/a-griezmann/90283/",
+        "playerteam": "Barcelona",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
         "playergoals": 6,
         "playerassists": 0
     },
