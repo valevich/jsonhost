@@ -338,6 +338,15 @@
         "playerassists": 2
     },
     {
+        "playername": "L. Insigne",
+        "playerlink": "https://www.livesoccertv.com/player/l-insigne/104026/",
+        "playerteam": "Napoli",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "playergoals": 10,
+        "playerassists": 4
+    },
+    {
         "playername": "L. Martínez",
         "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
         "playerteam": "Internazionale",
@@ -354,15 +363,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
         "playergoals": 9,
         "playerassists": 0
-    },
-    {
-        "playername": "L. Insigne",
-        "playerlink": "https://www.livesoccertv.com/player/l-insigne/104026/",
-        "playerteam": "Napoli",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "playergoals": 9,
-        "playerassists": 3
     },
     {
         "playername": "H. Lozano",
@@ -475,6 +475,15 @@
         "playerassists": 3
     },
     {
+        "playername": "M. Kean",
+        "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
+        "playerteam": "PSG",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "playergoals": 10,
+        "playerassists": 0
+    },
+    {
         "playername": "A. Delort",
         "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
         "playerteam": "Montpellier",
@@ -500,15 +509,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
         "playergoals": 9,
         "playerassists": 5
-    },
-    {
-        "playername": "M. Kean",
-        "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
-        "playerteam": "PSG",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "playergoals": 9,
-        "playerassists": 0
     },
     {
         "playername": "G. Laborde",
