@@ -44,6 +44,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "West Ham United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
+        "played": 24,
+        "wins": 12,
+        "draws": 6,
+        "lossess": 6,
+        "goalsfor": 37,
+        "goalsagainst": 28,
+        "goalsdiff": "+9",
+        "points": 42,
+        "form": "'WDWLW'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "played": 24,
@@ -57,7 +71,7 @@
         "form": "'LLLWW'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 23,
@@ -69,20 +83,6 @@
         "goalsdiff": "+14",
         "points": 39,
         "form": "'WWWDL'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "West Ham United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-        "played": 23,
-        "wins": 11,
-        "draws": 6,
-        "lossess": 6,
-        "goalsfor": 34,
-        "goalsagainst": 28,
-        "goalsdiff": "+6",
-        "points": 39,
-        "form": "'DWLWW'"
     },
     {
         "teamrank": 7,
@@ -270,15 +270,15 @@
         "teamrank": 20,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 23,
+        "played": 24,
         "wins": 3,
         "draws": 2,
-        "lossess": 18,
+        "lossess": 19,
         "goalsfor": 15,
-        "goalsagainst": 37,
-        "goalsdiff": "-22",
+        "goalsagainst": 40,
+        "goalsdiff": "-25",
         "points": 11,
-        "form": "'LWLWL'"
+        "form": "'LLWLW'"
     }
   ],
   "primera-division": [
