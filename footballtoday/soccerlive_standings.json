@@ -1132,15 +1132,15 @@
         "teamrank": 1,
         "teamname": "Bayern München",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "played": 20,
+        "played": 21,
         "wins": 15,
-        "draws": 3,
+        "draws": 4,
         "lossess": 2,
-        "goalsfor": 58,
-        "goalsagainst": 26,
+        "goalsfor": 61,
+        "goalsagainst": 29,
         "goalsdiff": "+32",
-        "points": 48,
-        "form": "'WWWWW'"
+        "points": 49,
+        "form": "'DWWWW'"
     },
     {
         "teamrank": 2,
@@ -1342,15 +1342,15 @@
         "teamrank": 16,
         "teamname": "Arminia Bielefeld",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
-        "played": 19,
+        "played": 20,
         "wins": 5,
-        "draws": 2,
+        "draws": 3,
         "lossess": 12,
-        "goalsfor": 15,
-        "goalsagainst": 32,
+        "goalsfor": 18,
+        "goalsagainst": 35,
         "goalsdiff": "-17",
-        "points": 17,
-        "form": "'LLWDW'"
+        "points": 18,
+        "form": "'DLLWD'"
     },
     {
         "teamrank": 17,
