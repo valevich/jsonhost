@@ -421,6 +421,15 @@
         "playerassists": 4
     },
     {
+        "playername": "W. Ben Yedder",
+        "playerlink": "https://www.livesoccertv.com/player/w-ben-yedder/126219/",
+        "playerteam": "Monaco",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "playergoals": 13,
+        "playerassists": 7
+    },
+    {
         "playername": "M. Depay",
         "playerlink": "https://www.livesoccertv.com/player/m-depay/136392/",
         "playerteam": "Olympique Lyonnais",
@@ -446,15 +455,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
         "playergoals": 12,
         "playerassists": 0
-    },
-    {
-        "playername": "W. Ben Yedder",
-        "playerlink": "https://www.livesoccertv.com/player/w-ben-yedder/126219/",
-        "playerteam": "Monaco",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "playergoals": 11,
-        "playerassists": 6
     },
     {
         "playername": "K. Toko Ekambi",
@@ -529,6 +529,15 @@
         "playerassists": 2
     },
     {
+        "playername": "Terem Igobor Moffi",
+        "playerlink": "https://www.livesoccertv.com/player/t-moffi/364782/",
+        "playerteam": "Lorient",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lorient/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+        "playergoals": 8,
+        "playerassists": 1
+    },
+    {
         "playername": "J. David",
         "playerlink": "https://www.livesoccertv.com/player/j-david/390484/",
         "playerteam": "Lille",
@@ -536,15 +545,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "playergoals": 7,
         "playerassists": 0
-    },
-    {
-        "playername": "H. Diallo",
-        "playerlink": "https://www.livesoccertv.com/player/h-diallo/259590/",
-        "playerteam": "Strasbourg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/strasbourg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-        "playergoals": 7,
-        "playerassists": 1
     }
   ],
   "bundesliga": [
