@@ -1337,6 +1337,48 @@
         "goalsdiff": "-11",
         "points": 18,
         "form": "'DLLLL'"
+    },
+    {
+        "teamrank": 16,
+        "teamname": "Arminia Bielefeld",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
+        "played": 20,
+        "wins": 5,
+        "draws": 3,
+        "lossess": 12,
+        "goalsfor": 18,
+        "goalsagainst": 35,
+        "goalsdiff": "-17",
+        "points": 18,
+        "form": "'DLLWD'"
+    },
+    {
+        "teamrank": 17,
+        "teamname": "Mainz 05",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+        "played": 21,
+        "wins": 3,
+        "draws": 5,
+        "lossess": 13,
+        "goalsfor": 21,
+        "goalsagainst": 42,
+        "goalsdiff": "-21",
+        "points": 14,
+        "form": "'DWLWL'"
+    },
+    {
+        "teamrank": 18,
+        "teamname": "Schalke 04",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
+        "played": 21,
+        "wins": 1,
+        "draws": 6,
+        "lossess": 14,
+        "goalsfor": 15,
+        "goalsagainst": 52,
+        "goalsdiff": "-37",
+        "points": 9,
+        "form": "'DLDLL'"
     }
   ]
 }
