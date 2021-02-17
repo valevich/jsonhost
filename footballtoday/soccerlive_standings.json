@@ -4,14 +4,14 @@
         "teamrank": 1,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "played": 23,
-        "wins": 16,
+        "played": 24,
+        "wins": 17,
         "draws": 5,
         "lossess": 2,
-        "goalsfor": 46,
-        "goalsagainst": 14,
-        "goalsdiff": "+32",
-        "points": 53,
+        "goalsfor": 49,
+        "goalsagainst": 15,
+        "goalsdiff": "+34",
+        "points": 56,
         "form": "'WWWWW'"
     },
     {
@@ -88,15 +88,15 @@
         "teamrank": 7,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-        "played": 22,
+        "played": 23,
         "wins": 11,
         "draws": 4,
-        "lossess": 7,
-        "goalsfor": 34,
-        "goalsagainst": 30,
-        "goalsdiff": "+4",
+        "lossess": 8,
+        "goalsfor": 35,
+        "goalsagainst": 33,
+        "goalsdiff": "+2",
         "points": 37,
-        "form": "'LDWLD'"
+        "form": "'LLDWL'"
     },
     {
         "teamrank": 8,
@@ -918,6 +918,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Olympique Marseille",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+        "played": 24,
+        "wins": 10,
+        "draws": 7,
+        "lossess": 7,
+        "goalsfor": 32,
+        "goalsagainst": 28,
+        "goalsdiff": "+4",
+        "points": 37,
+        "form": "'WDLDL'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Lens",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
         "played": 25,
@@ -931,7 +945,7 @@
         "form": "'DDDWL'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Metz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
         "played": 25,
@@ -945,7 +959,7 @@
         "form": "'LLDWW'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Montpellier",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "played": 25,
@@ -957,20 +971,6 @@
         "goalsdiff": "-4",
         "points": 35,
         "form": "'WWDLL'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Olympique Marseille",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-        "played": 23,
-        "wins": 9,
-        "draws": 7,
-        "lossess": 7,
-        "goalsfor": 29,
-        "goalsagainst": 26,
-        "goalsdiff": "+3",
-        "points": 34,
-        "form": "'DLDLL'"
     },
     {
         "teamrank": 10,
@@ -1032,15 +1032,15 @@
         "teamrank": 14,
         "teamname": "Nice",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-        "played": 24,
+        "played": 25,
         "wins": 8,
         "draws": 5,
-        "lossess": 11,
-        "goalsfor": 28,
-        "goalsagainst": 33,
-        "goalsdiff": "-5",
+        "lossess": 12,
+        "goalsfor": 30,
+        "goalsagainst": 36,
+        "goalsdiff": "-6",
         "points": 29,
-        "form": "'LWLLW'"
+        "form": "'LLWLL'"
     },
     {
         "teamrank": 15,
