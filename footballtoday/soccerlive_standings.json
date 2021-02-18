@@ -787,6 +787,62 @@
         "goalsdiff": "-13",
         "points": 22,
         "form": "'LLDWL'"
+    },
+    {
+        "teamrank": 17,
+        "teamname": "Torino",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+        "played": 22,
+        "wins": 2,
+        "draws": 11,
+        "lossess": 9,
+        "goalsfor": 32,
+        "goalsagainst": 41,
+        "goalsdiff": "-9",
+        "points": 17,
+        "form": "'DDDDD'"
+    },
+    {
+        "teamrank": 18,
+        "teamname": "Cagliari",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+        "played": 22,
+        "wins": 3,
+        "draws": 6,
+        "lossess": 13,
+        "goalsfor": 24,
+        "goalsagainst": 40,
+        "goalsdiff": "-16",
+        "points": 15,
+        "form": "'LLDLL'"
+    },
+    {
+        "teamrank": 19,
+        "teamname": "Parma",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+        "played": 22,
+        "wins": 2,
+        "draws": 7,
+        "lossess": 13,
+        "goalsfor": 15,
+        "goalsagainst": 43,
+        "goalsdiff": "-28",
+        "points": 13,
+        "form": "'LLLLD'"
+    },
+    {
+        "teamrank": 20,
+        "teamname": "Crotone",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
+        "played": 22,
+        "wins": 3,
+        "draws": 3,
+        "lossess": 16,
+        "goalsfor": 23,
+        "goalsagainst": 52,
+        "goalsdiff": "-29",
+        "points": 12,
+        "form": "'LLLLW'"
     }
   ],
   "ligue-1": [
