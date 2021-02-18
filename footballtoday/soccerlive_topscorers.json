@@ -228,6 +228,15 @@
         "playerassists": 1
     },
     {
+        "playername": "Llorente",
+        "playerlink": "https://www.livesoccertv.com/player/marcos-llorente/250443/",
+        "playerteam": "Atletico Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "playergoals": 8,
+        "playerassists": 0
+    },
+    {
         "playername": "Canales",
         "playerlink": "https://www.livesoccertv.com/player/canales/61820/",
         "playerteam": "Real Betis",
@@ -242,15 +251,6 @@
         "playerteam": "Eibar",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/eibar/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "playergoals": 7,
-        "playerassists": 0
-    },
-    {
-        "playername": "Llorente",
-        "playerlink": "https://www.livesoccertv.com/player/marcos-llorente/250443/",
-        "playerteam": "Atletico Madrid",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
         "playergoals": 7,
         "playerassists": 0
     },
