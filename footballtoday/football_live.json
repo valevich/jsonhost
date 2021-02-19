@@ -17,7 +17,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
-      "GameState": "14 ",
+      "GameState": "29 ",
       "HomeTeam": "Wolves",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
@@ -43,7 +43,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "13 ",
+      "GameState": "28 ",
       "HomeTeam": "Real Betis",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
@@ -82,7 +82,7 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "28 ",
+      "GameState": "44 ",
       "HomeTeam": "Cagliari",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
@@ -108,7 +108,7 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "2:30pm",
-      "GameState": "43 ",
+      "GameState": "HT ",
       "HomeTeam": "Arminia Bielefeld",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
@@ -134,7 +134,7 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
-      "GameState": "14 ",
+      "GameState": "29 ",
       "HomeTeam": "Brest",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
@@ -481,7 +481,7 @@
       "AwayTeam": "Austria",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/474.png",
-      "TVChannels": "1 ,  Sky Go ,  Sky Ticket ,  O…"
+      "TVChannels": "1 ,  Sky Go ,  Sky Ticket ,  …"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -494,7 +494,7 @@
       "AwayTeam": "Austria",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/474.png",
-      "TVChannels": "Wien vs Rheindorf Altach Sky Sport Austria 1 ,  Sky Go ,  Sky Ticket ,  O…"
+      "TVChannels": "Wien vs Rheindorf Altach Sky Sport Austria 1 ,  Sky Go ,  Sky Ticket ,  …"
     }
   ],
   "day3": [
@@ -886,7 +886,7 @@
       "AwayTeam": "Wolfsberger",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/13294.png",
-      "TVChannels": "AC Sky Sport Austria 1 ,  Sky Go ,  Sky Ticket ,  O…"
+      "TVChannels": "AC Sky Sport Austria 1 ,  Sky Go ,  Sky Ticket ,  …"
     },
     {
       "LeagueName": "German Bundesliga",
