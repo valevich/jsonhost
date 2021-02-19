@@ -1158,6 +1158,20 @@
     },
     {
         "teamrank": 3,
+        "teamname": "Wolfsburg",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+        "played": 22,
+        "wins": 11,
+        "draws": 9,
+        "lossess": 2,
+        "goalsfor": 35,
+        "goalsagainst": 19,
+        "goalsdiff": "+16",
+        "points": 42,
+        "form": "'WDWWW'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Eintracht Frankfurt",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
         "played": 21,
@@ -1169,20 +1183,6 @@
         "goalsdiff": "+14",
         "points": 39,
         "form": "'WWWWD'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Wolfsburg",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "played": 21,
-        "wins": 10,
-        "draws": 9,
-        "lossess": 2,
-        "goalsfor": 32,
-        "goalsagainst": 19,
-        "goalsdiff": "+13",
-        "points": 39,
-        "form": "'DWWWW'"
     },
     {
         "teamrank": 5,
@@ -1342,15 +1342,15 @@
         "teamrank": 16,
         "teamname": "Arminia Bielefeld",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
-        "played": 20,
+        "played": 21,
         "wins": 5,
         "draws": 3,
-        "lossess": 12,
+        "lossess": 13,
         "goalsfor": 18,
-        "goalsagainst": 35,
-        "goalsdiff": "-17",
+        "goalsagainst": 38,
+        "goalsdiff": "-20",
         "points": 18,
-        "form": "'DLLWD'"
+        "form": "'LDLLW'"
     },
     {
         "teamrank": 17,
