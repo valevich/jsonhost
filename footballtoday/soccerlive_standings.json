@@ -142,31 +142,31 @@
     },
     {
         "teamrank": 11,
-        "teamname": "Leeds United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-        "played": 23,
-        "wins": 10,
-        "draws": 2,
-        "lossess": 11,
-        "goalsfor": 40,
-        "goalsagainst": 42,
-        "goalsdiff": "-2",
-        "points": 32,
-        "form": "'LWLWW'"
+        "teamname": "Wolverhampton Wanderers",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+        "played": 25,
+        "wins": 9,
+        "draws": 6,
+        "lossess": 10,
+        "goalsfor": 26,
+        "goalsagainst": 32,
+        "goalsdiff": "-6",
+        "points": 33,
+        "form": "'WWDWL'"
     },
     {
         "teamrank": 12,
-        "teamname": "Wolverhampton Wanderers",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+        "teamname": "Leeds United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "played": 24,
-        "wins": 8,
-        "draws": 6,
-        "lossess": 10,
-        "goalsfor": 25,
-        "goalsagainst": 32,
-        "goalsdiff": "-7",
-        "points": 30,
-        "form": "'WDWLD'"
+        "wins": 10,
+        "draws": 2,
+        "lossess": 12,
+        "goalsfor": 40,
+        "goalsagainst": 43,
+        "goalsdiff": "-3",
+        "points": 32,
+        "form": "'LLWLW'"
     },
     {
         "teamrank": 13,
@@ -354,6 +354,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Real Betis",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "played": 24,
+        "wins": 11,
+        "draws": 3,
+        "lossess": 10,
+        "goalsfor": 32,
+        "goalsagainst": 38,
+        "goalsdiff": "-6",
+        "points": 36,
+        "form": "'WWLWD'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Villarreal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
         "played": 23,
@@ -365,20 +379,6 @@
         "goalsdiff": "+8",
         "points": 36,
         "form": "'LDDDD'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Real Betis",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 23,
-        "wins": 10,
-        "draws": 3,
-        "lossess": 10,
-        "goalsfor": 31,
-        "goalsagainst": 38,
-        "goalsdiff": "-7",
-        "points": 33,
-        "form": "'WLWDW'"
     },
     {
         "teamrank": 8,
@@ -468,15 +468,15 @@
         "teamrank": 14,
         "teamname": "Getafe",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-        "played": 23,
+        "played": 24,
         "wins": 6,
         "draws": 6,
-        "lossess": 11,
+        "lossess": 12,
         "goalsfor": 17,
-        "goalsagainst": 29,
-        "goalsdiff": "-12",
+        "goalsagainst": 30,
+        "goalsdiff": "-13",
         "points": 24,
-        "form": "'LLLDL'"
+        "form": "'LLLLD'"
     },
     {
         "teamrank": 15,
@@ -848,6 +848,20 @@
   "ligue-1": [
     {
         "teamrank": 1,
+        "teamname": "Olympique Lyonnais",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+        "played": 26,
+        "wins": 16,
+        "draws": 7,
+        "lossess": 3,
+        "goalsfor": 54,
+        "goalsagainst": 24,
+        "goalsdiff": "+30",
+        "points": 55,
+        "form": "'WLWWW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Lille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "played": 25,
@@ -861,7 +875,7 @@
         "form": "'DWWWW'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "PSG",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
         "played": 25,
@@ -873,20 +887,6 @@
         "goalsdiff": "+42",
         "points": 54,
         "form": "'WWWLW'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Olympique Lyonnais",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "played": 25,
-        "wins": 15,
-        "draws": 7,
-        "lossess": 3,
-        "goalsfor": 51,
-        "goalsagainst": 22,
-        "goalsdiff": "+29",
-        "points": 52,
-        "form": "'LWWWW'"
     },
     {
         "teamrank": 4,
@@ -1004,15 +1004,15 @@
         "teamrank": 12,
         "teamname": "Brest",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-        "played": 25,
+        "played": 26,
         "wins": 9,
         "draws": 4,
-        "lossess": 12,
-        "goalsfor": 37,
-        "goalsagainst": 44,
-        "goalsdiff": "-7",
+        "lossess": 13,
+        "goalsfor": 39,
+        "goalsagainst": 47,
+        "goalsdiff": "-8",
         "points": 31,
-        "form": "'DWDLL'"
+        "form": "'LDWDL'"
     },
     {
         "teamrank": 13,
