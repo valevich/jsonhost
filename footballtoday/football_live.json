@@ -30,7 +30,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "10:00am",
-      "GameState": "55 ",
+      "GameState": "70 ",
       "HomeTeam": "Burnley",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
@@ -95,7 +95,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "10:15am",
-      "GameState": "HT ",
+      "GameState": "54 ",
       "HomeTeam": "Atletico Madrid",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
@@ -199,53 +199,53 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "85 ",
+      "GameState": "FT ",
       "HomeTeam": "Köln",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
       "AwayTeam": "Stuttgart",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World No…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World Now ,  Spo…"
     },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "85 ",
+      "GameState": "FT ",
       "HomeTeam": "Freiburg",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
       "AwayTeam": "Union Berlin",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World No…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World Now ,  Spo…"
     },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "83 ",
+      "GameState": "FT ",
       "HomeTeam": "Borussia M'gladbach",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
       "AwayTeam": "Mainz 05",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-      "TVChannels": "05 ESPN+ ,  ESPN App ,  A Spor ,  Sportsnet W…"
+      "TVChannels": "05 ESPN+ ,  ESPN App ,  A Spor ,  Sportsnet World ,  …"
     },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "81 ",
+      "GameState": "FT ",
       "HomeTeam": "Eintracht",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
       "AwayTeam": "Bayern Munich",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-      "TVChannels": "'   Eintracht Frankfurt  2 - 1  Bayern München ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
+      "TVChannels": "Eintracht Frankfurt  2 - 1  Bayern München ESPN+ ,  ESPN App ,  Sportsnet East ,  Sportsne…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -290,7 +290,7 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "11:00am",
-      "GameState": "13 ",
+      "GameState": "28 ",
       "HomeTeam": "Nantes",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
@@ -316,20 +316,20 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "11:00am",
-      "GameState": "14 ",
+      "GameState": "29 ",
       "HomeTeam": "Hartberg",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "",
       "AwayTeam": "Ried fuboTV ,  Eleven Sports Network USA ,  …",
       "AwayGoals": "1",
       "AwayLogo": "",
-      "TVChannels": "11:00am 14 '   Hartberg  0 - 1  Ried fuboTV ,  Eleven Sports Network USA ,  …"
+      "TVChannels": "11:00am 29 '   Hartberg  1 - 1  Ried fuboTV ,  Eleven Sports Network USA ,  …"
     },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "11:00am",
-      "GameState": "14 ",
+      "GameState": "29 ",
       "HomeTeam": "Wattens",
       "HomeGoals": "0",
       "HomeLogo": "",
@@ -342,14 +342,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "11:00am",
-      "GameState": "13 ",
+      "GameState": "28 ",
       "HomeTeam": "Austria",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/474.png",
       "AwayTeam": "Austria",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/474.png",
-      "TVChannels": "Wien  0 - 0  Rheindorf Altach Sky Sport Austria 1 ,  Sky Go ,  Sky Ticket ,  …"
+      "TVChannels": "Wien  0 - 1  Rheindorf Altach Sky Sport Austria 1 ,  Sky Go ,  Sky Ticket ,  …"
     }
   ],
   "day2": [
@@ -624,7 +624,7 @@
       "AwayTeam": "Stade Rennes",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-      "TVChannels": "ESPN Play Norte ,  DIRECTV Sports Pue…"
+      "TVChannels": "beIN SPORTS XTRA ,  ESPN Play Norte ,  …"
     },
     {
       "LeagueName": "French Ligue 1",
