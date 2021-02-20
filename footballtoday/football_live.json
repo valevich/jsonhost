@@ -102,7 +102,7 @@
       "AwayTeam": "Levante",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -160,12 +160,12 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "12:00pm",
-      "GameState": "10 ",
+      "GameState": "24 ",
       "HomeTeam": "Genoa",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
       "AwayTeam": "Hellas Verona",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN No…"
     },
@@ -290,12 +290,12 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "11:00am",
-      "GameState": "56 ",
+      "GameState": "70 ",
       "HomeTeam": "Nantes",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
       "AwayTeam": "Marseille",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
       "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
@@ -316,20 +316,20 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "11:00am",
-      "GameState": "57 ",
+      "GameState": "72 ",
       "HomeTeam": "Hartberg",
       "HomeGoals": "1",
       "HomeLogo": "",
       "AwayTeam": "Ried fuboTV ,  Eleven Sports Network USA ,  …",
       "AwayGoals": "1",
       "AwayLogo": "",
-      "TVChannels": "11:00am 57 '   Hartberg  1 - 1  Ried fuboTV ,  Eleven Sports Network USA ,  …"
+      "TVChannels": "11:00am 72 '   Hartberg  1 - 1  Ried fuboTV ,  Eleven Sports Network USA ,  …"
     },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "11:00am",
-      "GameState": "57 ",
+      "GameState": "71 ",
       "HomeTeam": "Wattens",
       "HomeGoals": "0",
       "HomeLogo": "",
@@ -342,14 +342,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "11:00am",
-      "GameState": "57 ",
+      "GameState": "71 ",
       "HomeTeam": "Austria",
-      "HomeGoals": "2",
+      "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/474.png",
       "AwayTeam": "Austria",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/474.png",
-      "TVChannels": "Wien  2 - 1  Rheindorf Altach Sky Sport Austria 1 ,  Sky Go ,  Sky Ticket ,  …"
+      "TVChannels": "Wien  3 - 1  Rheindorf Altach Sky Sport Austria 1 ,  Sky Go ,  Sky Ticket ,  …"
     }
   ],
   "day2": [
