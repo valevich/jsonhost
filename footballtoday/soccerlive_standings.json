@@ -46,15 +46,15 @@
         "teamrank": 4,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "played": 24,
+        "played": 25,
         "wins": 12,
-        "draws": 6,
+        "draws": 7,
         "lossess": 6,
-        "goalsfor": 40,
-        "goalsagainst": 24,
+        "goalsfor": 41,
+        "goalsagainst": 25,
         "goalsdiff": "+16",
-        "points": 42,
-        "form": "'WWWWD'"
+        "points": 43,
+        "form": "'DWWWW'"
     },
     {
         "teamrank": 5,
@@ -172,15 +172,15 @@
         "teamrank": 13,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "played": 23,
+        "played": 24,
         "wins": 8,
-        "draws": 5,
+        "draws": 6,
         "lossess": 10,
-        "goalsfor": 30,
-        "goalsagainst": 39,
+        "goalsfor": 31,
+        "goalsagainst": 40,
         "goalsdiff": "-9",
-        "points": 29,
-        "form": "'LLLLL'"
+        "points": 30,
+        "form": "'DLLLL'"
     },
     {
         "teamrank": 14,
