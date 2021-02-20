@@ -510,18 +510,32 @@
         "teamrank": 17,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 23,
+        "played": 24,
         "wins": 4,
         "draws": 9,
-        "lossess": 10,
+        "lossess": 11,
         "goalsfor": 19,
-        "goalsagainst": 26,
-        "goalsdiff": "-7",
+        "goalsagainst": 27,
+        "goalsdiff": "-8",
         "points": 21,
-        "form": "'DLLDL'"
+        "form": "'LDLLD'"
     },
     {
         "teamrank": 18,
+        "teamname": "Elche",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+        "played": 22,
+        "wins": 4,
+        "draws": 9,
+        "lossess": 9,
+        "goalsfor": 20,
+        "goalsagainst": 31,
+        "goalsdiff": "-11",
+        "points": 21,
+        "form": "'WLDLL'"
+    },
+    {
+        "teamrank": 19,
         "teamname": "Real Valladolid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
         "played": 23,
@@ -533,20 +547,6 @@
         "goalsdiff": "-12",
         "points": 21,
         "form": "'DLLDD'"
-    },
-    {
-        "teamrank": 19,
-        "teamname": "Elche",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-        "played": 21,
-        "wins": 3,
-        "draws": 9,
-        "lossess": 9,
-        "goalsfor": 19,
-        "goalsagainst": 31,
-        "goalsdiff": "-12",
-        "points": 18,
-        "form": "'LDLLD'"
     },
     {
         "teamrank": 20,
