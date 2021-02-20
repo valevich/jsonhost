@@ -242,15 +242,15 @@
         "teamrank": 18,
         "teamname": "Fulham",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-        "played": 24,
-        "wins": 3,
+        "played": 25,
+        "wins": 4,
         "draws": 10,
         "lossess": 11,
-        "goalsfor": 20,
+        "goalsfor": 21,
         "goalsagainst": 32,
-        "goalsdiff": "-12",
-        "points": 19,
-        "form": "'DWDLD'"
+        "goalsdiff": "-11",
+        "points": 22,
+        "form": "'WDWDL'"
     },
     {
         "teamrank": 19,
@@ -270,15 +270,15 @@
         "teamrank": 20,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 24,
+        "played": 25,
         "wins": 3,
         "draws": 2,
-        "lossess": 19,
+        "lossess": 20,
         "goalsfor": 15,
-        "goalsagainst": 40,
-        "goalsdiff": "-25",
+        "goalsagainst": 41,
+        "goalsdiff": "-26",
         "points": 11,
-        "form": "'LLWLW'"
+        "form": "'LLLWL'"
     }
   ],
   "primera-division": [
@@ -300,15 +300,15 @@
         "teamrank": 2,
         "teamname": "Real Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "played": 23,
-        "wins": 15,
+        "played": 24,
+        "wins": 16,
         "draws": 4,
         "lossess": 4,
-        "goalsfor": 41,
+        "goalsfor": 42,
         "goalsagainst": 19,
-        "goalsdiff": "+22",
-        "points": 49,
-        "form": "'WWWLW'"
+        "goalsdiff": "+23",
+        "points": 52,
+        "form": "'WWWWL'"
     },
     {
         "teamrank": 3,
@@ -538,15 +538,15 @@
         "teamrank": 19,
         "teamname": "Real Valladolid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-        "played": 23,
+        "played": 24,
         "wins": 4,
         "draws": 9,
-        "lossess": 10,
+        "lossess": 11,
         "goalsfor": 22,
-        "goalsagainst": 34,
-        "goalsdiff": "-12",
+        "goalsagainst": 35,
+        "goalsdiff": "-13",
         "points": 21,
-        "form": "'DLLDD'"
+        "form": "'LDLLD'"
     },
     {
         "teamrank": 20,
