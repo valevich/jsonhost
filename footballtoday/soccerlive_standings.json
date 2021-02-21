@@ -848,6 +848,20 @@
   "ligue-1": [
     {
         "teamrank": 1,
+        "teamname": "Lille",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "played": 26,
+        "wins": 17,
+        "draws": 7,
+        "lossess": 2,
+        "goalsfor": 46,
+        "goalsagainst": 16,
+        "goalsdiff": "+30",
+        "points": 58,
+        "form": "'WDWWW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Olympique Lyonnais",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "played": 26,
@@ -859,20 +873,6 @@
         "goalsdiff": "+30",
         "points": 55,
         "form": "'WLWWW'"
-    },
-    {
-        "teamrank": 2,
-        "teamname": "Lille",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "played": 25,
-        "wins": 16,
-        "draws": 7,
-        "lossess": 2,
-        "goalsfor": 42,
-        "goalsagainst": 15,
-        "goalsdiff": "+27",
-        "points": 55,
-        "form": "'DWWWW'"
     },
     {
         "teamrank": 3,
@@ -1072,20 +1072,6 @@
     },
     {
         "teamrank": 17,
-        "teamname": "Lorient",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-        "played": 24,
-        "wins": 6,
-        "draws": 5,
-        "lossess": 13,
-        "goalsfor": 30,
-        "goalsagainst": 45,
-        "goalsdiff": "-15",
-        "points": 23,
-        "form": "'DWDWW'"
-    },
-    {
-        "teamrank": 18,
         "teamname": "Nantes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
         "played": 26,
@@ -1097,6 +1083,20 @@
         "goalsdiff": "-15",
         "points": 23,
         "form": "'DWLDL'"
+    },
+    {
+        "teamrank": 18,
+        "teamname": "Lorient",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+        "played": 25,
+        "wins": 6,
+        "draws": 5,
+        "lossess": 14,
+        "goalsfor": 31,
+        "goalsagainst": 49,
+        "goalsdiff": "-18",
+        "points": 23,
+        "form": "'LDWDW'"
     },
     {
         "teamrank": 19,
