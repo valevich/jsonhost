@@ -16,6 +16,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Manchester United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "played": 25,
+        "wins": 14,
+        "draws": 7,
+        "lossess": 4,
+        "goalsfor": 53,
+        "goalsagainst": 32,
+        "goalsdiff": "+21",
+        "points": 49,
+        "form": "'WDDWD'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Leicester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
         "played": 25,
@@ -27,20 +41,6 @@
         "goalsdiff": "+17",
         "points": 49,
         "form": "'WWDWL'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Manchester United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "played": 24,
-        "wins": 13,
-        "draws": 7,
-        "lossess": 4,
-        "goalsfor": 50,
-        "goalsagainst": 31,
-        "goalsdiff": "+19",
-        "points": 46,
-        "form": "'DDWDL'"
     },
     {
         "teamrank": 4,
@@ -228,15 +228,15 @@
         "teamrank": 17,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-        "played": 24,
+        "played": 25,
         "wins": 7,
         "draws": 4,
-        "lossess": 13,
-        "goalsfor": 25,
-        "goalsagainst": 40,
-        "goalsdiff": "-15",
+        "lossess": 14,
+        "goalsfor": 26,
+        "goalsagainst": 43,
+        "goalsdiff": "-17",
         "points": 25,
-        "form": "'LWLWL'"
+        "form": "'LLWLW'"
     },
     {
         "teamrank": 18,
