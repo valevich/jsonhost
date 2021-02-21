@@ -342,15 +342,15 @@
         "teamrank": 5,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "played": 23,
-        "wins": 10,
+        "played": 24,
+        "wins": 11,
         "draws": 8,
         "lossess": 5,
-        "goalsfor": 37,
+        "goalsfor": 41,
         "goalsagainst": 20,
-        "goalsdiff": "+17",
-        "points": 38,
-        "form": "'WWDDL'"
+        "goalsdiff": "+21",
+        "points": 41,
+        "form": "'WWWDD'"
     },
     {
         "teamrank": 6,
@@ -496,15 +496,15 @@
         "teamrank": 16,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-        "played": 23,
+        "played": 24,
         "wins": 5,
         "draws": 7,
-        "lossess": 11,
+        "lossess": 12,
         "goalsfor": 20,
-        "goalsagainst": 34,
-        "goalsdiff": "-14",
+        "goalsagainst": 38,
+        "goalsdiff": "-18",
         "points": 22,
-        "form": "'LWDLL'"
+        "form": "'LLWDL'"
     },
     {
         "teamrank": 17,
