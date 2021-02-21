@@ -354,6 +354,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Villarreal",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "played": 24,
+        "wins": 8,
+        "draws": 13,
+        "lossess": 3,
+        "goalsfor": 33,
+        "goalsagainst": 25,
+        "goalsdiff": "+8",
+        "points": 37,
+        "form": "'DLDDD'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "played": 24,
@@ -365,20 +379,6 @@
         "goalsdiff": "-6",
         "points": 36,
         "form": "'WWLWD'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Villarreal",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "played": 23,
-        "wins": 8,
-        "draws": 12,
-        "lossess": 3,
-        "goalsfor": 32,
-        "goalsagainst": 24,
-        "goalsdiff": "+8",
-        "points": 36,
-        "form": "'LDDDD'"
     },
     {
         "teamrank": 8,
@@ -410,6 +410,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Athletic Club",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "played": 23,
+        "wins": 8,
+        "draws": 5,
+        "lossess": 10,
+        "goalsfor": 33,
+        "goalsagainst": 27,
+        "goalsdiff": "+6",
+        "points": 29,
+        "form": "'DWDLW'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "played": 24,
@@ -421,20 +435,6 @@
         "goalsdiff": "-7",
         "points": 29,
         "form": "'LWDDD'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Athletic Club",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "played": 22,
-        "wins": 8,
-        "draws": 4,
-        "lossess": 10,
-        "goalsfor": 32,
-        "goalsagainst": 26,
-        "goalsdiff": "+6",
-        "points": 28,
-        "form": "'WDLWL'"
     },
     {
         "teamrank": 12,
@@ -596,15 +596,15 @@
         "teamrank": 3,
         "teamname": "Roma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "played": 22,
+        "played": 23,
         "wins": 13,
-        "draws": 4,
+        "draws": 5,
         "lossess": 5,
         "goalsfor": 47,
         "goalsagainst": 35,
         "goalsdiff": "+12",
-        "points": 43,
-        "form": "'WLWWL'"
+        "points": 44,
+        "form": "'DWLWW'"
     },
     {
         "teamrank": 4,
@@ -764,15 +764,15 @@
         "teamrank": 15,
         "teamname": "Benevento",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
-        "played": 22,
+        "played": 23,
         "wins": 6,
-        "draws": 6,
+        "draws": 7,
         "lossess": 10,
         "goalsfor": 25,
         "goalsagainst": 42,
         "goalsdiff": "-17",
-        "points": 24,
-        "form": "'DDLDL'"
+        "points": 25,
+        "form": "'DDDLD'"
     },
     {
         "teamrank": 16,
@@ -878,29 +878,29 @@
         "teamrank": 3,
         "teamname": "PSG",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "played": 25,
+        "played": 26,
         "wins": 17,
         "draws": 3,
-        "lossess": 5,
+        "lossess": 6,
         "goalsfor": 57,
-        "goalsagainst": 15,
-        "goalsdiff": "+42",
+        "goalsagainst": 17,
+        "goalsdiff": "+40",
         "points": 54,
-        "form": "'WWWLW'"
+        "form": "'LWWWL'"
     },
     {
         "teamrank": 4,
         "teamname": "Monaco",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "played": 25,
-        "wins": 15,
+        "played": 26,
+        "wins": 16,
         "draws": 4,
         "lossess": 6,
-        "goalsfor": 52,
+        "goalsfor": 54,
         "goalsagainst": 37,
-        "goalsdiff": "+15",
-        "points": 49,
-        "form": "'DWWWW'"
+        "goalsdiff": "+17",
+        "points": 52,
+        "form": "'WDWWW'"
     },
     {
         "teamrank": 5,
