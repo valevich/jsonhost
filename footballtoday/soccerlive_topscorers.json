@@ -138,6 +138,15 @@
   ],
   "primera-division": [
     {
+        "playername": "L. Messi",
+        "playerlink": "https://www.livesoccertv.com/player/l-messi/252/",
+        "playerteam": "Barcelona",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "playergoals": 16,
+        "playerassists": 3
+    },
+    {
         "playername": "L. Suárez",
         "playerlink": "https://www.livesoccertv.com/player/l-suarez/2423/",
         "playerteam": "Atletico Madrid",
@@ -147,13 +156,13 @@
         "playerassists": 2
     },
     {
-        "playername": "L. Messi",
-        "playerlink": "https://www.livesoccertv.com/player/l-messi/252/",
-        "playerteam": "Barcelona",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "playergoals": 15,
-        "playerassists": 2
+        "playername": "Gerard Moreno",
+        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
+        "playerteam": "Villarreal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "playergoals": 14,
+        "playerassists": 5
     },
     {
         "playername": "Y. En-Nesyri",
@@ -165,20 +174,20 @@
         "playerassists": 0
     },
     {
-        "playername": "Gerard Moreno",
-        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
-        "playerteam": "Villarreal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "playergoals": 13,
-        "playerassists": 5
-    },
-    {
         "playername": "K. Benzema",
         "playerlink": "https://www.livesoccertv.com/player/k-benzema/1728/",
         "playerteam": "Real Madrid",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-madrid/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "playergoals": 12,
+        "playerassists": 0
+    },
+    {
+        "playername": "A. Isak",
+        "playerlink": "https://www.livesoccertv.com/player/a-isak/309686/",
+        "playerteam": "Real Sociedad",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "playergoals": 12,
         "playerassists": 0
     },
@@ -208,15 +217,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "playergoals": 9,
         "playerassists": 3
-    },
-    {
-        "playername": "A. Isak",
-        "playerlink": "https://www.livesoccertv.com/player/a-isak/309686/",
-        "playerteam": "Real Sociedad",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "playergoals": 9,
-        "playerassists": 0
     },
     {
         "playername": "Roger Martí",
@@ -255,6 +255,15 @@
         "playerassists": 0
     },
     {
+        "playername": "Álex Berenguer",
+        "playerlink": "https://www.livesoccertv.com/player/alex-berenguer/277009/",
+        "playerteam": "Athletic Club",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/athletic-bilbao/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "playergoals": 6,
+        "playerassists": 0
+    },
+    {
         "playername": "A. Budimir",
         "playerlink": "https://www.livesoccertv.com/player/a-budimir/36677/",
         "playerteam": "Osasuna",
@@ -262,33 +271,24 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
         "playergoals": 6,
         "playerassists": 0
-    },
-    {
-        "playername": "A. Griezmann",
-        "playerlink": "https://www.livesoccertv.com/player/a-griezmann/90283/",
-        "playerteam": "Barcelona",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "playergoals": 6,
-        "playerassists": 0
     }
   ],
   "serie-a": [
-    {
-        "playername": "Cristiano Ronaldo",
-        "playerlink": "https://www.livesoccertv.com/player/cristiano-ronaldo/515/",
-        "playerteam": "Juventus",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/juventus/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-        "playergoals": 16,
-        "playerassists": 4
-    },
     {
         "playername": "R. Lukaku",
         "playerlink": "https://www.livesoccertv.com/player/r-lukaku/79627/",
         "playerteam": "Internazionale",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+        "playergoals": 17,
+        "playerassists": 4
+    },
+    {
+        "playername": "Cristiano Ronaldo",
+        "playerlink": "https://www.livesoccertv.com/player/cristiano-ronaldo/515/",
+        "playerteam": "Juventus",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/juventus/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
         "playergoals": 16,
         "playerassists": 4
     },
@@ -316,8 +316,17 @@
         "playerteam": "Atalanta",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "playergoals": 13,
+        "playergoals": 14,
         "playerassists": 1
+    },
+    {
+        "playername": "L. Martínez",
+        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
+        "playerteam": "Internazionale",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+        "playergoals": 13,
+        "playerassists": 0
     },
     {
         "playername": "A. Belotti",
@@ -336,15 +345,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
         "playergoals": 11,
         "playerassists": 2
-    },
-    {
-        "playername": "L. Martínez",
-        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
-        "playerteam": "Internazionale",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "playergoals": 11,
-        "playerassists": 0
     },
     {
         "playername": "F. Caputo",
@@ -666,6 +666,15 @@
         "playerassists": 1
     },
     {
+        "playername": "I. Bebou",
+        "playerlink": "https://www.livesoccertv.com/player/i-bebou/211319/",
+        "playerteam": "Hoffenheim",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+        "playergoals": 6,
+        "playerassists": 0
+    },
+    {
         "playername": "Matheus Cunha",
         "playerlink": "https://www.livesoccertv.com/player/matheus-cunha/359098/",
         "playerteam": "Hertha BSC",
@@ -673,15 +682,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
         "playergoals": 6,
         "playerassists": 2
-    },
-    {
-        "playername": "N. González",
-        "playerlink": "https://www.livesoccertv.com/player/n-gonzalez/330698/",
-        "playerteam": "Stuttgart",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-        "playergoals": 6,
-        "playerassists": 3
     }
   ]
 }
