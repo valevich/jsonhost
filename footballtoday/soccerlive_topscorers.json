@@ -15,8 +15,8 @@
         "playerteam": "Manchester United",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "playergoals": 14,
-        "playerassists": 6
+        "playergoals": 15,
+        "playerassists": 7
     },
     {
         "playername": "D. Calvert-Lewin",
@@ -91,6 +91,33 @@
         "playerassists": 4
     },
     {
+        "playername": "Harvey Lewis Barnes",
+        "playerlink": "https://www.livesoccertv.com/player/h-barnes/334086/",
+        "playerteam": "Leicester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
+        "playername": "M. Rashford",
+        "playerlink": "https://www.livesoccertv.com/player/m-rashford/308286/",
+        "playerteam": "Manchester United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
+        "playername": "R. Sterling",
+        "playerlink": "https://www.livesoccertv.com/player/r-sterling/135689/",
+        "playerteam": "Manchester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
         "playername": "W. Zaha",
         "playerlink": "https://www.livesoccertv.com/player/w-zaha/110122/",
         "playerteam": "Crystal Palace",
@@ -107,33 +134,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "playergoals": 8,
         "playerassists": 2
-    },
-    {
-        "playername": "Harvey Lewis Barnes",
-        "playerlink": "https://www.livesoccertv.com/player/h-barnes/334086/",
-        "playerteam": "Leicester City",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "playergoals": 8,
-        "playerassists": 0
-    },
-    {
-        "playername": "D. Ings",
-        "playerlink": "https://www.livesoccertv.com/player/d-ings/120917/",
-        "playerteam": "Southampton",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/southampton/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "playergoals": 8,
-        "playerassists": 2
-    },
-    {
-        "playername": "A. Lacazette",
-        "playerlink": "https://www.livesoccertv.com/player/a-lacazette/86665/",
-        "playerteam": "Arsenal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/arsenal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "playergoals": 8,
-        "playerassists": 1
     }
   ],
   "primera-division": [
