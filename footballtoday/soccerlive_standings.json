@@ -128,6 +128,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Leeds United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+        "played": 25,
+        "wins": 11,
+        "draws": 2,
+        "lossess": 12,
+        "goalsfor": 43,
+        "goalsagainst": 43,
+        "goalsdiff": "0",
+        "points": 35,
+        "form": "'WLLWL'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "played": 25,
@@ -141,7 +155,7 @@
         "form": "'LWLLD'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
         "played": 25,
@@ -153,20 +167,6 @@
         "goalsdiff": "-6",
         "points": 33,
         "form": "'WWDWL'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Leeds United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-        "played": 24,
-        "wins": 10,
-        "draws": 2,
-        "lossess": 12,
-        "goalsfor": 40,
-        "goalsagainst": 43,
-        "goalsdiff": "-3",
-        "points": 32,
-        "form": "'LLWLW'"
     },
     {
         "teamrank": 13,
@@ -186,15 +186,15 @@
         "teamrank": 14,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "played": 24,
+        "played": 25,
         "wins": 8,
         "draws": 6,
-        "lossess": 10,
+        "lossess": 11,
         "goalsfor": 31,
-        "goalsagainst": 40,
-        "goalsdiff": "-9",
+        "goalsagainst": 43,
+        "goalsdiff": "-12",
         "points": 30,
-        "form": "'DLLLL'"
+        "form": "'LDLLL'"
     },
     {
         "teamrank": 15,
