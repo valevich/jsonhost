@@ -312,6 +312,20 @@
     },
     {
         "teamrank": 3,
+        "teamname": "Barcelona",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "played": 24,
+        "wins": 15,
+        "draws": 5,
+        "lossess": 4,
+        "goalsfor": 53,
+        "goalsagainst": 22,
+        "goalsdiff": "+31",
+        "points": 50,
+        "form": "'WDWWW'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
         "played": 23,
@@ -323,20 +337,6 @@
         "goalsdiff": "+18",
         "points": 48,
         "form": "'WWWWW'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Barcelona",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "played": 23,
-        "wins": 14,
-        "draws": 5,
-        "lossess": 4,
-        "goalsfor": 50,
-        "goalsagainst": 22,
-        "goalsdiff": "+28",
-        "points": 47,
-        "form": "'DWWWW'"
     },
     {
         "teamrank": 5,
@@ -522,20 +522,6 @@
     },
     {
         "teamrank": 18,
-        "teamname": "Elche",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-        "played": 22,
-        "wins": 4,
-        "draws": 9,
-        "lossess": 9,
-        "goalsfor": 20,
-        "goalsagainst": 31,
-        "goalsdiff": "-11",
-        "points": 21,
-        "form": "'WLDLL'"
-    },
-    {
-        "teamrank": 19,
         "teamname": "Real Valladolid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
         "played": 24,
@@ -547,6 +533,20 @@
         "goalsdiff": "-13",
         "points": 21,
         "form": "'LDLLD'"
+    },
+    {
+        "teamrank": 19,
+        "teamname": "Elche",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+        "played": 23,
+        "wins": 4,
+        "draws": 9,
+        "lossess": 10,
+        "goalsfor": 20,
+        "goalsagainst": 34,
+        "goalsdiff": "-14",
+        "points": 21,
+        "form": "'LWLDL'"
     },
     {
         "teamrank": 20,
@@ -1072,6 +1072,20 @@
     },
     {
         "teamrank": 17,
+        "teamname": "Nîmes",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
+        "played": 26,
+        "wins": 7,
+        "draws": 3,
+        "lossess": 16,
+        "goalsfor": 25,
+        "goalsagainst": 51,
+        "goalsdiff": "-26",
+        "points": 24,
+        "form": "'WWWLL'"
+    },
+    {
+        "teamrank": 18,
         "teamname": "Nantes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
         "played": 26,
@@ -1085,32 +1099,18 @@
         "form": "'DWLDL'"
     },
     {
-        "teamrank": 18,
+        "teamrank": 19,
         "teamname": "Lorient",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-        "played": 25,
+        "played": 26,
         "wins": 6,
         "draws": 5,
-        "lossess": 14,
+        "lossess": 15,
         "goalsfor": 31,
-        "goalsagainst": 49,
-        "goalsdiff": "-18",
+        "goalsagainst": 50,
+        "goalsdiff": "-19",
         "points": 23,
-        "form": "'LDWDW'"
-    },
-    {
-        "teamrank": 19,
-        "teamname": "Nîmes",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
-        "played": 25,
-        "wins": 6,
-        "draws": 3,
-        "lossess": 16,
-        "goalsfor": 24,
-        "goalsagainst": 51,
-        "goalsdiff": "-27",
-        "points": 21,
-        "form": "'WWLLL'"
+        "form": "'LLDWD'"
     },
     {
         "teamrank": 20,
