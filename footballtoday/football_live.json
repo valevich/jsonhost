@@ -82,9 +82,9 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "1:00pm",
-      "GameState": "HT ",
+      "GameState": "57 ",
       "HomeTeam": "Barcelona",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
       "AwayTeam": "Elche",
       "AwayGoals": "0",
@@ -108,7 +108,7 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "1:00pm",
-      "GameState": "HT ",
+      "GameState": "58 ",
       "HomeTeam": "Nimes",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
@@ -1232,7 +1232,7 @@
       "AwayTeam": "Torino",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-      "TVChannels": "ESPN App ,  DAZN ,  ESPN2 Norte ,  ESPN Cari…"
+      "TVChannels": "ESPN App ,  DAZN ,  TLN ,  ESPN2 Norte ,  ESPN…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1245,7 +1245,7 @@
       "AwayTeam": "Spezia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
-      "TVChannels": "ESPN App ,  DAZN ,  ESPN2 Caribbean ,  ESPN…"
+      "TVChannels": "ESPN App ,  DAZN ,  TLN ,  ESPN2 Caribbean ,  …"
     }
   ]
 }
