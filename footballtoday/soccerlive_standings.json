@@ -384,18 +384,32 @@
         "teamrank": 8,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "played": 24,
+        "played": 25,
         "wins": 7,
-        "draws": 10,
+        "draws": 11,
         "lossess": 7,
-        "goalsfor": 34,
-        "goalsagainst": 33,
+        "goalsfor": 35,
+        "goalsagainst": 34,
         "goalsdiff": "+1",
-        "points": 31,
-        "form": "'WDLDW'"
+        "points": 32,
+        "form": "'DWDLD'"
     },
     {
         "teamrank": 9,
+        "teamname": "Athletic Club",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "played": 24,
+        "wins": 8,
+        "draws": 6,
+        "lossess": 10,
+        "goalsfor": 34,
+        "goalsagainst": 28,
+        "goalsdiff": "+6",
+        "points": 30,
+        "form": "'DDWDL'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
         "played": 24,
@@ -407,20 +421,6 @@
         "goalsdiff": "-12",
         "points": 30,
         "form": "'LLDDL'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Athletic Club",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "played": 23,
-        "wins": 8,
-        "draws": 5,
-        "lossess": 10,
-        "goalsfor": 33,
-        "goalsagainst": 27,
-        "goalsdiff": "+6",
-        "points": 29,
-        "form": "'DWDLW'"
     },
     {
         "teamrank": 11,
@@ -948,15 +948,15 @@
         "teamrank": 8,
         "teamname": "Rennes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-        "played": 25,
+        "played": 26,
         "wins": 10,
         "draws": 8,
-        "lossess": 7,
-        "goalsfor": 32,
-        "goalsagainst": 28,
-        "goalsdiff": "+4",
+        "lossess": 8,
+        "goalsfor": 33,
+        "goalsagainst": 30,
+        "goalsdiff": "+3",
         "points": 38,
-        "form": "'LLDDL'"
+        "form": "'LLLDD'"
     },
     {
         "teamrank": 9,
@@ -1002,6 +1002,20 @@
     },
     {
         "teamrank": 12,
+        "teamname": "Nice",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+        "played": 27,
+        "wins": 9,
+        "draws": 5,
+        "lossess": 13,
+        "goalsfor": 33,
+        "goalsagainst": 39,
+        "goalsdiff": "-6",
+        "points": 32,
+        "form": "'WLLLW'"
+    },
+    {
+        "teamrank": 13,
         "teamname": "Brest",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
         "played": 26,
@@ -1015,7 +1029,7 @@
         "form": "'LDWDL'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Reims",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
         "played": 26,
@@ -1029,7 +1043,7 @@
         "form": "'DDLDW'"
     },
     {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "Saint-Étienne",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
         "played": 26,
@@ -1043,7 +1057,7 @@
         "form": "'DWWDW'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Strasbourg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
         "played": 26,
@@ -1055,20 +1069,6 @@
         "goalsdiff": "-6",
         "points": 29,
         "form": "'DWLDL'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Nice",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-        "played": 26,
-        "wins": 8,
-        "draws": 5,
-        "lossess": 13,
-        "goalsfor": 31,
-        "goalsagainst": 38,
-        "goalsdiff": "-7",
-        "points": 29,
-        "form": "'LLLWL'"
     },
     {
         "teamrank": 17,
