@@ -43,14 +43,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "12:30pm",
-      "GameState": "87 ",
+      "GameState": "FT ",
       "HomeTeam": "Leeds United",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
       "AwayTeam": "Aston Villa",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  B…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  Blue T…"
     },
     {
       "LeagueName": "English Premier League",
@@ -108,14 +108,14 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "12:30pm",
-      "GameState": "85 ",
+      "GameState": "FT ",
       "HomeTeam": "Alavés",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
       "AwayTeam": "Osasuna",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -251,14 +251,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "12:30pm",
-      "GameState": "82 ",
+      "GameState": "90 ",
       "HomeTeam": "RB Leipzig",
-      "HomeGoals": "2",
+      "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
       "AwayTeam": "Borussia M'gladbach",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sportsn…"
     },
     {
       "LeagueName": "French Ligue 1",
