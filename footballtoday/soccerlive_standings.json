@@ -862,6 +862,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "PSG",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "played": 27,
+        "wins": 18,
+        "draws": 3,
+        "lossess": 6,
+        "goalsfor": 61,
+        "goalsagainst": 17,
+        "goalsdiff": "+44",
+        "points": 57,
+        "form": "'WLWWW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Olympique Lyonnais",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "played": 26,
@@ -873,20 +887,6 @@
         "goalsdiff": "+30",
         "points": 55,
         "form": "'WLWWW'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "PSG",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "played": 26,
-        "wins": 17,
-        "draws": 3,
-        "lossess": 6,
-        "goalsfor": 57,
-        "goalsagainst": 17,
-        "goalsdiff": "+40",
-        "points": 54,
-        "form": "'LWWWL'"
     },
     {
         "teamrank": 4,
@@ -1116,13 +1116,13 @@
         "teamrank": 20,
         "teamname": "Dijon",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
-        "played": 26,
+        "played": 27,
         "wins": 2,
         "draws": 9,
-        "lossess": 15,
+        "lossess": 16,
         "goalsfor": 18,
-        "goalsagainst": 40,
-        "goalsdiff": "-22",
+        "goalsagainst": 44,
+        "goalsdiff": "-26",
         "points": 15,
         "form": "'LLLLL'"
     }
