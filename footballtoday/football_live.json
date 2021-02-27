@@ -56,7 +56,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
-      "GameState": "79 ",
+      "GameState": "90 ",
       "HomeTeam": "Newcastle Utd",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
@@ -121,9 +121,9 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "79 ",
+      "GameState": "90 ",
       "HomeTeam": "Getafe",
-      "HomeGoals": "2",
+      "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
       "AwayTeam": "Valencia",
       "AwayGoals": "0",
@@ -173,14 +173,14 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Hellas Verona",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
       "AwayTeam": "Juventus",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-      "TVChannels": "ESPN+ ,  Fanatiz USA ,  fuboT…"
+      "TVChannels": "ESPN+ ,  Fanatiz USA ,  fuboTV ,  ESPN App ,  Ra…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -1114,84 +1114,6 @@
       "TVChannels": "Fanatiz USA ,  beIN SPORTS XTRA ,  …"
     }
   ],
-  "day6": [
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "Thursday Mar. 4, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Fulham",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-      "AwayTeam": "Tottenham",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "West Bromwich",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-      "AwayTeam": "Everton",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "3:15pm",
-      "GameState": "",
-      "HomeTeam": "Liverpool",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "AwayTeam": "Chelsea",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
-    },
-    {
-      "LeagueName": "Italian Serie A",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
-      "GameTime": "Thursday Mar. 4, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Italian Serie A",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Parma",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-      "AwayTeam": "Inter",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-      "TVChannels": "ESPN2 ,  ESPN Deportes ,  ESPN Deporte…"
     }
   ],
   "day7": [
