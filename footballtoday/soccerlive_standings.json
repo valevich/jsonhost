@@ -494,6 +494,20 @@
     },
     {
         "teamrank": 16,
+        "teamname": "Eibar",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
+        "played": 25,
+        "wins": 4,
+        "draws": 10,
+        "lossess": 11,
+        "goalsfor": 20,
+        "goalsagainst": 28,
+        "goalsdiff": "-8",
+        "points": 22,
+        "form": "'DLDLL'"
+    },
+    {
+        "teamrank": 17,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 24,
@@ -505,20 +519,6 @@
         "goalsdiff": "-18",
         "points": 22,
         "form": "'LLWDL'"
-    },
-    {
-        "teamrank": 17,
-        "teamname": "Eibar",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 24,
-        "wins": 4,
-        "draws": 9,
-        "lossess": 11,
-        "goalsfor": 19,
-        "goalsagainst": 27,
-        "goalsdiff": "-8",
-        "points": 21,
-        "form": "'LDLLD'"
     },
     {
         "teamrank": 18,
@@ -552,15 +552,15 @@
         "teamrank": 20,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-        "played": 24,
+        "played": 25,
         "wins": 3,
-        "draws": 10,
+        "draws": 11,
         "lossess": 11,
-        "goalsfor": 21,
-        "goalsagainst": 35,
+        "goalsfor": 22,
+        "goalsagainst": 36,
         "goalsdiff": "-14",
-        "points": 19,
-        "form": "'WLLWD'"
+        "points": 20,
+        "form": "'DWLLW'"
     }
   ],
   "serie-a": [
