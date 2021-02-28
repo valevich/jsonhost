@@ -382,6 +382,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Granada",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
+        "played": 25,
+        "wins": 9,
+        "draws": 6,
+        "lossess": 10,
+        "goalsfor": 31,
+        "goalsagainst": 42,
+        "goalsdiff": "-11",
+        "points": 33,
+        "form": "'WLLDD'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 25,
@@ -395,7 +409,7 @@
         "form": "'DWDLD'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 24,
@@ -409,7 +423,7 @@
         "form": "'DDWDL'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "played": 25,
@@ -421,20 +435,6 @@
         "goalsdiff": "-7",
         "points": 30,
         "form": "'DLWDD'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Granada",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "played": 24,
-        "wins": 8,
-        "draws": 6,
-        "lossess": 10,
-        "goalsfor": 29,
-        "goalsagainst": 41,
-        "goalsdiff": "-12",
-        "points": 30,
-        "form": "'LLDDL'"
     },
     {
         "teamrank": 12,
@@ -538,15 +538,15 @@
         "teamrank": 19,
         "teamname": "Elche",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-        "played": 23,
+        "played": 24,
         "wins": 4,
         "draws": 9,
-        "lossess": 10,
-        "goalsfor": 20,
-        "goalsagainst": 34,
-        "goalsdiff": "-14",
+        "lossess": 11,
+        "goalsfor": 21,
+        "goalsagainst": 36,
+        "goalsdiff": "-15",
         "points": 21,
-        "form": "'LWLDL'"
+        "form": "'LLWLD'"
     },
     {
         "teamrank": 20,
