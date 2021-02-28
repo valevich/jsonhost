@@ -850,15 +850,15 @@
         "teamrank": 1,
         "teamname": "Lille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "played": 26,
+        "played": 27,
         "wins": 17,
-        "draws": 7,
+        "draws": 8,
         "lossess": 2,
-        "goalsfor": 46,
-        "goalsagainst": 16,
+        "goalsfor": 47,
+        "goalsagainst": 17,
         "goalsdiff": "+30",
-        "points": 58,
-        "form": "'WDWWW'"
+        "points": 59,
+        "form": "'DWDWW'"
     },
     {
         "teamrank": 2,
@@ -1044,6 +1044,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Strasbourg",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+        "played": 27,
+        "wins": 8,
+        "draws": 6,
+        "lossess": 13,
+        "goalsfor": 35,
+        "goalsagainst": 41,
+        "goalsdiff": "-6",
+        "points": 30,
+        "form": "'DDWLD'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Saint-Étienne",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
         "played": 27,
@@ -1055,20 +1069,6 @@
         "goalsdiff": "-12",
         "points": 30,
         "form": "'LDWWD'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Strasbourg",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-        "played": 26,
-        "wins": 8,
-        "draws": 5,
-        "lossess": 13,
-        "goalsfor": 34,
-        "goalsagainst": 40,
-        "goalsdiff": "-6",
-        "points": 29,
-        "form": "'DWLDL'"
     },
     {
         "teamrank": 17,
