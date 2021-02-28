@@ -74,15 +74,15 @@
         "teamrank": 6,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "played": 25,
-        "wins": 11,
+        "played": 26,
+        "wins": 12,
         "draws": 7,
         "lossess": 7,
-        "goalsfor": 45,
+        "goalsfor": 47,
         "goalsagainst": 34,
-        "goalsdiff": "+11",
-        "points": 40,
-        "form": "'LLLLW'"
+        "goalsdiff": "+13",
+        "points": 43,
+        "form": "'WLLLL'"
     },
     {
         "teamrank": 7,
@@ -270,15 +270,15 @@
         "teamrank": 20,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 25,
+        "played": 26,
         "wins": 3,
         "draws": 2,
-        "lossess": 20,
+        "lossess": 21,
         "goalsfor": 15,
-        "goalsagainst": 41,
-        "goalsdiff": "-26",
+        "goalsagainst": 43,
+        "goalsdiff": "-28",
         "points": 11,
-        "form": "'LLLWL'"
+        "form": "'LLLLW'"
     }
   ],
   "primera-division": [
@@ -582,15 +582,15 @@
         "teamrank": 2,
         "teamname": "Milan",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-        "played": 23,
-        "wins": 15,
+        "played": 24,
+        "wins": 16,
         "draws": 4,
         "lossess": 4,
-        "goalsfor": 45,
-        "goalsagainst": 28,
-        "goalsdiff": "+17",
-        "points": 49,
-        "form": "'LLWWL'"
+        "goalsfor": 47,
+        "goalsagainst": 29,
+        "goalsdiff": "+18",
+        "points": 52,
+        "form": "'WLLWW'"
     },
     {
         "teamrank": 3,
@@ -624,15 +624,15 @@
         "teamrank": 5,
         "teamname": "Roma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "played": 23,
+        "played": 24,
         "wins": 13,
         "draws": 5,
-        "lossess": 5,
-        "goalsfor": 47,
-        "goalsagainst": 35,
-        "goalsdiff": "+12",
+        "lossess": 6,
+        "goalsfor": 48,
+        "goalsagainst": 37,
+        "goalsdiff": "+11",
         "points": 44,
-        "form": "'DWLWW'"
+        "form": "'LDWLW'"
     },
     {
         "teamrank": 6,
