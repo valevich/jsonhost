@@ -100,6 +100,15 @@
         "playerassists": 0
     },
     {
+        "playername": "A. Lacazette",
+        "playerlink": "https://www.livesoccertv.com/player/a-lacazette/86665/",
+        "playerteam": "Arsenal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/arsenal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "playergoals": 9,
+        "playerassists": 2
+    },
+    {
         "playername": "M. Rashford",
         "playerlink": "https://www.livesoccertv.com/player/m-rashford/308286/",
         "playerteam": "Manchester United",
@@ -124,15 +133,6 @@
         "playerteamlink": "https://www.livesoccertv.com/teams/england/crystal-palace/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
         "playergoals": 9,
-        "playerassists": 2
-    },
-    {
-        "playername": "P. Aubameyang",
-        "playerlink": "https://www.livesoccertv.com/player/p-aubameyang/37777/",
-        "playerteam": "Arsenal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/arsenal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "playergoals": 8,
         "playerassists": 2
     }
   ],
@@ -439,6 +439,15 @@
         "playerassists": 7
     },
     {
+        "playername": "K. Volland",
+        "playerlink": "https://www.livesoccertv.com/player/k-volland/95821/",
+        "playerteam": "Monaco",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "playergoals": 13,
+        "playerassists": 0
+    },
+    {
         "playername": "B. Dia",
         "playerlink": "https://www.livesoccertv.com/player/b-dia/360970/",
         "playerteam": "Reims",
@@ -446,15 +455,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
         "playergoals": 12,
         "playerassists": 5
-    },
-    {
-        "playername": "K. Volland",
-        "playerlink": "https://www.livesoccertv.com/player/k-volland/95821/",
-        "playerteam": "Monaco",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "playergoals": 12,
-        "playerassists": 0
     },
     {
         "playername": "M. Kean",
@@ -554,7 +554,7 @@
         "playerteam": "Bayern Munich",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "playergoals": 26,
+        "playergoals": 28,
         "playerassists": 5
     },
     {
@@ -594,6 +594,15 @@
         "playerassists": 5
     },
     {
+        "playername": "S. Kalajdzic",
+        "playerlink": "https://www.livesoccertv.com/player/s-kalajdzic/271246/",
+        "playerteam": "Stuttgart",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "playergoals": 11,
+        "playerassists": 0
+    },
+    {
         "playername": "S. Wamangituka",
         "playerlink": "https://www.livesoccertv.com/player/s-wamangituka/388180/",
         "playerteam": "Stuttgart",
@@ -601,15 +610,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
         "playergoals": 11,
         "playerassists": 3
-    },
-    {
-        "playername": "S. Kalajdzic",
-        "playerlink": "https://www.livesoccertv.com/player/s-kalajdzic/271246/",
-        "playerteam": "Stuttgart",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-        "playergoals": 10,
-        "playerassists": 0
     },
     {
         "playername": "T. Müller",
@@ -639,6 +639,15 @@
         "playerassists": 2
     },
     {
+        "playername": "S. Gnabry",
+        "playerlink": "https://www.livesoccertv.com/player/s-gnabry/175333/",
+        "playerteam": "Bayern Munich",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "playergoals": 7,
+        "playerassists": 0
+    },
+    {
         "playername": "V. Grifo",
         "playerlink": "https://www.livesoccertv.com/player/v-grifo/207069/",
         "playerteam": "Freiburg",
@@ -646,6 +655,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
         "playergoals": 7,
         "playerassists": 3
+    },
+    {
+        "playername": "M. Kruse",
+        "playerlink": "https://www.livesoccertv.com/player/m-kruse/38633/",
+        "playerteam": "Union Berlin",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/union-berlin/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+        "playergoals": 7,
+        "playerassists": 4
     },
     {
         "playername": "J. Mateta",
@@ -664,24 +682,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
         "playergoals": 7,
         "playerassists": 1
-    },
-    {
-        "playername": "I. Bebou",
-        "playerlink": "https://www.livesoccertv.com/player/i-bebou/211319/",
-        "playerteam": "Hoffenheim",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "playergoals": 6,
-        "playerassists": 0
-    },
-    {
-        "playername": "Matheus Cunha",
-        "playerlink": "https://www.livesoccertv.com/player/matheus-cunha/359098/",
-        "playerteam": "Hertha BSC",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
-        "playergoals": 6,
-        "playerassists": 2
     }
   ]
 }
