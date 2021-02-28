@@ -410,6 +410,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Celta de Vigo",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "played": 25,
+        "wins": 7,
+        "draws": 9,
+        "lossess": 9,
+        "goalsfor": 30,
+        "goalsagainst": 37,
+        "goalsdiff": "-7",
+        "points": 30,
+        "form": "'DLWDD'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
         "played": 24,
@@ -421,20 +435,6 @@
         "goalsdiff": "-12",
         "points": 30,
         "form": "'LLDDL'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Celta de Vigo",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "played": 24,
-        "wins": 7,
-        "draws": 8,
-        "lossess": 9,
-        "goalsfor": 29,
-        "goalsagainst": 36,
-        "goalsdiff": "-7",
-        "points": 29,
-        "form": "'LWDDD'"
     },
     {
         "teamrank": 12,
@@ -508,6 +508,20 @@
     },
     {
         "teamrank": 17,
+        "teamname": "Real Valladolid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
+        "played": 25,
+        "wins": 4,
+        "draws": 10,
+        "lossess": 11,
+        "goalsfor": 23,
+        "goalsagainst": 36,
+        "goalsdiff": "-13",
+        "points": 22,
+        "form": "'DLDLL'"
+    },
+    {
+        "teamrank": 18,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 25,
@@ -519,20 +533,6 @@
         "goalsdiff": "-19",
         "points": 22,
         "form": "'LLLWD'"
-    },
-    {
-        "teamrank": 18,
-        "teamname": "Real Valladolid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-        "played": 24,
-        "wins": 4,
-        "draws": 9,
-        "lossess": 11,
-        "goalsfor": 22,
-        "goalsagainst": 35,
-        "goalsdiff": "-13",
-        "points": 21,
-        "form": "'LDLLD'"
     },
     {
         "teamrank": 19,
