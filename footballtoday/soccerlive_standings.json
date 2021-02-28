@@ -286,15 +286,15 @@
         "teamrank": 1,
         "teamname": "Atlético Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "played": 23,
-        "wins": 17,
+        "played": 24,
+        "wins": 18,
         "draws": 4,
         "lossess": 2,
-        "goalsfor": 45,
+        "goalsfor": 47,
         "goalsagainst": 16,
-        "goalsdiff": "+29",
-        "points": 55,
-        "form": "'LDWDW'"
+        "goalsdiff": "+31",
+        "points": 58,
+        "form": "'WLDWD'"
     },
     {
         "teamrank": 2,
@@ -370,15 +370,15 @@
         "teamrank": 7,
         "teamname": "Villarreal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "played": 24,
+        "played": 25,
         "wins": 8,
         "draws": 13,
-        "lossess": 3,
+        "lossess": 4,
         "goalsfor": 33,
-        "goalsagainst": 25,
-        "goalsdiff": "+8",
+        "goalsagainst": 27,
+        "goalsdiff": "+6",
         "points": 37,
-        "form": "'DLDDD'"
+        "form": "'LDLDD'"
     },
     {
         "teamrank": 8,
@@ -878,15 +878,15 @@
         "teamrank": 3,
         "teamname": "Olympique Lyonnais",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "played": 26,
+        "played": 27,
         "wins": 16,
-        "draws": 7,
+        "draws": 8,
         "lossess": 3,
-        "goalsfor": 54,
-        "goalsagainst": 24,
+        "goalsfor": 55,
+        "goalsagainst": 25,
         "goalsdiff": "+30",
-        "points": 55,
-        "form": "'WLWWW'"
+        "points": 56,
+        "form": "'DWLWW'"
     },
     {
         "teamrank": 4,
@@ -932,6 +932,20 @@
     },
     {
         "teamrank": 7,
+        "teamname": "Olympique Marseille",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+        "played": 26,
+        "wins": 10,
+        "draws": 9,
+        "lossess": 7,
+        "goalsfor": 34,
+        "goalsagainst": 30,
+        "goalsdiff": "+4",
+        "points": 39,
+        "form": "'DDWDL'"
+    },
+    {
+        "teamrank": 8,
         "teamname": "Montpellier",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "played": 27,
@@ -943,20 +957,6 @@
         "goalsdiff": "-3",
         "points": 39,
         "form": "'DWWWD'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Olympique Marseille",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-        "played": 25,
-        "wins": 10,
-        "draws": 8,
-        "lossess": 7,
-        "goalsfor": 33,
-        "goalsagainst": 29,
-        "goalsdiff": "+4",
-        "points": 38,
-        "form": "'DWDLD'"
     },
     {
         "teamrank": 9,
