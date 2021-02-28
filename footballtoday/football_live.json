@@ -17,25 +17,25 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "7:00am",
-      "GameState": "52 ",
+      "GameState": "62 ",
       "HomeTeam": "Crystal Palace",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
       "AwayTeam": "Fulham",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-      "TVChannels": "Peacock ,  Flow Sports App ,  Flowsports.co ,  …"
+      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
     },
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "7:00am",
-      "GameState": "50 ",
+      "GameState": "60 ",
       "HomeTeam": "Leicester",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
       "AwayTeam": "Arsenal",
-      "AwayGoals": "2",
+      "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
       "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
     },
@@ -76,7 +76,7 @@
       "AwayTeam": "Liverpool",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "TVChannels": "Peacock ,  SiriusXM FC ,  Flow Sports App ,  …"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  B…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -95,7 +95,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "8:00am",
-      "GameState": "10 ",
+      "GameState": "20 ",
       "HomeTeam": "Celta de Vigo",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
@@ -160,7 +160,7 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "6:30am",
-      "GameState": "81 ",
+      "GameState": "90 ",
       "HomeTeam": "Sampdoria",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
@@ -180,7 +180,7 @@
       "AwayTeam": "Cagliari",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Serie A Pass ,  DAZN ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -193,7 +193,7 @@
       "AwayTeam": "Fiorentina",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Serie A Pass ,  DAZN ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -219,7 +219,7 @@
       "AwayTeam": "Benevento",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Serie A Pass ,  DAZN ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -251,14 +251,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "7:30am",
-      "GameState": "40 ",
+      "GameState": "HT ",
       "HomeTeam": "Union Berlin",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
       "AwayTeam": "Hoffenheim",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Flow Sports App ,  Flo…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -271,7 +271,7 @@
       "AwayTeam": "Augsburg",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Flow Sports App ,  Flo…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -284,7 +284,7 @@
       "AwayTeam": "Freiburg",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Flow Sports App ,  Flo…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -303,7 +303,7 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "7:00am",
-      "GameState": "53 ",
+      "GameState": "63 ",
       "HomeTeam": "Monaco",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
