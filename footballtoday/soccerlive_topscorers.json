@@ -417,8 +417,8 @@
         "playerteam": "PSG",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "playergoals": 17,
-        "playerassists": 5
+        "playergoals": 16,
+        "playerassists": 4
     },
     {
         "playername": "M. Depay",
@@ -457,15 +457,6 @@
         "playerassists": 0
     },
     {
-        "playername": "M. Kean",
-        "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
-        "playerteam": "PSG",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "playergoals": 11,
-        "playerassists": 0
-    },
-    {
         "playername": "K. Toko Ekambi",
         "playerlink": "https://www.livesoccertv.com/player/k-toko-ekambi/156672/",
         "playerteam": "Olympique Lyonnais",
@@ -491,6 +482,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
         "playergoals": 10,
         "playerassists": 4
+    },
+    {
+        "playername": "M. Kean",
+        "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
+        "playerteam": "PSG",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "playergoals": 10,
+        "playerassists": 0
     },
     {
         "playername": "A. Delort",
