@@ -354,6 +354,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Real Betis",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "played": 25,
+        "wins": 12,
+        "draws": 3,
+        "lossess": 10,
+        "goalsfor": 33,
+        "goalsagainst": 38,
+        "goalsdiff": "-5",
+        "points": 39,
+        "form": "'WWWLW'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Villarreal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
         "played": 24,
@@ -365,20 +379,6 @@
         "goalsdiff": "+8",
         "points": 37,
         "form": "'DLDDD'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Real Betis",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 24,
-        "wins": 11,
-        "draws": 3,
-        "lossess": 10,
-        "goalsfor": 32,
-        "goalsagainst": 38,
-        "goalsdiff": "-6",
-        "points": 36,
-        "form": "'WWLWD'"
     },
     {
         "teamrank": 8,
@@ -482,15 +482,15 @@
         "teamrank": 15,
         "teamname": "Cádiz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
-        "played": 24,
+        "played": 25,
         "wins": 6,
         "draws": 7,
-        "lossess": 11,
+        "lossess": 12,
         "goalsfor": 21,
-        "goalsagainst": 40,
-        "goalsdiff": "-19",
+        "goalsagainst": 41,
+        "goalsdiff": "-20",
         "points": 25,
-        "form": "'DLLLL'"
+        "form": "'LDLLL'"
     },
     {
         "teamrank": 16,
