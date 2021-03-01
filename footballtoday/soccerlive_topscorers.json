@@ -457,21 +457,12 @@
         "playerassists": 5
     },
     {
-        "playername": "M. Kean",
-        "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
-        "playerteam": "PSG",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "playergoals": 11,
-        "playerassists": 0
-    },
-    {
         "playername": "K. Toko Ekambi",
         "playerlink": "https://www.livesoccertv.com/player/k-toko-ekambi/156672/",
         "playerteam": "Olympique Lyonnais",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "playergoals": 11,
+        "playergoals": 12,
         "playerassists": 0
     },
     {
@@ -480,8 +471,17 @@
         "playerteam": "Strasbourg",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/strasbourg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-        "playergoals": 10,
+        "playergoals": 11,
         "playerassists": 3
+    },
+    {
+        "playername": "M. Kean",
+        "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
+        "playerteam": "PSG",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "playergoals": 11,
+        "playerassists": 0
     },
     {
         "playername": "A. Gouiri",
