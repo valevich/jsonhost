@@ -365,6 +365,15 @@
         "playerassists": 4
     },
     {
+        "playername": "J. Veretout",
+        "playerlink": "https://www.livesoccertv.com/player/j-veretout/156122/",
+        "playerteam": "Roma",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+        "playergoals": 10,
+        "playerassists": 5
+    },
+    {
         "playername": "M. Destro",
         "playerlink": "https://www.livesoccertv.com/player/m-destro/84885/",
         "playerteam": "Genoa",
@@ -399,15 +408,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
         "playergoals": 9,
         "playerassists": 3
-    },
-    {
-        "playername": "J. Veretout",
-        "playerlink": "https://www.livesoccertv.com/player/j-veretout/156122/",
-        "playerteam": "Roma",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "playergoals": 9,
-        "playerassists": 5
     }
   ],
   "ligue-1": [
