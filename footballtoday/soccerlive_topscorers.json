@@ -255,20 +255,20 @@
         "playerassists": 0
     },
     {
+        "playername": "João Félix",
+        "playerlink": "https://www.livesoccertv.com/player/joao-felix/338331/",
+        "playerteam": "Atletico Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "playergoals": 7,
+        "playerassists": 1
+    },
+    {
         "playername": "Álex Berenguer",
         "playerlink": "https://www.livesoccertv.com/player/alex-berenguer/277009/",
         "playerteam": "Athletic Club",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/athletic-bilbao/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "playergoals": 6,
-        "playerassists": 0
-    },
-    {
-        "playername": "A. Budimir",
-        "playerlink": "https://www.livesoccertv.com/player/a-budimir/36677/",
-        "playerteam": "Osasuna",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/osasuna/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
         "playergoals": 6,
         "playerassists": 0
     }
