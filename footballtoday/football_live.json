@@ -18,13 +18,13 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
       "GameState": "FT ",
-      "HomeTeam": "",
-      "HomeGoals": "T",
-      "HomeLogo": "",
-      "AwayTeam": "3:00pm FT",
-      "AwayGoals": " ",
-      "AwayLogo": "",
-      "TVChannels": "3:00pm FT"
+      "HomeTeam": "Manchester City",
+      "HomeGoals": "4",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+      "AwayTeam": "Wolves",
+      "AwayGoals": "1",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  NBC Sports…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -718,27 +718,15 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Chelsea",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "AwayTeam": "Everton",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-      "TVChannels": "NBCSN ,  fuboTV ,  UNIVERSO ,  …"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "West Ham",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-      "AwayTeam": "Leeds United",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-      "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
+      "GameState": "
+",
+      "HomeTeam": "",
+      "HomeGoals": "m",
+      "HomeLogo": "",
+      "AwayTeam": "1:00pm",
+      "AwayGoals": " ",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm"
     },
     {
       "LeagueName": "Spanish La Liga",
