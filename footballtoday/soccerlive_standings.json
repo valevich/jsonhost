@@ -622,6 +622,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Napoli",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "played": 24,
+        "wins": 14,
+        "draws": 2,
+        "lossess": 8,
+        "goalsfor": 52,
+        "goalsagainst": 28,
+        "goalsdiff": "+24",
+        "points": 44,
+        "form": "'DWLWL'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Roma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
         "played": 24,
@@ -633,20 +647,6 @@
         "goalsdiff": "+11",
         "points": 44,
         "form": "'LDWLW'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Napoli",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "played": 23,
-        "wins": 14,
-        "draws": 1,
-        "lossess": 8,
-        "goalsfor": 49,
-        "goalsagainst": 25,
-        "goalsdiff": "+24",
-        "points": 43,
-        "form": "'WLWLW'"
     },
     {
         "teamrank": 7,
@@ -666,15 +666,15 @@
         "teamrank": 8,
         "teamname": "Sassuolo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-        "played": 23,
+        "played": 24,
         "wins": 9,
-        "draws": 8,
+        "draws": 9,
         "lossess": 6,
-        "goalsfor": 37,
-        "goalsagainst": 34,
+        "goalsfor": 40,
+        "goalsagainst": 37,
         "goalsdiff": "+3",
-        "points": 35,
-        "form": "'DWLDL'"
+        "points": 36,
+        "form": "'DDWLD'"
     },
     {
         "teamrank": 9,
