@@ -43,14 +43,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:15pm",
-      "GameState": "86 ",
+      "GameState": "FT ",
       "HomeTeam": "Crystal Palace",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
       "AwayTeam": "Manchester Utd",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "TVChannels": "Peacock ,  SiriusXM FC ,  MUTV App ,  DAZN ,  …"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  MUTV App ,  DAZN ,  Sky…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -245,7 +245,7 @@
       "AwayTeam": "PSG",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -258,7 +258,7 @@
       "AwayTeam": "Stade de Reims",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN SPORTS CO…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -271,7 +271,7 @@
       "AwayTeam": "Monaco",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN SPORTS CO…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -284,7 +284,7 @@
       "AwayTeam": "Lorient",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN SPORTS CO…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -297,7 +297,7 @@
       "AwayTeam": "Marseille",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  TV5 Monde ,  …"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  TV5 Monde ,  beIN…"
     }
   ],
   "day2": [
