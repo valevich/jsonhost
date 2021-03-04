@@ -44,6 +44,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Chelsea",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+        "played": 27,
+        "wins": 13,
+        "draws": 8,
+        "lossess": 6,
+        "goalsfor": 42,
+        "goalsagainst": 25,
+        "goalsdiff": "+17",
+        "points": 47,
+        "form": "'WDDWW'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
         "played": 26,
@@ -57,7 +71,7 @@
         "form": "'WWWLL'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "played": 26,
@@ -71,32 +85,18 @@
         "form": "'LWWDW'"
     },
     {
-        "teamrank": 6,
-        "teamname": "Chelsea",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "played": 26,
-        "wins": 12,
-        "draws": 8,
-        "lossess": 6,
-        "goalsfor": 41,
-        "goalsagainst": 25,
-        "goalsdiff": "+16",
-        "points": 44,
-        "form": "'DDWWW'"
-    },
-    {
         "teamrank": 7,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "played": 26,
+        "played": 27,
         "wins": 12,
         "draws": 7,
-        "lossess": 7,
+        "lossess": 8,
         "goalsfor": 47,
-        "goalsagainst": 34,
-        "goalsdiff": "+13",
+        "goalsagainst": 35,
+        "goalsdiff": "+12",
         "points": 43,
-        "form": "'WLLLL'"
+        "form": "'LWLLL'"
     },
     {
         "teamrank": 8,
@@ -568,14 +568,14 @@
         "teamrank": 1,
         "teamname": "Internazionale",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "played": 24,
-        "wins": 17,
+        "played": 25,
+        "wins": 18,
         "draws": 5,
         "lossess": 2,
-        "goalsfor": 60,
-        "goalsagainst": 24,
-        "goalsdiff": "+36",
-        "points": 56,
+        "goalsfor": 62,
+        "goalsagainst": 25,
+        "goalsdiff": "+37",
+        "points": 59,
         "form": "'WWWWW'"
     },
     {
@@ -820,15 +820,15 @@
         "teamrank": 19,
         "teamname": "Parma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-        "played": 24,
+        "played": 25,
         "wins": 2,
         "draws": 9,
-        "lossess": 13,
-        "goalsfor": 19,
-        "goalsagainst": 47,
-        "goalsdiff": "-28",
+        "lossess": 14,
+        "goalsfor": 20,
+        "goalsagainst": 49,
+        "goalsdiff": "-29",
         "points": 15,
-        "form": "'DDLLL'"
+        "form": "'LDDLL'"
     },
     {
         "teamrank": 20,
