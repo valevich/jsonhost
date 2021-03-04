@@ -44,6 +44,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Everton",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+        "played": 26,
+        "wins": 14,
+        "draws": 4,
+        "lossess": 8,
+        "goalsfor": 39,
+        "goalsagainst": 33,
+        "goalsdiff": "+6",
+        "points": 46,
+        "form": "'WWWLL'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "played": 26,
@@ -57,7 +71,7 @@
         "form": "'LWWDW'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 26,
@@ -71,7 +85,7 @@
         "form": "'DDWWW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "played": 26,
@@ -85,32 +99,18 @@
         "form": "'WLLLL'"
     },
     {
-        "teamrank": 7,
-        "teamname": "Everton",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-        "played": 25,
-        "wins": 13,
-        "draws": 4,
-        "lossess": 8,
-        "goalsfor": 38,
-        "goalsagainst": 33,
-        "goalsdiff": "+5",
-        "points": 43,
-        "form": "'WWLLD'"
-    },
-    {
         "teamrank": 8,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "played": 25,
-        "wins": 11,
+        "played": 26,
+        "wins": 12,
         "draws": 6,
         "lossess": 8,
-        "goalsfor": 41,
+        "goalsfor": 42,
         "goalsagainst": 27,
-        "goalsdiff": "+14",
-        "points": 39,
-        "form": "'WLLWL'"
+        "goalsdiff": "+15",
+        "points": 42,
+        "form": "'WWLLW'"
     },
     {
         "teamrank": 9,
@@ -242,29 +242,29 @@
         "teamrank": 18,
         "teamname": "Fulham",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-        "played": 26,
+        "played": 27,
         "wins": 4,
         "draws": 11,
-        "lossess": 11,
+        "lossess": 12,
         "goalsfor": 21,
-        "goalsagainst": 32,
-        "goalsdiff": "-11",
+        "goalsagainst": 33,
+        "goalsdiff": "-12",
         "points": 23,
-        "form": "'DWDWD'"
+        "form": "'LDWDW'"
     },
     {
         "teamrank": 19,
         "teamname": "West Bromwich Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-        "played": 26,
+        "played": 27,
         "wins": 3,
         "draws": 8,
-        "lossess": 15,
+        "lossess": 16,
         "goalsfor": 20,
-        "goalsagainst": 55,
-        "goalsdiff": "-35",
+        "goalsagainst": 56,
+        "goalsdiff": "-36",
         "points": 17,
-        "form": "'WDDLL'"
+        "form": "'LWDDL'"
     },
     {
         "teamrank": 20,
