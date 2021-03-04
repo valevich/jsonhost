@@ -475,6 +475,15 @@
         "playerassists": 3
     },
     {
+        "playername": "A. Gouiri",
+        "playerlink": "https://www.livesoccertv.com/player/a-gouiri/334272/",
+        "playerteam": "Nice",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/nice/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+        "playergoals": 11,
+        "playerassists": 4
+    },
+    {
         "playername": "Moise Bioty Kean",
         "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
         "playerteam": "PSG",
@@ -484,13 +493,13 @@
         "playerassists": 0
     },
     {
-        "playername": "A. Gouiri",
-        "playerlink": "https://www.livesoccertv.com/player/a-gouiri/334272/",
-        "playerteam": "Nice",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/nice/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-        "playergoals": 10,
-        "playerassists": 4
+        "playername": "J. David",
+        "playerlink": "https://www.livesoccertv.com/player/j-david/390484/",
+        "playerteam": "Lille",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "playergoals": 9,
+        "playerassists": 0
     },
     {
         "playername": "A. Delort",
@@ -536,15 +545,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "playergoals": 9,
         "playerassists": 2
-    },
-    {
-        "playername": "T. Moffi",
-        "playerlink": "https://www.livesoccertv.com/player/t-moffi/364782/",
-        "playerteam": "Lorient",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/lorient/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-        "playergoals": 8,
-        "playerassists": 1
     }
   ],
   "bundesliga": [
