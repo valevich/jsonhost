@@ -43,7 +43,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:15pm",
-      "GameState": "44 ",
+      "GameState": "HT ",
       "HomeTeam": "Liverpool",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
@@ -69,12 +69,12 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "53 ",
+      "GameState": "63 ",
       "HomeTeam": "Parma",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
       "AwayTeam": "Inter",
-      "AwayGoals": "0",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
       "TVChannels": "ESPN2 ,  ESPN Deportes ,  ESPN Deporte…"
     }
