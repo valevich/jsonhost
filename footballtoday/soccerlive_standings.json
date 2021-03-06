@@ -328,15 +328,15 @@
         "teamrank": 4,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-        "played": 24,
+        "played": 25,
         "wins": 15,
         "draws": 3,
-        "lossess": 6,
-        "goalsfor": 34,
-        "goalsagainst": 18,
-        "goalsdiff": "+16",
+        "lossess": 7,
+        "goalsfor": 35,
+        "goalsagainst": 20,
+        "goalsdiff": "+15",
         "points": 48,
-        "form": "'LWWWW'"
+        "form": "'LLWWW'"
     },
     {
         "teamrank": 5,
@@ -508,6 +508,20 @@
     },
     {
         "teamrank": 17,
+        "teamname": "Elche",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+        "played": 25,
+        "wins": 5,
+        "draws": 9,
+        "lossess": 11,
+        "goalsfor": 23,
+        "goalsagainst": 37,
+        "goalsdiff": "-14",
+        "points": 24,
+        "form": "'WLLWL'"
+    },
+    {
+        "teamrank": 18,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "played": 25,
@@ -521,7 +535,7 @@
         "form": "'DLDLL'"
     },
     {
-        "teamrank": 18,
+        "teamrank": 19,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 25,
@@ -533,20 +547,6 @@
         "goalsdiff": "-19",
         "points": 22,
         "form": "'LLLWD'"
-    },
-    {
-        "teamrank": 19,
-        "teamname": "Elche",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-        "played": 24,
-        "wins": 4,
-        "draws": 9,
-        "lossess": 11,
-        "goalsfor": 21,
-        "goalsagainst": 36,
-        "goalsdiff": "-15",
-        "points": 21,
-        "form": "'LLWLD'"
     },
     {
         "teamrank": 20,
