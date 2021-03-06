@@ -680,18 +680,32 @@
         "teamrank": 9,
         "teamname": "Sassuolo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-        "played": 24,
+        "played": 25,
         "wins": 9,
         "draws": 9,
-        "lossess": 6,
+        "lossess": 7,
         "goalsfor": 40,
-        "goalsagainst": 37,
-        "goalsdiff": "+3",
+        "goalsagainst": 39,
+        "goalsdiff": "+1",
         "points": 36,
-        "form": "'DDWLD'"
+        "form": "'LDDWL'"
     },
     {
         "teamrank": 10,
+        "teamname": "Udinese",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+        "played": 26,
+        "wins": 8,
+        "draws": 8,
+        "lossess": 10,
+        "goalsfor": 29,
+        "goalsagainst": 34,
+        "goalsdiff": "-5",
+        "points": 32,
+        "form": "'WDWDL'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Sampdoria",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
         "played": 25,
@@ -703,20 +717,6 @@
         "goalsdiff": "-3",
         "points": 31,
         "form": "'DLLWD'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Udinese",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-        "played": 25,
-        "wins": 7,
-        "draws": 8,
-        "lossess": 10,
-        "goalsfor": 27,
-        "goalsagainst": 34,
-        "goalsdiff": "-7",
-        "points": 29,
-        "form": "'DWDLW'"
     },
     {
         "teamrank": 12,
