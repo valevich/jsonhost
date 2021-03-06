@@ -91,6 +91,15 @@
         "playerassists": 4
     },
     {
+        "playername": "P. Aubameyang",
+        "playerlink": "https://www.livesoccertv.com/player/p-aubameyang/37777/",
+        "playerteam": "Arsenal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/arsenal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "playergoals": 9,
+        "playerassists": 2
+    },
+    {
         "playername": "H. Barnes",
         "playerlink": "https://www.livesoccertv.com/player/h-barnes/334086/",
         "playerteam": "Leicester City",
@@ -125,15 +134,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "playergoals": 9,
         "playerassists": 0
-    },
-    {
-        "playername": "W. Zaha",
-        "playerlink": "https://www.livesoccertv.com/player/w-zaha/110122/",
-        "playerteam": "Crystal Palace",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/crystal-palace/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "playergoals": 9,
-        "playerassists": 2
     }
   ],
   "primera-division": [
@@ -599,7 +599,7 @@
         "playerteam": "Stuttgart",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-        "playergoals": 11,
+        "playergoals": 12,
         "playerassists": 0
     },
     {
