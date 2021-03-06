@@ -186,15 +186,15 @@
         "teamrank": 14,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "played": 26,
-        "wins": 8,
+        "played": 27,
+        "wins": 9,
         "draws": 6,
         "lossess": 12,
-        "goalsfor": 31,
+        "goalsfor": 33,
         "goalsagainst": 44,
-        "goalsdiff": "-13",
-        "points": 30,
-        "form": "'LLDLL'"
+        "goalsdiff": "-11",
+        "points": 33,
+        "form": "'WLLDL'"
     },
     {
         "teamrank": 15,
@@ -270,15 +270,15 @@
         "teamrank": 20,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 27,
+        "played": 28,
         "wins": 4,
         "draws": 2,
-        "lossess": 21,
+        "lossess": 22,
         "goalsfor": 16,
-        "goalsagainst": 43,
-        "goalsdiff": "-27",
+        "goalsagainst": 45,
+        "goalsdiff": "-29",
         "points": 14,
-        "form": "'WLLLL'"
+        "form": "'LWLLL'"
     }
   ],
   "primera-division": [
