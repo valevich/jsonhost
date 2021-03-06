@@ -199,6 +199,78 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "playergoals": 10,
         "playerassists": 2
+    },
+    {
+        "playername": "Morales",
+        "playerlink": "https://www.livesoccertv.com/player/jose-luis-morales/211121/",
+        "playerteam": "Levante",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "playergoals": 10,
+        "playerassists": 0
+    },
+    {
+        "playername": "Mikel Oyarzabal",
+        "playerlink": "https://www.livesoccertv.com/player/mikel-oyarzabal/285896/",
+        "playerteam": "Real Sociedad",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+        "playergoals": 10,
+        "playerassists": 6
+    },
+    {
+        "playername": "Iago Aspas",
+        "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
+        "playerteam": "Celta Vigo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "playergoals": 9,
+        "playerassists": 3
+    },
+    {
+        "playername": "Llorente",
+        "playerlink": "https://www.livesoccertv.com/player/marcos-llorente/250443/",
+        "playerteam": "Atletico Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "playergoals": 8,
+        "playerassists": 0
+    },
+    {
+        "playername": "Canales",
+        "playerlink": "https://www.livesoccertv.com/player/canales/61820/",
+        "playerteam": "Real Betis",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-betis/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "playergoals": 7,
+        "playerassists": 2
+    },
+    {
+        "playername": "Kike",
+        "playerlink": "https://www.livesoccertv.com/player/kike/62297/",
+        "playerteam": "Eibar",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/eibar/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
+        "playergoals": 7,
+        "playerassists": 0
+    },
+    {
+        "playername": "Portu",
+        "playerlink": "https://www.livesoccertv.com/player/portu/171121/",
+        "playerteam": "Real Sociedad",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+        "playergoals": 7,
+        "playerassists": 0
+    },
+    {
+        "playername": "João Félix",
+        "playerlink": "https://www.livesoccertv.com/player/joao-felix/338331/",
+        "playerteam": "Atletico Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "playergoals": 7,
+        "playerassists": 1
     }
   ],
   "serie-a": [
