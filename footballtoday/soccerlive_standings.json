@@ -286,15 +286,15 @@
         "teamrank": 1,
         "teamname": "Atlético Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "played": 24,
+        "played": 25,
         "wins": 18,
-        "draws": 4,
+        "draws": 5,
         "lossess": 2,
-        "goalsfor": 47,
-        "goalsagainst": 16,
+        "goalsfor": 48,
+        "goalsagainst": 17,
         "goalsdiff": "+31",
-        "points": 58,
-        "form": "'WLDWD'"
+        "points": 59,
+        "form": "'DWLDW'"
     },
     {
         "teamrank": 2,
@@ -314,15 +314,15 @@
         "teamrank": 3,
         "teamname": "Real Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "played": 25,
+        "played": 26,
         "wins": 16,
-        "draws": 5,
+        "draws": 6,
         "lossess": 4,
-        "goalsfor": 43,
-        "goalsagainst": 20,
+        "goalsfor": 44,
+        "goalsagainst": 21,
         "goalsdiff": "+23",
-        "points": 53,
-        "form": "'DWWWW'"
+        "points": 54,
+        "form": "'DDWWW'"
     },
     {
         "teamrank": 4,
