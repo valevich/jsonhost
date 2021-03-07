@@ -382,6 +382,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Celta de Vigo",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "played": 26,
+        "wins": 8,
+        "draws": 9,
+        "lossess": 9,
+        "goalsfor": 34,
+        "goalsagainst": 40,
+        "goalsdiff": "-6",
+        "points": 33,
+        "form": "'WDLWD'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
         "played": 25,
@@ -395,7 +409,7 @@
         "form": "'WLLDD'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 25,
@@ -409,7 +423,7 @@
         "form": "'DWDLD'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 24,
@@ -423,7 +437,7 @@
         "form": "'DDWDL'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
         "played": 26,
@@ -435,20 +449,6 @@
         "goalsdiff": "-4",
         "points": 30,
         "form": "'WLWLD'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Celta de Vigo",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "played": 25,
-        "wins": 7,
-        "draws": 9,
-        "lossess": 9,
-        "goalsfor": 30,
-        "goalsagainst": 37,
-        "goalsdiff": "-7",
-        "points": 30,
-        "form": "'DLWDD'"
     },
     {
         "teamrank": 13,
@@ -552,15 +552,15 @@
         "teamrank": 20,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-        "played": 25,
+        "played": 26,
         "wins": 3,
         "draws": 11,
-        "lossess": 11,
-        "goalsfor": 22,
-        "goalsagainst": 36,
-        "goalsdiff": "-14",
+        "lossess": 12,
+        "goalsfor": 25,
+        "goalsagainst": 40,
+        "goalsdiff": "-15",
         "points": 20,
-        "form": "'DWLLW'"
+        "form": "'LDWLL'"
     }
   ],
   "serie-a": [
