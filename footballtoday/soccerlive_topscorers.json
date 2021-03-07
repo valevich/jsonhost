@@ -554,8 +554,17 @@
         "playerteam": "Bayern Munich",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "playergoals": 28,
-        "playerassists": 5
+        "playergoals": 31,
+        "playerassists": 6
+    },
+    {
+        "playername": "E. Haaland",
+        "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
+        "playerteam": "Borussia Dortmund",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+        "playergoals": 19,
+        "playerassists": 1
     },
     {
         "playername": "André Miguel Valente Silva",
@@ -565,15 +574,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
         "playergoals": 19,
         "playerassists": 6
-    },
-    {
-        "playername": "E. Haaland",
-        "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
-        "playerteam": "Borussia Dortmund",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-        "playergoals": 17,
-        "playerassists": 1
     },
     {
         "playername": "W. Weghorst",
