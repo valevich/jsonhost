@@ -342,15 +342,15 @@
         "teamrank": 5,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "played": 25,
-        "wins": 11,
+        "played": 26,
+        "wins": 12,
         "draws": 9,
         "lossess": 5,
-        "goalsfor": 42,
+        "goalsfor": 43,
         "goalsagainst": 21,
-        "goalsdiff": "+21",
-        "points": 42,
-        "form": "'DWWWD'"
+        "goalsdiff": "+22",
+        "points": 45,
+        "form": "'WDWWW'"
     },
     {
         "teamrank": 6,
@@ -412,15 +412,15 @@
         "teamrank": 10,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "played": 25,
+        "played": 26,
         "wins": 7,
         "draws": 11,
-        "lossess": 7,
+        "lossess": 8,
         "goalsfor": 35,
-        "goalsagainst": 34,
-        "goalsdiff": "+1",
+        "goalsagainst": 35,
+        "goalsdiff": "0",
         "points": 32,
-        "form": "'DWDLD'"
+        "form": "'LDWDL'"
     },
     {
         "teamrank": 11,
