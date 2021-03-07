@@ -88,15 +88,15 @@
         "teamrank": 7,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "played": 27,
+        "played": 28,
         "wins": 12,
         "draws": 7,
-        "lossess": 8,
+        "lossess": 9,
         "goalsfor": 47,
-        "goalsagainst": 35,
-        "goalsdiff": "+12",
+        "goalsagainst": 36,
+        "goalsdiff": "+11",
         "points": 43,
-        "form": "'LWLLL'"
+        "form": "'LLWLL'"
     },
     {
         "teamrank": 8,
@@ -242,15 +242,15 @@
         "teamrank": 18,
         "teamname": "Fulham",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-        "played": 27,
-        "wins": 4,
+        "played": 28,
+        "wins": 5,
         "draws": 11,
         "lossess": 12,
-        "goalsfor": 21,
+        "goalsfor": 22,
         "goalsagainst": 33,
-        "goalsdiff": "-12",
-        "points": 23,
-        "form": "'LDWDW'"
+        "goalsdiff": "-11",
+        "points": 26,
+        "form": "'WLDWD'"
     },
     {
         "teamrank": 19,
@@ -582,15 +582,15 @@
         "teamrank": 2,
         "teamname": "Milan",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-        "played": 25,
-        "wins": 16,
+        "played": 26,
+        "wins": 17,
         "draws": 5,
         "lossess": 4,
-        "goalsfor": 48,
+        "goalsfor": 50,
         "goalsagainst": 30,
-        "goalsdiff": "+18",
-        "points": 53,
-        "form": "'DWLLW'"
+        "goalsdiff": "+20",
+        "points": 56,
+        "form": "'WDWLL'"
     },
     {
         "teamrank": 3,
@@ -666,15 +666,15 @@
         "teamrank": 8,
         "teamname": "Hellas Verona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
-        "played": 25,
+        "played": 26,
         "wins": 10,
         "draws": 8,
-        "lossess": 7,
+        "lossess": 8,
         "goalsfor": 34,
-        "goalsagainst": 27,
-        "goalsdiff": "+7",
+        "goalsagainst": 29,
+        "goalsdiff": "+5",
         "points": 38,
-        "form": "'WDDWL'"
+        "form": "'LWDDW'"
     },
     {
         "teamrank": 9,
@@ -748,6 +748,20 @@
     },
     {
         "teamrank": 14,
+        "teamname": "Fiorentina",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+        "played": 26,
+        "wins": 6,
+        "draws": 8,
+        "lossess": 12,
+        "goalsfor": 29,
+        "goalsagainst": 41,
+        "goalsdiff": "-12",
+        "points": 26,
+        "form": "'DLLWL'"
+    },
+    {
+        "teamrank": 15,
         "teamname": "Spezia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
         "played": 26,
@@ -761,7 +775,7 @@
         "form": "'DLDLW'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Benevento",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
         "played": 26,
@@ -773,20 +787,6 @@
         "goalsdiff": "-22",
         "points": 26,
         "form": "'DLLDD'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Fiorentina",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "played": 25,
-        "wins": 6,
-        "draws": 7,
-        "lossess": 12,
-        "goalsfor": 26,
-        "goalsagainst": 38,
-        "goalsdiff": "-12",
-        "points": 25,
-        "form": "'LLWLL'"
     },
     {
         "teamrank": 17,
@@ -806,43 +806,43 @@
         "teamrank": 18,
         "teamname": "Torino",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-        "played": 23,
+        "played": 24,
         "wins": 3,
         "draws": 11,
-        "lossess": 9,
-        "goalsfor": 33,
-        "goalsagainst": 41,
-        "goalsdiff": "-8",
+        "lossess": 10,
+        "goalsfor": 35,
+        "goalsagainst": 45,
+        "goalsdiff": "-10",
         "points": 20,
-        "form": "'WDDDD'"
+        "form": "'LWDDD'"
     },
     {
         "teamrank": 19,
         "teamname": "Parma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-        "played": 25,
+        "played": 26,
         "wins": 2,
-        "draws": 9,
+        "draws": 10,
         "lossess": 14,
-        "goalsfor": 20,
-        "goalsagainst": 49,
+        "goalsfor": 23,
+        "goalsagainst": 52,
         "goalsdiff": "-29",
-        "points": 15,
-        "form": "'LDDLL'"
+        "points": 16,
+        "form": "'DLDDL'"
     },
     {
         "teamrank": 20,
         "teamname": "Crotone",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-        "played": 25,
-        "wins": 3,
+        "played": 26,
+        "wins": 4,
         "draws": 3,
         "lossess": 19,
-        "goalsfor": 24,
-        "goalsagainst": 62,
-        "goalsdiff": "-38",
-        "points": 12,
-        "form": "'LLLLL'"
+        "goalsfor": 28,
+        "goalsagainst": 64,
+        "goalsdiff": "-36",
+        "points": 15,
+        "form": "'WLLLL'"
     }
   ],
   "ligue-1": [
@@ -1286,15 +1286,15 @@
         "teamrank": 12,
         "teamname": "Werder Bremen",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-        "played": 22,
+        "played": 23,
         "wins": 6,
-        "draws": 8,
+        "draws": 9,
         "lossess": 8,
-        "goalsfor": 26,
-        "goalsagainst": 32,
+        "goalsfor": 27,
+        "goalsagainst": 33,
         "goalsdiff": "-6",
-        "points": 26,
-        "form": "'WLDDW'"
+        "points": 27,
+        "form": "'DWLDD'"
     },
     {
         "teamrank": 13,
@@ -1312,6 +1312,20 @@
     },
     {
         "teamrank": 14,
+        "teamname": "Köln",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+        "played": 24,
+        "wins": 5,
+        "draws": 7,
+        "lossess": 12,
+        "goalsfor": 22,
+        "goalsagainst": 42,
+        "goalsdiff": "-20",
+        "points": 22,
+        "form": "'DLLLW'"
+    },
+    {
+        "teamrank": 15,
         "teamname": "Hertha BSC",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
         "played": 24,
@@ -1323,20 +1337,6 @@
         "goalsdiff": "-15",
         "points": 21,
         "form": "'WLLDL'"
-    },
-    {
-        "teamrank": 15,
-        "teamname": "Köln",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-        "played": 23,
-        "wins": 5,
-        "draws": 6,
-        "lossess": 12,
-        "goalsfor": 21,
-        "goalsagainst": 41,
-        "goalsdiff": "-20",
-        "points": 21,
-        "form": "'LLLWW'"
     },
     {
         "teamrank": 16,
