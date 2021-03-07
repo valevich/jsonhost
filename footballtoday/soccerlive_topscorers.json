@@ -255,6 +255,15 @@
         "playerassists": 0
     },
     {
+        "playername": "Álvaro Negredo",
+        "playerlink": "https://www.livesoccertv.com/player/alvaro-negredo/18031/",
+        "playerteam": "Cádiz",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/cadiz-cf/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
+        "playergoals": 7,
+        "playerassists": 0
+    },
+    {
         "playername": "Portu",
         "playerlink": "https://www.livesoccertv.com/player/portu/171121/",
         "playerteam": "Real Sociedad",
@@ -262,15 +271,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "playergoals": 7,
         "playerassists": 0
-    },
-    {
-        "playername": "João Félix",
-        "playerlink": "https://www.livesoccertv.com/player/joao-felix/338331/",
-        "playerteam": "Atletico Madrid",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "playergoals": 7,
-        "playerassists": 1
     }
   ],
   "serie-a": [
