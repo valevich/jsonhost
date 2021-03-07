@@ -72,6 +72,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Tottenham Hotspur",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+        "played": 27,
+        "wins": 13,
+        "draws": 6,
+        "lossess": 8,
+        "goalsfor": 46,
+        "goalsagainst": 28,
+        "goalsdiff": "+18",
+        "points": 45,
+        "form": "'WWWLL'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "played": 26,
@@ -85,7 +99,7 @@
         "form": "'LWWDW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "played": 28,
@@ -97,20 +111,6 @@
         "goalsdiff": "+11",
         "points": 43,
         "form": "'LLWLL'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Tottenham Hotspur",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "played": 26,
-        "wins": 12,
-        "draws": 6,
-        "lossess": 8,
-        "goalsfor": 42,
-        "goalsagainst": 27,
-        "goalsdiff": "+15",
-        "points": 42,
-        "form": "'WWLLW'"
     },
     {
         "teamrank": 9,
@@ -172,15 +172,15 @@
         "teamrank": 13,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "played": 27,
+        "played": 28,
         "wins": 9,
         "draws": 7,
-        "lossess": 11,
-        "goalsfor": 29,
-        "goalsagainst": 43,
-        "goalsdiff": "-14",
+        "lossess": 12,
+        "goalsfor": 30,
+        "goalsagainst": 47,
+        "goalsdiff": "-17",
         "points": 34,
-        "form": "'DDWLL'"
+        "form": "'LDDWL'"
     },
     {
         "teamrank": 14,
