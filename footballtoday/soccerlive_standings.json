@@ -608,6 +608,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Roma",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+        "played": 26,
+        "wins": 15,
+        "draws": 5,
+        "lossess": 6,
+        "goalsfor": 51,
+        "goalsagainst": 38,
+        "goalsdiff": "+13",
+        "points": 50,
+        "form": "'WWLDW'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Atalanta",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
         "played": 25,
@@ -619,20 +633,6 @@
         "goalsdiff": "+28",
         "points": 49,
         "form": "'WWWWD'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Roma",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "played": 25,
-        "wins": 14,
-        "draws": 5,
-        "lossess": 6,
-        "goalsfor": 50,
-        "goalsagainst": 38,
-        "goalsdiff": "+12",
-        "points": 47,
-        "form": "'WLDWL'"
     },
     {
         "teamrank": 6,
@@ -736,15 +736,15 @@
         "teamrank": 13,
         "teamname": "Genoa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-        "played": 25,
+        "played": 26,
         "wins": 6,
         "draws": 9,
-        "lossess": 10,
+        "lossess": 11,
         "goalsfor": 27,
-        "goalsagainst": 37,
-        "goalsdiff": "-10",
+        "goalsagainst": 38,
+        "goalsdiff": "-11",
         "points": 27,
-        "form": "'DLDDW'"
+        "form": "'LDLDD'"
     },
     {
         "teamrank": 14,
