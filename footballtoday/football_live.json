@@ -17,14 +17,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "1:00pm",
-      "GameState": "86 ",
+      "GameState": "FT ",
       "HomeTeam": "Chelsea",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
       "AwayTeam": "Everton",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  NBC Sports…"
     },
     {
       "LeagueName": "English Premier League",
@@ -82,12 +82,12 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "",
+      "GameState": "12 ",
       "HomeTeam": "Inter",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
       "AwayTeam": "Atalanta",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
     }
