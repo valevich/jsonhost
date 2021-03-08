@@ -58,6 +58,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "West Ham United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
+        "played": 27,
+        "wins": 14,
+        "draws": 6,
+        "lossess": 7,
+        "goalsfor": 42,
+        "goalsagainst": 31,
+        "goalsdiff": "+11",
+        "points": 48,
+        "form": "'WLWWD'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
         "played": 27,
@@ -71,7 +85,7 @@
         "form": "'LWWWL'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 27,
@@ -83,20 +97,6 @@
         "goalsdiff": "+18",
         "points": 45,
         "form": "'WWWLL'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "West Ham United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-        "played": 26,
-        "wins": 13,
-        "draws": 6,
-        "lossess": 7,
-        "goalsfor": 40,
-        "goalsagainst": 31,
-        "goalsdiff": "+9",
-        "points": 45,
-        "form": "'LWWDW'"
     },
     {
         "teamrank": 8,
@@ -144,15 +144,15 @@
         "teamrank": 11,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-        "played": 26,
+        "played": 27,
         "wins": 11,
         "draws": 2,
-        "lossess": 13,
+        "lossess": 14,
         "goalsfor": 43,
-        "goalsagainst": 44,
-        "goalsdiff": "-1",
+        "goalsagainst": 46,
+        "goalsdiff": "-3",
         "points": 35,
-        "form": "'LWLLW'"
+        "form": "'LLWLL'"
     },
     {
         "teamrank": 12,
@@ -356,15 +356,15 @@
         "teamrank": 6,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 25,
-        "wins": 12,
+        "played": 26,
+        "wins": 13,
         "draws": 3,
         "lossess": 10,
-        "goalsfor": 33,
-        "goalsagainst": 38,
-        "goalsdiff": "-5",
-        "points": 39,
-        "form": "'WWWLW'"
+        "goalsfor": 36,
+        "goalsagainst": 40,
+        "goalsdiff": "-4",
+        "points": 42,
+        "form": "'WWWWL'"
     },
     {
         "teamrank": 7,
@@ -538,15 +538,15 @@
         "teamrank": 19,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-        "played": 25,
+        "played": 26,
         "wins": 5,
         "draws": 7,
-        "lossess": 13,
-        "goalsfor": 20,
-        "goalsagainst": 39,
-        "goalsdiff": "-19",
+        "lossess": 14,
+        "goalsfor": 22,
+        "goalsagainst": 42,
+        "goalsdiff": "-20",
         "points": 22,
-        "form": "'LLLWD'"
+        "form": "'LLLLW'"
     },
     {
         "teamrank": 20,
