@@ -1,9 +1,9 @@
 {
   "today": [
     {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "Monday Mar. 8, 2021",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "Tuesday Mar. 9, 2021",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -14,82 +14,30 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Chelsea",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "AwayTeam": "Chelsea",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "TVChannels": "2 - 0  Everton NBCSN ,  fuboTV ,  NBCSports.com ,  NBC Sports…"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "West Ham",
+      "HomeTeam": "Juventus",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-      "AwayTeam": "West Ham",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+      "AwayTeam": "Porto",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-      "TVChannels": "2 - 0  Leeds United Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  Blue T…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
+      "TVChannels": "CBS Sports Network ,  fuboTV ,  T…"
     },
     {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "Monday Mar. 8, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Real Betis",
+      "HomeTeam": "Borussia Dortmund",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-      "AwayTeam": "Real Betis",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+      "AwayTeam": "Sevilla FC",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-      "TVChannels": "3 - 2  Deportivo Alavés Fanatiz USA ,  beIN SPORTS en Español ,  f…"
-    },
-    {
-      "LeagueName": "Italian Serie A",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
-      "GameTime": "Monday Mar. 8, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Italian Serie A",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Inter",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-      "AwayTeam": "Inter",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-      "TVChannels": "1 - 0  Atalanta ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2 Norte"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+      "TVChannels": "fuboTV ,  Galavision ,  TUDN.com ,  …"
     }
   ],
   "day2": [
