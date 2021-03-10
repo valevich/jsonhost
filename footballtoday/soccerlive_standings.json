@@ -4,15 +4,15 @@
         "teamrank": 1,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "played": 28,
-        "wins": 20,
+        "played": 29,
+        "wins": 21,
         "draws": 5,
         "lossess": 3,
-        "goalsfor": 56,
-        "goalsagainst": 19,
-        "goalsdiff": "+37",
-        "points": 65,
-        "form": "'LWWWW'"
+        "goalsfor": 61,
+        "goalsagainst": 21,
+        "goalsdiff": "+40",
+        "points": 68,
+        "form": "'WLWWW'"
     },
     {
         "teamrank": 2,
@@ -186,15 +186,15 @@
         "teamrank": 14,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "played": 27,
+        "played": 28,
         "wins": 9,
         "draws": 6,
-        "lossess": 12,
-        "goalsfor": 33,
-        "goalsagainst": 44,
-        "goalsdiff": "-11",
+        "lossess": 13,
+        "goalsfor": 35,
+        "goalsagainst": 49,
+        "goalsdiff": "-14",
         "points": 33,
-        "form": "'WLLDL'"
+        "form": "'LWLLD'"
     },
     {
         "teamrank": 15,
@@ -286,15 +286,15 @@
         "teamrank": 1,
         "teamname": "Atlético Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "played": 25,
-        "wins": 18,
+        "played": 26,
+        "wins": 19,
         "draws": 5,
         "lossess": 2,
-        "goalsfor": 48,
-        "goalsagainst": 17,
-        "goalsdiff": "+31",
-        "points": 59,
-        "form": "'DWLDW'"
+        "goalsfor": 50,
+        "goalsagainst": 18,
+        "goalsdiff": "+32",
+        "points": 62,
+        "form": "'WDWLD'"
     },
     {
         "teamrank": 2,
@@ -384,15 +384,15 @@
         "teamrank": 8,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "played": 25,
+        "played": 26,
         "wins": 9,
         "draws": 6,
-        "lossess": 10,
-        "goalsfor": 36,
-        "goalsagainst": 29,
-        "goalsdiff": "+7",
+        "lossess": 11,
+        "goalsfor": 37,
+        "goalsagainst": 31,
+        "goalsdiff": "+6",
         "points": 33,
-        "form": "'WDDWD'"
+        "form": "'LWDDW'"
     },
     {
         "teamrank": 9,
@@ -918,6 +918,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Olympique Marseille",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+        "played": 28,
+        "wins": 11,
+        "draws": 9,
+        "lossess": 8,
+        "goalsfor": 35,
+        "goalsagainst": 32,
+        "goalsdiff": "+3",
+        "points": 42,
+        "form": "'WLDDW'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Metz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
         "played": 28,
@@ -931,7 +945,7 @@
         "form": "'LWWLL'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Montpellier",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "played": 28,
@@ -943,20 +957,6 @@
         "goalsdiff": "-3",
         "points": 40,
         "form": "'DDWWW'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Olympique Marseille",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-        "played": 27,
-        "wins": 10,
-        "draws": 9,
-        "lossess": 8,
-        "goalsfor": 34,
-        "goalsagainst": 32,
-        "goalsdiff": "+2",
-        "points": 39,
-        "form": "'LDDWD'"
     },
     {
         "teamrank": 9,
@@ -976,15 +976,15 @@
         "teamrank": 10,
         "teamname": "Rennes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-        "played": 27,
+        "played": 28,
         "wins": 10,
         "draws": 8,
-        "lossess": 9,
+        "lossess": 10,
         "goalsfor": 33,
-        "goalsagainst": 31,
-        "goalsdiff": "+2",
+        "goalsagainst": 32,
+        "goalsdiff": "+1",
         "points": 38,
-        "form": "'LLLLD'"
+        "form": "'LLLLL'"
     },
     {
         "teamrank": 11,
