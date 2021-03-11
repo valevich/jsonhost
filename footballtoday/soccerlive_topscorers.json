@@ -55,6 +55,15 @@
         "playerassists": 0
     },
     {
+        "playername": "İlkay Gündoğan",
+        "playerlink": "https://www.livesoccertv.com/player/gundo-an/69183/",
+        "playerteam": "Manchester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "playergoals": 12,
+        "playerassists": 1
+    },
+    {
         "playername": "J. Vardy",
         "playerlink": "https://www.livesoccertv.com/player/j-vardy/135178/",
         "playerteam": "Leicester City",
@@ -62,15 +71,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
         "playergoals": 12,
         "playerassists": 6
-    },
-    {
-        "playername": "İlkay Gündoğan",
-        "playerlink": "https://www.livesoccertv.com/player/gundo-an/69183/",
-        "playerteam": "Manchester City",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "playergoals": 11,
-        "playerassists": 1
     },
     {
         "playername": "O. Watkins",
@@ -118,20 +118,20 @@
         "playerassists": 2
     },
     {
+        "playername": "R. Mahrez",
+        "playerlink": "https://www.livesoccertv.com/player/r-mahrez/133145/",
+        "playerteam": "Manchester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
         "playername": "M. Rashford",
         "playerlink": "https://www.livesoccertv.com/player/m-rashford/308286/",
         "playerteam": "Manchester United",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "playergoals": 9,
-        "playerassists": 0
-    },
-    {
-        "playername": "R. Sterling",
-        "playerlink": "https://www.livesoccertv.com/player/r-sterling/135689/",
-        "playerteam": "Manchester City",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "playergoals": 9,
         "playerassists": 0
     }
