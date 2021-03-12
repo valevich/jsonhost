@@ -652,15 +652,15 @@
         "teamrank": 7,
         "teamname": "Lazio",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-        "played": 25,
-        "wins": 13,
+        "played": 26,
+        "wins": 14,
         "draws": 4,
         "lossess": 8,
-        "goalsfor": 39,
-        "goalsagainst": 35,
-        "goalsdiff": "+4",
-        "points": 43,
-        "form": "'LLWLW'"
+        "goalsfor": 42,
+        "goalsagainst": 37,
+        "goalsdiff": "+5",
+        "points": 46,
+        "form": "'WLLWL'"
     },
     {
         "teamrank": 8,
@@ -834,15 +834,15 @@
         "teamrank": 20,
         "teamname": "Crotone",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-        "played": 26,
+        "played": 27,
         "wins": 4,
         "draws": 3,
-        "lossess": 19,
-        "goalsfor": 28,
-        "goalsagainst": 64,
-        "goalsdiff": "-36",
+        "lossess": 20,
+        "goalsfor": 30,
+        "goalsagainst": 67,
+        "goalsdiff": "-37",
         "points": 15,
-        "form": "'WLLLL'"
+        "form": "'LWLLL'"
     }
   ],
   "ligue-1": [
