@@ -298,7 +298,7 @@
         "playerteam": "Atalanta",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "playergoals": 15,
+        "playergoals": 16,
         "playerassists": 1
     },
     {
@@ -347,6 +347,15 @@
         "playerassists": 0
     },
     {
+        "playername": "S. Nwankwo",
+        "playerlink": "https://www.livesoccertv.com/player/s-nwankwo/165078/",
+        "playerteam": "Crotone",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/fc-crotone/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
+        "playergoals": 12,
+        "playerassists": 5
+    },
+    {
         "playername": "A. Belotti",
         "playerlink": "https://www.livesoccertv.com/player/a-belotti/186733/",
         "playerteam": "Torino",
@@ -363,15 +372,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
         "playergoals": 11,
         "playerassists": 3
-    },
-    {
-        "playername": "S. Nwankwo",
-        "playerlink": "https://www.livesoccertv.com/player/s-nwankwo/165078/",
-        "playerteam": "Crotone",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/fc-crotone/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-        "playergoals": 10,
-        "playerassists": 4
     },
     {
         "playername": "J. Veretout",
