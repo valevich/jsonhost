@@ -1132,15 +1132,15 @@
         "teamrank": 1,
         "teamname": "Bayern München",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "played": 24,
-        "wins": 17,
+        "played": 25,
+        "wins": 18,
         "draws": 4,
         "lossess": 3,
-        "goalsfor": 71,
-        "goalsagainst": 34,
-        "goalsdiff": "+37",
-        "points": 55,
-        "form": "'WWLDW'"
+        "goalsfor": 74,
+        "goalsagainst": 35,
+        "goalsdiff": "+39",
+        "points": 58,
+        "form": "'WWWLD'"
     },
     {
         "teamrank": 2,
@@ -1160,15 +1160,15 @@
         "teamrank": 3,
         "teamname": "Wolfsburg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "played": 24,
-        "wins": 12,
+        "played": 25,
+        "wins": 13,
         "draws": 9,
         "lossess": 3,
-        "goalsfor": 38,
+        "goalsfor": 43,
         "goalsagainst": 21,
-        "goalsdiff": "+17",
-        "points": 45,
-        "form": "'LWWDW'"
+        "goalsdiff": "+22",
+        "points": 48,
+        "form": "'WLWWD'"
     },
     {
         "teamrank": 4,
@@ -1286,15 +1286,15 @@
         "teamrank": 12,
         "teamname": "Werder Bremen",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-        "played": 24,
+        "played": 25,
         "wins": 7,
         "draws": 9,
-        "lossess": 8,
-        "goalsfor": 29,
-        "goalsagainst": 33,
-        "goalsdiff": "-4",
+        "lossess": 9,
+        "goalsfor": 30,
+        "goalsagainst": 36,
+        "goalsdiff": "-6",
         "points": 30,
-        "form": "'WDWLD'"
+        "form": "'LWDWL'"
     },
     {
         "teamrank": 13,
@@ -1370,15 +1370,15 @@
         "teamrank": 18,
         "teamname": "Schalke 04",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
-        "played": 24,
+        "played": 25,
         "wins": 1,
         "draws": 7,
-        "lossess": 16,
+        "lossess": 17,
         "goalsfor": 16,
-        "goalsagainst": 61,
-        "goalsdiff": "-45",
+        "goalsagainst": 66,
+        "goalsdiff": "-50",
         "points": 10,
-        "form": "'DLLDL'"
+        "form": "'LDLLD'"
     }
   ]
 }
