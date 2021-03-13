@@ -554,7 +554,7 @@
         "playerteam": "Bayern Munich",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "playergoals": 31,
+        "playergoals": 32,
         "playerassists": 6
     },
     {
@@ -581,7 +581,7 @@
         "playerteam": "Wolfsburg",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "playergoals": 15,
+        "playergoals": 16,
         "playerassists": 2
     },
     {
@@ -644,8 +644,17 @@
         "playerteam": "Bayern Munich",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "playergoals": 7,
+        "playergoals": 8,
         "playerassists": 0
+    },
+    {
+        "playername": "M. Kruse",
+        "playerlink": "https://www.livesoccertv.com/player/m-kruse/38633/",
+        "playerteam": "Union Berlin",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/union-berlin/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+        "playergoals": 8,
+        "playerassists": 5
     },
     {
         "playername": "V. Grifo",
@@ -655,15 +664,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
         "playergoals": 7,
         "playerassists": 3
-    },
-    {
-        "playername": "M. Kruse",
-        "playerlink": "https://www.livesoccertv.com/player/m-kruse/38633/",
-        "playerteam": "Union Berlin",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/union-berlin/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-        "playergoals": 7,
-        "playerassists": 4
     },
     {
         "playername": "J. Mateta",
