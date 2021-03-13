@@ -17,14 +17,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "7:30am",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Leeds United",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
       "AwayTeam": "Chelsea",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  NBC Sports…"
     },
     {
       "LeagueName": "English Premier League",
@@ -50,7 +50,7 @@
       "AwayTeam": "Burnley",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-      "TVChannels": "Peacock ,  SiriusXM FC ,  Sport 24 ,  DAZN ,  …"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  Sport 24 ,  Flow S…"
     },
     {
       "LeagueName": "English Premier League",
@@ -63,7 +63,7 @@
       "AwayTeam": "Manchester City",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "TVChannels": "Peacock ,  SiriusXM FC ,  Sport 24 ,  DAZN ,  …"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  Sport 24 ,  Flow S…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -82,7 +82,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "8:00am",
-      "GameState": "62 ",
+      "GameState": "82 ",
       "HomeTeam": "Alavés",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
@@ -147,14 +147,14 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "9:00am",
-      "GameState": "19 ",
+      "GameState": "39 ",
       "HomeTeam": "Sassuolo",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
       "AwayTeam": "Hellas Verona",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Serie A Pass ,  DAZN ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -167,7 +167,7 @@
       "AwayTeam": "Fiorentina",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN P…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Serie A Pass ,  DAZN ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -199,53 +199,53 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "",
+      "GameState": "10 ",
       "HomeTeam": "Mainz 05",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
       "AwayTeam": "Freiburg",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World No…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Flow Sports App ,  Flo…"
     },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "",
+      "GameState": "10 ",
       "HomeTeam": "Union Berlin",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
       "AwayTeam": "Köln",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World No…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Flow Sports App ,  Flo…"
     },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "",
+      "GameState": "10 ",
       "HomeTeam": "Wolfsburg",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
       "AwayTeam": "Schalke 04",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Flow Sports App ,  Flo…"
     },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "",
+      "GameState": "11 ",
       "HomeTeam": "Werder Bremen",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
       "AwayTeam": "Bayern Munich",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-      "TVChannels": "erder Bremen vs Bayern München ESPN+ ,  ESPN App ,  Sportsnet One ,  Spor…"
+      "TVChannels": "'   Werder Bremen  0 - 0  Bayern München ESPN+ ,  ESPN App ,  Flow Sports App ,  Flo…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -258,7 +258,7 @@
       "AwayTeam": "Hertha BSC",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Flow Sports App ,  Flo…"
     },
     {
       "LeagueName": "French Ligue 1",
