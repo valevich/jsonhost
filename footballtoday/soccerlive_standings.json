@@ -328,15 +328,15 @@
         "teamrank": 4,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-        "played": 25,
-        "wins": 15,
+        "played": 26,
+        "wins": 16,
         "draws": 3,
         "lossess": 7,
-        "goalsfor": 35,
+        "goalsfor": 36,
         "goalsagainst": 20,
-        "goalsdiff": "+15",
-        "points": 48,
-        "form": "'LLWWW'"
+        "goalsdiff": "+16",
+        "points": 51,
+        "form": "'WLLWW'"
     },
     {
         "teamrank": 5,
@@ -356,15 +356,15 @@
         "teamrank": 6,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 26,
+        "played": 27,
         "wins": 13,
         "draws": 3,
-        "lossess": 10,
+        "lossess": 11,
         "goalsfor": 36,
-        "goalsagainst": 40,
-        "goalsdiff": "-4",
+        "goalsagainst": 41,
+        "goalsdiff": "-5",
         "points": 42,
-        "form": "'WWWWL'"
+        "form": "'LWWWW'"
     },
     {
         "teamrank": 7,
@@ -582,15 +582,15 @@
         "teamrank": 2,
         "teamname": "Milan",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-        "played": 26,
+        "played": 27,
         "wins": 17,
         "draws": 5,
-        "lossess": 4,
+        "lossess": 5,
         "goalsfor": 50,
-        "goalsagainst": 30,
-        "goalsdiff": "+20",
+        "goalsagainst": 31,
+        "goalsdiff": "+19",
         "points": 56,
-        "form": "'WDWLL'"
+        "form": "'LWDWL'"
     },
     {
         "teamrank": 3,
@@ -622,6 +622,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Napoli",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "played": 26,
+        "wins": 16,
+        "draws": 2,
+        "lossess": 8,
+        "goalsfor": 56,
+        "goalsagainst": 29,
+        "goalsdiff": "+27",
+        "points": 50,
+        "form": "'WWDWL'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Roma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
         "played": 27,
@@ -633,20 +647,6 @@
         "goalsdiff": "+11",
         "points": 50,
         "form": "'LWWLD'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Napoli",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "played": 25,
-        "wins": 15,
-        "draws": 2,
-        "lossess": 8,
-        "goalsfor": 55,
-        "goalsagainst": 29,
-        "goalsdiff": "+26",
-        "points": 47,
-        "form": "'WDWLW'"
     },
     {
         "teamrank": 7,
