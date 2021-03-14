@@ -493,6 +493,15 @@
         "playerassists": 0
     },
     {
+        "playername": "A. Delort",
+        "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
+        "playerteam": "Montpellier",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playergoals": 10,
+        "playerassists": 0
+    },
+    {
         "playername": "T. Kadewere",
         "playerlink": "https://www.livesoccertv.com/player/t-kadewere/302725/",
         "playerteam": "Olympique Lyonnais",
@@ -507,15 +516,6 @@
         "playerteam": "Lille",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "playergoals": 9,
-        "playerassists": 0
-    },
-    {
-        "playername": "A. Delort",
-        "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
-        "playerteam": "Montpellier",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "playergoals": 9,
         "playerassists": 0
     },
