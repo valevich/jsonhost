@@ -17,14 +17,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "8:00am",
-      "GameState": "85 ",
+      "GameState": "FT ",
       "HomeTeam": "Southampton",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
       "AwayTeam": "Brighton",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-      "TVChannels": "Peacock ,  SiriusXM FC ,  Sport 24 ,  DAZN ,  …"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  Sport 24 ,  DAZN ,  Sky H…"
     },
     {
       "LeagueName": "English Premier League",
@@ -82,7 +82,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "9:00am",
-      "GameState": "44 ",
+      "GameState": "HT ",
       "HomeTeam": "Celta de Vigo",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
@@ -225,12 +225,12 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "8:30am",
-      "GameState": "55 ",
+      "GameState": "70 ",
       "HomeTeam": "Bayer Leverkusen",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
       "AwayTeam": "Arminia Bielefeld",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
     },
@@ -277,14 +277,14 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "8:00am",
-      "GameState": "84 ",
+      "GameState": "FT ",
       "HomeTeam": "Nimes",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
       "AwayTeam": "Montpellier",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN SPORTS CO…"
     },
     {
       "LeagueName": "French Ligue 1",
