@@ -396,20 +396,6 @@
     },
     {
         "teamrank": 9,
-        "teamname": "Athletic Club",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "played": 26,
-        "wins": 9,
-        "draws": 6,
-        "lossess": 11,
-        "goalsfor": 37,
-        "goalsagainst": 31,
-        "goalsdiff": "+6",
-        "points": 33,
-        "form": "'LWDDW'"
-    },
-    {
-        "teamrank": 10,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "played": 26,
@@ -423,7 +409,7 @@
         "form": "'WDLWD'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 10,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
         "played": 26,
@@ -435,6 +421,20 @@
         "goalsdiff": "-12",
         "points": 33,
         "form": "'LWLLD'"
+    },
+    {
+        "teamrank": 11,
+        "teamname": "Athletic Club",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "played": 26,
+        "wins": 9,
+        "draws": 6,
+        "lossess": 11,
+        "goalsfor": 37,
+        "goalsagainst": 31,
+        "goalsdiff": "+6",
+        "points": 33,
+        "form": "'LWDDW'"
     },
     {
         "teamrank": 12,
@@ -708,18 +708,32 @@
         "teamrank": 11,
         "teamname": "Sampdoria",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-        "played": 26,
+        "played": 27,
         "wins": 9,
         "draws": 5,
-        "lossess": 12,
-        "goalsfor": 36,
-        "goalsagainst": 39,
-        "goalsdiff": "-3",
+        "lossess": 13,
+        "goalsfor": 37,
+        "goalsagainst": 42,
+        "goalsdiff": "-5",
         "points": 32,
-        "form": "'DDLLW'"
+        "form": "'LDDLL'"
     },
     {
         "teamrank": 12,
+        "teamname": "Bologna",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+        "played": 27,
+        "wins": 8,
+        "draws": 7,
+        "lossess": 12,
+        "goalsfor": 36,
+        "goalsagainst": 42,
+        "goalsdiff": "-6",
+        "points": 31,
+        "form": "'WLLWD'"
+    },
+    {
+        "teamrank": 13,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
         "played": 27,
@@ -731,20 +745,6 @@
         "goalsdiff": "-9",
         "points": 29,
         "form": "'WDLLW'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Bologna",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-        "played": 26,
-        "wins": 7,
-        "draws": 7,
-        "lossess": 12,
-        "goalsfor": 33,
-        "goalsagainst": 41,
-        "goalsdiff": "-8",
-        "points": 28,
-        "form": "'LLWDD'"
     },
     {
         "teamrank": 14,
