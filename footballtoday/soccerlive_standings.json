@@ -72,6 +72,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Liverpool",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "played": 29,
+        "wins": 13,
+        "draws": 7,
+        "lossess": 9,
+        "goalsfor": 48,
+        "goalsagainst": 36,
+        "goalsdiff": "+12",
+        "points": 46,
+        "form": "'WLLWL'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
         "played": 28,
@@ -85,7 +99,7 @@
         "form": "'LLWWW'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 28,
@@ -97,20 +111,6 @@
         "goalsdiff": "+17",
         "points": 45,
         "form": "'LWWWL'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Liverpool",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "played": 28,
-        "wins": 12,
-        "draws": 7,
-        "lossess": 9,
-        "goalsfor": 47,
-        "goalsagainst": 36,
-        "goalsdiff": "+11",
-        "points": 43,
-        "form": "'LLWLL'"
     },
     {
         "teamrank": 9,
@@ -172,15 +172,15 @@
         "teamrank": 13,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-        "played": 28,
+        "played": 29,
         "wins": 9,
         "draws": 8,
-        "lossess": 11,
+        "lossess": 12,
         "goalsfor": 28,
-        "goalsagainst": 37,
-        "goalsdiff": "-9",
+        "goalsagainst": 38,
+        "goalsdiff": "-10",
         "points": 35,
-        "form": "'DLDWW'"
+        "form": "'LDLDW'"
     },
     {
         "teamrank": 14,
@@ -298,6 +298,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Barcelona",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "played": 27,
+        "wins": 18,
+        "draws": 5,
+        "lossess": 4,
+        "goalsfor": 61,
+        "goalsagainst": 23,
+        "goalsdiff": "+38",
+        "points": 59,
+        "form": "'WWWWD'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Real Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
         "played": 27,
@@ -309,20 +323,6 @@
         "goalsdiff": "+24",
         "points": 57,
         "form": "'WDDWW'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Barcelona",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "played": 26,
-        "wins": 17,
-        "draws": 5,
-        "lossess": 4,
-        "goalsfor": 57,
-        "goalsagainst": 22,
-        "goalsdiff": "+35",
-        "points": 56,
-        "form": "'WWWDW'"
     },
     {
         "teamrank": 4,
@@ -552,15 +552,15 @@
         "teamrank": 20,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-        "played": 26,
+        "played": 27,
         "wins": 3,
         "draws": 11,
-        "lossess": 12,
-        "goalsfor": 25,
-        "goalsagainst": 40,
-        "goalsdiff": "-15",
+        "lossess": 13,
+        "goalsfor": 26,
+        "goalsagainst": 44,
+        "goalsdiff": "-18",
         "points": 20,
-        "form": "'LDWLL'"
+        "form": "'LLDWL'"
     }
   ],
   "serie-a": [
