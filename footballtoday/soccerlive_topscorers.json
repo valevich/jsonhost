@@ -143,7 +143,7 @@
         "playerteam": "Barcelona",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "playergoals": 19,
+        "playergoals": 21,
         "playerassists": 3
     },
     {
@@ -237,6 +237,15 @@
         "playerassists": 0
     },
     {
+        "playername": "Rafa Mir",
+        "playerlink": "https://www.livesoccertv.com/player/rafa-mir/291790/",
+        "playerteam": "Huesca",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/sd-huesca/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
+        "playergoals": 8,
+        "playerassists": 1
+    },
+    {
         "playername": "Álex Berenguer",
         "playerlink": "https://www.livesoccertv.com/player/alex-berenguer/277009/",
         "playerteam": "Athletic Club",
@@ -260,15 +269,6 @@
         "playerteam": "Eibar",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/eibar/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "playergoals": 7,
-        "playerassists": 0
-    },
-    {
-        "playername": "Rafa Mir",
-        "playerlink": "https://www.livesoccertv.com/player/rafa-mir/291790/",
-        "playerteam": "Huesca",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/sd-huesca/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
         "playergoals": 7,
         "playerassists": 0
     }
