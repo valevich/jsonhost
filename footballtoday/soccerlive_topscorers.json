@@ -280,8 +280,8 @@
         "playerteam": "Juventus",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/juventus/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-        "playergoals": 20,
-        "playerassists": 4
+        "playergoals": 23,
+        "playerassists": 5
     },
     {
         "playername": "R. Lukaku",
@@ -289,8 +289,8 @@
         "playerteam": "Internazionale",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "playergoals": 18,
-        "playerassists": 4
+        "playergoals": 19,
+        "playerassists": 5
     },
     {
         "playername": "L. Muriel",
@@ -320,6 +320,15 @@
         "playerassists": 3
     },
     {
+        "playername": "L. Martínez",
+        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
+        "playerteam": "Internazionale",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+        "playergoals": 14,
+        "playerassists": 0
+    },
+    {
         "playername": "João Pedro",
         "playerlink": "https://www.livesoccertv.com/player/joao-pedro/115191/",
         "playerteam": "Cagliari",
@@ -336,15 +345,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
         "playergoals": 13,
         "playerassists": 5
-    },
-    {
-        "playername": "L. Martínez",
-        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
-        "playerteam": "Internazionale",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "playergoals": 13,
-        "playerassists": 0
     },
     {
         "playername": "S. Nwankwo",
