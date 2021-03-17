@@ -666,15 +666,15 @@
         "teamrank": 8,
         "teamname": "Sassuolo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-        "played": 26,
+        "played": 27,
         "wins": 10,
         "draws": 9,
-        "lossess": 7,
-        "goalsfor": 43,
-        "goalsagainst": 41,
-        "goalsdiff": "+2",
+        "lossess": 8,
+        "goalsfor": 45,
+        "goalsagainst": 44,
+        "goalsdiff": "+1",
         "points": 39,
-        "form": "'WLDDW'"
+        "form": "'LWLDD'"
     },
     {
         "teamrank": 9,
@@ -790,6 +790,20 @@
     },
     {
         "teamrank": 17,
+        "teamname": "Torino",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+        "played": 26,
+        "wins": 4,
+        "draws": 11,
+        "lossess": 11,
+        "goalsfor": 39,
+        "goalsagainst": 49,
+        "goalsdiff": "-10",
+        "points": 23,
+        "form": "'WLLWD'"
+    },
+    {
+        "teamrank": 18,
         "teamname": "Cagliari",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
         "played": 27,
@@ -801,20 +815,6 @@
         "goalsdiff": "-16",
         "points": 22,
         "form": "'LDWWL'"
-    },
-    {
-        "teamrank": 18,
-        "teamname": "Torino",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-        "played": 25,
-        "wins": 3,
-        "draws": 11,
-        "lossess": 11,
-        "goalsfor": 36,
-        "goalsagainst": 47,
-        "goalsdiff": "-11",
-        "points": 20,
-        "form": "'LLWDD'"
     },
     {
         "teamrank": 19,
