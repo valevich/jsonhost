@@ -82,9 +82,9 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "10:00am",
-      "GameState": "65 ",
+      "GameState": "80 ",
       "HomeTeam": "Torino",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
       "AwayTeam": "Sassuolo",
       "AwayGoals": "2",
@@ -381,7 +381,7 @@
       "AwayTeam": "Newcastle Utd",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-      "TVChannels": "SiriusXM FC ,  DAZN ,  Sky HD ,  Blue To Go Vi…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  B…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -682,7 +682,7 @@
       "AwayTeam": "Arsenal",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "TVChannels": "Arsenal Player ,  DAZN ,  Sky HD ,  Blue To Go…"
+      "TVChannels": "Peacock ,  Arsenal Player ,  DAZN ,  Sky HD ,  …"
     },
     {
       "LeagueName": "English Premier League",
@@ -695,7 +695,7 @@
       "AwayTeam": "Tottenham",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-      "TVChannels": "fuboTV ,  UNIVERSO ,  UNIVERS…"
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
