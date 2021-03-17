@@ -82,14 +82,14 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "10:00am",
-      "GameState": "80 ",
+      "GameState": "FT ",
       "HomeTeam": "Torino",
-      "HomeGoals": "1",
+      "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
       "AwayTeam": "Sassuolo",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN2 Nort…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN2 Norte ,  ES…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -615,7 +615,7 @@
       "AwayTeam": "Marseille",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  fu…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
     {
       "LeagueName": "English FA Cup",
