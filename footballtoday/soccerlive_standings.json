@@ -328,15 +328,15 @@
         "teamrank": 4,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-        "played": 26,
-        "wins": 16,
+        "played": 27,
+        "wins": 17,
         "draws": 3,
         "lossess": 7,
-        "goalsfor": 36,
+        "goalsfor": 38,
         "goalsagainst": 20,
-        "goalsdiff": "+16",
-        "points": 51,
-        "form": "'WLLWW'"
+        "goalsdiff": "+18",
+        "points": 54,
+        "form": "'WWLLW'"
     },
     {
         "teamrank": 5,
@@ -510,15 +510,15 @@
         "teamrank": 17,
         "teamname": "Elche",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-        "played": 26,
+        "played": 27,
         "wins": 5,
         "draws": 9,
-        "lossess": 12,
+        "lossess": 13,
         "goalsfor": 24,
-        "goalsagainst": 39,
-        "goalsdiff": "-15",
+        "goalsagainst": 41,
+        "goalsdiff": "-17",
         "points": 24,
-        "form": "'LWLLW'"
+        "form": "'LLWLL'"
     },
     {
         "teamrank": 18,
