@@ -195,7 +195,7 @@
       "AwayTeam": "Genoa",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Sky S…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -379,7 +379,7 @@
       "AwayTeam": "Cagliari",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  DAZN"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN P…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -706,7 +706,7 @@
       "AwayTeam": "Lazio",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Arena…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -719,7 +719,7 @@
       "AwayTeam": "Torino",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Arena…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1037,7 +1037,7 @@
       "AwayTeam": "Netherlands",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/449.png",
-      "TVChannels": "ESPN Caribbean ,  Sport 2 CZ/SK ,  Sky Go…"
+      "TVChannels": "ESPN Caribbean ,  ESPNPlay Caribbean ,  S…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -1050,7 +1050,7 @@
       "AwayTeam": "Czech Republic",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/450.png",
-      "TVChannels": "Sky Sports Red Button ,  Sport TV2 ,  Spor…"
+      "TVChannels": "ESPNPlay Caribbean ,  Sky Sports Red But…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -1063,7 +1063,7 @@
       "AwayTeam": "Russia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/454.png",
-      "TVChannels": "ESPN+ ,  ESPN App"
+      "TVChannels": "ESPN+ ,  ESPN App ,  ESPNPlay Caribbean"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -1076,7 +1076,7 @@
       "AwayTeam": "Wales",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/578.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sport TV3 ,  Sport…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  ESPNPlay Caribbe…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -1089,7 +1089,7 @@
       "AwayTeam": "Ukraine",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/457.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  ESPN Caribbean ,  TF…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  ESPN Caribbean ,  …"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -1102,7 +1102,7 @@
       "AwayTeam": "Slovakia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/468.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sky Sports Red Bu…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  ESPNPlay Caribbe…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -1115,7 +1115,7 @@
       "AwayTeam": "Norway",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/464.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sky Sports Red Bu…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  ESPNPlay Caribbe…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -1128,7 +1128,7 @@
       "AwayTeam": "Croatia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/477.png",
-      "TVChannels": "Sky Sports Red Button ,  Sky Go UK ,  SKY…"
+      "TVChannels": "ESPNPlay Caribbean ,  Sky Sports Red But…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -1141,7 +1141,7 @@
       "AwayTeam": "Montenegro",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6775.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sky Sports Red Bu…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  ESPNPlay Caribbe…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -1164,10 +1164,10 @@
       "HomeTeam": "Serbia",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
-      "AwayTeam": "Ireland Republic ESPN+ ,  ESPN App ,  Sport TV LIVE ,  S…",
+      "AwayTeam": "Ireland Republic ESPN+ ,  ESPN App ,  ESPNPlay Caribbe…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Ireland Republic ESPN+ ,  ESPN App ,  Sport TV LIVE ,  S…"
+      "TVChannels": "vs Ireland Republic ESPN+ ,  ESPN App ,  ESPNPlay Caribbe…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -1180,7 +1180,7 @@
       "AwayTeam": "Bosnia And Herzegovina",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/452.png",
-      "TVChannels": "Bosnia and Herzegovina ESPN+ ,  ESPN App ,  Sky Sports Red Bu…"
+      "TVChannels": "Bosnia and Herzegovina ESPN+ ,  ESPN App ,  ESPNPlay Caribbe…"
     },
     {
       "LeagueName": "World Cup Qualifying",
