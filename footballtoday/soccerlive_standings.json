@@ -734,6 +734,20 @@
     },
     {
         "teamrank": 13,
+        "teamname": "Genoa",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+        "played": 28,
+        "wins": 7,
+        "draws": 10,
+        "lossess": 11,
+        "goalsfor": 30,
+        "goalsagainst": 40,
+        "goalsdiff": "-10",
+        "points": 31,
+        "form": "'WDLDL'"
+    },
+    {
+        "teamrank": 14,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
         "played": 27,
@@ -745,20 +759,6 @@
         "goalsdiff": "-9",
         "points": 29,
         "form": "'WDLLW'"
-    },
-    {
-        "teamrank": 14,
-        "teamname": "Genoa",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-        "played": 27,
-        "wins": 6,
-        "draws": 10,
-        "lossess": 11,
-        "goalsfor": 28,
-        "goalsagainst": 39,
-        "goalsdiff": "-11",
-        "points": 28,
-        "form": "'DLDLD'"
     },
     {
         "teamrank": 15,
@@ -820,15 +820,15 @@
         "teamrank": 19,
         "teamname": "Parma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-        "played": 27,
+        "played": 28,
         "wins": 3,
         "draws": 10,
-        "lossess": 14,
-        "goalsfor": 25,
-        "goalsagainst": 52,
-        "goalsdiff": "-27",
+        "lossess": 15,
+        "goalsfor": 26,
+        "goalsagainst": 54,
+        "goalsdiff": "-28",
         "points": 19,
-        "form": "'WDLDD'"
+        "form": "'LWDLD'"
     },
     {
         "teamrank": 20,
@@ -1146,15 +1146,15 @@
         "teamrank": 2,
         "teamname": "RB Leipzig",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-        "played": 25,
-        "wins": 16,
+        "played": 26,
+        "wins": 17,
         "draws": 6,
         "lossess": 3,
-        "goalsfor": 47,
+        "goalsfor": 48,
         "goalsagainst": 21,
-        "goalsdiff": "+26",
-        "points": 54,
-        "form": "'DWWWW'"
+        "goalsdiff": "+27",
+        "points": 57,
+        "form": "'WDWWW'"
     },
     {
         "teamrank": 3,
@@ -1328,15 +1328,15 @@
         "teamrank": 15,
         "teamname": "Arminia Bielefeld",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
-        "played": 25,
+        "played": 26,
         "wins": 6,
         "draws": 4,
-        "lossess": 15,
+        "lossess": 16,
         "goalsfor": 20,
-        "goalsagainst": 44,
-        "goalsdiff": "-24",
+        "goalsagainst": 45,
+        "goalsdiff": "-25",
         "points": 22,
-        "form": "'WLDLL'"
+        "form": "'LWLDL'"
     },
     {
         "teamrank": 16,
