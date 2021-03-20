@@ -904,20 +904,6 @@
     },
     {
         "teamrank": 5,
-        "teamname": "Olympique Marseille",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-        "played": 29,
-        "wins": 12,
-        "draws": 9,
-        "lossess": 8,
-        "goalsfor": 38,
-        "goalsagainst": 33,
-        "goalsdiff": "+5",
-        "points": 45,
-        "form": "'WWLDD'"
-    },
-    {
-        "teamrank": 6,
         "teamname": "Lens",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
         "played": 29,
@@ -929,6 +915,20 @@
         "goalsdiff": "+3",
         "points": 45,
         "form": "'DWDWD'"
+    },
+    {
+        "teamrank": 6,
+        "teamname": "Olympique Marseille",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+        "played": 30,
+        "wins": 12,
+        "draws": 9,
+        "lossess": 9,
+        "goalsfor": 38,
+        "goalsagainst": 36,
+        "goalsdiff": "+2",
+        "points": 45,
+        "form": "'LWWLD'"
     },
     {
         "teamrank": 7,
@@ -974,6 +974,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Nice",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+        "played": 30,
+        "wins": 11,
+        "draws": 6,
+        "lossess": 13,
+        "goalsfor": 39,
+        "goalsagainst": 41,
+        "goalsdiff": "-2",
+        "points": 39,
+        "form": "'WDWWL'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Angers SCO",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
         "played": 29,
@@ -987,7 +1001,7 @@
         "form": "'LWDDL'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Bordeaux",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
         "played": 29,
@@ -999,20 +1013,6 @@
         "goalsdiff": "-4",
         "points": 36,
         "form": "'WLLLD'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Nice",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-        "played": 29,
-        "wins": 10,
-        "draws": 6,
-        "lossess": 13,
-        "goalsfor": 36,
-        "goalsagainst": 41,
-        "goalsdiff": "-5",
-        "points": 36,
-        "form": "'DWWLL'"
     },
     {
         "teamrank": 13,
