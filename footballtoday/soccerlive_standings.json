@@ -298,6 +298,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Real Madrid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "played": 28,
+        "wins": 18,
+        "draws": 6,
+        "lossess": 4,
+        "goalsfor": 49,
+        "goalsagainst": 23,
+        "goalsdiff": "+26",
+        "points": 60,
+        "form": "'WWDDW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Barcelona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
         "played": 27,
@@ -309,20 +323,6 @@
         "goalsdiff": "+38",
         "points": 59,
         "form": "'WWWWD'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Real Madrid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "played": 27,
-        "wins": 17,
-        "draws": 6,
-        "lossess": 4,
-        "goalsfor": 46,
-        "goalsagainst": 22,
-        "goalsdiff": "+24",
-        "points": 57,
-        "form": "'WDDWW'"
     },
     {
         "teamrank": 4,
@@ -426,15 +426,15 @@
         "teamrank": 11,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "played": 27,
+        "played": 28,
         "wins": 8,
         "draws": 10,
-        "lossess": 9,
-        "goalsfor": 34,
-        "goalsagainst": 40,
-        "goalsdiff": "-6",
+        "lossess": 10,
+        "goalsfor": 35,
+        "goalsagainst": 43,
+        "goalsdiff": "-8",
         "points": 34,
-        "form": "'DWDLW'"
+        "form": "'LDWDL'"
     },
     {
         "teamrank": 12,
