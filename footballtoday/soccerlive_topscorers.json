@@ -603,15 +603,6 @@
         "playerassists": 0
     },
     {
-        "playername": "Lars Stindl",
-        "playerlink": "https://www.livesoccertv.com/player/l-stindl/39612/",
-        "playerteam": "Borussia M'gladbach",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-        "playergoals": 11,
-        "playerassists": 5
-    },
-    {
         "playername": "S. Wamangituka",
         "playerlink": "https://www.livesoccertv.com/player/s-wamangituka/388180/",
         "playerteam": "Stuttgart",
@@ -637,6 +628,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
         "playergoals": 10,
         "playerassists": 1
+    },
+    {
+        "playername": "Lars Stindl",
+        "playerlink": "https://www.livesoccertv.com/player/l-stindl/39612/",
+        "playerteam": "Borussia M'gladbach",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+        "playergoals": 10,
+        "playerassists": 5
     },
     {
         "playername": "L. Alario",
