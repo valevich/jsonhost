@@ -72,6 +72,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Tottenham Hotspur",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+        "played": 29,
+        "wins": 14,
+        "draws": 6,
+        "lossess": 9,
+        "goalsfor": 49,
+        "goalsagainst": 30,
+        "goalsdiff": "+19",
+        "points": 48,
+        "form": "'WLWWW'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "played": 29,
@@ -85,7 +99,7 @@
         "form": "'WLLWL'"
     },
     {
-        "teamrank": 7,
+        "teamrank": 8,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
         "played": 28,
@@ -97,20 +111,6 @@
         "goalsdiff": "+3",
         "points": 46,
         "form": "'LLWWW'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Tottenham Hotspur",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "played": 28,
-        "wins": 13,
-        "draws": 6,
-        "lossess": 9,
-        "goalsfor": 47,
-        "goalsagainst": 30,
-        "goalsdiff": "+17",
-        "points": 45,
-        "form": "'LWWWL'"
     },
     {
         "teamrank": 9,
@@ -130,15 +130,15 @@
         "teamrank": 10,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 27,
+        "played": 28,
         "wins": 12,
         "draws": 5,
-        "lossess": 10,
+        "lossess": 11,
         "goalsfor": 39,
-        "goalsagainst": 28,
-        "goalsdiff": "+11",
+        "goalsagainst": 30,
+        "goalsdiff": "+9",
         "points": 41,
-        "form": "'DDLWL'"
+        "form": "'LDDLW'"
     },
     {
         "teamrank": 11,
@@ -624,29 +624,29 @@
         "teamrank": 5,
         "teamname": "Napoli",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "played": 26,
-        "wins": 16,
+        "played": 27,
+        "wins": 17,
         "draws": 2,
         "lossess": 8,
-        "goalsfor": 56,
+        "goalsfor": 58,
         "goalsagainst": 29,
-        "goalsdiff": "+27",
-        "points": 50,
-        "form": "'WWDWL'"
+        "goalsdiff": "+29",
+        "points": 53,
+        "form": "'WWWDW'"
     },
     {
         "teamrank": 6,
         "teamname": "Roma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "played": 27,
+        "played": 28,
         "wins": 15,
         "draws": 5,
-        "lossess": 7,
+        "lossess": 8,
         "goalsfor": 51,
-        "goalsagainst": 40,
-        "goalsdiff": "+11",
+        "goalsagainst": 42,
+        "goalsdiff": "+9",
         "points": 50,
-        "form": "'LWWLD'"
+        "form": "'LLWWL'"
     },
     {
         "teamrank": 7,
