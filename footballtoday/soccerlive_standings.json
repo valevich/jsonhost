@@ -610,15 +610,15 @@
         "teamrank": 4,
         "teamname": "Atalanta",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "played": 27,
-        "wins": 15,
+        "played": 28,
+        "wins": 16,
         "draws": 7,
         "lossess": 5,
-        "goalsfor": 63,
+        "goalsfor": 65,
         "goalsagainst": 34,
-        "goalsdiff": "+29",
-        "points": 52,
-        "form": "'WLWWW'"
+        "goalsdiff": "+31",
+        "points": 55,
+        "form": "'WWLWW'"
     },
     {
         "teamrank": 5,
@@ -680,15 +680,15 @@
         "teamrank": 9,
         "teamname": "Hellas Verona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
-        "played": 27,
+        "played": 28,
         "wins": 10,
         "draws": 8,
-        "lossess": 9,
+        "lossess": 10,
         "goalsfor": 36,
-        "goalsagainst": 32,
-        "goalsdiff": "+4",
+        "goalsagainst": 34,
+        "goalsdiff": "+2",
         "points": 38,
-        "form": "'LLWDD'"
+        "form": "'LLLWD'"
     },
     {
         "teamrank": 10,
