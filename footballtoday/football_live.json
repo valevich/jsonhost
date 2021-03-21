@@ -95,7 +95,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "1:30pm",
-      "GameState": "58 ",
+      "GameState": "83 ",
       "HomeTeam": "Atletico Madrid",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
@@ -186,14 +186,14 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "1:00pm",
-      "GameState": "89 ",
+      "GameState": "FT ",
       "HomeTeam": "Fiorentina",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
       "AwayTeam": "Milan",
       "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2 Norte"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -251,14 +251,14 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "1:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Freiburg",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
       "AwayTeam": "Augsburg",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World No…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World Now ,  Spo…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -394,14 +394,14 @@
       "LeagueName": "English FA Cup",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
       "GameTime": "1:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Leicester",
       "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
       "AwayTeam": "Manchester Utd",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  SiriusXM FC ,  Sport…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  SiriusXM FC ,  Sportsnet…"
     }
   ],
   "day2": [
