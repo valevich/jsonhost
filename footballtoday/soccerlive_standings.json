@@ -60,15 +60,15 @@
         "teamrank": 5,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-        "played": 28,
+        "played": 29,
         "wins": 14,
-        "draws": 6,
+        "draws": 7,
         "lossess": 8,
-        "goalsfor": 42,
-        "goalsagainst": 32,
+        "goalsfor": 45,
+        "goalsagainst": 35,
         "goalsdiff": "+10",
-        "points": 48,
-        "form": "'LWLWW'"
+        "points": 49,
+        "form": "'DLWLW'"
     },
     {
         "teamrank": 6,
@@ -114,6 +114,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Arsenal",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "played": 29,
+        "wins": 12,
+        "draws": 6,
+        "lossess": 11,
+        "goalsfor": 40,
+        "goalsagainst": 32,
+        "goalsdiff": "+8",
+        "points": 42,
+        "form": "'DWDWL'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "played": 27,
@@ -125,20 +139,6 @@
         "goalsdiff": "+11",
         "points": 41,
         "form": "'DDLWL'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Arsenal",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "played": 28,
-        "wins": 12,
-        "draws": 5,
-        "lossess": 11,
-        "goalsfor": 37,
-        "goalsagainst": 29,
-        "goalsdiff": "+8",
-        "points": 41,
-        "form": "'WDWLW'"
     },
     {
         "teamrank": 11,
