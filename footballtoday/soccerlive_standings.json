@@ -850,15 +850,15 @@
         "teamrank": 1,
         "teamname": "Lille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "played": 29,
+        "played": 30,
         "wins": 18,
         "draws": 9,
-        "lossess": 2,
-        "goalsfor": 49,
-        "goalsagainst": 17,
-        "goalsdiff": "+32",
+        "lossess": 3,
+        "goalsfor": 50,
+        "goalsagainst": 19,
+        "goalsdiff": "+31",
         "points": 63,
-        "form": "'DWDWD'"
+        "form": "'LDWDW'"
     },
     {
         "teamrank": 2,
@@ -1086,6 +1086,20 @@
     },
     {
         "teamrank": 18,
+        "teamname": "Nîmes",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
+        "played": 30,
+        "wins": 8,
+        "draws": 5,
+        "lossess": 17,
+        "goalsfor": 30,
+        "goalsagainst": 56,
+        "goalsdiff": "-26",
+        "points": 29,
+        "form": "'WDLDW'"
+    },
+    {
+        "teamrank": 19,
         "teamname": "Nantes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
         "played": 30,
@@ -1097,20 +1111,6 @@
         "goalsdiff": "-15",
         "points": 28,
         "form": "'DWLDD'"
-    },
-    {
-        "teamrank": 19,
-        "teamname": "Nîmes",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
-        "played": 29,
-        "wins": 7,
-        "draws": 5,
-        "lossess": 17,
-        "goalsfor": 28,
-        "goalsagainst": 55,
-        "goalsdiff": "-27",
-        "points": 26,
-        "form": "'DLDWW'"
     },
     {
         "teamrank": 20,
