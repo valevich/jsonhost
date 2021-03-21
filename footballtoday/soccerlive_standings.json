@@ -582,15 +582,15 @@
         "teamrank": 2,
         "teamname": "Milan",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-        "played": 27,
-        "wins": 17,
+        "played": 28,
+        "wins": 18,
         "draws": 5,
         "lossess": 5,
-        "goalsfor": 50,
-        "goalsagainst": 31,
-        "goalsdiff": "+19",
-        "points": 56,
-        "form": "'LWDWL'"
+        "goalsfor": 53,
+        "goalsagainst": 33,
+        "goalsdiff": "+20",
+        "points": 59,
+        "form": "'WLWDW'"
     },
     {
         "teamrank": 3,
@@ -750,15 +750,15 @@
         "teamrank": 14,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "played": 27,
+        "played": 28,
         "wins": 7,
         "draws": 8,
-        "lossess": 12,
-        "goalsfor": 33,
-        "goalsagainst": 42,
-        "goalsdiff": "-9",
+        "lossess": 13,
+        "goalsfor": 35,
+        "goalsagainst": 45,
+        "goalsdiff": "-10",
         "points": 29,
-        "form": "'WDLLW'"
+        "form": "'LWDLL'"
     },
     {
         "teamrank": 15,
@@ -1228,6 +1228,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Freiburg",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+        "played": 26,
+        "wins": 10,
+        "draws": 7,
+        "lossess": 9,
+        "goalsfor": 39,
+        "goalsagainst": 39,
+        "goalsdiff": "0",
+        "points": 37,
+        "form": "'WLLWL'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Stuttgart",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
         "played": 26,
@@ -1241,7 +1255,7 @@
         "form": "'LWDWW'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Borussia M'gladbach",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
         "played": 26,
@@ -1253,20 +1267,6 @@
         "goalsdiff": "+4",
         "points": 36,
         "form": "'WLLLL'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Freiburg",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-        "played": 25,
-        "wins": 9,
-        "draws": 7,
-        "lossess": 9,
-        "goalsfor": 37,
-        "goalsagainst": 39,
-        "goalsdiff": "-2",
-        "points": 34,
-        "form": "'LLWLD'"
     },
     {
         "teamrank": 11,
@@ -1300,15 +1300,15 @@
         "teamrank": 13,
         "teamname": "Augsburg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-        "played": 25,
+        "played": 26,
         "wins": 8,
         "draws": 5,
-        "lossess": 12,
+        "lossess": 13,
         "goalsfor": 27,
-        "goalsagainst": 38,
-        "goalsdiff": "-11",
+        "goalsagainst": 40,
+        "goalsdiff": "-13",
         "points": 29,
-        "form": "'WLWDL'"
+        "form": "'LWLWD'"
     },
     {
         "teamrank": 14,
