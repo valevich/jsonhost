@@ -439,6 +439,15 @@
         "playerassists": 7
     },
     {
+        "playername": "B. Dia",
+        "playerlink": "https://www.livesoccertv.com/player/b-dia/360970/",
+        "playerteam": "Reims",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/reims/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
+        "playergoals": 13,
+        "playerassists": 5
+    },
+    {
         "playername": "K. Volland",
         "playerlink": "https://www.livesoccertv.com/player/k-volland/95821/",
         "playerteam": "Monaco",
@@ -446,15 +455,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
         "playergoals": 13,
         "playerassists": 0
-    },
-    {
-        "playername": "B. Dia",
-        "playerlink": "https://www.livesoccertv.com/player/b-dia/360970/",
-        "playerteam": "Reims",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/reims/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-        "playergoals": 12,
-        "playerassists": 5
     },
     {
         "playername": "A. Gouiri",
@@ -511,11 +511,29 @@
         "playerassists": 0
     },
     {
+        "playername": "G. Laborde",
+        "playerlink": "https://www.livesoccertv.com/player/g-laborde/153154/",
+        "playerteam": "Montpellier",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playergoals": 10,
+        "playerassists": 0
+    },
+    {
         "playername": "J. David",
         "playerlink": "https://www.livesoccertv.com/player/j-david/390484/",
         "playerteam": "Lille",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
+        "playername": "Hwang Ui-jo",
+        "playerlink": "https://www.livesoccertv.com/player/hwang-eui-jo/230390/",
+        "playerteam": "Bordeaux",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/bordeaux/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
         "playergoals": 9,
         "playerassists": 0
     },
@@ -527,24 +545,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
         "playergoals": 9,
         "playerassists": 5
-    },
-    {
-        "playername": "G. Laborde",
-        "playerlink": "https://www.livesoccertv.com/player/g-laborde/153154/",
-        "playerteam": "Montpellier",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "playergoals": 9,
-        "playerassists": 0
-    },
-    {
-        "playername": "B. Yılmaz",
-        "playerlink": "https://www.livesoccertv.com/player/b-y-lmaz/4921/",
-        "playerteam": "Lille",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "playergoals": 9,
-        "playerassists": 2
     }
   ],
   "bundesliga": [
