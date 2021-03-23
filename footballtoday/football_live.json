@@ -1,17 +1,4 @@
 {
-  "today": [
-    {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
-      "GameTime": "Monday Mar. 22, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     },
     {
       "LeagueName": "Today",
@@ -548,7 +535,7 @@
       "AwayTeam": "Grenada",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2651.png",
-      "TVChannels": "UNIVERSO"
+      "TVChannels": "fuboTV ,  UNIVERSO"
     }
   ],
   "day4": [
