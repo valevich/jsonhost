@@ -239,6 +239,19 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "6:00pm",
+      "GameState": "",
+      "HomeTeam": "Curaçao",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Saint Vincent and the Grenadines Paramount+",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "6:00pm   Curaçao vs Saint Vincent and the Grenadines Paramount+"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "7:00pm",
       "GameState": "",
       "HomeTeam": "Trinidad And Tobago",
@@ -278,20 +291,7 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "8:00pm",
-      "GameState": "",
-      "HomeTeam": "Curaçao",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Saint Vincent and the Grenadines Paramount+",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "8:00pm   Curaçao vs Saint Vincent and the Grenadines Paramount+"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "9:30pm",
+      "GameTime": "10:25pm",
       "GameState": "",
       "HomeTeam": "El Salvador",
       "HomeGoals": "",
@@ -477,6 +477,19 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "4:30pm",
+      "GameState": "",
+      "HomeTeam": "St. Kitts and Nevis",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Nicaragua",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2658.png",
+      "TVChannels": "Paramount+"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "6:00pm",
       "GameState": "",
       "HomeTeam": "Anguilla",
@@ -490,7 +503,7 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "7:00pm",
+      "GameTime": "8:00pm",
       "GameState": "",
       "HomeTeam": "Bahamas",
       "HomeGoals": "",
@@ -499,45 +512,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "vs St. Kitts and Nevis"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "7:00pm",
-      "GameState": "",
-      "HomeTeam": "St. Kitts and Nevis",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Nicaragua",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2658.png",
-      "TVChannels": "Paramount+"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "7:00pm",
-      "GameState": "",
-      "HomeTeam": "U.S. Virgin Islands",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Antigua And Barbuda",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2638.png",
-      "TVChannels": "rgin Islands vs Antigua and Barbuda"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "8:00pm",
-      "GameState": "",
-      "HomeTeam": "Aruba",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2642.png",
-      "AwayTeam": "Suriname",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2664.png",
-      "TVChannels": "Paramount+"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -551,6 +525,32 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2652.png",
       "TVChannels": "Peacock ,  Paramount+"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "8:00pm",
+      "GameState": "",
+      "HomeTeam": "U.S. Virgin Islands",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Antigua And Barbuda",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2638.png",
+      "TVChannels": "rgin Islands vs Antigua and Barbuda"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "10:00pm",
+      "GameState": "",
+      "HomeTeam": "Aruba",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2642.png",
+      "AwayTeam": "Suriname",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2664.png",
+      "TVChannels": "Paramount+"
     }
   ],
   "day5": [
@@ -856,6 +856,32 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2644.png",
       "TVChannels": ""
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "3:45pm",
+      "GameState": "",
+      "HomeTeam": "Qatar",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4398.png",
+      "AwayTeam": "Ireland Republic Sky Go UK ,  NOW ,  SKY GO Extra ,  Sky Sports…",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Ireland Republic Sky Go UK ,  NOW ,  SKY GO Extra ,  Sky Sports…"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "5:00pm",
+      "GameState": "",
+      "HomeTeam": "Costa Rica",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Mexico",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "5:00pm   Costa Rica vs Mexico"
     }
   ]
 }
