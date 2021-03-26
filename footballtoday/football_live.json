@@ -579,32 +579,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2642.png",
       "TVChannels": ""
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "3:45pm",
-      "GameState": "",
-      "HomeTeam": "Qatar",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4398.png",
-      "AwayTeam": "Ireland Republic ESPN3 ,  ESPN App ,  DAZN ,  Sky Go UK ,  N…",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Ireland Republic ESPN3 ,  ESPN App ,  DAZN ,  Sky Go UK ,  N…"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "5:00pm",
-      "GameState": "",
-      "HomeTeam": "Costa Rica",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Mexico",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "5:00pm   Costa Rica vs Mexico"
     }
   ],
   "day6": [
@@ -620,6 +594,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Armenia",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/579.png",
+      "AwayTeam": "Roma",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+      "TVChannels": "nia ESPN3 ,  ESPN App ,  ESPNPlay Caribbe…"
     },
     {
       "LeagueName": "World Cup Qualifying",
