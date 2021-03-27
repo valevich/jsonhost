@@ -95,12 +95,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "3:45pm",
-      "GameState": "",
+      "GameState": "11 ",
       "HomeTeam": "Slovakia",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/468.png",
       "AwayTeam": "Malta",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/453.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
@@ -108,12 +108,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "3:45pm",
-      "GameState": "",
+      "GameState": "10 ",
       "HomeTeam": "Serbia",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6757.png",
       "AwayTeam": "Portugal",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/482.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
@@ -121,12 +121,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "3:45pm",
-      "GameState": "",
+      "GameState": "11 ",
       "HomeTeam": "Czech Republic",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/450.png",
       "AwayTeam": "Belgium",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/459.png",
       "TVChannels": "ESPN2 ,  fuboTV ,  ESPN App ,  …"
     },
@@ -134,12 +134,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "3:45pm",
-      "GameState": "",
+      "GameState": "10 ",
       "HomeTeam": "Ireland Republic",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Luxembourg",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/582.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
@@ -233,19 +233,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2664.png",
       "TVChannels": "Paramount+"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "00:00am",
-      "GameState": "",
-      "HomeTeam": "St. Lucia",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Haiti",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2654.png",
-      "TVChannels": ""
     }
   ],
   "day2": [
@@ -551,32 +538,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2642.png",
       "TVChannels": ""
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "3:45pm",
-      "GameState": "",
-      "HomeTeam": "Qatar",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4398.png",
-      "AwayTeam": "Ireland Republic ESPN3 ,  ESPN App ,  DAZN ,  Sky Go UK ,  N…",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Ireland Republic ESPN3 ,  ESPN App ,  DAZN ,  Sky Go UK ,  N…"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "5:00pm",
-      "GameState": "",
-      "HomeTeam": "Costa Rica",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Mexico",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "5:00pm   Costa Rica vs Mexico"
     }
   ],
   "day5": [
@@ -789,32 +750,6 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  ESPNPlay Caribbe…"
     }
   ],
-  "day6": [
-    {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
-      "GameTime": "Thursday Apr. 1, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     }
   ],
   "day7": [
