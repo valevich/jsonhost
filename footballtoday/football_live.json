@@ -368,7 +368,7 @@
       "AwayTeam": "Malta",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/453.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sky Sports…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DIRECTV Sports…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -407,7 +407,7 @@
       "AwayTeam": "Russia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/454.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  Sky Sports…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DIRECTV Sports…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -446,7 +446,7 @@
       "AwayTeam": "Czech Republic",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/450.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ČT Sport ,  TV…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DIRECTV Sports…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -553,6 +553,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Armenia",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/579.png",
+      "AwayTeam": "Roma",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+      "TVChannels": "nia ESPN3 ,  ESPN App ,  ESPNPlay Caribbe…"
     },
     {
       "LeagueName": "World Cup Qualifying",
