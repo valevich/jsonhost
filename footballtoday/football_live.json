@@ -186,7 +186,7 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "7:00pm",
-      "GameState": "88 ",
+      "GameState": "FT ",
       "HomeTeam": "Bahamas",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2640.png",
@@ -199,20 +199,20 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "7:00pm",
-      "GameState": "85 ",
+      "GameState": "FT ",
       "HomeTeam": "U.S. Virgin Islands",
       "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Antigua And Barbuda",
       "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2638.png",
-      "TVChannels": "S. Virgin Islands  0 - 3  Antigua and Barbuda"
+      "TVChannels": "Virgin Islands  0 - 3  Antigua and Barbuda"
     },
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "8:00pm",
-      "GameState": "45 ",
+      "GameState": "48 ",
       "HomeTeam": "Aruba",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2642.png",
@@ -220,6 +220,19 @@
       "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2664.png",
       "TVChannels": "Paramount+"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "00:00am",
+      "GameState": "",
+      "HomeTeam": "St. Lucia",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Haiti",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2654.png",
+      "TVChannels": ""
     }
   ],
   "day2": [
