@@ -321,6 +321,19 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Armenia",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/579.png",
+      "AwayTeam": "Roma",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+      "TVChannels": "nia ESPN3 ,  ESPN App ,  ESPNPlay Caribbe…"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Spain",
@@ -647,7 +660,7 @@
       "AwayTeam": "Villarreal",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  Sky HD ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -699,7 +712,7 @@
       "AwayTeam": "Sampdoria",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  TLN ,  ESPN2 Norte ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -712,7 +725,7 @@
       "AwayTeam": "Spezia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Blue Sport ,  SKY Go…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Blue S…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -725,7 +738,7 @@
       "AwayTeam": "Roma",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  TLN ,  ESPN Play No…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN P…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -738,7 +751,7 @@
       "AwayTeam": "Crotone",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  ESPN2 Caribbean ,  …"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN2 Cari…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -751,7 +764,7 @@
       "AwayTeam": "Parma",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Blue Sport ,  SKY Go…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Blue S…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -764,7 +777,7 @@
       "AwayTeam": "Udinese",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  ESPN Norte ,  ESPN…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Norte ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -777,7 +790,7 @@
       "AwayTeam": "Fiorentina",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Blue Sport ,  SKY Go…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Blue S…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -790,7 +803,7 @@
       "AwayTeam": "Hellas Verona",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Blue Sport ,  SKY Go…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Blue S…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -803,7 +816,7 @@
       "AwayTeam": "Juventus",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  TLN ,  ESPN2 Caribb…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -972,7 +985,7 @@
       "AwayTeam": "Lyon",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "TVChannels": "nais beIN SPORTS ,  Fanatiz USA ,  fu…"
+      "TVChannels": "nais beIN SPORTS ,  Fanatiz USA ,  beIN…"
     }
   ]
 }
