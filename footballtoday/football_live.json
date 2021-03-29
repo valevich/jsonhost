@@ -57,7 +57,7 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "1:00pm",
+      "GameTime": "12:00pm",
       "GameState": "",
       "HomeTeam": "Cyprus",
       "HomeGoals": "",
@@ -70,7 +70,7 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "1:00pm",
+      "GameTime": "12:00pm",
       "GameState": "",
       "HomeTeam": "Azerbaijan",
       "HomeGoals": "",
@@ -96,20 +96,7 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Guyana",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2653.png",
-      "AwayTeam": "Bahamas",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2640.png",
-      "TVChannels": ""
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "3:45pm",
+      "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Croatia",
       "HomeGoals": "",
@@ -122,7 +109,7 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "3:45pm",
+      "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Turkey",
       "HomeGoals": "",
@@ -135,7 +122,7 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "3:45pm",
+      "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Belgium",
       "HomeGoals": "",
@@ -148,7 +135,7 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "3:45pm",
+      "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Slovakia",
       "HomeGoals": "",
@@ -161,7 +148,7 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "3:45pm",
+      "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Montenegro",
       "HomeGoals": "",
@@ -174,7 +161,7 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "3:45pm",
+      "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Luxembourg",
       "HomeGoals": "",
@@ -187,7 +174,7 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "3:45pm",
+      "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Wales",
       "HomeGoals": "",
@@ -200,7 +187,7 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "3:45pm",
+      "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Gibraltar",
       "HomeGoals": "",
@@ -209,6 +196,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/449.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  Sky HD ,  Blue To Go…"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Guyana",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2653.png",
+      "AwayTeam": "Bahamas",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2640.png",
+      "TVChannels": ""
     },
     {
       "LeagueName": "World Cup Qualifying",
