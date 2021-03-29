@@ -1,8 +1,8 @@
 {
   "today": [
     {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "Monday Mar. 29, 2021",
       "GameState": "",
       "HomeTeam": "",
@@ -14,17 +14,17 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "6:00pm",
+      "GameState": "16 ",
+      "HomeTeam": "Cayman Islands",
+      "HomeGoals": "0",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2646.png",
+      "AwayTeam": "Canada",
+      "AwayGoals": "2",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/206.png",
+      "TVChannels": "Peacock ,  Paramount+ ,  OneSoccer"
     }
   ],
   "day2": [
@@ -274,58 +274,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2642.png",
       "TVChannels": ""
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "7:00am",
-      "GameState": "",
-      "HomeTeam": "Iran",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/469.png",
-      "AwayTeam": "Syria",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4380.png",
-      "TVChannels": ""
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "12:00pm",
-      "GameState": "",
-      "HomeTeam": "Jordan",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2917.png",
-      "AwayTeam": "Bahrain",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4381.png",
-      "TVChannels": ""
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "2:45pm",
-      "GameState": "",
-      "HomeTeam": "Qatar",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4398.png",
-      "AwayTeam": "Ireland Republic ESPN3 ,  ESPN App ,  ESPNPlay Caribbe…",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Ireland Republic ESPN3 ,  ESPN App ,  ESPNPlay Caribbe…"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "4:00pm",
-      "GameState": "",
-      "HomeTeam": "Costa Rica",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Mexico Canal 5 Televisa ,  TUDN ,  Azteca 7 ,  TUDN E…",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "4:00pm   Costa Rica vs Mexico Canal 5 Televisa ,  TUDN ,  Azteca 7 ,  TUDN E…"
     }
   ],
   "day3": [
@@ -341,6 +289,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Armenia",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/579.png",
+      "AwayTeam": "Roma",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+      "TVChannels": "nia ESPN3 ,  ESPN App ,  ESPNPlay Caribbe…"
     },
     {
       "LeagueName": "World Cup Qualifying",
