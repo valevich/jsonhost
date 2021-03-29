@@ -293,19 +293,6 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "12:00pm",
-      "GameState": "",
-      "HomeTeam": "Armenia",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/579.png",
-      "AwayTeam": "Roma",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-      "TVChannels": "nia ESPN3 ,  ESPN App ,  ESPNPlay Caribbe…"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Spain",
@@ -632,7 +619,7 @@
       "AwayTeam": "Villarreal",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  Sky HD ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -697,7 +684,7 @@
       "AwayTeam": "Spezia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  Blue S…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  DAZN ,  TSN6…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -1050,7 +1037,7 @@
       "AwayTeam": "Celta de Vigo",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  Sky HD ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -1232,7 +1219,7 @@
       "AwayTeam": "Dijon",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
-      "TVChannels": "Viaplay Denmark ,  Viaplay Sweden ,  Viaplay N…"
+      "TVChannels": "DAZN ,  Canal+ France ,  Viaplay Denmark ,  Viap…"
     }
   ]
 }
