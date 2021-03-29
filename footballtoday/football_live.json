@@ -44,7 +44,7 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "7:30am",
+      "GameTime": "6:30am",
       "GameState": "",
       "HomeTeam": "Mongolia",
       "HomeGoals": "",
@@ -83,7 +83,7 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "2:30pm",
+      "GameTime": "1:30pm",
       "GameState": "",
       "HomeTeam": "Saudi Arabia",
       "HomeGoals": "",
@@ -91,6 +91,19 @@
       "AwayTeam": "Palestine",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6167.png",
+      "TVChannels": ""
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Guyana",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2653.png",
+      "AwayTeam": "Bahamas",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2640.png",
       "TVChannels": ""
     },
     {
@@ -200,20 +213,7 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "4:00pm",
-      "GameState": "",
-      "HomeTeam": "Guyana",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2653.png",
-      "AwayTeam": "Bahamas",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2640.png",
-      "TVChannels": ""
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "6:00pm",
+      "GameTime": "5:00pm",
       "GameState": "",
       "HomeTeam": "Belize",
       "HomeGoals": "",
