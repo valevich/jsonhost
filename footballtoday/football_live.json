@@ -246,6 +246,58 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2642.png",
       "TVChannels": ""
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "7:00am",
+      "GameState": "",
+      "HomeTeam": "Iran",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/469.png",
+      "AwayTeam": "Syria",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4380.png",
+      "TVChannels": ""
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Jordan",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2917.png",
+      "AwayTeam": "Bahrain",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4381.png",
+      "TVChannels": ""
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "2:30pm",
+      "GameState": "",
+      "HomeTeam": "Qatar",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4398.png",
+      "AwayTeam": "Ireland Republic ESPN3 ,  ESPN App ,  ESPNPlay Caribbe…",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Ireland Republic ESPN3 ,  ESPN App ,  ESPNPlay Caribbe…"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "4:00pm",
+      "GameState": "",
+      "HomeTeam": "Costa Rica",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Mexico fuboTV ,  TUDN USA ,  UniMás ,  …",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "4:00pm   Costa Rica vs Mexico fuboTV ,  TUDN USA ,  UniMás ,  …"
     }
   ],
   "day2": [
@@ -944,7 +996,7 @@
       "AwayTeam": "Burnley",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-      "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
+      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
     },
     {
       "LeagueName": "English Premier League",
@@ -1219,7 +1271,7 @@
       "AwayTeam": "Crystal Palace",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-      "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
+      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
     },
     {
       "LeagueName": "English Premier League",
@@ -1232,7 +1284,7 @@
       "AwayTeam": "West Ham",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-      "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
+      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
     },
     {
       "LeagueName": "Spanish La Liga",
