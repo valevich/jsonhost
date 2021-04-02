@@ -412,15 +412,15 @@
         "teamrank": 10,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "played": 28,
+        "played": 29,
         "wins": 8,
         "draws": 11,
-        "lossess": 9,
+        "lossess": 10,
         "goalsfor": 36,
-        "goalsagainst": 37,
-        "goalsdiff": "-1",
+        "goalsagainst": 39,
+        "goalsdiff": "-3",
         "points": 35,
-        "form": "'LWLDW'"
+        "form": "'LLWLD'"
     },
     {
         "teamrank": 11,
@@ -522,6 +522,20 @@
     },
     {
         "teamrank": 18,
+        "teamname": "Huesca",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
+        "played": 29,
+        "wins": 4,
+        "draws": 12,
+        "lossess": 13,
+        "goalsfor": 28,
+        "goalsagainst": 44,
+        "goalsdiff": "-16",
+        "points": 24,
+        "form": "'WDLLD'"
+    },
+    {
+        "teamrank": 19,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "played": 28,
@@ -535,7 +549,7 @@
         "form": "'DLLDL'"
     },
     {
-        "teamrank": 19,
+        "teamrank": 20,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 28,
@@ -547,20 +561,6 @@
         "goalsdiff": "-21",
         "points": 23,
         "form": "'LDLLL'"
-    },
-    {
-        "teamrank": 20,
-        "teamname": "Huesca",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-        "played": 28,
-        "wins": 3,
-        "draws": 12,
-        "lossess": 13,
-        "goalsfor": 26,
-        "goalsagainst": 44,
-        "goalsdiff": "-18",
-        "points": 21,
-        "form": "'DLLDW'"
     }
   ],
   "serie-a": [
