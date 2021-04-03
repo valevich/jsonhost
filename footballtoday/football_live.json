@@ -56,14 +56,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
-      "GameState": "81 ",
+      "GameState": "FT ",
       "HomeTeam": "Arsenal",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
       "AwayTeam": "Liverpool",
-      "AwayGoals": "2",
+      "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  Te…"
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  Telemundo ,  N…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -258,7 +258,7 @@
       "AwayTeam": "Inter",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-      "TVChannels": "ESPN2 ,  ESPN Deportes ,  ESPN Deporte…"
+      "TVChannels": "ESPN2 ,  ESPN Deportes ,  ESPN Deportes+ ,  F…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -407,14 +407,14 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
-      "GameState": "82 ",
+      "GameState": "FT ",
       "HomeTeam": "Lens",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
       "AwayTeam": "Lyon",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "TVChannels": "nais beIN SPORTS ,  Fanatiz USA ,  beIN…"
+      "TVChannels": "nais beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
     }
   ],
   "day2": [
