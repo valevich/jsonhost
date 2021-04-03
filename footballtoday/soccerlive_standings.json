@@ -608,6 +608,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Juventus",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+        "played": 28,
+        "wins": 16,
+        "draws": 8,
+        "lossess": 4,
+        "goalsfor": 56,
+        "goalsagainst": 25,
+        "goalsdiff": "+31",
+        "points": 56,
+        "form": "'DLWWW'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Napoli",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
         "played": 28,
@@ -619,20 +633,6 @@
         "goalsdiff": "+30",
         "points": 56,
         "form": "'WWWWD'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Juventus",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-        "played": 27,
-        "wins": 16,
-        "draws": 7,
-        "lossess": 4,
-        "goalsfor": 54,
-        "goalsagainst": 23,
-        "goalsdiff": "+31",
-        "points": 55,
-        "form": "'LWWWD'"
     },
     {
         "teamrank": 6,
@@ -792,15 +792,15 @@
         "teamrank": 17,
         "teamname": "Torino",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-        "played": 27,
+        "played": 28,
         "wins": 4,
-        "draws": 11,
+        "draws": 12,
         "lossess": 12,
-        "goalsfor": 39,
-        "goalsagainst": 50,
+        "goalsfor": 41,
+        "goalsagainst": 52,
         "goalsdiff": "-11",
-        "points": 23,
-        "form": "'LWLLW'"
+        "points": 24,
+        "form": "'DLWLL'"
     },
     {
         "teamrank": 18,
