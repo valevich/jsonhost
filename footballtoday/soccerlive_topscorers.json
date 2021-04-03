@@ -336,6 +336,78 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
         "playergoals": 13,
         "playerassists": 3
+    },
+    {
+        "playername": "L. Insigne",
+        "playerlink": "https://www.livesoccertv.com/player/l-insigne/104026/",
+        "playerteam": "Napoli",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "playergoals": 13,
+        "playerassists": 5
+    },
+    {
+        "playername": "S. Nwankwo",
+        "playerlink": "https://www.livesoccertv.com/player/s-nwankwo/165078/",
+        "playerteam": "Crotone",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/fc-crotone/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
+        "playergoals": 13,
+        "playerassists": 6
+    },
+    {
+        "playername": "D. Vlahović",
+        "playerlink": "https://www.livesoccertv.com/player/d-vlahovic/319415/",
+        "playerteam": "Fiorentina",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/fiorentina/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+        "playergoals": 12,
+        "playerassists": 3
+    },
+    {
+        "playername": "A. Belotti",
+        "playerlink": "https://www.livesoccertv.com/player/a-belotti/186733/",
+        "playerteam": "Torino",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/torino/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+        "playergoals": 11,
+        "playerassists": 2
+    },
+    {
+        "playername": "D. Berardi",
+        "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
+        "playerteam": "Sassuolo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+        "playergoals": 11,
+        "playerassists": 3
+    },
+    {
+        "playername": "F. Caputo",
+        "playerlink": "https://www.livesoccertv.com/player/f-caputo/63860/",
+        "playerteam": "Sassuolo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+        "playergoals": 11,
+        "playerassists": 3
+    },
+    {
+        "playername": "J. Veretout",
+        "playerlink": "https://www.livesoccertv.com/player/j-veretout/156122/",
+        "playerteam": "Roma",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+        "playergoals": 10,
+        "playerassists": 5
+    },
+    {
+        "playername": "D. Zapata",
+        "playerlink": "https://www.livesoccertv.com/player/d-zapata/33409/",
+        "playerteam": "Atalanta",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+        "playergoals": 10,
+        "playerassists": 1
     }
   ],
   "ligue-1": [
