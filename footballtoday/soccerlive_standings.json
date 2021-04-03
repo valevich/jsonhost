@@ -298,6 +298,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Real Madrid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "played": 29,
+        "wins": 19,
+        "draws": 6,
+        "lossess": 4,
+        "goalsfor": 51,
+        "goalsagainst": 23,
+        "goalsdiff": "+28",
+        "points": 63,
+        "form": "'WWWDD'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Barcelona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
         "played": 28,
@@ -309,20 +323,6 @@
         "goalsdiff": "+43",
         "points": 62,
         "form": "'WWWWW'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Real Madrid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "played": 28,
-        "wins": 18,
-        "draws": 6,
-        "lossess": 4,
-        "goalsfor": 49,
-        "goalsagainst": 23,
-        "goalsdiff": "+26",
-        "points": 60,
-        "form": "'WWDDW'"
     },
     {
         "teamrank": 4,
@@ -538,15 +538,15 @@
         "teamrank": 19,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 28,
+        "played": 29,
         "wins": 4,
         "draws": 11,
-        "lossess": 13,
+        "lossess": 14,
         "goalsfor": 22,
-        "goalsagainst": 33,
-        "goalsdiff": "-11",
+        "goalsagainst": 35,
+        "goalsdiff": "-13",
         "points": 23,
-        "form": "'DLLDL'"
+        "form": "'LDLLD'"
     },
     {
         "teamrank": 20,
