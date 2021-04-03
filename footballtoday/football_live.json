@@ -1,9 +1,9 @@
 {
-  "today": [
+    },
     {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "Friday Apr. 2, 2021",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -12,19 +12,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "3:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Levante",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-      "AwayTeam": "Huesca",
-      "AwayGoals": "2",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN SPOR…"
     }
   ],
   "day2": [
@@ -299,7 +286,7 @@
       "AwayTeam": "Dijon",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
-      "TVChannels": "beIN SPORTS XTRA ,  ESPN Play Norte ,  …"
+      "TVChannels": "Fanatiz USA ,  beIN SPORTS XTRA ,  …"
     }
   ],
   "day3": [
