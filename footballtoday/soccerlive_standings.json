@@ -876,6 +876,20 @@
     },
     {
         "teamrank": 3,
+        "teamname": "Monaco",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "played": 31,
+        "wins": 19,
+        "draws": 5,
+        "lossess": 7,
+        "goalsfor": 64,
+        "goalsagainst": 38,
+        "goalsdiff": "+26",
+        "points": 62,
+        "form": "'WWDLW'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Olympique Lyonnais",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "played": 30,
@@ -887,20 +901,6 @@
         "goalsdiff": "+29",
         "points": 60,
         "form": "'LDWDW'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Monaco",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "played": 30,
-        "wins": 18,
-        "draws": 5,
-        "lossess": 7,
-        "goalsfor": 60,
-        "goalsagainst": 38,
-        "goalsdiff": "+22",
-        "points": 59,
-        "form": "'WDLWW'"
     },
     {
         "teamrank": 5,
@@ -962,15 +962,15 @@
         "teamrank": 9,
         "teamname": "Metz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
-        "played": 30,
+        "played": 31,
         "wins": 11,
         "draws": 9,
-        "lossess": 10,
+        "lossess": 11,
         "goalsfor": 36,
-        "goalsagainst": 32,
-        "goalsdiff": "+4",
+        "goalsagainst": 36,
+        "goalsdiff": "0",
         "points": 42,
-        "form": "'LDLWW'"
+        "form": "'LLDLW'"
     },
     {
         "teamrank": 10,
