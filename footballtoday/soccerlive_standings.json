@@ -128,6 +128,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Leeds United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+        "played": 30,
+        "wins": 13,
+        "draws": 3,
+        "lossess": 14,
+        "goalsfor": 47,
+        "goalsagainst": 48,
+        "goalsdiff": "-1",
+        "points": 42,
+        "form": "'WWDLL'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "played": 28,
@@ -139,20 +153,6 @@
         "goalsdiff": "+9",
         "points": 41,
         "form": "'LDDLW'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Leeds United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-        "played": 29,
-        "wins": 12,
-        "draws": 3,
-        "lossess": 14,
-        "goalsfor": 45,
-        "goalsagainst": 47,
-        "goalsdiff": "-2",
-        "points": 39,
-        "form": "'WDLLW'"
     },
     {
         "teamrank": 12,
@@ -270,15 +270,15 @@
         "teamrank": 20,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 29,
+        "played": 30,
         "wins": 4,
         "draws": 2,
-        "lossess": 23,
-        "goalsfor": 16,
-        "goalsagainst": 50,
-        "goalsdiff": "-34",
+        "lossess": 24,
+        "goalsfor": 17,
+        "goalsagainst": 52,
+        "goalsdiff": "-35",
         "points": 14,
-        "form": "'LLWLL'"
+        "form": "'LLLWL'"
     }
   ],
   "primera-division": [
