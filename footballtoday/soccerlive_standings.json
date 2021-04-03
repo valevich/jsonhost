@@ -1214,6 +1214,20 @@
     },
     {
         "teamrank": 7,
+        "teamname": "Borussia M'gladbach",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+        "played": 27,
+        "wins": 10,
+        "draws": 9,
+        "lossess": 8,
+        "goalsfor": 46,
+        "goalsagainst": 41,
+        "goalsdiff": "+5",
+        "points": 39,
+        "form": "'WWLLL'"
+    },
+    {
+        "teamrank": 8,
         "teamname": "Union Berlin",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
         "played": 26,
@@ -1227,21 +1241,21 @@
         "form": "'LWDDW'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Freiburg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-        "played": 26,
+        "played": 27,
         "wins": 10,
         "draws": 7,
-        "lossess": 9,
-        "goalsfor": 39,
-        "goalsagainst": 39,
-        "goalsdiff": "0",
+        "lossess": 10,
+        "goalsfor": 40,
+        "goalsagainst": 41,
+        "goalsdiff": "-1",
         "points": 37,
-        "form": "'WLLWL'"
+        "form": "'LWLLW'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Stuttgart",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
         "played": 26,
@@ -1253,20 +1267,6 @@
         "goalsdiff": "+6",
         "points": 36,
         "form": "'LWDWW'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Borussia M'gladbach",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-        "played": 26,
-        "wins": 9,
-        "draws": 9,
-        "lossess": 8,
-        "goalsfor": 44,
-        "goalsagainst": 40,
-        "goalsdiff": "+4",
-        "points": 36,
-        "form": "'WLLLL'"
     },
     {
         "teamrank": 11,
