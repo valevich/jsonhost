@@ -46,15 +46,15 @@
         "teamrank": 4,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "played": 29,
+        "played": 30,
         "wins": 14,
         "draws": 9,
-        "lossess": 6,
-        "goalsfor": 44,
-        "goalsagainst": 25,
-        "goalsdiff": "+19",
+        "lossess": 7,
+        "goalsfor": 46,
+        "goalsagainst": 30,
+        "goalsdiff": "+16",
         "points": 51,
-        "form": "'DWWDD'"
+        "form": "'LDWWD'"
     },
     {
         "teamrank": 5,
@@ -256,15 +256,15 @@
         "teamrank": 19,
         "teamname": "West Bromwich Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-        "played": 29,
-        "wins": 3,
+        "played": 30,
+        "wins": 4,
         "draws": 9,
         "lossess": 17,
-        "goalsfor": 20,
-        "goalsagainst": 57,
-        "goalsdiff": "-37",
-        "points": 18,
-        "form": "'LDLWD'"
+        "goalsfor": 25,
+        "goalsagainst": 59,
+        "goalsdiff": "-34",
+        "points": 21,
+        "form": "'WLDLW'"
     },
     {
         "teamrank": 20,
@@ -340,6 +340,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Villarreal",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "played": 29,
+        "wins": 11,
+        "draws": 13,
+        "lossess": 5,
+        "goalsfor": 42,
+        "goalsagainst": 31,
+        "goalsdiff": "+11",
+        "points": 46,
+        "form": "'WWWLL'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "played": 28,
@@ -353,7 +367,7 @@
         "form": "'LLWDW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "played": 28,
@@ -367,32 +381,18 @@
         "form": "'WLWWW'"
     },
     {
-        "teamrank": 7,
-        "teamname": "Villarreal",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "played": 28,
-        "wins": 10,
-        "draws": 13,
-        "lossess": 5,
-        "goalsfor": 39,
-        "goalsagainst": 31,
-        "goalsdiff": "+8",
-        "points": 43,
-        "form": "'WWLLD'"
-    },
-    {
         "teamrank": 8,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "played": 28,
+        "played": 29,
         "wins": 10,
         "draws": 6,
-        "lossess": 12,
+        "lossess": 13,
         "goalsfor": 34,
-        "goalsagainst": 46,
-        "goalsdiff": "-12",
+        "goalsagainst": 49,
+        "goalsdiff": "-15",
         "points": 36,
-        "form": "'LWLWL'"
+        "form": "'LLWLW'"
     },
     {
         "teamrank": 9,
