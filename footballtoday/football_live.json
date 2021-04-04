@@ -30,7 +30,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "9:05am",
-      "GameState": "89 ",
+      "GameState": "FT ",
       "HomeTeam": "Newcastle Utd",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
@@ -95,9 +95,9 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "10:15am",
-      "GameState": "35 ",
+      "GameState": "45 ",
       "HomeTeam": "Elche",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
       "AwayTeam": "Real Betis",
       "AwayGoals": "1",
@@ -147,7 +147,7 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "9:30am",
-      "GameState": "62 ",
+      "GameState": "72 ",
       "HomeTeam": "Stuttgart",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
@@ -206,7 +206,7 @@
       "AwayTeam": "Nice",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN SPORTS CO…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -219,7 +219,7 @@
       "AwayTeam": "Stade Rennes",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN SPORTS CO…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -238,7 +238,7 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "9:00am",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Bordeaux",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
