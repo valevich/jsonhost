@@ -1,6 +1,15 @@
 {
   "premier-league": [
     {
+        "playername": "Mohamed Salah",
+        "playerlink": "https://www.livesoccertv.com/player/mohamed-salah/120240/",
+        "playerteam": "Liverpool",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "playergoals": 18,
+        "playerassists": 6
+    },
+    {
         "playername": "H. Kane",
         "playerlink": "https://www.livesoccertv.com/player/h-kane/134501/",
         "playerteam": "Tottenham Hotspur",
@@ -8,15 +17,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "playergoals": 17,
         "playerassists": 4
-    },
-    {
-        "playername": "Mohamed Salah",
-        "playerlink": "https://www.livesoccertv.com/player/mohamed-salah/120240/",
-        "playerteam": "Liverpool",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "playergoals": 17,
-        "playerassists": 6
     },
     {
         "playername": "Bruno Fernandes",
