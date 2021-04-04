@@ -440,18 +440,32 @@
         "teamrank": 12,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-        "played": 28,
+        "played": 29,
         "wins": 8,
         "draws": 9,
-        "lossess": 11,
-        "goalsfor": 34,
-        "goalsagainst": 38,
-        "goalsdiff": "-4",
+        "lossess": 12,
+        "goalsfor": 35,
+        "goalsagainst": 40,
+        "goalsdiff": "-5",
         "points": 33,
-        "form": "'WLWLW'"
+        "form": "'LWLWL'"
     },
     {
         "teamrank": 13,
+        "teamname": "Cádiz",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
+        "played": 29,
+        "wins": 8,
+        "draws": 8,
+        "lossess": 13,
+        "goalsfor": 26,
+        "goalsagainst": 45,
+        "goalsdiff": "-19",
+        "points": 32,
+        "form": "'WLDWL'"
+    },
+    {
+        "teamrank": 14,
         "teamname": "Osasuna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
         "played": 29,
@@ -465,7 +479,7 @@
         "form": "'DDDLW'"
     },
     {
-        "teamrank": 14,
+        "teamrank": 15,
         "teamname": "Getafe",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
         "played": 29,
@@ -477,20 +491,6 @@
         "goalsdiff": "-11",
         "points": 30,
         "form": "'DDDLW'"
-    },
-    {
-        "teamrank": 15,
-        "teamname": "Cádiz",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
-        "played": 28,
-        "wins": 7,
-        "draws": 8,
-        "lossess": 13,
-        "goalsfor": 24,
-        "goalsagainst": 44,
-        "goalsdiff": "-20",
-        "points": 29,
-        "form": "'LDWLD'"
     },
     {
         "teamrank": 16,
