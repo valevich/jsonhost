@@ -170,6 +170,20 @@
     },
     {
         "teamrank": 13,
+        "teamname": "Southampton",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+        "played": 30,
+        "wins": 10,
+        "draws": 6,
+        "lossess": 14,
+        "goalsfor": 39,
+        "goalsagainst": 53,
+        "goalsdiff": "-14",
+        "points": 36,
+        "form": "'WLLWL'"
+    },
+    {
+        "teamrank": 14,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
         "played": 29,
@@ -183,32 +197,18 @@
         "form": "'LDLDW'"
     },
     {
-        "teamrank": 14,
-        "teamname": "Southampton",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "played": 29,
-        "wins": 9,
-        "draws": 6,
-        "lossess": 14,
-        "goalsfor": 36,
-        "goalsagainst": 51,
-        "goalsdiff": "-15",
-        "points": 33,
-        "form": "'LLWLL'"
-    },
-    {
         "teamrank": 15,
         "teamname": "Burnley",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-        "played": 29,
+        "played": 30,
         "wins": 8,
         "draws": 9,
-        "lossess": 12,
-        "goalsfor": 22,
-        "goalsagainst": 37,
-        "goalsdiff": "-15",
+        "lossess": 13,
+        "goalsfor": 24,
+        "goalsagainst": 40,
+        "goalsdiff": "-16",
         "points": 33,
-        "form": "'WDDLD'"
+        "form": "'LWDDL'"
     },
     {
         "teamrank": 16,
@@ -932,6 +932,20 @@
     },
     {
         "teamrank": 7,
+        "teamname": "Montpellier",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "played": 31,
+        "wins": 12,
+        "draws": 9,
+        "lossess": 10,
+        "goalsfor": 49,
+        "goalsagainst": 50,
+        "goalsdiff": "-1",
+        "points": 45,
+        "form": "'DWDDD'"
+    },
+    {
+        "teamrank": 8,
         "teamname": "Rennes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
         "played": 30,
@@ -943,20 +957,6 @@
         "goalsdiff": "+4",
         "points": 44,
         "form": "'WWLLL'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Montpellier",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "played": 30,
-        "wins": 12,
-        "draws": 8,
-        "lossess": 10,
-        "goalsfor": 48,
-        "goalsagainst": 49,
-        "goalsdiff": "-1",
-        "points": 44,
-        "form": "'WDDDW'"
     },
     {
         "teamrank": 9,
@@ -976,15 +976,15 @@
         "teamrank": 10,
         "teamname": "Angers SCO",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-        "played": 30,
+        "played": 31,
         "wins": 11,
-        "draws": 7,
+        "draws": 8,
         "lossess": 12,
-        "goalsfor": 33,
-        "goalsagainst": 43,
+        "goalsfor": 34,
+        "goalsagainst": 44,
         "goalsdiff": "-10",
-        "points": 40,
-        "form": "'DLWDD'"
+        "points": 41,
+        "form": "'DDLWD'"
     },
     {
         "teamrank": 11,
