@@ -286,15 +286,15 @@
         "teamrank": 1,
         "teamname": "Atlético Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "played": 28,
+        "played": 29,
         "wins": 20,
         "draws": 6,
-        "lossess": 2,
+        "lossess": 3,
         "goalsfor": 51,
-        "goalsagainst": 18,
-        "goalsdiff": "+33",
+        "goalsagainst": 19,
+        "goalsdiff": "+32",
         "points": 66,
-        "form": "'WDWDW'"
+        "form": "'LWDWD'"
     },
     {
         "teamrank": 2,
@@ -328,15 +328,15 @@
         "teamrank": 4,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-        "played": 28,
-        "wins": 17,
+        "played": 29,
+        "wins": 18,
         "draws": 4,
         "lossess": 7,
-        "goalsfor": 39,
+        "goalsfor": 40,
         "goalsagainst": 21,
-        "goalsdiff": "+18",
-        "points": 55,
-        "form": "'DWWLL'"
+        "goalsdiff": "+19",
+        "points": 58,
+        "form": "'WDWWL'"
     },
     {
         "teamrank": 5,
@@ -918,6 +918,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Olympique Marseille",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+        "played": 31,
+        "wins": 13,
+        "draws": 9,
+        "lossess": 9,
+        "goalsfor": 40,
+        "goalsagainst": 36,
+        "goalsdiff": "+4",
+        "points": 48,
+        "form": "'WLWWL'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Rennes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
         "played": 31,
@@ -929,20 +943,6 @@
         "goalsdiff": "+4",
         "points": 45,
         "form": "'DWWLL'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Olympique Marseille",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-        "played": 30,
-        "wins": 12,
-        "draws": 9,
-        "lossess": 9,
-        "goalsfor": 38,
-        "goalsagainst": 36,
-        "goalsdiff": "+2",
-        "points": 45,
-        "form": "'LWWLD'"
     },
     {
         "teamrank": 8,
@@ -1116,13 +1116,13 @@
         "teamrank": 20,
         "teamname": "Dijon",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
-        "played": 30,
+        "played": 31,
         "wins": 2,
         "draws": 9,
-        "lossess": 19,
+        "lossess": 20,
         "goalsfor": 20,
-        "goalsagainst": 51,
-        "goalsdiff": "-31",
+        "goalsagainst": 53,
+        "goalsdiff": "-33",
         "points": 15,
         "form": "'LLLLL'"
     }
