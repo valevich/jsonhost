@@ -421,6 +421,15 @@
         "playerassists": 5
     },
     {
+        "playername": "W. Ben Yedder",
+        "playerlink": "https://www.livesoccertv.com/player/w-ben-yedder/126219/",
+        "playerteam": "Monaco",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "playergoals": 15,
+        "playerassists": 8
+    },
+    {
         "playername": "M. Depay",
         "playerlink": "https://www.livesoccertv.com/player/m-depay/136392/",
         "playerteam": "Olympique Lyonnais",
@@ -430,13 +439,13 @@
         "playerassists": 7
     },
     {
-        "playername": "W. Ben Yedder",
-        "playerlink": "https://www.livesoccertv.com/player/w-ben-yedder/126219/",
+        "playername": "K. Volland",
+        "playerlink": "https://www.livesoccertv.com/player/k-volland/95821/",
         "playerteam": "Monaco",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "playergoals": 13,
-        "playerassists": 7
+        "playergoals": 14,
+        "playerassists": 0
     },
     {
         "playername": "B. Dia",
@@ -446,15 +455,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
         "playergoals": 13,
         "playerassists": 5
-    },
-    {
-        "playername": "K. Volland",
-        "playerlink": "https://www.livesoccertv.com/player/k-volland/95821/",
-        "playerteam": "Monaco",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "playergoals": 13,
-        "playerassists": 0
     },
     {
         "playername": "A. Gouiri",
@@ -493,6 +493,15 @@
         "playerassists": 0
     },
     {
+        "playername": "J. David",
+        "playerlink": "https://www.livesoccertv.com/player/j-david/390484/",
+        "playerteam": "Lille",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "playergoals": 10,
+        "playerassists": 0
+    },
+    {
         "playername": "A. Delort",
         "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
         "playerteam": "Montpellier",
@@ -517,15 +526,6 @@
         "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "playergoals": 10,
-        "playerassists": 0
-    },
-    {
-        "playername": "J. David",
-        "playerlink": "https://www.livesoccertv.com/player/j-david/390484/",
-        "playerteam": "Lille",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "playergoals": 9,
         "playerassists": 0
     },
     {
