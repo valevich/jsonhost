@@ -382,6 +382,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Celta de Vigo",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "played": 29,
+        "wins": 9,
+        "draws": 10,
+        "lossess": 10,
+        "goalsfor": 38,
+        "goalsagainst": 44,
+        "goalsdiff": "-6",
+        "points": 37,
+        "form": "'WLDWD'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
         "played": 29,
@@ -395,7 +409,7 @@
         "form": "'LLWLW'"
     },
     {
-        "teamrank": 9,
+        "teamrank": 10,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 28,
@@ -409,7 +423,7 @@
         "form": "'DDLWD'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 29,
@@ -421,20 +435,6 @@
         "goalsdiff": "-3",
         "points": 35,
         "form": "'LLWLD'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Celta de Vigo",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "played": 28,
-        "wins": 8,
-        "draws": 10,
-        "lossess": 10,
-        "goalsfor": 35,
-        "goalsagainst": 43,
-        "goalsdiff": "-8",
-        "points": 34,
-        "form": "'LDWDL'"
     },
     {
         "teamrank": 12,
@@ -552,15 +552,15 @@
         "teamrank": 20,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-        "played": 28,
+        "played": 29,
         "wins": 5,
         "draws": 8,
-        "lossess": 15,
-        "goalsfor": 23,
-        "goalsagainst": 44,
-        "goalsdiff": "-21",
+        "lossess": 16,
+        "goalsfor": 24,
+        "goalsagainst": 47,
+        "goalsdiff": "-23",
         "points": 23,
-        "form": "'LDLLL'"
+        "form": "'LLDLL'"
     }
   ],
   "serie-a": [
