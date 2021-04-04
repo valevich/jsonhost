@@ -147,6 +147,15 @@
         "playerassists": 3
     },
     {
+        "playername": "Gerard Moreno",
+        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
+        "playerteam": "Villarreal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "playergoals": 19,
+        "playerassists": 9
+    },
+    {
         "playername": "L. Suárez",
         "playerlink": "https://www.livesoccertv.com/player/l-suarez/2423/",
         "playerteam": "Atletico Madrid",
@@ -161,17 +170,8 @@
         "playerteam": "Real Madrid",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-madrid/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "playergoals": 17,
+        "playergoals": 18,
         "playerassists": 0
-    },
-    {
-        "playername": "Gerard Moreno",
-        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
-        "playerteam": "Villarreal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "playergoals": 16,
-        "playerassists": 7
     },
     {
         "playername": "Y. En-Nesyri",

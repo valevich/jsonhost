@@ -340,6 +340,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Real Betis",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "played": 29,
+        "wins": 14,
+        "draws": 4,
+        "lossess": 11,
+        "goalsfor": 39,
+        "goalsagainst": 42,
+        "goalsdiff": "-3",
+        "points": 46,
+        "form": "'DWLWW'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Villarreal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
         "played": 29,
@@ -353,7 +367,7 @@
         "form": "'WWWLL'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "played": 28,
@@ -365,20 +379,6 @@
         "goalsdiff": "+16",
         "points": 45,
         "form": "'LLWDW'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Real Betis",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 28,
-        "wins": 14,
-        "draws": 3,
-        "lossess": 11,
-        "goalsfor": 38,
-        "goalsagainst": 41,
-        "goalsdiff": "-3",
-        "points": 45,
-        "form": "'WLWWW'"
     },
     {
         "teamrank": 8,
@@ -510,15 +510,15 @@
         "teamrank": 17,
         "teamname": "Elche",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-        "played": 28,
+        "played": 29,
         "wins": 5,
-        "draws": 10,
+        "draws": 11,
         "lossess": 13,
-        "goalsfor": 25,
-        "goalsagainst": 42,
+        "goalsfor": 26,
+        "goalsagainst": 43,
         "goalsdiff": "-17",
-        "points": 25,
-        "form": "'DLLWL'"
+        "points": 26,
+        "form": "'DDLLW'"
     },
     {
         "teamrank": 18,
