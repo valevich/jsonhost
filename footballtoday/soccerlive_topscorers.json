@@ -558,6 +558,15 @@
         "playerassists": 6
     },
     {
+        "playername": "André Miguel Valente Silva",
+        "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
+        "playerteam": "Eintracht Frankfurt",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "playergoals": 22,
+        "playerassists": 6
+    },
+    {
         "playername": "E. Haaland",
         "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
         "playerteam": "Borussia Dortmund",
@@ -565,15 +574,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
         "playergoals": 21,
         "playerassists": 1
-    },
-    {
-        "playername": "André Miguel Valente Silva",
-        "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
-        "playerteam": "Eintracht Frankfurt",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-        "playergoals": 21,
-        "playerassists": 6
     },
     {
         "playername": "W. Weghorst",
@@ -621,6 +621,15 @@
         "playerassists": 3
     },
     {
+        "playername": "L. Alario",
+        "playerlink": "https://www.livesoccertv.com/player/l-alario/160318/",
+        "playerteam": "Bayer Leverkusen",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+        "playergoals": 10,
+        "playerassists": 2
+    },
+    {
         "playername": "M. Kruse",
         "playerlink": "https://www.livesoccertv.com/player/m-kruse/38633/",
         "playerteam": "Union Berlin",
@@ -639,15 +648,6 @@
         "playerassists": 1
     },
     {
-        "playername": "L. Alario",
-        "playerlink": "https://www.livesoccertv.com/player/l-alario/160318/",
-        "playerteam": "Bayer Leverkusen",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-        "playergoals": 9,
-        "playerassists": 2
-    },
-    {
         "playername": "S. Gnabry",
         "playerlink": "https://www.livesoccertv.com/player/s-gnabry/175333/",
         "playerteam": "Bayern Munich",
@@ -662,7 +662,7 @@
         "playerteam": "Bayer Leverkusen",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-        "playergoals": 8,
+        "playergoals": 9,
         "playerassists": 0
     },
     {
