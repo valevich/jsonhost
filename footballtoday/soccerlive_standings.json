@@ -1044,6 +1044,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Saint-Étienne",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
+        "played": 31,
+        "wins": 9,
+        "draws": 9,
+        "lossess": 13,
+        "goalsfor": 32,
+        "goalsagainst": 46,
+        "goalsdiff": "-14",
+        "points": 36,
+        "form": "'WLWLL'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Brest",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
         "played": 31,
@@ -1055,20 +1069,6 @@
         "goalsdiff": "-11",
         "points": 35,
         "form": "'LDLWL'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Saint-Étienne",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-        "played": 30,
-        "wins": 8,
-        "draws": 9,
-        "lossess": 13,
-        "goalsfor": 30,
-        "goalsagainst": 46,
-        "goalsdiff": "-16",
-        "points": 33,
-        "form": "'LWLLD'"
     },
     {
         "teamrank": 17,
@@ -1088,15 +1088,15 @@
         "teamrank": 18,
         "teamname": "Nîmes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7730.png",
-        "played": 30,
+        "played": 31,
         "wins": 8,
         "draws": 5,
-        "lossess": 17,
+        "lossess": 18,
         "goalsfor": 30,
-        "goalsagainst": 56,
-        "goalsdiff": "-26",
+        "goalsagainst": 58,
+        "goalsdiff": "-28",
         "points": 29,
-        "form": "'WDLDW'"
+        "form": "'LWDLD'"
     },
     {
         "teamrank": 19,
