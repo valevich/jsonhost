@@ -280,7 +280,7 @@
         "playerteam": "Juventus",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/juventus/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-        "playergoals": 23,
+        "playergoals": 24,
         "playerassists": 5
     },
     {
@@ -289,7 +289,7 @@
         "playerteam": "Internazionale",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "playergoals": 19,
+        "playergoals": 20,
         "playerassists": 5
     },
     {
@@ -298,7 +298,7 @@
         "playerteam": "Atalanta",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "playergoals": 16,
+        "playergoals": 18,
         "playerassists": 1
     },
     {
@@ -311,6 +311,15 @@
         "playerassists": 3
     },
     {
+        "playername": "S. Nwankwo",
+        "playerlink": "https://www.livesoccertv.com/player/s-nwankwo/165078/",
+        "playerteam": "Crotone",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/fc-crotone/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
+        "playergoals": 15,
+        "playerassists": 6
+    },
+    {
         "playername": "C. Immobile",
         "playerlink": "https://www.livesoccertv.com/player/c-immobile/75297/",
         "playerteam": "Lazio",
@@ -318,6 +327,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
         "playergoals": 14,
         "playerassists": 3
+    },
+    {
+        "playername": "L. Insigne",
+        "playerlink": "https://www.livesoccertv.com/player/l-insigne/104026/",
+        "playerteam": "Napoli",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "playergoals": 14,
+        "playerassists": 5
     },
     {
         "playername": "L. Martínez",
@@ -338,30 +356,12 @@
         "playerassists": 3
     },
     {
-        "playername": "L. Insigne",
-        "playerlink": "https://www.livesoccertv.com/player/l-insigne/104026/",
-        "playerteam": "Napoli",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "playergoals": 13,
-        "playerassists": 5
-    },
-    {
-        "playername": "S. Nwankwo",
-        "playerlink": "https://www.livesoccertv.com/player/s-nwankwo/165078/",
-        "playerteam": "Crotone",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/fc-crotone/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-        "playergoals": 13,
-        "playerassists": 6
-    },
-    {
         "playername": "D. Vlahović",
         "playerlink": "https://www.livesoccertv.com/player/d-vlahovic/319415/",
         "playerteam": "Fiorentina",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/fiorentina/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "playergoals": 12,
+        "playergoals": 13,
         "playerassists": 3
     },
     {
@@ -392,22 +392,22 @@
         "playerassists": 3
     },
     {
-        "playername": "J. Veretout",
-        "playerlink": "https://www.livesoccertv.com/player/j-veretout/156122/",
-        "playerteam": "Roma",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "playergoals": 10,
-        "playerassists": 5
-    },
-    {
         "playername": "D. Zapata",
         "playerlink": "https://www.livesoccertv.com/player/d-zapata/33409/",
         "playerteam": "Atalanta",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "playergoals": 10,
+        "playergoals": 11,
         "playerassists": 1
+    },
+    {
+        "playername": "M. Destro",
+        "playerlink": "https://www.livesoccertv.com/player/m-destro/84885/",
+        "playerteam": "Genoa",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/genoa/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+        "playergoals": 10,
+        "playerassists": 0
     }
   ],
   "ligue-1": [
