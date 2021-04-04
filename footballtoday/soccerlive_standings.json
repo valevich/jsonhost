@@ -114,6 +114,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Aston Villa",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "played": 29,
+        "wins": 13,
+        "draws": 5,
+        "lossess": 11,
+        "goalsfor": 42,
+        "goalsagainst": 31,
+        "goalsdiff": "+11",
+        "points": 44,
+        "form": "'WLDDL'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "played": 30,
@@ -127,7 +141,7 @@
         "form": "'LDWDW'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "played": 30,
@@ -139,20 +153,6 @@
         "goalsdiff": "-1",
         "points": 42,
         "form": "'WWDLL'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Aston Villa",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 28,
-        "wins": 12,
-        "draws": 5,
-        "lossess": 11,
-        "goalsfor": 39,
-        "goalsagainst": 30,
-        "goalsdiff": "+9",
-        "points": 41,
-        "form": "'LDDLW'"
     },
     {
         "teamrank": 12,
@@ -242,15 +242,15 @@
         "teamrank": 18,
         "teamname": "Fulham",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-        "played": 30,
+        "played": 31,
         "wins": 5,
         "draws": 11,
-        "lossess": 14,
-        "goalsfor": 23,
-        "goalsagainst": 38,
-        "goalsdiff": "-15",
+        "lossess": 15,
+        "goalsfor": 24,
+        "goalsagainst": 41,
+        "goalsdiff": "-17",
         "points": 26,
-        "form": "'LLWLD'"
+        "form": "'LLLWL'"
     },
     {
         "teamrank": 19,
