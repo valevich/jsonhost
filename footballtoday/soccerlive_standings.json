@@ -44,6 +44,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "West Ham United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
+        "played": 30,
+        "wins": 15,
+        "draws": 7,
+        "lossess": 8,
+        "goalsfor": 48,
+        "goalsagainst": 37,
+        "goalsdiff": "+11",
+        "points": 52,
+        "form": "'WDLWL'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 30,
@@ -57,7 +71,7 @@
         "form": "'LDWWD'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 30,
@@ -71,7 +85,7 @@
         "form": "'DWLWW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "played": 30,
@@ -83,20 +97,6 @@
         "goalsdiff": "+15",
         "points": 49,
         "form": "'WWLLW'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "West Ham United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-        "played": 29,
-        "wins": 14,
-        "draws": 7,
-        "lossess": 8,
-        "goalsfor": 45,
-        "goalsagainst": 35,
-        "goalsdiff": "+10",
-        "points": 49,
-        "form": "'DLWLW'"
     },
     {
         "teamrank": 8,
@@ -186,15 +186,15 @@
         "teamrank": 14,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-        "played": 29,
+        "played": 30,
         "wins": 9,
         "draws": 8,
-        "lossess": 12,
-        "goalsfor": 28,
-        "goalsagainst": 38,
-        "goalsdiff": "-10",
+        "lossess": 13,
+        "goalsfor": 30,
+        "goalsagainst": 41,
+        "goalsdiff": "-11",
         "points": 35,
-        "form": "'LDLDW'"
+        "form": "'LLDLD'"
     },
     {
         "teamrank": 15,
