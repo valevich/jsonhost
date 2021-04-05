@@ -1,6 +1,15 @@
 {
   "premier-league": [
     {
+        "playername": "H. Kane",
+        "playerlink": "https://www.livesoccertv.com/player/h-kane/134501/",
+        "playerteam": "Tottenham Hotspur",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+        "playergoals": 19,
+        "playerassists": 4
+    },
+    {
         "playername": "Mohamed Salah",
         "playerlink": "https://www.livesoccertv.com/player/mohamed-salah/120240/",
         "playerteam": "Liverpool",
@@ -8,15 +17,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "playergoals": 18,
         "playerassists": 6
-    },
-    {
-        "playername": "H. Kane",
-        "playerlink": "https://www.livesoccertv.com/player/h-kane/134501/",
-        "playerteam": "Tottenham Hotspur",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "playergoals": 17,
-        "playerassists": 4
     },
     {
         "playername": "Bruno Fernandes",
@@ -87,7 +87,7 @@
         "playerteam": "Aston Villa",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/aston-villa/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "playergoals": 10,
+        "playergoals": 11,
         "playerassists": 1
     },
     {
@@ -118,20 +118,20 @@
         "playerassists": 0
     },
     {
+        "playername": "D. Ings",
+        "playerlink": "https://www.livesoccertv.com/player/d-ings/120917/",
+        "playerteam": "Southampton",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/southampton/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+        "playergoals": 9,
+        "playerassists": 2
+    },
+    {
         "playername": "R. Mahrez",
         "playerlink": "https://www.livesoccertv.com/player/r-mahrez/133145/",
         "playerteam": "Manchester City",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "playergoals": 9,
-        "playerassists": 0
-    },
-    {
-        "playername": "M. Rashford",
-        "playerlink": "https://www.livesoccertv.com/player/m-rashford/308286/",
-        "playerteam": "Manchester United",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "playergoals": 9,
         "playerassists": 0
     }
