@@ -201,6 +201,15 @@
         "playerassists": 2
     },
     {
+        "playername": "Iago Aspas",
+        "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
+        "playerteam": "Celta Vigo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "playergoals": 10,
+        "playerassists": 3
+    },
+    {
         "playername": "Rafa Mir",
         "playerlink": "https://www.livesoccertv.com/player/rafa-mir/291790/",
         "playerteam": "Huesca",
@@ -226,15 +235,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "playergoals": 10,
         "playerassists": 6
-    },
-    {
-        "playername": "Iago Aspas",
-        "playerlink": "https://www.livesoccertv.com/player/iago-aspas/62042/",
-        "playerteam": "Celta Vigo",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "playergoals": 9,
-        "playerassists": 3
     },
     {
         "playername": "Llorente",
@@ -264,12 +264,12 @@
         "playerassists": 0
     },
     {
-        "playername": "Álex Berenguer",
-        "playerlink": "https://www.livesoccertv.com/player/alex-berenguer/277009/",
-        "playerteam": "Athletic Club",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/athletic-bilbao/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "playergoals": 7,
+        "playername": "Santi Mina",
+        "playerlink": "https://www.livesoccertv.com/player/santi-mina/226131/",
+        "playerteam": "Celta Vigo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "playergoals": 8,
         "playerassists": 0
     }
   ],
