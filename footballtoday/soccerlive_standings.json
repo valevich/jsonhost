@@ -298,6 +298,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Barcelona",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "played": 29,
+        "wins": 20,
+        "draws": 5,
+        "lossess": 4,
+        "goalsfor": 68,
+        "goalsagainst": 24,
+        "goalsdiff": "+44",
+        "points": 65,
+        "form": "'WWWWW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Real Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
         "played": 29,
@@ -309,20 +323,6 @@
         "goalsdiff": "+28",
         "points": 63,
         "form": "'WWWDD'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Barcelona",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "played": 28,
-        "wins": 19,
-        "draws": 5,
-        "lossess": 4,
-        "goalsfor": 67,
-        "goalsagainst": 24,
-        "goalsdiff": "+43",
-        "points": 62,
-        "form": "'WWWWW'"
     },
     {
         "teamrank": 4,
@@ -496,15 +496,15 @@
         "teamrank": 16,
         "teamname": "Real Valladolid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-        "played": 28,
+        "played": 29,
         "wins": 5,
         "draws": 12,
-        "lossess": 11,
+        "lossess": 12,
         "goalsfor": 26,
-        "goalsagainst": 38,
-        "goalsdiff": "-12",
+        "goalsagainst": 39,
+        "goalsdiff": "-13",
         "points": 27,
-        "form": "'DDWDL'"
+        "form": "'LDDWD'"
     },
     {
         "teamrank": 17,
