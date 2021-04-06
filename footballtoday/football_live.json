@@ -70,47 +70,6 @@
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "Tuesday Apr. 6, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Real Madrid",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-      "AwayTeam": "Liverpool",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "TVChannels": "fuboTV ,  TUDN USA ,  Univision ,  …"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Manchester City",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "AwayTeam": "Borussia Dortmund",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-      "TVChannels": "fuboTV ,  Galavision ,  TUDN.com ,  …"
-    }
-  ],
-  "day3": [
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "Wednesday Apr. 7, 2021",
       "GameState": "",
       "HomeTeam": "",
@@ -213,7 +172,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play…"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
@@ -280,7 +239,7 @@
       "TVChannels": "fuboTV ,  UniMás ,  TUDN.com ,  …"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -386,7 +345,7 @@
       "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  fu…"
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -674,7 +633,7 @@
       "TVChannels": "ESPN Play Norte ,  ESPN3 Norte ,  Canal+ F…"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -1038,6 +997,125 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
       "TVChannels": "SCO ESPN2 Norte ,  ESPN Play Norte ,  DAZN ,  Ca…"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "Monday Apr. 12, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "West Bromwich",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
+      "AwayTeam": "Southampton",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+      "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
+    },
+    {
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "3:15pm",
+      "GameState": "",
+      "HomeTeam": "Brighton",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+      "AwayTeam": "Everton",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+      "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "Monday Apr. 12, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Celta de Vigo",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+      "AwayTeam": "Sevilla FC",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  beIN…"
+    },
+    {
+      "LeagueName": "Italian Serie A",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
+      "GameTime": "Monday Apr. 12, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Italian Serie A",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
+      "GameTime": "2:45pm",
+      "GameState": "",
+      "HomeTeam": "Benevento",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
+      "AwayTeam": "Sassuolo",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+      "TVChannels": "ESPN App ,  ESPN Caribbean ,  Sport TV2 ,  Pre…"
+    },
+    {
+      "LeagueName": "German Bundesliga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+      "GameTime": "Monday Apr. 12, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "German Bundesliga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+      "GameTime": "2:30pm",
+      "GameState": "",
+      "HomeTeam": "Hoffenheim",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+      "AwayTeam": "Bayer Leverkusen",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet East ,  Spo…"
     }
   ]
 }
