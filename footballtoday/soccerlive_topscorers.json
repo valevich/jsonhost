@@ -280,7 +280,7 @@
         "playerteam": "Juventus",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/juventus/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-        "playergoals": 24,
+        "playergoals": 25,
         "playerassists": 5
     },
     {
@@ -289,7 +289,7 @@
         "playerteam": "Internazionale",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "playergoals": 20,
+        "playergoals": 21,
         "playerassists": 5
     },
     {
@@ -311,6 +311,24 @@
         "playerassists": 3
     },
     {
+        "playername": "L. Insigne",
+        "playerlink": "https://www.livesoccertv.com/player/l-insigne/104026/",
+        "playerteam": "Napoli",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "playergoals": 15,
+        "playerassists": 6
+    },
+    {
+        "playername": "L. Martínez",
+        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
+        "playerteam": "Internazionale",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+        "playergoals": 15,
+        "playerassists": 0
+    },
+    {
         "playername": "S. Nwankwo",
         "playerlink": "https://www.livesoccertv.com/player/s-nwankwo/165078/",
         "playerteam": "Crotone",
@@ -327,24 +345,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
         "playergoals": 14,
         "playerassists": 3
-    },
-    {
-        "playername": "L. Insigne",
-        "playerlink": "https://www.livesoccertv.com/player/l-insigne/104026/",
-        "playerteam": "Napoli",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "playergoals": 14,
-        "playerassists": 5
-    },
-    {
-        "playername": "L. Martínez",
-        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
-        "playerteam": "Internazionale",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "playergoals": 14,
-        "playerassists": 0
     },
     {
         "playername": "João Pedro",
