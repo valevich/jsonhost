@@ -17,14 +17,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
-      "GameState": "80 ",
+      "GameState": "FT ",
       "HomeTeam": "Fulham",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
       "AwayTeam": "Wolves",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-      "TVChannels": "Peacock ,  SiriusXM FC ,  Sport 24 Extra ,  …"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  Sport 24 Extra ,  DAZ…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -43,14 +43,14 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "81 ",
+      "GameState": "FT ",
       "HomeTeam": "Huesca",
-      "HomeGoals": "2",
+      "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
       "AwayTeam": "Elche",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-      "TVChannels": "Fanatiz USA ,  beIN SPORTS en Espa…"
+      "TVChannels": "Fanatiz USA ,  beIN SPORTS en Español ,  f…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -95,14 +95,14 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
-      "GameState": "81 ",
+      "GameState": "FT ",
       "HomeTeam": "Metz",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
       "AwayTeam": "Lille",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  fu…"
+      "TVChannels": "beIN SPORTS ,  Fanatiz USA ,  fuboTV ,  …"
     }
   ],
   "day2": [
