@@ -44,6 +44,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Chelsea",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+        "played": 31,
+        "wins": 15,
+        "draws": 9,
+        "lossess": 7,
+        "goalsfor": 50,
+        "goalsagainst": 31,
+        "goalsdiff": "+19",
+        "points": 54,
+        "form": "'WLDWW'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "played": 31,
@@ -57,7 +71,7 @@
         "form": "'WWWLL'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "played": 30,
@@ -69,20 +83,6 @@
         "goalsdiff": "+11",
         "points": 52,
         "form": "'WDLWL'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Chelsea",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "played": 30,
-        "wins": 14,
-        "draws": 9,
-        "lossess": 7,
-        "goalsfor": 46,
-        "goalsagainst": 30,
-        "goalsdiff": "+16",
-        "points": 51,
-        "form": "'LDWWD'"
     },
     {
         "teamrank": 7,
@@ -172,15 +172,15 @@
         "teamrank": 13,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "played": 30,
+        "played": 31,
         "wins": 10,
         "draws": 8,
-        "lossess": 12,
-        "goalsfor": 32,
-        "goalsagainst": 48,
-        "goalsdiff": "-16",
+        "lossess": 13,
+        "goalsfor": 33,
+        "goalsagainst": 52,
+        "goalsdiff": "-19",
         "points": 38,
-        "form": "'DWLDD'"
+        "form": "'LDWLD'"
     },
     {
         "teamrank": 14,
@@ -1188,15 +1188,15 @@
         "teamrank": 5,
         "teamname": "Borussia Dortmund",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-        "played": 27,
-        "wins": 13,
+        "played": 28,
+        "wins": 14,
         "draws": 4,
         "lossess": 10,
-        "goalsfor": 55,
-        "goalsagainst": 39,
-        "goalsdiff": "+16",
-        "points": 43,
-        "form": "'LDWLW'"
+        "goalsfor": 58,
+        "goalsagainst": 41,
+        "goalsdiff": "+17",
+        "points": 46,
+        "form": "'WLDWL'"
     },
     {
         "teamrank": 6,
@@ -1244,15 +1244,15 @@
         "teamrank": 9,
         "teamname": "Stuttgart",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-        "played": 27,
+        "played": 28,
         "wins": 10,
         "draws": 9,
-        "lossess": 8,
-        "goalsfor": 48,
-        "goalsagainst": 41,
-        "goalsdiff": "+7",
+        "lossess": 9,
+        "goalsfor": 50,
+        "goalsagainst": 44,
+        "goalsdiff": "+6",
         "points": 39,
-        "form": "'WLWDW'"
+        "form": "'LWLWD'"
     },
     {
         "teamrank": 10,
