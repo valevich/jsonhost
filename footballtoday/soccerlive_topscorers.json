@@ -417,7 +417,7 @@
         "playerteam": "PSG",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "playergoals": 20,
+        "playergoals": 21,
         "playerassists": 5
     },
     {
@@ -475,6 +475,24 @@
         "playerassists": 4
     },
     {
+        "playername": "M. Kean",
+        "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
+        "playerteam": "PSG",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "playergoals": 12,
+        "playerassists": 0
+    },
+    {
+        "playername": "G. Laborde",
+        "playerlink": "https://www.livesoccertv.com/player/g-laborde/153154/",
+        "playerteam": "Montpellier",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playergoals": 12,
+        "playerassists": 0
+    },
+    {
         "playername": "K. Toko Ekambi",
         "playerlink": "https://www.livesoccertv.com/player/k-toko-ekambi/156672/",
         "playerteam": "Olympique Lyonnais",
@@ -484,11 +502,11 @@
         "playerassists": 0
     },
     {
-        "playername": "M. Kean",
-        "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
-        "playerteam": "PSG",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "playername": "A. Delort",
+        "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
+        "playerteam": "Montpellier",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "playergoals": 11,
         "playerassists": 0
     },
@@ -498,15 +516,6 @@
         "playerteam": "Lille",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "playergoals": 10,
-        "playerassists": 0
-    },
-    {
-        "playername": "A. Delort",
-        "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
-        "playerteam": "Montpellier",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "playergoals": 10,
         "playerassists": 0
     },
@@ -525,15 +534,6 @@
         "playerteam": "Olympique Lyonnais",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "playergoals": 10,
-        "playerassists": 0
-    },
-    {
-        "playername": "G. Laborde",
-        "playerlink": "https://www.livesoccertv.com/player/g-laborde/153154/",
-        "playerteam": "Montpellier",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "playergoals": 10,
         "playerassists": 0
     },
