@@ -284,6 +284,20 @@
   "primera-division": [
     {
         "teamrank": 1,
+        "teamname": "Atlético Madrid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "played": 30,
+        "wins": 20,
+        "draws": 7,
+        "lossess": 3,
+        "goalsfor": 52,
+        "goalsagainst": 20,
+        "goalsdiff": "+32",
+        "points": 67,
+        "form": "'DLWDW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Real Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
         "played": 30,
@@ -295,20 +309,6 @@
         "goalsdiff": "+29",
         "points": 66,
         "form": "'WWWWD'"
-    },
-    {
-        "teamrank": 2,
-        "teamname": "Atlético Madrid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "played": 29,
-        "wins": 20,
-        "draws": 6,
-        "lossess": 3,
-        "goalsfor": 51,
-        "goalsagainst": 19,
-        "goalsdiff": "+32",
-        "points": 66,
-        "form": "'LWDWD'"
     },
     {
         "teamrank": 3,
@@ -356,15 +356,15 @@
         "teamrank": 6,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 29,
+        "played": 30,
         "wins": 14,
-        "draws": 4,
+        "draws": 5,
         "lossess": 11,
-        "goalsfor": 39,
-        "goalsagainst": 42,
+        "goalsfor": 40,
+        "goalsagainst": 43,
         "goalsdiff": "-3",
-        "points": 46,
-        "form": "'DWLWW'"
+        "points": 47,
+        "form": "'DDWLW'"
     },
     {
         "teamrank": 7,
@@ -608,6 +608,20 @@
     },
     {
         "teamrank": 4,
+        "teamname": "Atalanta",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+        "played": 30,
+        "wins": 18,
+        "draws": 7,
+        "lossess": 5,
+        "goalsfor": 71,
+        "goalsagainst": 38,
+        "goalsdiff": "+33",
+        "points": 61,
+        "form": "'WWWWL'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Napoli",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
         "played": 30,
@@ -619,20 +633,6 @@
         "goalsdiff": "+31",
         "points": 59,
         "form": "'WLWWW'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Atalanta",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "played": 29,
-        "wins": 17,
-        "draws": 7,
-        "lossess": 5,
-        "goalsfor": 68,
-        "goalsagainst": 36,
-        "goalsdiff": "+32",
-        "points": 58,
-        "form": "'WWWLW'"
     },
     {
         "teamrank": 6,
@@ -764,15 +764,15 @@
         "teamrank": 15,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "played": 29,
+        "played": 30,
         "wins": 7,
         "draws": 9,
-        "lossess": 13,
-        "goalsfor": 36,
-        "goalsagainst": 46,
-        "goalsdiff": "-10",
+        "lossess": 14,
+        "goalsfor": 38,
+        "goalsagainst": 49,
+        "goalsdiff": "-11",
         "points": 30,
-        "form": "'DLWDL'"
+        "form": "'LDLWD'"
     },
     {
         "teamrank": 16,
@@ -892,15 +892,15 @@
         "teamrank": 4,
         "teamname": "Olympique Lyonnais",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "played": 31,
-        "wins": 17,
+        "played": 32,
+        "wins": 18,
         "draws": 10,
         "lossess": 4,
-        "goalsfor": 60,
+        "goalsfor": 63,
         "goalsagainst": 31,
-        "goalsdiff": "+29",
-        "points": 61,
-        "form": "'DLDWD'"
+        "goalsdiff": "+32",
+        "points": 64,
+        "form": "'WDLDW'"
     },
     {
         "teamrank": 5,
@@ -990,15 +990,15 @@
         "teamrank": 11,
         "teamname": "Angers SCO",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-        "played": 31,
+        "played": 32,
         "wins": 11,
         "draws": 8,
-        "lossess": 12,
+        "lossess": 13,
         "goalsfor": 34,
-        "goalsagainst": 44,
-        "goalsdiff": "-10",
+        "goalsagainst": 47,
+        "goalsdiff": "-13",
         "points": 41,
-        "form": "'DDLWD'"
+        "form": "'LDDLW'"
     },
     {
         "teamrank": 12,
