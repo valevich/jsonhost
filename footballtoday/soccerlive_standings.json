@@ -342,15 +342,15 @@
         "teamrank": 5,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "played": 29,
+        "played": 30,
         "wins": 12,
-        "draws": 10,
+        "draws": 11,
         "lossess": 7,
-        "goalsfor": 45,
-        "goalsagainst": 29,
+        "goalsfor": 47,
+        "goalsagainst": 31,
         "goalsdiff": "+16",
-        "points": 46,
-        "form": "'DLLWD'"
+        "points": 47,
+        "form": "'DDLLW'"
     },
     {
         "teamrank": 6,
@@ -452,6 +452,20 @@
     },
     {
         "teamrank": 13,
+        "teamname": "Valencia",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+        "played": 30,
+        "wins": 8,
+        "draws": 10,
+        "lossess": 12,
+        "goalsfor": 37,
+        "goalsagainst": 42,
+        "goalsdiff": "-5",
+        "points": 34,
+        "form": "'DLWLW'"
+    },
+    {
+        "teamrank": 14,
         "teamname": "Osasuna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
         "played": 30,
@@ -463,20 +477,6 @@
         "goalsdiff": "-11",
         "points": 34,
         "form": "'WDDDL'"
-    },
-    {
-        "teamrank": 14,
-        "teamname": "Valencia",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-        "played": 29,
-        "wins": 8,
-        "draws": 9,
-        "lossess": 12,
-        "goalsfor": 35,
-        "goalsagainst": 40,
-        "goalsdiff": "-5",
-        "points": 33,
-        "form": "'LWLWL'"
     },
     {
         "teamrank": 15,
