@@ -32,18 +32,32 @@
         "teamrank": 3,
         "teamname": "Leicester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "played": 30,
+        "played": 31,
         "wins": 17,
         "draws": 5,
-        "lossess": 8,
-        "goalsfor": 53,
-        "goalsagainst": 34,
-        "goalsdiff": "+19",
+        "lossess": 9,
+        "goalsfor": 55,
+        "goalsagainst": 37,
+        "goalsdiff": "+18",
         "points": 56,
-        "form": "'LWWDL'"
+        "form": "'LLWWD'"
     },
     {
         "teamrank": 4,
+        "teamname": "West Ham United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
+        "played": 31,
+        "wins": 16,
+        "draws": 7,
+        "lossess": 8,
+        "goalsfor": 51,
+        "goalsagainst": 39,
+        "goalsdiff": "+12",
+        "points": 55,
+        "form": "'WWDLW'"
+    },
+    {
+        "teamrank": 5,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "played": 31,
@@ -57,7 +71,7 @@
         "form": "'WLDWW'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 6,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "played": 31,
@@ -69,20 +83,6 @@
         "goalsdiff": "+16",
         "points": 52,
         "form": "'WWWLL'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "West Ham United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-        "played": 30,
-        "wins": 15,
-        "draws": 7,
-        "lossess": 8,
-        "goalsfor": 48,
-        "goalsagainst": 37,
-        "goalsdiff": "+11",
-        "points": 52,
-        "form": "'WDLWL'"
     },
     {
         "teamrank": 7,
