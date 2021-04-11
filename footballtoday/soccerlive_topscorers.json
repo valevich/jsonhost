@@ -147,6 +147,15 @@
         "playerassists": 3
     },
     {
+        "playername": "K. Benzema",
+        "playerlink": "https://www.livesoccertv.com/player/k-benzema/1728/",
+        "playerteam": "Real Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "playergoals": 19,
+        "playerassists": 0
+    },
+    {
         "playername": "Gerard Moreno",
         "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
         "playerteam": "Villarreal",
@@ -163,15 +172,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
         "playergoals": 19,
         "playerassists": 3
-    },
-    {
-        "playername": "K. Benzema",
-        "playerlink": "https://www.livesoccertv.com/player/k-benzema/1728/",
-        "playerteam": "Real Madrid",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-madrid/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "playergoals": 18,
-        "playerassists": 0
     },
     {
         "playername": "Y. En-Nesyri",
@@ -302,6 +302,15 @@
         "playerassists": 1
     },
     {
+        "playername": "S. Nwankwo",
+        "playerlink": "https://www.livesoccertv.com/player/s-nwankwo/165078/",
+        "playerteam": "Crotone",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/fc-crotone/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
+        "playergoals": 16,
+        "playerassists": 6
+    },
+    {
         "playername": "Z. Ibrahimović",
         "playerlink": "https://www.livesoccertv.com/player/z-ibrahimovic/301/",
         "playerteam": "Milan",
@@ -327,15 +336,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "playergoals": 15,
         "playerassists": 0
-    },
-    {
-        "playername": "S. Nwankwo",
-        "playerlink": "https://www.livesoccertv.com/player/s-nwankwo/165078/",
-        "playerteam": "Crotone",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/fc-crotone/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-        "playergoals": 15,
-        "playerassists": 6
     },
     {
         "playername": "C. Immobile",
@@ -370,8 +370,8 @@
         "playerteam": "Torino",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/torino/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-        "playergoals": 11,
-        "playerassists": 2
+        "playergoals": 12,
+        "playerassists": 3
     },
     {
         "playername": "D. Berardi",
@@ -563,7 +563,7 @@
         "playerteam": "Eintracht Frankfurt",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-        "playergoals": 22,
+        "playergoals": 23,
         "playerassists": 6
     },
     {
@@ -581,8 +581,17 @@
         "playerteam": "Wolfsburg",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "playergoals": 17,
+        "playergoals": 18,
         "playerassists": 2
+    },
+    {
+        "playername": "S. Kalajdzic",
+        "playerlink": "https://www.livesoccertv.com/player/s-kalajdzic/271246/",
+        "playerteam": "Stuttgart",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "playergoals": 14,
+        "playerassists": 0
     },
     {
         "playername": "A. Kramarić",
@@ -594,22 +603,13 @@
         "playerassists": 5
     },
     {
-        "playername": "S. Kalajdzic",
-        "playerlink": "https://www.livesoccertv.com/player/s-kalajdzic/271246/",
-        "playerteam": "Stuttgart",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-        "playergoals": 13,
-        "playerassists": 0
-    },
-    {
         "playername": "L. Stindl",
         "playerlink": "https://www.livesoccertv.com/player/l-stindl/39612/",
         "playerteam": "Borussia M'gladbach",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-        "playergoals": 11,
-        "playerassists": 5
+        "playergoals": 12,
+        "playerassists": 6
     },
     {
         "playername": "S. Wamangituka",
