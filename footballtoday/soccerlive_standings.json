@@ -114,6 +114,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Arsenal",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "played": 31,
+        "wins": 13,
+        "draws": 6,
+        "lossess": 12,
+        "goalsfor": 43,
+        "goalsagainst": 35,
+        "goalsdiff": "+8",
+        "points": 45,
+        "form": "'WLDWD'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "played": 31,
@@ -127,7 +141,7 @@
         "form": "'WWWDL'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "played": 30,
@@ -139,20 +153,6 @@
         "goalsdiff": "+10",
         "points": 44,
         "form": "'LWLDD'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Arsenal",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "played": 30,
-        "wins": 12,
-        "draws": 6,
-        "lossess": 12,
-        "goalsfor": 40,
-        "goalsagainst": 35,
-        "goalsdiff": "+5",
-        "points": 42,
-        "form": "'LDWDW'"
     },
     {
         "teamrank": 12,
@@ -270,15 +270,15 @@
         "teamrank": 20,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 30,
+        "played": 31,
         "wins": 4,
         "draws": 2,
-        "lossess": 24,
+        "lossess": 25,
         "goalsfor": 17,
-        "goalsagainst": 52,
-        "goalsdiff": "-35",
+        "goalsagainst": 55,
+        "goalsdiff": "-38",
         "points": 14,
-        "form": "'LLLWL'"
+        "form": "'LLLLW'"
     }
   ],
   "primera-division": [

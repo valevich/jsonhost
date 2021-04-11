@@ -51,7 +51,7 @@
         "playerteam": "Tottenham Hotspur",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "playergoals": 13,
+        "playergoals": 14,
         "playerassists": 0
     },
     {
@@ -62,6 +62,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "playergoals": 12,
         "playerassists": 1
+    },
+    {
+        "playername": "A. Lacazette",
+        "playerlink": "https://www.livesoccertv.com/player/a-lacazette/86665/",
+        "playerteam": "Arsenal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/arsenal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "playergoals": 12,
+        "playerassists": 3
     },
     {
         "playername": "J. Vardy",
@@ -80,15 +89,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "playergoals": 12,
         "playerassists": 1
-    },
-    {
-        "playername": "A. Lacazette",
-        "playerlink": "https://www.livesoccertv.com/player/a-lacazette/86665/",
-        "playerteam": "Arsenal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/arsenal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "playergoals": 11,
-        "playerassists": 3
     },
     {
         "playername": "M. Rashford",
