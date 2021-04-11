@@ -200,15 +200,15 @@
         "teamrank": 15,
         "teamname": "Burnley",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-        "played": 30,
+        "played": 31,
         "wins": 8,
         "draws": 9,
-        "lossess": 13,
-        "goalsfor": 24,
-        "goalsagainst": 40,
-        "goalsdiff": "-16",
+        "lossess": 14,
+        "goalsfor": 25,
+        "goalsagainst": 42,
+        "goalsdiff": "-17",
         "points": 33,
-        "form": "'LWDDL'"
+        "form": "'LLWDD'"
     },
     {
         "teamrank": 16,
@@ -228,15 +228,15 @@
         "teamrank": 17,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-        "played": 30,
-        "wins": 7,
+        "played": 31,
+        "wins": 8,
         "draws": 8,
         "lossess": 15,
-        "goalsfor": 30,
-        "goalsagainst": 50,
-        "goalsdiff": "-20",
-        "points": 29,
-        "form": "'DLDDD'"
+        "goalsfor": 32,
+        "goalsagainst": 51,
+        "goalsdiff": "-19",
+        "points": 32,
+        "form": "'WDLDD'"
     },
     {
         "teamrank": 18,
@@ -932,6 +932,20 @@
     },
     {
         "teamrank": 7,
+        "teamname": "Rennes",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+        "played": 32,
+        "wins": 13,
+        "draws": 9,
+        "lossess": 10,
+        "goalsfor": 40,
+        "goalsagainst": 35,
+        "goalsdiff": "+5",
+        "points": 48,
+        "form": "'WDWWL'"
+    },
+    {
+        "teamrank": 8,
         "teamname": "Montpellier",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
         "played": 32,
@@ -943,20 +957,6 @@
         "goalsdiff": "-1",
         "points": 46,
         "form": "'DDWDD'"
-    },
-    {
-        "teamrank": 8,
-        "teamname": "Rennes",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-        "played": 31,
-        "wins": 12,
-        "draws": 9,
-        "lossess": 10,
-        "goalsfor": 39,
-        "goalsagainst": 35,
-        "goalsdiff": "+4",
-        "points": 45,
-        "form": "'DWWLL'"
     },
     {
         "teamrank": 9,
@@ -1102,15 +1102,15 @@
         "teamrank": 19,
         "teamname": "Nantes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-        "played": 31,
+        "played": 32,
         "wins": 5,
         "draws": 13,
-        "lossess": 13,
+        "lossess": 14,
         "goalsfor": 32,
-        "goalsagainst": 48,
-        "goalsdiff": "-16",
+        "goalsagainst": 49,
+        "goalsdiff": "-17",
         "points": 28,
-        "form": "'LDWLD'"
+        "form": "'LLDWL'"
     },
     {
         "teamrank": 20,
