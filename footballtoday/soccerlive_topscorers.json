@@ -426,8 +426,8 @@
         "playerteam": "Monaco",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "playergoals": 15,
-        "playerassists": 8
+        "playergoals": 17,
+        "playerassists": 9
     },
     {
         "playername": "M. Depay",
@@ -435,7 +435,7 @@
         "playerteam": "Olympique Lyonnais",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "playergoals": 14,
+        "playergoals": 16,
         "playerassists": 7
     },
     {
@@ -511,6 +511,15 @@
         "playerassists": 0
     },
     {
+        "playername": "Hwang Ui-jo",
+        "playerlink": "https://www.livesoccertv.com/player/hwang-eui-jo/230390/",
+        "playerteam": "Bordeaux",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/bordeaux/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
+        "playergoals": 11,
+        "playerassists": 2
+    },
+    {
         "playername": "J. David",
         "playerlink": "https://www.livesoccertv.com/player/j-david/390484/",
         "playerteam": "Lille",
@@ -518,15 +527,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "playergoals": 10,
         "playerassists": 0
-    },
-    {
-        "playername": "Hwang Ui-jo",
-        "playerlink": "https://www.livesoccertv.com/player/hwang-eui-jo/230390/",
-        "playerteam": "Bordeaux",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/bordeaux/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
-        "playergoals": 10,
-        "playerassists": 1
     },
     {
         "playername": "T. Kadewere",
@@ -538,13 +538,13 @@
         "playerassists": 0
     },
     {
-        "playername": "B. Yılmaz",
-        "playerlink": "https://www.livesoccertv.com/player/b-y-lmaz/4921/",
-        "playerteam": "Lille",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "playername": "G. Kakuta",
+        "playerlink": "https://www.livesoccertv.com/player/g-kakuta/92854/",
+        "playerteam": "Lens",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lens/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
         "playergoals": 10,
-        "playerassists": 2
+        "playerassists": 6
     }
   ],
   "bundesliga": [
