@@ -664,6 +664,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Sassuolo",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+        "played": 30,
+        "wins": 11,
+        "draws": 10,
+        "lossess": 9,
+        "goalsfor": 49,
+        "goalsagainst": 48,
+        "goalsdiff": "+1",
+        "points": 43,
+        "form": "'WLDLW'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Hellas Verona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
         "played": 30,
@@ -675,20 +689,6 @@
         "goalsdiff": "+3",
         "points": 41,
         "form": "'LWLLL'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Sassuolo",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-        "played": 29,
-        "wins": 10,
-        "draws": 10,
-        "lossess": 9,
-        "goalsfor": 48,
-        "goalsagainst": 48,
-        "goalsdiff": "0",
-        "points": 40,
-        "form": "'LDLWL'"
     },
     {
         "teamrank": 10,
@@ -778,15 +778,15 @@
         "teamrank": 16,
         "teamname": "Benevento",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
-        "played": 29,
+        "played": 30,
         "wins": 7,
         "draws": 9,
-        "lossess": 13,
+        "lossess": 14,
         "goalsfor": 30,
-        "goalsagainst": 54,
-        "goalsdiff": "-24",
+        "goalsagainst": 55,
+        "goalsdiff": "-25",
         "points": 30,
-        "form": "'DWLDL'"
+        "form": "'LDWLD'"
     },
     {
         "teamrank": 17,
