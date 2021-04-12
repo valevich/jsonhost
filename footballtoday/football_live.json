@@ -17,7 +17,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "1:00pm",
-      "GameState": "80 ",
+      "GameState": "90 ",
       "HomeTeam": "West Bromwich",
       "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
@@ -82,12 +82,12 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "",
+      "GameState": "4 '",
       "HomeTeam": "Benevento",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
       "AwayTeam": "Sassuolo",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Caribb…"
     },
@@ -108,7 +108,7 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "2:30pm",
-      "GameState": "9 '",
+      "GameState": "19 ",
       "HomeTeam": "Hoffenheim",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
@@ -868,7 +868,7 @@
       "AwayTeam": "Huesca",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  Sky HD ,  …"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  SportsMax ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -920,7 +920,7 @@
       "AwayTeam": "Villarreal",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  Sky HD ,  …"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  SportsMax ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
