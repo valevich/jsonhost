@@ -102,15 +102,15 @@
         "teamrank": 8,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-        "played": 29,
+        "played": 30,
         "wins": 14,
-        "draws": 5,
+        "draws": 6,
         "lossess": 10,
         "goalsfor": 41,
         "goalsagainst": 38,
         "goalsdiff": "+3",
-        "points": 47,
-        "form": "'DLLWW'"
+        "points": 48,
+        "form": "'DDLLW'"
     },
     {
         "teamrank": 9,
@@ -198,6 +198,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Brighton & Hove Albion",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+        "played": 31,
+        "wins": 7,
+        "draws": 12,
+        "lossess": 12,
+        "goalsfor": 33,
+        "goalsagainst": 38,
+        "goalsdiff": "-5",
+        "points": 33,
+        "form": "'DLWWL'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Burnley",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
         "played": 31,
@@ -209,20 +223,6 @@
         "goalsdiff": "-17",
         "points": 33,
         "form": "'LLWDD'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Brighton & Hove Albion",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-        "played": 30,
-        "wins": 7,
-        "draws": 11,
-        "lossess": 12,
-        "goalsfor": 33,
-        "goalsagainst": 38,
-        "goalsdiff": "-5",
-        "points": 32,
-        "form": "'LWWLL'"
     },
     {
         "teamrank": 17,
