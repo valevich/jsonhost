@@ -55,6 +55,15 @@
         "playerassists": 0
     },
     {
+        "playername": "A. Lacazette",
+        "playerlink": "https://www.livesoccertv.com/player/a-lacazette/86665/",
+        "playerteam": "Arsenal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/arsenal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "playergoals": 13,
+        "playerassists": 3
+    },
+    {
         "playername": "İ. Gündoğan",
         "playerlink": "https://www.livesoccertv.com/player/gundo-an/69183/",
         "playerteam": "Manchester City",
@@ -62,15 +71,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "playergoals": 12,
         "playerassists": 1
-    },
-    {
-        "playername": "A. Lacazette",
-        "playerlink": "https://www.livesoccertv.com/player/a-lacazette/86665/",
-        "playerteam": "Arsenal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/arsenal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "playergoals": 12,
-        "playerassists": 3
     },
     {
         "playername": "J. Vardy",
@@ -338,6 +338,15 @@
         "playerassists": 0
     },
     {
+        "playername": "D. Vlahović",
+        "playerlink": "https://www.livesoccertv.com/player/d-vlahovic/319415/",
+        "playerteam": "Fiorentina",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/fiorentina/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+        "playergoals": 15,
+        "playerassists": 3
+    },
+    {
         "playername": "C. Immobile",
         "playerlink": "https://www.livesoccertv.com/player/c-immobile/75297/",
         "playerteam": "Lazio",
@@ -356,13 +365,13 @@
         "playerassists": 3
     },
     {
-        "playername": "D. Vlahović",
-        "playerlink": "https://www.livesoccertv.com/player/d-vlahovic/319415/",
-        "playerteam": "Fiorentina",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/fiorentina/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+        "playername": "D. Zapata",
+        "playerlink": "https://www.livesoccertv.com/player/d-zapata/33409/",
+        "playerteam": "Atalanta",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
         "playergoals": 13,
-        "playerassists": 3
+        "playerassists": 1
     },
     {
         "playername": "A. Belotti",
@@ -390,15 +399,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
         "playergoals": 11,
         "playerassists": 3
-    },
-    {
-        "playername": "D. Zapata",
-        "playerlink": "https://www.livesoccertv.com/player/d-zapata/33409/",
-        "playerteam": "Atalanta",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "playergoals": 11,
-        "playerassists": 1
     },
     {
         "playername": "M. Destro",
