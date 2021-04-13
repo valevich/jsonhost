@@ -491,76 +491,6 @@
         "goalsdiff": "-12",
         "points": 30,
         "form": "'LDDDL'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Huesca",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-        "played": 30,
-        "wins": 5,
-        "draws": 12,
-        "lossess": 13,
-        "goalsfor": 31,
-        "goalsagainst": 45,
-        "goalsdiff": "-14",
-        "points": 27,
-        "form": "'WWDLL'"
-    },
-    {
-        "teamrank": 17,
-        "teamname": "Real Valladolid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-        "played": 30,
-        "wins": 5,
-        "draws": 12,
-        "lossess": 13,
-        "goalsfor": 27,
-        "goalsagainst": 41,
-        "goalsdiff": "-14",
-        "points": 27,
-        "form": "'LLDDW'"
-    },
-    {
-        "teamrank": 18,
-        "teamname": "Elche",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-        "played": 30,
-        "wins": 5,
-        "draws": 11,
-        "lossess": 14,
-        "goalsfor": 27,
-        "goalsagainst": 46,
-        "goalsdiff": "-19",
-        "points": 26,
-        "form": "'LDDLL'"
-    },
-    {
-        "teamrank": 19,
-        "teamname": "Deportivo Alavés",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-        "played": 30,
-        "wins": 5,
-        "draws": 9,
-        "lossess": 16,
-        "goalsfor": 24,
-        "goalsagainst": 47,
-        "goalsdiff": "-23",
-        "points": 24,
-        "form": "'DLLDL'"
-    },
-    {
-        "teamrank": 20,
-        "teamname": "Eibar",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 30,
-        "wins": 4,
-        "draws": 11,
-        "lossess": 15,
-        "goalsfor": 22,
-        "goalsagainst": 36,
-        "goalsdiff": "-14",
-        "points": 23,
-        "form": "'LLDLL'"
     }
   ],
   "serie-a": [
@@ -1097,34 +1027,6 @@
         "goalsdiff": "-28",
         "points": 30,
         "form": "'DLWDL'"
-    },
-    {
-        "teamrank": 19,
-        "teamname": "Nantes",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-        "played": 32,
-        "wins": 5,
-        "draws": 13,
-        "lossess": 14,
-        "goalsfor": 32,
-        "goalsagainst": 49,
-        "goalsdiff": "-17",
-        "points": 28,
-        "form": "'LLDWL'"
-    },
-    {
-        "teamrank": 20,
-        "teamname": "Dijon",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
-        "played": 32,
-        "wins": 2,
-        "draws": 9,
-        "lossess": 21,
-        "goalsfor": 20,
-        "goalsagainst": 56,
-        "goalsdiff": "-36",
-        "points": 15,
-        "form": "'LLLLL'"
     }
   ],
   "bundesliga": [
