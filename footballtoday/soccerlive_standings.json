@@ -1146,15 +1146,15 @@
         "teamrank": 2,
         "teamname": "RB Leipzig",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-        "played": 28,
+        "played": 29,
         "wins": 18,
-        "draws": 6,
+        "draws": 7,
         "lossess": 4,
         "goalsfor": 52,
         "goalsagainst": 23,
         "goalsdiff": "+29",
-        "points": 60,
-        "form": "'WLWDW'"
+        "points": 61,
+        "form": "'DWLWD'"
     },
     {
         "teamrank": 3,
@@ -1270,6 +1270,20 @@
     },
     {
         "teamrank": 11,
+        "teamname": "Hoffenheim",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+        "played": 29,
+        "wins": 8,
+        "draws": 8,
+        "lossess": 13,
+        "goalsfor": 41,
+        "goalsagainst": 47,
+        "goalsdiff": "-6",
+        "points": 32,
+        "form": "'DDLLL'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Augsburg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
         "played": 28,
@@ -1281,20 +1295,6 @@
         "goalsdiff": "-13",
         "points": 32,
         "form": "'LWLWL'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Hoffenheim",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "played": 28,
-        "wins": 8,
-        "draws": 7,
-        "lossess": 13,
-        "goalsfor": 41,
-        "goalsagainst": 47,
-        "goalsdiff": "-6",
-        "points": 31,
-        "form": "'DLLLW'"
     },
     {
         "teamrank": 13,
