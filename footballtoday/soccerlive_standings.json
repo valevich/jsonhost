@@ -918,6 +918,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Rennes",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+        "played": 33,
+        "wins": 14,
+        "draws": 9,
+        "lossess": 10,
+        "goalsfor": 43,
+        "goalsagainst": 35,
+        "goalsdiff": "+8",
+        "points": 51,
+        "form": "'WWDWW'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Olympique Marseille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
         "played": 32,
@@ -929,20 +943,6 @@
         "goalsdiff": "+4",
         "points": 49,
         "form": "'DWLWW'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Rennes",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-        "played": 32,
-        "wins": 13,
-        "draws": 9,
-        "lossess": 10,
-        "goalsfor": 40,
-        "goalsagainst": 35,
-        "goalsdiff": "+5",
-        "points": 48,
-        "form": "'WDWWL'"
     },
     {
         "teamrank": 8,
@@ -990,15 +990,15 @@
         "teamrank": 11,
         "teamname": "Angers SCO",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-        "played": 32,
+        "played": 33,
         "wins": 11,
         "draws": 8,
-        "lossess": 13,
+        "lossess": 14,
         "goalsfor": 34,
-        "goalsagainst": 47,
-        "goalsdiff": "-13",
+        "goalsagainst": 50,
+        "goalsdiff": "-16",
         "points": 41,
-        "form": "'LDDLW'"
+        "form": "'LLDDL'"
     },
     {
         "teamrank": 12,
