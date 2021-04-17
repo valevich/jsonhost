@@ -108,7 +108,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "9:30pm",
-      "GameState": "33 ",
+      "GameState": "HT ",
       "HomeTeam": "Seattle Sounders",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
@@ -391,19 +391,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
       "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
-    },
-    {
-      "LeagueName": "German Bundesliga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
-      "GameTime": "12:00pm",
-      "GameState": "",
-      "HomeTeam": "Mainz 05",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-      "AwayTeam": "Hertha BSC",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World No…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -982,19 +969,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "German Bundesliga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
-      "GameTime": "12:30pm",
-      "GameState": "",
-      "HomeTeam": "Hertha BSC",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
-      "AwayTeam": "Freiburg",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World ,  Sp…"
     },
     {
       "LeagueName": "German Bundesliga",
