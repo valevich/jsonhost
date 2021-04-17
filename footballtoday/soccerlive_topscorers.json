@@ -6,7 +6,7 @@
         "playerteam": "Tottenham Hotspur",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "playergoals": 19,
+        "playergoals": 20,
         "playerassists": 4
     },
     {
@@ -466,6 +466,15 @@
         "playerassists": 4
     },
     {
+        "playername": "A. Delort",
+        "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
+        "playerteam": "Montpellier",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playergoals": 12,
+        "playerassists": 0
+    },
+    {
         "playername": "A. Gouiri",
         "playerlink": "https://www.livesoccertv.com/player/a-gouiri/334272/",
         "playerteam": "Nice",
@@ -499,15 +508,6 @@
         "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "playergoals": 12,
-        "playerassists": 0
-    },
-    {
-        "playername": "A. Delort",
-        "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
-        "playerteam": "Montpellier",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "playergoals": 11,
         "playerassists": 0
     },
     {
