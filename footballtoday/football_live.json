@@ -193,7 +193,7 @@
       "AwayTeam": "Köln",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World No…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World Now ,  Spo…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -251,14 +251,14 @@
       "LeagueName": "English FA Cup",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/40.png",
       "GameTime": "12:30pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Chelsea",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
       "AwayTeam": "Manchester City",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  SiriusXM FC ,  Sport…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  SiriusXM FC ,  Sportsnet…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -277,9 +277,9 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "2:00pm",
-      "GameState": "16 ",
+      "GameState": "27 ",
       "HomeTeam": "Montreal Impact",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
       "AwayTeam": "Toronto FC",
       "AwayGoals": "0",
