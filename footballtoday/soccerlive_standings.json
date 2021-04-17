@@ -1186,6 +1186,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Bayer Leverkusen",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+        "played": 29,
+        "wins": 13,
+        "draws": 8,
+        "lossess": 8,
+        "goalsfor": 48,
+        "goalsagainst": 32,
+        "goalsdiff": "+16",
+        "points": 47,
+        "form": "'WDWLL'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Borussia Dortmund",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
         "played": 28,
@@ -1197,20 +1211,6 @@
         "goalsdiff": "+17",
         "points": 46,
         "form": "'WLDWL'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Bayer Leverkusen",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-        "played": 28,
-        "wins": 12,
-        "draws": 8,
-        "lossess": 8,
-        "goalsfor": 45,
-        "goalsagainst": 32,
-        "goalsdiff": "+13",
-        "points": 44,
-        "form": "'DWLLW'"
     },
     {
         "teamrank": 7,
@@ -1356,15 +1356,15 @@
         "teamrank": 17,
         "teamname": "Köln",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-        "played": 28,
+        "played": 29,
         "wins": 5,
         "draws": 8,
-        "lossess": 15,
+        "lossess": 16,
         "goalsfor": 27,
-        "goalsagainst": 50,
-        "goalsdiff": "-23",
+        "goalsagainst": 53,
+        "goalsdiff": "-26",
         "points": 23,
-        "form": "'LLDLD'"
+        "form": "'LLLDL'"
     },
     {
         "teamrank": 18,
