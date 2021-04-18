@@ -6,7 +6,7 @@
         "playerteam": "Tottenham Hotspur",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "playergoals": 20,
+        "playergoals": 21,
         "playerassists": 4
     },
     {
@@ -520,6 +520,15 @@
         "playerassists": 2
     },
     {
+        "playername": "T. Moffi",
+        "playerlink": "https://www.livesoccertv.com/player/t-moffi/364782/",
+        "playerteam": "Lorient",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lorient/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+        "playergoals": 11,
+        "playerassists": 1
+    },
+    {
         "playername": "J. David",
         "playerlink": "https://www.livesoccertv.com/player/j-david/390484/",
         "playerteam": "Lille",
@@ -536,15 +545,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "playergoals": 10,
         "playerassists": 0
-    },
-    {
-        "playername": "G. Kakuta",
-        "playerlink": "https://www.livesoccertv.com/player/g-kakuta/92854/",
-        "playerteam": "Lens",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/lens/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-        "playergoals": 10,
-        "playerassists": 6
     }
   ],
   "bundesliga": [
@@ -581,7 +581,7 @@
         "playerteam": "Wolfsburg",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-        "playergoals": 18,
+        "playergoals": 19,
         "playerassists": 2
     },
     {
@@ -666,22 +666,22 @@
         "playerassists": 0
     },
     {
-        "playername": "",
-        "playerlink": "https://www.livesoccertv.com/player/i-bebou/211319/",
-        "playerteam": "Hoffenheim",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "playergoals": 7,
+        "playername": "L. Bailey",
+        "playerlink": "https://www.livesoccertv.com/player/l-bailey/304930/",
+        "playerteam": "Bayer Leverkusen",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+        "playergoals": 8,
         "playerassists": 0
     },
     {
-        "playername": "Matheus Cunha",
-        "playerlink": "https://www.livesoccertv.com/player/matheus-cunha/359098/",
-        "playerteam": "Hertha BSC",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hertha-bsc/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
-        "playergoals": 7,
-        "playerassists": 2
+        "playername": "R. Sallai",
+        "playerlink": "https://www.livesoccertv.com/player/r-sallai/252044/",
+        "playerteam": "Freiburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/sc-freiburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+        "playergoals": 8,
+        "playerassists": 1
     }
   ]
 }
