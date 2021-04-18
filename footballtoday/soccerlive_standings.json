@@ -652,15 +652,15 @@
         "teamrank": 7,
         "teamname": "Roma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "played": 30,
+        "played": 31,
         "wins": 16,
         "draws": 6,
-        "lossess": 8,
-        "goalsfor": 54,
-        "goalsagainst": 44,
-        "goalsdiff": "+10",
+        "lossess": 9,
+        "goalsfor": 55,
+        "goalsagainst": 47,
+        "goalsdiff": "+8",
         "points": 54,
-        "form": "'WDLLW'"
+        "form": "'LWDLL'"
     },
     {
         "teamrank": 8,
@@ -762,6 +762,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Torino",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+        "played": 30,
+        "wins": 6,
+        "draws": 12,
+        "lossess": 12,
+        "goalsfor": 45,
+        "goalsagainst": 53,
+        "goalsdiff": "-8",
+        "points": 30,
+        "form": "'WWDLW'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
         "played": 31,
@@ -775,7 +789,7 @@
         "form": "'LLDLW'"
     },
     {
-        "teamrank": 16,
+        "teamrank": 17,
         "teamname": "Benevento",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
         "played": 31,
@@ -787,20 +801,6 @@
         "goalsdiff": "-27",
         "points": 30,
         "form": "'LLDWL'"
-    },
-    {
-        "teamrank": 17,
-        "teamname": "Torino",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-        "played": 29,
-        "wins": 5,
-        "draws": 12,
-        "lossess": 12,
-        "goalsfor": 42,
-        "goalsagainst": 52,
-        "goalsdiff": "-10",
-        "points": 27,
-        "form": "'WDLWL'"
     },
     {
         "teamrank": 18,
