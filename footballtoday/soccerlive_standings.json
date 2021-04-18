@@ -340,6 +340,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Real Betis",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "played": 31,
+        "wins": 14,
+        "draws": 6,
+        "lossess": 11,
+        "goalsfor": 42,
+        "goalsagainst": 45,
+        "goalsdiff": "-3",
+        "points": 48,
+        "form": "'DDDWL'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
         "played": 31,
@@ -351,20 +365,6 @@
         "goalsdiff": "+15",
         "points": 47,
         "form": "'LDDLL'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Real Betis",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 30,
-        "wins": 14,
-        "draws": 5,
-        "lossess": 11,
-        "goalsfor": 40,
-        "goalsagainst": 43,
-        "goalsdiff": "-3",
-        "points": 47,
-        "form": "'DDWLW'"
     },
     {
         "teamrank": 7,
@@ -410,6 +410,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Celta de Vigo",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "played": 31,
+        "wins": 9,
+        "draws": 11,
+        "lossess": 11,
+        "goalsfor": 41,
+        "goalsagainst": 48,
+        "goalsdiff": "-7",
+        "points": 38,
+        "form": "'DLWLD'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 30,
@@ -421,20 +435,6 @@
         "goalsdiff": "+6",
         "points": 37,
         "form": "'DDDDL'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Celta de Vigo",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "played": 30,
-        "wins": 9,
-        "draws": 10,
-        "lossess": 11,
-        "goalsfor": 41,
-        "goalsagainst": 48,
-        "goalsdiff": "-7",
-        "points": 37,
-        "form": "'LWLDW'"
     },
     {
         "teamrank": 12,
@@ -454,29 +454,29 @@
         "teamrank": 13,
         "teamname": "Cádiz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
-        "played": 30,
+        "played": 31,
         "wins": 9,
-        "draws": 8,
+        "draws": 9,
         "lossess": 13,
         "goalsfor": 27,
         "goalsagainst": 45,
         "goalsdiff": "-18",
-        "points": 35,
-        "form": "'WWLDW'"
+        "points": 36,
+        "form": "'DWWLD'"
     },
     {
         "teamrank": 14,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-        "played": 30,
+        "played": 31,
         "wins": 8,
-        "draws": 10,
+        "draws": 11,
         "lossess": 12,
-        "goalsfor": 37,
-        "goalsagainst": 42,
+        "goalsfor": 39,
+        "goalsagainst": 44,
         "goalsdiff": "-5",
-        "points": 34,
-        "form": "'DLWLW'"
+        "points": 35,
+        "form": "'DDLWL'"
     },
     {
         "teamrank": 15,
