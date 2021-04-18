@@ -307,8 +307,8 @@
         "playerteam": "Crotone",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/fc-crotone/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-        "playergoals": 16,
-        "playerassists": 6
+        "playergoals": 17,
+        "playerassists": 7
     },
     {
         "playername": "Z. Ibrahimović",
@@ -356,6 +356,15 @@
         "playerassists": 3
     },
     {
+        "playername": "D. Berardi",
+        "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
+        "playerteam": "Sassuolo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+        "playergoals": 13,
+        "playerassists": 5
+    },
+    {
         "playername": "João Pedro",
         "playerlink": "https://www.livesoccertv.com/player/joao-pedro/115191/",
         "playerteam": "Cagliari",
@@ -383,15 +392,6 @@
         "playerassists": 3
     },
     {
-        "playername": "D. Berardi",
-        "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
-        "playerteam": "Sassuolo",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-        "playergoals": 11,
-        "playerassists": 3
-    },
-    {
         "playername": "F. Caputo",
         "playerlink": "https://www.livesoccertv.com/player/f-caputo/63860/",
         "playerteam": "Sassuolo",
@@ -406,7 +406,7 @@
         "playerteam": "Genoa",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/genoa/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-        "playergoals": 10,
+        "playergoals": 11,
         "playerassists": 0
     }
   ],
