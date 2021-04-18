@@ -582,15 +582,15 @@
         "teamrank": 2,
         "teamname": "Milan",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-        "played": 30,
-        "wins": 19,
+        "played": 31,
+        "wins": 20,
         "draws": 6,
         "lossess": 5,
-        "goalsfor": 57,
-        "goalsagainst": 35,
-        "goalsdiff": "+22",
-        "points": 63,
-        "form": "'WDWLW'"
+        "goalsfor": 59,
+        "goalsagainst": 36,
+        "goalsdiff": "+23",
+        "points": 66,
+        "form": "'WWDWL'"
     },
     {
         "teamrank": 3,
@@ -734,20 +734,6 @@
     },
     {
         "teamrank": 13,
-        "teamname": "Genoa",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-        "played": 30,
-        "wins": 7,
-        "draws": 11,
-        "lossess": 12,
-        "goalsfor": 32,
-        "goalsagainst": 44,
-        "goalsdiff": "-12",
-        "points": 32,
-        "form": "'LDWDL'"
-    },
-    {
-        "teamrank": 14,
         "teamname": "Spezia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
         "played": 30,
@@ -759,6 +745,20 @@
         "goalsdiff": "-15",
         "points": 32,
         "form": "'WLWLD'"
+    },
+    {
+        "teamrank": 14,
+        "teamname": "Genoa",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+        "played": 31,
+        "wins": 7,
+        "draws": 11,
+        "lossess": 13,
+        "goalsfor": 33,
+        "goalsagainst": 46,
+        "goalsdiff": "-13",
+        "points": 32,
+        "form": "'LLDWD'"
     },
     {
         "teamrank": 15,
