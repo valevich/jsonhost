@@ -147,6 +147,15 @@
         "playerassists": 3
     },
     {
+        "playername": "Gerard Moreno",
+        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
+        "playerteam": "Villarreal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "playergoals": 20,
+        "playerassists": 9
+    },
+    {
         "playername": "K. Benzema",
         "playerlink": "https://www.livesoccertv.com/player/k-benzema/1728/",
         "playerteam": "Real Madrid",
@@ -154,15 +163,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
         "playergoals": 19,
         "playerassists": 0
-    },
-    {
-        "playername": "Gerard Moreno",
-        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
-        "playerteam": "Villarreal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "playergoals": 19,
-        "playerassists": 9
     },
     {
         "playername": "L. Suárez",
@@ -179,7 +179,7 @@
         "playerteam": "Sevilla",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/sevilla/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-        "playergoals": 15,
+        "playergoals": 16,
         "playerassists": 0
     },
     {
@@ -210,6 +210,15 @@
         "playerassists": 2
     },
     {
+        "playername": "Llorente",
+        "playerlink": "https://www.livesoccertv.com/player/marcos-llorente/250443/",
+        "playerteam": "Atletico Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "playergoals": 11,
+        "playerassists": 0
+    },
+    {
         "playername": "Roger Martí",
         "playerlink": "https://www.livesoccertv.com/player/roger-marti/182383/",
         "playerteam": "Levante",
@@ -237,13 +246,13 @@
         "playerassists": 6
     },
     {
-        "playername": "Llorente",
-        "playerlink": "https://www.livesoccertv.com/player/marcos-llorente/250443/",
-        "playerteam": "Atletico Madrid",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "playergoals": 9,
-        "playerassists": 0
+        "playername": "Sergio Canales",
+        "playerlink": "https://www.livesoccertv.com/player/canales/61820/",
+        "playerteam": "Real Betis",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-betis/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "playergoals": 8,
+        "playerassists": 2
     },
     {
         "playername": "Kike",
@@ -260,15 +269,6 @@
         "playerteam": "Barcelona",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "playergoals": 8,
-        "playerassists": 0
-    },
-    {
-        "playername": "Santi Mina",
-        "playerlink": "https://www.livesoccertv.com/player/santi-mina/226131/",
-        "playerteam": "Celta Vigo",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "playergoals": 8,
         "playerassists": 0
     }
@@ -421,6 +421,15 @@
         "playerassists": 6
     },
     {
+        "playername": "M. Depay",
+        "playerlink": "https://www.livesoccertv.com/player/m-depay/136392/",
+        "playerteam": "Olympique Lyonnais",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+        "playergoals": 18,
+        "playerassists": 8
+    },
+    {
         "playername": "W. Ben Yedder",
         "playerlink": "https://www.livesoccertv.com/player/w-ben-yedder/126219/",
         "playerteam": "Monaco",
@@ -430,13 +439,13 @@
         "playerassists": 9
     },
     {
-        "playername": "M. Depay",
-        "playerlink": "https://www.livesoccertv.com/player/m-depay/136392/",
-        "playerteam": "Olympique Lyonnais",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "playergoals": 16,
-        "playerassists": 7
+        "playername": "K. Volland",
+        "playerlink": "https://www.livesoccertv.com/player/k-volland/95821/",
+        "playerteam": "Monaco",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "playergoals": 15,
+        "playerassists": 0
     },
     {
         "playername": "B. Dia",
@@ -446,15 +455,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
         "playergoals": 14,
         "playerassists": 5
-    },
-    {
-        "playername": "K. Volland",
-        "playerlink": "https://www.livesoccertv.com/player/k-volland/95821/",
-        "playerteam": "Monaco",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "playergoals": 14,
-        "playerassists": 0
     },
     {
         "playername": "L. Ajorque",
@@ -520,6 +520,15 @@
         "playerassists": 2
     },
     {
+        "playername": "G. Kakuta",
+        "playerlink": "https://www.livesoccertv.com/player/g-kakuta/92854/",
+        "playerteam": "Lens",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lens/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+        "playergoals": 11,
+        "playerassists": 7
+    },
+    {
         "playername": "T. Moffi",
         "playerlink": "https://www.livesoccertv.com/player/t-moffi/364782/",
         "playerteam": "Lorient",
@@ -536,15 +545,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "playergoals": 10,
         "playerassists": 0
-    },
-    {
-        "playername": "T. Kadewere",
-        "playerlink": "https://www.livesoccertv.com/player/t-kadewere/302725/",
-        "playerteam": "Olympique Lyonnais",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "playergoals": 10,
-        "playerassists": 0
     }
   ],
   "bundesliga": [
@@ -558,6 +558,15 @@
         "playerassists": 6
     },
     {
+        "playername": "E. Haaland",
+        "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
+        "playerteam": "Borussia Dortmund",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+        "playergoals": 23,
+        "playerassists": 2
+    },
+    {
         "playername": "André Silva",
         "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
         "playerteam": "Eintracht Frankfurt",
@@ -565,15 +574,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
         "playergoals": 23,
         "playerassists": 6
-    },
-    {
-        "playername": "E. Haaland",
-        "playerlink": "https://www.livesoccertv.com/player/e-haland/323379/",
-        "playerteam": "Borussia Dortmund",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-        "playergoals": 21,
-        "playerassists": 1
     },
     {
         "playername": "W. Weghorst",
