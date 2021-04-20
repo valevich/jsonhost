@@ -24,7 +24,7 @@
       "AwayTeam": "Brighton",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  B…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -143,7 +143,7 @@
       "AwayTeam": "Southampton",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  B…"
     },
     {
       "LeagueName": "English Premier League",
@@ -573,10 +573,10 @@
       "HomeTeam": "Arsenal",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "AwayTeam": "Arsenal",
+      "AwayTeam": "Everton",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "TVChannels": "vs Everton Arsenal Player ,  DAZN ,  Sky HD ,  Blue To Go…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+      "TVChannels": "SiriusXM FC ,  Arsenal Player ,  DAZN ,  Sky HD ,  …"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -682,7 +682,7 @@
       "AwayTeam": "Newcastle Utd",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-      "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
+      "TVChannels": "SiriusXM FC ,  DAZN ,  Sky HD ,  Blue To Go Vi…"
     },
     {
       "LeagueName": "English Premier League",
@@ -695,7 +695,7 @@
       "AwayTeam": "Chelsea",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "TVChannels": "fuboTV ,  UNIVERSO ,  DAZN ,  Sky H…"
+      "TVChannels": "fuboTV ,  UNIVERSO ,  SiriusXM F…"
     },
     {
       "LeagueName": "English Premier League",
@@ -708,7 +708,7 @@
       "AwayTeam": "Brighton",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-      "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
+      "TVChannels": "SiriusXM FC ,  DAZN ,  Sky HD ,  Blue To Go Vi…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -1098,7 +1098,7 @@
       "AwayTeam": "Houston Dynamo",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN2 Cari…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  SiriusXM FC ,  DAZN ,  …"
     }
   ],
   "day6": [
