@@ -284,6 +284,20 @@
   "primera-division": [
     {
         "teamrank": 1,
+        "teamname": "Real Madrid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "played": 32,
+        "wins": 21,
+        "draws": 7,
+        "lossess": 4,
+        "goalsfor": 56,
+        "goalsagainst": 24,
+        "goalsdiff": "+32",
+        "points": 70,
+        "form": "'WDWWW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Atlético Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
         "played": 31,
@@ -295,20 +309,6 @@
         "goalsdiff": "+37",
         "points": 70,
         "form": "'WDLWD'"
-    },
-    {
-        "teamrank": 2,
-        "teamname": "Real Madrid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "played": 31,
-        "wins": 20,
-        "draws": 7,
-        "lossess": 4,
-        "goalsfor": 53,
-        "goalsagainst": 24,
-        "goalsdiff": "+29",
-        "points": 67,
-        "form": "'DWWWW'"
     },
     {
         "teamrank": 3,
@@ -454,15 +454,15 @@
         "teamrank": 13,
         "teamname": "Cádiz",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
-        "played": 31,
+        "played": 32,
         "wins": 9,
         "draws": 9,
-        "lossess": 13,
+        "lossess": 14,
         "goalsfor": 27,
-        "goalsagainst": 45,
-        "goalsdiff": "-18",
+        "goalsagainst": 48,
+        "goalsdiff": "-21",
         "points": 36,
-        "form": "'DWWLD'"
+        "form": "'LDWWL'"
     },
     {
         "teamrank": 14,
