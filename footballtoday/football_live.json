@@ -30,7 +30,7 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:15pm",
-      "GameState": "61 ",
+      "GameState": "83 ",
       "HomeTeam": "Aston Villa",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
@@ -95,38 +95,38 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "80 ",
+      "GameState": "FT ",
       "HomeTeam": "Elche",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
       "AwayTeam": "Real Valladolid",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN SPORTS CO…"
     },
     {
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "75 ",
+      "GameState": "FT ",
       "HomeTeam": "Alavés",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
       "AwayTeam": "Villarreal",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN SPORTS CO…"
     },
     {
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "4:00pm",
-      "GameState": "36 ",
+      "GameState": "HT ",
       "HomeTeam": "Cádiz",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
       "AwayTeam": "Real Madrid",
-      "AwayGoals": "2",
+      "AwayGoals": "3",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
       "TVChannels": "Fanatiz USA ,  beIN SPORTS ,  beIN…"
     },
@@ -160,14 +160,14 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Bologna",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
       "AwayTeam": "Torino",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play Norte ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -180,7 +180,7 @@
       "AwayTeam": "Parma",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-      "TVChannels": "Fanatiz USA ,  ESPN+ ,  fuboT…"
+      "TVChannels": "Fanatiz USA ,  ESPN+ ,  fuboTV ,  ESPN App ,  Ra…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -193,20 +193,20 @@
       "AwayTeam": "Benevento",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play Norte ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Udinese",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
       "AwayTeam": "Cagliari",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-      "TVChannels": "ESPN2 ,  ESPN Deportes ,  ESPN Deporte…"
+      "TVChannels": "ESPN2 ,  ESPN Deportes ,  ESPN Deportes+ ,  fu…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -219,20 +219,20 @@
       "AwayTeam": "Sampdoria",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play Norte ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Spezia",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4056.png",
       "AwayTeam": "Inter",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN No…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN Norte"
     },
     {
       "LeagueName": "German Bundesliga",
