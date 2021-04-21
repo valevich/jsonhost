@@ -340,6 +340,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Real Betis",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "played": 32,
+        "wins": 14,
+        "draws": 7,
+        "lossess": 11,
+        "goalsfor": 42,
+        "goalsagainst": 45,
+        "goalsdiff": "-3",
+        "points": 49,
+        "form": "'DDDDW'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Villarreal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
         "played": 31,
@@ -351,20 +365,6 @@
         "goalsdiff": "+14",
         "points": 49,
         "form": "'WLWWW'"
-    },
-    {
-        "teamrank": 6,
-        "teamname": "Real Betis",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 31,
-        "wins": 14,
-        "draws": 6,
-        "lossess": 11,
-        "goalsfor": 42,
-        "goalsagainst": 45,
-        "goalsdiff": "-3",
-        "points": 48,
-        "form": "'DDDWL'"
     },
     {
         "teamrank": 7,
@@ -410,6 +410,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Athletic Club",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "played": 31,
+        "wins": 9,
+        "draws": 11,
+        "lossess": 11,
+        "goalsfor": 39,
+        "goalsagainst": 33,
+        "goalsdiff": "+6",
+        "points": 38,
+        "form": "'DDDDD'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "played": 31,
@@ -423,7 +437,7 @@
         "form": "'DLWLD'"
     },
     {
-        "teamrank": 11,
+        "teamrank": 12,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 32,
@@ -435,20 +449,6 @@
         "goalsdiff": "-7",
         "points": 38,
         "form": "'LLWLL'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Athletic Club",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "played": 30,
-        "wins": 9,
-        "draws": 10,
-        "lossess": 11,
-        "goalsfor": 39,
-        "goalsagainst": 33,
-        "goalsdiff": "+6",
-        "points": 37,
-        "form": "'DDDDL'"
     },
     {
         "teamrank": 13,
