@@ -312,6 +312,20 @@
     },
     {
         "teamrank": 3,
+        "teamname": "Barcelona",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "played": 31,
+        "wins": 21,
+        "draws": 5,
+        "lossess": 5,
+        "goalsfor": 74,
+        "goalsagainst": 28,
+        "goalsdiff": "+46",
+        "points": 68,
+        "form": "'WLWWW'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
         "played": 32,
@@ -323,20 +337,6 @@
         "goalsdiff": "+22",
         "points": 67,
         "form": "'WWWWD'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Barcelona",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "played": 30,
-        "wins": 20,
-        "draws": 5,
-        "lossess": 5,
-        "goalsfor": 69,
-        "goalsagainst": 26,
-        "goalsdiff": "+43",
-        "points": 65,
-        "form": "'LWWWW'"
     },
     {
         "teamrank": 5,
@@ -482,15 +482,15 @@
         "teamrank": 15,
         "teamname": "Getafe",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-        "played": 31,
+        "played": 32,
         "wins": 7,
         "draws": 10,
-        "lossess": 14,
-        "goalsfor": 22,
-        "goalsagainst": 34,
-        "goalsdiff": "-12",
+        "lossess": 15,
+        "goalsfor": 24,
+        "goalsagainst": 39,
+        "goalsdiff": "-15",
         "points": 31,
-        "form": "'DLDDD'"
+        "form": "'LDLDD'"
     },
     {
         "teamrank": 16,
