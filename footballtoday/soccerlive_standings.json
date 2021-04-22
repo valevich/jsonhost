@@ -32,15 +32,15 @@
         "teamrank": 3,
         "teamname": "Leicester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "played": 31,
-        "wins": 17,
+        "played": 32,
+        "wins": 18,
         "draws": 5,
         "lossess": 9,
-        "goalsfor": 55,
+        "goalsfor": 58,
         "goalsagainst": 37,
-        "goalsdiff": "+18",
-        "points": 56,
-        "form": "'LLWWD'"
+        "goalsdiff": "+21",
+        "points": 59,
+        "form": "'WLLWW'"
     },
     {
         "teamrank": 4,
@@ -256,15 +256,15 @@
         "teamrank": 19,
         "teamname": "West Bromwich Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-        "played": 31,
+        "played": 32,
         "wins": 5,
         "draws": 9,
-        "lossess": 17,
+        "lossess": 18,
         "goalsfor": 28,
-        "goalsagainst": 59,
-        "goalsdiff": "-31",
+        "goalsagainst": 62,
+        "goalsdiff": "-34",
         "points": 24,
-        "form": "'WWLDL'"
+        "form": "'LWWLD'"
     },
     {
         "teamrank": 20,
@@ -340,6 +340,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Real Sociedad",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+        "played": 32,
+        "wins": 13,
+        "draws": 11,
+        "lossess": 8,
+        "goalsfor": 50,
+        "goalsagainst": 34,
+        "goalsdiff": "+16",
+        "points": 50,
+        "form": "'WLDDL'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "played": 32,
@@ -353,7 +367,7 @@
         "form": "'DDDDW'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Villarreal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
         "played": 32,
@@ -367,21 +381,21 @@
         "form": "'LWLWW'"
     },
     {
-        "teamrank": 7,
-        "teamname": "Real Sociedad",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+        "teamrank": 8,
+        "teamname": "Granada",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
         "played": 31,
         "wins": 12,
-        "draws": 11,
-        "lossess": 8,
-        "goalsfor": 48,
-        "goalsagainst": 33,
-        "goalsdiff": "+15",
-        "points": 47,
-        "form": "'LDDLL'"
+        "draws": 6,
+        "lossess": 13,
+        "goalsfor": 40,
+        "goalsagainst": 51,
+        "goalsdiff": "-11",
+        "points": 42,
+        "form": "'WWLLW'"
     },
     {
-        "teamrank": 8,
+        "teamrank": 9,
         "teamname": "Osasuna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
         "played": 32,
@@ -393,20 +407,6 @@
         "goalsdiff": "-7",
         "points": 40,
         "form": "'WWWDD'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Granada",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "played": 30,
-        "wins": 11,
-        "draws": 6,
-        "lossess": 13,
-        "goalsfor": 36,
-        "goalsagainst": 50,
-        "goalsdiff": "-14",
-        "points": 39,
-        "form": "'WLLWL'"
     },
     {
         "teamrank": 10,
@@ -424,20 +424,6 @@
     },
     {
         "teamrank": 11,
-        "teamname": "Celta de Vigo",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-        "played": 31,
-        "wins": 9,
-        "draws": 11,
-        "lossess": 11,
-        "goalsfor": 41,
-        "goalsagainst": 48,
-        "goalsdiff": "-7",
-        "points": 38,
-        "form": "'DLWLD'"
-    },
-    {
-        "teamrank": 12,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 32,
@@ -449,6 +435,20 @@
         "goalsdiff": "-7",
         "points": 38,
         "form": "'LLWLL'"
+    },
+    {
+        "teamrank": 12,
+        "teamname": "Celta de Vigo",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "played": 32,
+        "wins": 9,
+        "draws": 11,
+        "lossess": 12,
+        "goalsfor": 42,
+        "goalsagainst": 50,
+        "goalsdiff": "-8",
+        "points": 38,
+        "form": "'LDLWL'"
     },
     {
         "teamrank": 13,
@@ -552,15 +552,15 @@
         "teamrank": 20,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 31,
+        "played": 32,
         "wins": 4,
         "draws": 11,
-        "lossess": 16,
-        "goalsfor": 22,
-        "goalsagainst": 41,
-        "goalsdiff": "-19",
+        "lossess": 17,
+        "goalsfor": 23,
+        "goalsagainst": 45,
+        "goalsdiff": "-22",
         "points": 23,
-        "form": "'LLLDL'"
+        "form": "'LLLLD'"
     }
   ],
   "serie-a": [
@@ -624,29 +624,29 @@
         "teamrank": 5,
         "teamname": "Napoli",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "played": 31,
-        "wins": 19,
+        "played": 32,
+        "wins": 20,
         "draws": 3,
         "lossess": 9,
-        "goalsfor": 66,
-        "goalsagainst": 35,
-        "goalsdiff": "+31",
-        "points": 60,
-        "form": "'DWLWW'"
+        "goalsfor": 71,
+        "goalsagainst": 37,
+        "goalsdiff": "+34",
+        "points": 63,
+        "form": "'WDWLW'"
     },
     {
         "teamrank": 6,
         "teamname": "Lazio",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-        "played": 30,
+        "played": 31,
         "wins": 18,
         "draws": 4,
-        "lossess": 8,
-        "goalsfor": 51,
-        "goalsagainst": 41,
-        "goalsdiff": "+10",
+        "lossess": 9,
+        "goalsfor": 53,
+        "goalsagainst": 46,
+        "goalsdiff": "+7",
         "points": 58,
-        "form": "'WWWWW'"
+        "form": "'LWWWW'"
     },
     {
         "teamrank": 7,
