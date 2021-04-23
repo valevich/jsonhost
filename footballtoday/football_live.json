@@ -131,9 +131,7 @@
       "TVChannels": "Fanatiz USA ,  ESPN+ ,  fuboTV ,  ESPN App ,  Ra…"
     }
   ],
-    }
-  ],
-  "day3": [
+  "day2": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -577,7 +575,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  SiriusXM FC ,  DAZN ,  …"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -982,7 +980,7 @@
       "TVChannels": "Fox Sports 1 ,  fuboTV ,  FOX Spor…"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -1075,7 +1073,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN2…"
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
@@ -1103,7 +1101,7 @@
       "TVChannels": "CBS Sports Network ,  fuboTV ,  T…"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
@@ -1154,6 +1152,73 @@
       "AwayTeam": "Real Valladolid",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
+      "TVChannels": "Fanatiz USA ,  beIN SPORTS ,  beIN…"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "Thursday Apr. 29, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Villarreal",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+      "AwayTeam": "Arsenal",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+      "TVChannels": "Galavision ,  TUDN.com ,  Univision…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Manchester Utd",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+      "AwayTeam": "Roma",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+      "TVChannels": "TUDN USA ,  UniMás ,  TUDN.com ,  …"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "Thursday Apr. 29, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Barcelona",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+      "AwayTeam": "Granada",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
       "TVChannels": "Fanatiz USA ,  beIN SPORTS ,  beIN…"
     }
   ]
