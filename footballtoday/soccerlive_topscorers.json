@@ -64,6 +64,15 @@
         "playerassists": 3
     },
     {
+        "playername": "J. Vardy",
+        "playerlink": "https://www.livesoccertv.com/player/j-vardy/135178/",
+        "playerteam": "Leicester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+        "playergoals": 13,
+        "playerassists": 6
+    },
+    {
         "playername": "İ. Gündoğan",
         "playerlink": "https://www.livesoccertv.com/player/gundo-an/69183/",
         "playerteam": "Manchester City",
@@ -71,15 +80,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "playergoals": 12,
         "playerassists": 1
-    },
-    {
-        "playername": "J. Vardy",
-        "playerlink": "https://www.livesoccertv.com/player/j-vardy/135178/",
-        "playerteam": "Leicester City",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "playergoals": 12,
-        "playerassists": 6
     },
     {
         "playername": "O. Watkins",
