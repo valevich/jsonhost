@@ -255,6 +255,15 @@
         "playerassists": 0
     },
     {
+        "playername": "A. Griezmann",
+        "playerlink": "https://www.livesoccertv.com/player/a-griezmann/90283/",
+        "playerteam": "Barcelona",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "playergoals": 9,
+        "playerassists": 1
+    },
+    {
         "playername": "Sergio Canales",
         "playerlink": "https://www.livesoccertv.com/player/canales/61820/",
         "playerteam": "Real Betis",
@@ -262,15 +271,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "playergoals": 8,
         "playerassists": 2
-    },
-    {
-        "playername": "A. Griezmann",
-        "playerlink": "https://www.livesoccertv.com/player/a-griezmann/90283/",
-        "playerteam": "Barcelona",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "playergoals": 8,
-        "playerassists": 0
     }
   ],
   "serie-a": [
@@ -302,6 +302,24 @@
         "playerassists": 1
     },
     {
+        "playername": "C. Immobile",
+        "playerlink": "https://www.livesoccertv.com/player/c-immobile/75297/",
+        "playerteam": "Lazio",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/lazio-roma/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+        "playergoals": 17,
+        "playerassists": 3
+    },
+    {
+        "playername": "L. Insigne",
+        "playerlink": "https://www.livesoccertv.com/player/l-insigne/104026/",
+        "playerteam": "Napoli",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "playergoals": 17,
+        "playerassists": 7
+    },
+    {
         "playername": "S. Nwankwo",
         "playerlink": "https://www.livesoccertv.com/player/s-nwankwo/165078/",
         "playerteam": "Crotone",
@@ -309,15 +327,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
         "playergoals": 17,
         "playerassists": 7
-    },
-    {
-        "playername": "C. Immobile",
-        "playerlink": "https://www.livesoccertv.com/player/c-immobile/75297/",
-        "playerteam": "Lazio",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/lazio-roma/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-        "playergoals": 16,
-        "playerassists": 3
     },
     {
         "playername": "D. Vlahović",
@@ -336,15 +345,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
         "playergoals": 15,
         "playerassists": 3
-    },
-    {
-        "playername": "L. Insigne",
-        "playerlink": "https://www.livesoccertv.com/player/l-insigne/104026/",
-        "playerteam": "Napoli",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "playergoals": 15,
-        "playerassists": 6
     },
     {
         "playername": "L. Martínez",
