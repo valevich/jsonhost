@@ -143,7 +143,7 @@
         "playerteam": "Barcelona",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "playergoals": 23,
+        "playergoals": 25,
         "playerassists": 3
     },
     {
@@ -246,6 +246,15 @@
         "playerassists": 6
     },
     {
+        "playername": "Kike",
+        "playerlink": "https://www.livesoccertv.com/player/kike/62297/",
+        "playerteam": "Eibar",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/eibar/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
         "playername": "Sergio Canales",
         "playerlink": "https://www.livesoccertv.com/player/canales/61820/",
         "playerteam": "Real Betis",
@@ -253,15 +262,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
         "playergoals": 8,
         "playerassists": 2
-    },
-    {
-        "playername": "Kike",
-        "playerlink": "https://www.livesoccertv.com/player/kike/62297/",
-        "playerteam": "Eibar",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/eibar/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "playergoals": 8,
-        "playerassists": 0
     },
     {
         "playername": "A. Griezmann",
