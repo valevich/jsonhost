@@ -72,6 +72,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Liverpool",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "played": 33,
+        "wins": 15,
+        "draws": 9,
+        "lossess": 9,
+        "goalsfor": 55,
+        "goalsagainst": 39,
+        "goalsdiff": "+16",
+        "points": 54,
+        "form": "'DDWWW'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "played": 33,
@@ -83,20 +97,6 @@
         "goalsdiff": "+18",
         "points": 53,
         "form": "'WDLDW'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Liverpool",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "played": 32,
-        "wins": 15,
-        "draws": 8,
-        "lossess": 9,
-        "goalsfor": 54,
-        "goalsagainst": 38,
-        "goalsdiff": "+16",
-        "points": 53,
-        "form": "'DWWWL'"
     },
     {
         "teamrank": 8,
@@ -200,15 +200,15 @@
         "teamrank": 15,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-        "played": 32,
+        "played": 33,
         "wins": 9,
-        "draws": 8,
+        "draws": 9,
         "lossess": 15,
-        "goalsfor": 35,
-        "goalsagainst": 53,
+        "goalsfor": 36,
+        "goalsagainst": 54,
         "goalsdiff": "-18",
-        "points": 35,
-        "form": "'WWDLD'"
+        "points": 36,
+        "form": "'DWWDL'"
     },
     {
         "teamrank": 16,
