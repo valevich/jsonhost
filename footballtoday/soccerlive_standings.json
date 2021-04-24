@@ -820,29 +820,29 @@
         "teamrank": 19,
         "teamname": "Parma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-        "played": 32,
+        "played": 33,
         "wins": 3,
         "draws": 11,
-        "lossess": 18,
-        "goalsfor": 33,
-        "goalsagainst": 66,
-        "goalsdiff": "-33",
+        "lossess": 19,
+        "goalsfor": 36,
+        "goalsagainst": 70,
+        "goalsdiff": "-34",
         "points": 20,
-        "form": "'LLLDL'"
+        "form": "'LLLLD'"
     },
     {
         "teamrank": 20,
         "teamname": "Crotone",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-        "played": 32,
-        "wins": 4,
+        "played": 33,
+        "wins": 5,
         "draws": 3,
         "lossess": 25,
-        "goalsfor": 38,
-        "goalsagainst": 80,
-        "goalsdiff": "-42",
-        "points": 15,
-        "form": "'LLLLL'"
+        "goalsfor": 42,
+        "goalsagainst": 83,
+        "goalsdiff": "-41",
+        "points": 18,
+        "form": "'WLLLL'"
     }
   ],
   "ligue-1": [
