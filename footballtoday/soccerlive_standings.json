@@ -468,15 +468,15 @@
         "teamrank": 14,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-        "played": 32,
+        "played": 33,
         "wins": 8,
-        "draws": 11,
+        "draws": 12,
         "lossess": 13,
-        "goalsfor": 40,
-        "goalsagainst": 47,
+        "goalsfor": 41,
+        "goalsagainst": 48,
         "goalsdiff": "-7",
-        "points": 35,
-        "form": "'LDDLW'"
+        "points": 36,
+        "form": "'DLDDL'"
     },
     {
         "teamrank": 15,
@@ -494,6 +494,20 @@
     },
     {
         "teamrank": 16,
+        "teamname": "Deportivo Alavés",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+        "played": 33,
+        "wins": 7,
+        "draws": 10,
+        "lossess": 16,
+        "goalsfor": 28,
+        "goalsagainst": 49,
+        "goalsdiff": "-21",
+        "points": 31,
+        "form": "'DWWDL'"
+    },
+    {
+        "teamrank": 17,
         "teamname": "Elche",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
         "played": 33,
@@ -505,20 +519,6 @@
         "goalsdiff": "-20",
         "points": 30,
         "form": "'WDLLD'"
-    },
-    {
-        "teamrank": 17,
-        "teamname": "Deportivo Alavés",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-        "played": 32,
-        "wins": 7,
-        "draws": 9,
-        "lossess": 16,
-        "goalsfor": 27,
-        "goalsagainst": 48,
-        "goalsdiff": "-21",
-        "points": 30,
-        "form": "'WWDLL'"
     },
     {
         "teamrank": 18,
@@ -1174,15 +1174,15 @@
         "teamrank": 4,
         "teamname": "Eintracht Frankfurt",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-        "played": 30,
+        "played": 31,
         "wins": 15,
         "draws": 11,
-        "lossess": 4,
-        "goalsfor": 61,
-        "goalsagainst": 44,
-        "goalsdiff": "+17",
+        "lossess": 5,
+        "goalsfor": 62,
+        "goalsagainst": 47,
+        "goalsdiff": "+15",
         "points": 56,
-        "form": "'WLWWW'"
+        "form": "'LWLWW'"
     },
     {
         "teamrank": 5,
@@ -1202,15 +1202,15 @@
         "teamrank": 6,
         "teamname": "Bayer Leverkusen",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-        "played": 30,
-        "wins": 13,
+        "played": 31,
+        "wins": 14,
         "draws": 8,
         "lossess": 9,
-        "goalsfor": 48,
-        "goalsagainst": 34,
-        "goalsdiff": "+14",
-        "points": 47,
-        "form": "'LWDWL'"
+        "goalsfor": 51,
+        "goalsagainst": 35,
+        "goalsdiff": "+16",
+        "points": 50,
+        "form": "'WLWDW'"
     },
     {
         "teamrank": 7,
