@@ -424,20 +424,6 @@
     },
     {
         "teamrank": 11,
-        "teamname": "Levante",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "played": 32,
-        "wins": 9,
-        "draws": 11,
-        "lossess": 12,
-        "goalsfor": 38,
-        "goalsagainst": 45,
-        "goalsdiff": "-7",
-        "points": 38,
-        "form": "'LLWLL'"
-    },
-    {
-        "teamrank": 12,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "played": 32,
@@ -449,6 +435,20 @@
         "goalsdiff": "-8",
         "points": 38,
         "form": "'LDLWL'"
+    },
+    {
+        "teamrank": 12,
+        "teamname": "Levante",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "played": 33,
+        "wins": 9,
+        "draws": 11,
+        "lossess": 13,
+        "goalsfor": 38,
+        "goalsagainst": 46,
+        "goalsdiff": "-8",
+        "points": 38,
+        "form": "'LLLWL'"
     },
     {
         "teamrank": 13,
@@ -494,6 +494,20 @@
     },
     {
         "teamrank": 16,
+        "teamname": "Elche",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+        "played": 33,
+        "wins": 6,
+        "draws": 12,
+        "lossess": 15,
+        "goalsfor": 29,
+        "goalsagainst": 49,
+        "goalsdiff": "-20",
+        "points": 30,
+        "form": "'WDLLD'"
+    },
+    {
+        "teamrank": 17,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 32,
@@ -507,7 +521,7 @@
         "form": "'WWDLL'"
     },
     {
-        "teamrank": 17,
+        "teamrank": 18,
         "teamname": "Real Valladolid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
         "played": 31,
@@ -521,7 +535,7 @@
         "form": "'DLLDD'"
     },
     {
-        "teamrank": 18,
+        "teamrank": 19,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
         "played": 32,
@@ -533,20 +547,6 @@
         "goalsdiff": "-17",
         "points": 27,
         "form": "'LLWWD'"
-    },
-    {
-        "teamrank": 19,
-        "teamname": "Elche",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-        "played": 32,
-        "wins": 5,
-        "draws": 12,
-        "lossess": 15,
-        "goalsfor": 28,
-        "goalsagainst": 49,
-        "goalsdiff": "-21",
-        "points": 27,
-        "form": "'DLLDD'"
     },
     {
         "teamrank": 20,
