@@ -848,6 +848,20 @@
   "ligue-1": [
     {
         "teamrank": 1,
+        "teamname": "PSG",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "played": 34,
+        "wins": 23,
+        "draws": 3,
+        "lossess": 8,
+        "goalsfor": 77,
+        "goalsagainst": 26,
+        "goalsdiff": "+51",
+        "points": 72,
+        "form": "'WWWLW'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Lille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "played": 33,
@@ -859,20 +873,6 @@
         "goalsdiff": "+34",
         "points": 70,
         "form": "'DWWLD'"
-    },
-    {
-        "teamrank": 2,
-        "teamname": "PSG",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "played": 33,
-        "wins": 22,
-        "draws": 3,
-        "lossess": 8,
-        "goalsfor": 74,
-        "goalsagainst": 25,
-        "goalsdiff": "+49",
-        "points": 69,
-        "form": "'WWLWL'"
     },
     {
         "teamrank": 3,
@@ -960,20 +960,6 @@
     },
     {
         "teamrank": 9,
-        "teamname": "Metz",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
-        "played": 33,
-        "wins": 11,
-        "draws": 10,
-        "lossess": 12,
-        "goalsfor": 36,
-        "goalsagainst": 38,
-        "goalsdiff": "-2",
-        "points": 43,
-        "form": "'DLLLD'"
-    },
-    {
-        "teamrank": 10,
         "teamname": "Nice",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
         "played": 33,
@@ -985,6 +971,20 @@
         "goalsdiff": "-3",
         "points": 43,
         "form": "'LDWWD'"
+    },
+    {
+        "teamrank": 10,
+        "teamname": "Metz",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
+        "played": 34,
+        "wins": 11,
+        "draws": 10,
+        "lossess": 13,
+        "goalsfor": 37,
+        "goalsagainst": 41,
+        "goalsdiff": "-4",
+        "points": 43,
+        "form": "'LDLLL'"
     },
     {
         "teamrank": 11,
