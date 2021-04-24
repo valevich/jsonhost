@@ -43,14 +43,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
-      "GameState": "86 ",
+      "GameState": "FT ",
       "HomeTeam": "Sheffield Utd",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
       "AwayTeam": "Brighton",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  B…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  Blue T…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -108,14 +108,14 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "85 ",
+      "GameState": "FT ",
       "HomeTeam": "Real Madrid",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
       "AwayTeam": "Real Betis",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-      "TVChannels": "Fanatiz USA ,  beIN SPORTS ,  beIN…"
+      "TVChannels": "Fanatiz USA ,  beIN SPORTS ,  beIN SPOR…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -329,9 +329,9 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "3:08pm",
-      "GameState": "74 ",
+      "GameState": "90 ",
       "HomeTeam": "Toronto FC",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
       "AwayTeam": "Vancouver Whitecaps",
       "AwayGoals": "2",
