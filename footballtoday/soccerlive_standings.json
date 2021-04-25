@@ -158,15 +158,15 @@
         "teamrank": 12,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-        "played": 32,
+        "played": 33,
         "wins": 11,
         "draws": 8,
-        "lossess": 13,
+        "lossess": 14,
         "goalsfor": 32,
-        "goalsagainst": 41,
-        "goalsdiff": "-9",
+        "goalsagainst": 45,
+        "goalsdiff": "-13",
         "points": 41,
-        "form": "'WWLLD'"
+        "form": "'LWWLL'"
     },
     {
         "teamrank": 13,
@@ -184,6 +184,20 @@
     },
     {
         "teamrank": 14,
+        "teamname": "Burnley",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+        "played": 33,
+        "wins": 9,
+        "draws": 9,
+        "lossess": 15,
+        "goalsfor": 30,
+        "goalsagainst": 45,
+        "goalsdiff": "-15",
+        "points": 36,
+        "form": "'WLLLW'"
+    },
+    {
+        "teamrank": 15,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
         "played": 32,
@@ -197,7 +211,7 @@
         "form": "'LLWLL'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "played": 33,
@@ -211,7 +225,7 @@
         "form": "'DWWDL'"
     },
     {
-        "teamrank": 16,
+        "teamrank": 17,
         "teamname": "Brighton & Hove Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
         "played": 33,
@@ -223,20 +237,6 @@
         "goalsdiff": "-6",
         "points": 34,
         "form": "'LDDLW'"
-    },
-    {
-        "teamrank": 17,
-        "teamname": "Burnley",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-        "played": 32,
-        "wins": 8,
-        "draws": 9,
-        "lossess": 15,
-        "goalsfor": 26,
-        "goalsagainst": 45,
-        "goalsdiff": "-19",
-        "points": 33,
-        "form": "'LLLWD'"
     },
     {
         "teamrank": 18,
@@ -706,6 +706,20 @@
     },
     {
         "teamrank": 11,
+        "teamname": "Udinese",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+        "played": 33,
+        "wins": 10,
+        "draws": 9,
+        "lossess": 14,
+        "goalsfor": 38,
+        "goalsagainst": 44,
+        "goalsdiff": "-6",
+        "points": 39,
+        "form": "'WLWLL'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Bologna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
         "played": 32,
@@ -717,20 +731,6 @@
         "goalsdiff": "-4",
         "points": 38,
         "form": "'DWLLW'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Udinese",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-        "played": 32,
-        "wins": 9,
-        "draws": 9,
-        "lossess": 14,
-        "goalsfor": 34,
-        "goalsagainst": 42,
-        "goalsdiff": "-8",
-        "points": 36,
-        "form": "'LWLLL'"
     },
     {
         "teamrank": 13,
@@ -792,15 +792,15 @@
         "teamrank": 17,
         "teamname": "Benevento",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
-        "played": 32,
+        "played": 33,
         "wins": 7,
         "draws": 10,
-        "lossess": 15,
-        "goalsfor": 35,
-        "goalsagainst": 62,
-        "goalsdiff": "-27",
+        "lossess": 16,
+        "goalsfor": 37,
+        "goalsagainst": 66,
+        "goalsdiff": "-29",
         "points": 31,
-        "form": "'DLLDW'"
+        "form": "'LDLLD'"
     },
     {
         "teamrank": 18,
@@ -948,29 +948,29 @@
         "teamrank": 8,
         "teamname": "Montpellier",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "played": 33,
+        "played": 34,
         "wins": 12,
         "draws": 11,
-        "lossess": 10,
-        "goalsfor": 53,
-        "goalsagainst": 54,
-        "goalsdiff": "-1",
+        "lossess": 11,
+        "goalsfor": 54,
+        "goalsagainst": 57,
+        "goalsdiff": "-3",
         "points": 47,
-        "form": "'DDDWD'"
+        "form": "'LDDDW'"
     },
     {
         "teamrank": 9,
         "teamname": "Nice",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-        "played": 33,
-        "wins": 12,
+        "played": 34,
+        "wins": 13,
         "draws": 7,
         "lossess": 14,
-        "goalsfor": 41,
-        "goalsagainst": 44,
-        "goalsdiff": "-3",
-        "points": 43,
-        "form": "'LDWWD'"
+        "goalsfor": 44,
+        "goalsagainst": 45,
+        "goalsdiff": "-1",
+        "points": 46,
+        "form": "'WLDWW'"
     },
     {
         "teamrank": 10,
