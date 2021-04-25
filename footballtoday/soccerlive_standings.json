@@ -580,6 +580,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Atalanta",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+        "played": 33,
+        "wins": 20,
+        "draws": 8,
+        "lossess": 5,
+        "goalsfor": 78,
+        "goalsagainst": 39,
+        "goalsdiff": "+39",
+        "points": 68,
+        "form": "'WDWWW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Milan",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
         "played": 32,
@@ -593,7 +607,7 @@
         "form": "'LWWDW'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Juventus",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
         "played": 33,
@@ -605,20 +619,6 @@
         "goalsdiff": "+35",
         "points": 66,
         "form": "'DWLWW'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Atalanta",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "played": 32,
-        "wins": 19,
-        "draws": 8,
-        "lossess": 5,
-        "goalsfor": 73,
-        "goalsagainst": 39,
-        "goalsdiff": "+34",
-        "points": 65,
-        "form": "'DWWWW'"
     },
     {
         "teamrank": 5,
@@ -722,15 +722,15 @@
         "teamrank": 12,
         "teamname": "Bologna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-        "played": 32,
+        "played": 33,
         "wins": 10,
         "draws": 8,
-        "lossess": 14,
+        "lossess": 15,
         "goalsfor": 44,
-        "goalsagainst": 48,
-        "goalsdiff": "-4",
+        "goalsagainst": 53,
+        "goalsdiff": "-9",
         "points": 38,
-        "form": "'DWLLW'"
+        "form": "'LDWLL'"
     },
     {
         "teamrank": 13,
