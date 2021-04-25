@@ -147,14 +147,14 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "64 ",
+      "GameState": "85 ",
       "HomeTeam": "Athletic Club",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
       "AwayTeam": "Atletico Madrid",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-      "TVChannels": "Athletic Club  1 - 0  Atlético Madrid Fanatiz USA ,  beIN SPORTS ,  beIN…"
+      "TVChannels": "Athletic Club  1 - 1  Atlético Madrid Fanatiz USA ,  beIN SPORTS ,  beIN…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -225,14 +225,14 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "80 ",
+      "GameState": "FT ",
       "HomeTeam": "Atalanta",
       "HomeGoals": "5",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
       "AwayTeam": "Bologna",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN P…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  TLN ,  ESPN Play N…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -368,7 +368,7 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
-      "GameState": "63 ",
+      "GameState": "84 ",
       "HomeTeam": "Lyon",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
