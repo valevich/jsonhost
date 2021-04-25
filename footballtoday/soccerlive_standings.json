@@ -26,7 +26,7 @@
         "goalsagainst": 35,
         "goalsdiff": "+29",
         "points": 66,
-        "form": "'WWWWW'"
+        "form": "'DWWWW'"
     },
     {
         "teamrank": 3,
@@ -138,7 +138,7 @@
         "goalsagainst": 50,
         "goalsdiff": "0",
         "points": 46,
-        "form": "'DWWWD'"
+        "form": "'DDWWW'"
     },
     {
         "teamrank": 11,
@@ -568,15 +568,15 @@
         "teamrank": 1,
         "teamname": "Internazionale",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "played": 32,
-        "wins": 23,
+        "played": 33,
+        "wins": 24,
         "draws": 7,
         "lossess": 2,
-        "goalsfor": 71,
+        "goalsfor": 72,
         "goalsagainst": 29,
-        "goalsdiff": "+42",
-        "points": 76,
-        "form": "'DDWWW'"
+        "goalsdiff": "+43",
+        "points": 79,
+        "form": "'WDDWW'"
     },
     {
         "teamrank": 2,
@@ -594,6 +594,20 @@
     },
     {
         "teamrank": 3,
+        "teamname": "Juventus",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+        "played": 33,
+        "wins": 19,
+        "draws": 9,
+        "lossess": 5,
+        "goalsfor": 65,
+        "goalsagainst": 30,
+        "goalsdiff": "+35",
+        "points": 66,
+        "form": "'DWLWW'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Atalanta",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
         "played": 32,
@@ -605,20 +619,6 @@
         "goalsdiff": "+34",
         "points": 65,
         "form": "'DWWWW'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Juventus",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-        "played": 32,
-        "wins": 19,
-        "draws": 8,
-        "lossess": 5,
-        "goalsfor": 64,
-        "goalsagainst": 29,
-        "goalsdiff": "+35",
-        "points": 65,
-        "form": "'WLWWD'"
     },
     {
         "teamrank": 5,
@@ -694,15 +694,15 @@
         "teamrank": 10,
         "teamname": "Hellas Verona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
-        "played": 32,
+        "played": 33,
         "wins": 11,
         "draws": 8,
-        "lossess": 13,
+        "lossess": 14,
         "goalsfor": 40,
-        "goalsagainst": 40,
-        "goalsdiff": "0",
+        "goalsagainst": 41,
+        "goalsdiff": "-1",
         "points": 41,
-        "form": "'LLLWL'"
+        "form": "'LLLLW'"
     },
     {
         "teamrank": 11,
@@ -750,15 +750,15 @@
         "teamrank": 14,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "played": 32,
+        "played": 33,
         "wins": 8,
-        "draws": 9,
+        "draws": 10,
         "lossess": 15,
-        "goalsfor": 41,
-        "goalsagainst": 53,
+        "goalsfor": 42,
+        "goalsagainst": 54,
         "goalsdiff": "-12",
-        "points": 33,
-        "form": "'WLLDL'"
+        "points": 34,
+        "form": "'DWLLD'"
     },
     {
         "teamrank": 15,
