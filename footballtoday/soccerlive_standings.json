@@ -862,6 +862,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Monaco",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "played": 34,
+        "wins": 22,
+        "draws": 5,
+        "lossess": 7,
+        "goalsfor": 71,
+        "goalsagainst": 38,
+        "goalsdiff": "+33",
+        "points": 71,
+        "form": "'WWWWW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Lille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "played": 33,
@@ -873,20 +887,6 @@
         "goalsdiff": "+34",
         "points": 70,
         "form": "'DWWLD'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Monaco",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "played": 33,
-        "wins": 21,
-        "draws": 5,
-        "lossess": 7,
-        "goalsfor": 70,
-        "goalsagainst": 38,
-        "goalsdiff": "+32",
-        "points": 68,
-        "form": "'WWWWD'"
     },
     {
         "teamrank": 4,
@@ -1004,15 +1004,15 @@
         "teamrank": 12,
         "teamname": "Angers SCO",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-        "played": 33,
+        "played": 34,
         "wins": 11,
         "draws": 8,
-        "lossess": 14,
+        "lossess": 15,
         "goalsfor": 34,
-        "goalsagainst": 50,
-        "goalsdiff": "-16",
+        "goalsagainst": 51,
+        "goalsdiff": "-17",
         "points": 41,
-        "form": "'LLDDL'"
+        "form": "'LLLDD'"
     },
     {
         "teamrank": 13,
