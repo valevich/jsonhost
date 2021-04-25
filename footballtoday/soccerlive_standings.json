@@ -286,15 +286,15 @@
         "teamrank": 1,
         "teamname": "Atlético Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "played": 32,
+        "played": 33,
         "wins": 22,
         "draws": 7,
-        "lossess": 3,
-        "goalsfor": 59,
-        "goalsagainst": 20,
-        "goalsdiff": "+39",
+        "lossess": 4,
+        "goalsfor": 60,
+        "goalsagainst": 22,
+        "goalsdiff": "+38",
         "points": 73,
-        "form": "'WWDLW'"
+        "form": "'LWWDL'"
     },
     {
         "teamrank": 2,
@@ -410,6 +410,20 @@
     },
     {
         "teamrank": 10,
+        "teamname": "Athletic Club",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "played": 32,
+        "wins": 10,
+        "draws": 11,
+        "lossess": 11,
+        "goalsfor": 41,
+        "goalsagainst": 34,
+        "goalsdiff": "+7",
+        "points": 41,
+        "form": "'WDDDD'"
+    },
+    {
+        "teamrank": 11,
         "teamname": "Osasuna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
         "played": 33,
@@ -421,20 +435,6 @@
         "goalsdiff": "-8",
         "points": 40,
         "form": "'LWWWD'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Athletic Club",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "played": 31,
-        "wins": 9,
-        "draws": 11,
-        "lossess": 11,
-        "goalsfor": 39,
-        "goalsagainst": 33,
-        "goalsdiff": "+6",
-        "points": 38,
-        "form": "'DDDDD'"
     },
     {
         "teamrank": 12,
