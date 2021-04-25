@@ -848,6 +848,20 @@
   "ligue-1": [
     {
         "teamrank": 1,
+        "teamname": "Lille",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "played": 34,
+        "wins": 21,
+        "draws": 10,
+        "lossess": 3,
+        "goalsfor": 57,
+        "goalsagainst": 22,
+        "goalsdiff": "+35",
+        "points": 73,
+        "form": "'WDWWL'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "PSG",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
         "played": 34,
@@ -861,7 +875,7 @@
         "form": "'WWWLW'"
     },
     {
-        "teamrank": 2,
+        "teamrank": 3,
         "teamname": "Monaco",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
         "played": 34,
@@ -875,32 +889,18 @@
         "form": "'WWWWW'"
     },
     {
-        "teamrank": 3,
-        "teamname": "Lille",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "played": 33,
-        "wins": 20,
-        "draws": 10,
-        "lossess": 3,
-        "goalsfor": 54,
-        "goalsagainst": 20,
-        "goalsdiff": "+34",
-        "points": 70,
-        "form": "'DWWLD'"
-    },
-    {
         "teamrank": 4,
         "teamname": "Olympique Lyonnais",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "played": 33,
+        "played": 34,
         "wins": 19,
         "draws": 10,
-        "lossess": 4,
-        "goalsfor": 65,
-        "goalsagainst": 32,
-        "goalsdiff": "+33",
+        "lossess": 5,
+        "goalsfor": 67,
+        "goalsagainst": 35,
+        "goalsdiff": "+32",
         "points": 67,
-        "form": "'WWDLD'"
+        "form": "'LWWDL'"
     },
     {
         "teamrank": 5,
