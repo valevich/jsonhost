@@ -118,6 +118,15 @@
         "playerassists": 4
     },
     {
+        "playername": "C. Wood",
+        "playerlink": "https://www.livesoccertv.com/player/c-wood/77051/",
+        "playerteam": "Burnley",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/burnley/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+        "playergoals": 10,
+        "playerassists": 1
+    },
+    {
         "playername": "P. Aubameyang",
         "playerlink": "https://www.livesoccertv.com/player/p-aubameyang/37777/",
         "playerteam": "Arsenal",
@@ -125,15 +134,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "playergoals": 9,
         "playerassists": 2
-    },
-    {
-        "playername": "H. Barnes",
-        "playerlink": "https://www.livesoccertv.com/player/h-barnes/334086/",
-        "playerteam": "Leicester City",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "playergoals": 9,
-        "playerassists": 0
     }
   ],
   "primera-division": [
