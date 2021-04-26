@@ -32,15 +32,15 @@
         "teamrank": 3,
         "teamname": "Leicester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "played": 32,
-        "wins": 18,
+        "played": 33,
+        "wins": 19,
         "draws": 5,
         "lossess": 9,
-        "goalsfor": 58,
-        "goalsagainst": 37,
-        "goalsdiff": "+21",
-        "points": 59,
-        "form": "'WLLWW'"
+        "goalsfor": 60,
+        "goalsagainst": 38,
+        "goalsdiff": "+22",
+        "points": 62,
+        "form": "'WWLLW'"
     },
     {
         "teamrank": 4,
@@ -172,15 +172,15 @@
         "teamrank": 13,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "played": 31,
+        "played": 32,
         "wins": 10,
         "draws": 8,
-        "lossess": 13,
-        "goalsfor": 33,
-        "goalsagainst": 52,
-        "goalsdiff": "-19",
+        "lossess": 14,
+        "goalsfor": 34,
+        "goalsagainst": 54,
+        "goalsdiff": "-20",
         "points": 38,
-        "form": "'LDWLD'"
+        "form": "'LLDWL'"
     },
     {
         "teamrank": 14,
@@ -342,15 +342,15 @@
         "teamrank": 5,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "played": 32,
-        "wins": 13,
+        "played": 33,
+        "wins": 14,
         "draws": 11,
         "lossess": 8,
-        "goalsfor": 50,
+        "goalsfor": 51,
         "goalsagainst": 34,
-        "goalsdiff": "+16",
-        "points": 50,
-        "form": "'WLDDL'"
+        "goalsdiff": "+17",
+        "points": 53,
+        "form": "'WWLDD'"
     },
     {
         "teamrank": 6,
@@ -552,15 +552,15 @@
         "teamrank": 20,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 32,
+        "played": 33,
         "wins": 4,
         "draws": 11,
-        "lossess": 17,
+        "lossess": 18,
         "goalsfor": 23,
-        "goalsagainst": 45,
-        "goalsdiff": "-22",
+        "goalsagainst": 46,
+        "goalsdiff": "-23",
         "points": 23,
-        "form": "'LLLLD'"
+        "form": "'LLLLL'"
     }
   ],
   "serie-a": [
@@ -594,20 +594,6 @@
     },
     {
         "teamrank": 3,
-        "teamname": "Milan",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-        "played": 32,
-        "wins": 20,
-        "draws": 6,
-        "lossess": 6,
-        "goalsfor": 60,
-        "goalsagainst": 38,
-        "goalsdiff": "+22",
-        "points": 66,
-        "form": "'LWWDW'"
-    },
-    {
-        "teamrank": 4,
         "teamname": "Napoli",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
         "played": 33,
@@ -621,7 +607,7 @@
         "form": "'WWDWL'"
     },
     {
-        "teamrank": 5,
+        "teamrank": 4,
         "teamname": "Juventus",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
         "played": 33,
@@ -635,18 +621,32 @@
         "form": "'DWLWW'"
     },
     {
+        "teamrank": 5,
+        "teamname": "Milan",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+        "played": 33,
+        "wins": 20,
+        "draws": 6,
+        "lossess": 7,
+        "goalsfor": 60,
+        "goalsagainst": 41,
+        "goalsdiff": "+19",
+        "points": 66,
+        "form": "'LLWWD'"
+    },
+    {
         "teamrank": 6,
         "teamname": "Lazio",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-        "played": 31,
-        "wins": 18,
+        "played": 32,
+        "wins": 19,
         "draws": 4,
         "lossess": 9,
-        "goalsfor": 53,
+        "goalsfor": 56,
         "goalsagainst": 46,
-        "goalsdiff": "+7",
-        "points": 58,
-        "form": "'LWWWW'"
+        "goalsdiff": "+10",
+        "points": 61,
+        "form": "'WLWWW'"
     },
     {
         "teamrank": 7,
