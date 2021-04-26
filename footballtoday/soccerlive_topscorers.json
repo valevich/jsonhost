@@ -462,8 +462,26 @@
         "playerteam": "Strasbourg",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/strasbourg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-        "playergoals": 12,
+        "playergoals": 13,
         "playerassists": 4
+    },
+    {
+        "playername": "G. Laborde",
+        "playerlink": "https://www.livesoccertv.com/player/g-laborde/153154/",
+        "playerteam": "Montpellier",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playergoals": 13,
+        "playerassists": 0
+    },
+    {
+        "playername": "T. Moffi",
+        "playerlink": "https://www.livesoccertv.com/player/t-moffi/364782/",
+        "playerteam": "Lorient",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lorient/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+        "playergoals": 13,
+        "playerassists": 1
     },
     {
         "playername": "A. Delort",
@@ -493,15 +511,6 @@
         "playerassists": 0
     },
     {
-        "playername": "G. Laborde",
-        "playerlink": "https://www.livesoccertv.com/player/g-laborde/153154/",
-        "playerteam": "Montpellier",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "playergoals": 12,
-        "playerassists": 0
-    },
-    {
         "playername": "K. Toko Ekambi",
         "playerlink": "https://www.livesoccertv.com/player/k-toko-ekambi/156672/",
         "playerteam": "Olympique Lyonnais",
@@ -527,15 +536,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
         "playergoals": 11,
         "playerassists": 7
-    },
-    {
-        "playername": "T. Moffi",
-        "playerlink": "https://www.livesoccertv.com/player/t-moffi/364782/",
-        "playerteam": "Lorient",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/lorient/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-        "playergoals": 11,
-        "playerassists": 1
     },
     {
         "playername": "J. David",
