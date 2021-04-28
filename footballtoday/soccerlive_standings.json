@@ -396,6 +396,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Athletic Club",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "played": 33,
+        "wins": 10,
+        "draws": 12,
+        "lossess": 11,
+        "goalsfor": 43,
+        "goalsagainst": 36,
+        "goalsdiff": "+7",
+        "points": 42,
+        "form": "'DWDDD'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Celta de Vigo",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
         "played": 33,
@@ -407,20 +421,6 @@
         "goalsdiff": "-7",
         "points": 41,
         "form": "'WLDLW'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Athletic Club",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "played": 32,
-        "wins": 10,
-        "draws": 11,
-        "lossess": 11,
-        "goalsfor": 41,
-        "goalsagainst": 34,
-        "goalsdiff": "+7",
-        "points": 41,
-        "form": "'WDDDD'"
     },
     {
         "teamrank": 11,
@@ -508,6 +508,20 @@
     },
     {
         "teamrank": 17,
+        "teamname": "Real Valladolid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
+        "played": 33,
+        "wins": 5,
+        "draws": 15,
+        "lossess": 13,
+        "goalsfor": 31,
+        "goalsagainst": 45,
+        "goalsdiff": "-14",
+        "points": 30,
+        "form": "'DDDLL'"
+    },
+    {
+        "teamrank": 18,
         "teamname": "Elche",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
         "played": 33,
@@ -519,20 +533,6 @@
         "goalsdiff": "-20",
         "points": 30,
         "form": "'WDLLD'"
-    },
-    {
-        "teamrank": 18,
-        "teamname": "Real Valladolid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-        "played": 32,
-        "wins": 5,
-        "draws": 14,
-        "lossess": 13,
-        "goalsfor": 29,
-        "goalsagainst": 43,
-        "goalsdiff": "-14",
-        "points": 29,
-        "form": "'DDLLD'"
     },
     {
         "teamrank": 19,
