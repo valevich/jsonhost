@@ -1,9 +1,9 @@
 {
   "today": [
     {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "Thursday Apr. 29, 2021",
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "Friday Apr. 30, 2021",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -14,35 +14,22 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Villarreal",
+      "HomeTeam": "Southampton",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-      "AwayTeam": "Villarreal",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+      "AwayTeam": "Leicester",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-      "TVChannels": "2 - 1  Arsenal fuboTV ,  Galavision ,  TUDN.com ,  Univision NO…"
-    },
-    {
-      "LeagueName": "UEFA Europa League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Manchester Utd",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "AwayTeam": "Manchester United",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/360.png",
-      "TVChannels": "6 - 2  Roma fuboTV ,  TUDN USA ,  UniMás ,  TUDN.com ,  Univ…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  B…"
     },
     {
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "Thursday Apr. 29, 2021",
+      "GameTime": "Friday Apr. 30, 2021",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -55,15 +42,41 @@
     {
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "1:00pm",
+      "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Barcelona",
+      "HomeTeam": "Celta de Vigo",
       "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-      "AwayTeam": "Barcelona",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+      "AwayTeam": "Levante",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-      "TVChannels": "1 - 2  Granada Fanatiz USA ,  beIN SPORTS ,  beIN SPOR…"
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+      "TVChannels": "Fanatiz USA ,  beIN SPORTS en Espa…"
+    },
+    {
+      "LeagueName": "French Ligue 1",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+      "GameTime": "Friday Apr. 30, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "French Ligue 1",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Marseille",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+      "AwayTeam": "Strasbourg",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+      "TVChannels": "Fanatiz USA ,  beIN SPORTS ,  fu…"
     }
   ],
   "day2": [
