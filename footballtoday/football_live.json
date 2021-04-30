@@ -1,9 +1,9 @@
 {
-    },
+  "today": [
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "Thursday Apr. 29, 2021",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -12,6 +12,58 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Villarreal",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+      "AwayTeam": "Villarreal",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+      "TVChannels": "2 - 1  Arsenal fuboTV ,  Galavision ,  TUDN.com ,  Univision NO…"
+    },
+    {
+      "LeagueName": "UEFA Europa League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Manchester Utd",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+      "AwayTeam": "Manchester United",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/360.png",
+      "TVChannels": "6 - 2  Roma fuboTV ,  TUDN USA ,  UniMás ,  TUDN.com ,  Univ…"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "Thursday Apr. 29, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Barcelona",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+      "AwayTeam": "Barcelona",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+      "TVChannels": "1 - 2  Granada Fanatiz USA ,  beIN SPORTS ,  beIN SPOR…"
     }
   ],
   "day2": [
