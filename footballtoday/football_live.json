@@ -17,14 +17,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
-      "GameState": "85 ",
+      "GameState": "FT ",
       "HomeTeam": "Southampton",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
       "AwayTeam": "Leicester",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  B…"
+      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  Blue T…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -43,14 +43,14 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "84 ",
+      "GameState": "FT ",
       "HomeTeam": "Celta de Vigo",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
       "AwayTeam": "Levante",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-      "TVChannels": "Fanatiz USA ,  beIN SPORTS en Espa…"
+      "TVChannels": "Fanatiz USA ,  beIN SPORTS en Español ,  f…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -69,14 +69,14 @@
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
       "GameTime": "3:00pm",
-      "GameState": "82 ",
+      "GameState": "FT ",
       "HomeTeam": "Marseille",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
       "AwayTeam": "Strasbourg",
       "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-      "TVChannels": "Fanatiz USA ,  beIN SPORTS ,  fu…"
+      "TVChannels": "Fanatiz USA ,  beIN SPORTS ,  fuboTV ,  …"
     }
   ],
   "day2": [
