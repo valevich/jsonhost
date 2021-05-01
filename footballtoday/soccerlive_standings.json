@@ -46,15 +46,15 @@
         "teamrank": 4,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "played": 33,
-        "wins": 16,
+        "played": 34,
+        "wins": 17,
         "draws": 10,
         "lossess": 7,
-        "goalsfor": 51,
+        "goalsfor": 53,
         "goalsagainst": 31,
-        "goalsdiff": "+20",
-        "points": 58,
-        "form": "'WDWLD'"
+        "goalsdiff": "+22",
+        "points": 61,
+        "form": "'WWDWL'"
     },
     {
         "teamrank": 5,
@@ -242,15 +242,15 @@
         "teamrank": 18,
         "teamname": "Fulham",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-        "played": 33,
+        "played": 34,
         "wins": 5,
         "draws": 12,
-        "lossess": 16,
+        "lossess": 17,
         "goalsfor": 25,
-        "goalsagainst": 43,
-        "goalsdiff": "-18",
+        "goalsagainst": 45,
+        "goalsdiff": "-20",
         "points": 27,
-        "form": "'DLLLL'"
+        "form": "'LDLLL'"
     },
     {
         "teamrank": 19,
