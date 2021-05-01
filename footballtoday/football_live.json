@@ -43,14 +43,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "12:30pm",
-      "GameState": "83 ",
+      "GameState": "FT ",
       "HomeTeam": "Chelsea",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
       "AwayTeam": "Fulham",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-      "TVChannels": "NBC ,  fuboTV ,  NBCSports.com ,  …"
+      "TVChannels": "NBC ,  fuboTV ,  NBCSports.com ,  NBC Sports Ap…"
     },
     {
       "LeagueName": "English Premier League",
@@ -108,14 +108,14 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "12:30pm",
-      "GameState": "87 ",
+      "GameState": "FT ",
       "HomeTeam": "Huesca",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
       "AwayTeam": "Real Sociedad",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-      "TVChannels": "Fanatiz USA ,  beIN SPORTS en Espa…"
+      "TVChannels": "Fanatiz USA ,  beIN SPORTS en Español ,  f…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -238,7 +238,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "1:00pm",
-      "GameState": "48 ",
+      "GameState": "63 ",
       "HomeTeam": "NY Red Bulls",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
@@ -251,12 +251,12 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "2:00pm",
-      "GameState": "4 '",
+      "GameState": "20 ",
       "HomeTeam": "Real Salt Lake",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png",
       "AwayTeam": "Sporting KC",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     },
