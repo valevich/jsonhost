@@ -102,18 +102,32 @@
         "teamrank": 8,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-        "played": 32,
+        "played": 33,
         "wins": 15,
         "draws": 7,
-        "lossess": 10,
-        "goalsfor": 44,
-        "goalsagainst": 40,
-        "goalsdiff": "+4",
+        "lossess": 11,
+        "goalsfor": 45,
+        "goalsagainst": 42,
+        "goalsdiff": "+3",
         "points": 52,
-        "form": "'WDDDL'"
+        "form": "'LWDDD'"
     },
     {
         "teamrank": 9,
+        "teamname": "Aston Villa",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "played": 33,
+        "wins": 14,
+        "draws": 6,
+        "lossess": 13,
+        "goalsfor": 48,
+        "goalsagainst": 38,
+        "goalsdiff": "+10",
+        "points": 48,
+        "form": "'WDLLW'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "played": 34,
@@ -127,7 +141,7 @@
         "form": "'LDDWW'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "played": 33,
@@ -139,20 +153,6 @@
         "goalsdiff": "+7",
         "points": 46,
         "form": "'LDWLD'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Aston Villa",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 32,
-        "wins": 13,
-        "draws": 6,
-        "lossess": 13,
-        "goalsfor": 46,
-        "goalsagainst": 37,
-        "goalsdiff": "+9",
-        "points": 45,
-        "form": "'DLLWL'"
     },
     {
         "teamrank": 12,
@@ -300,15 +300,15 @@
         "teamrank": 2,
         "teamname": "Real Madrid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "played": 33,
-        "wins": 21,
+        "played": 34,
+        "wins": 22,
         "draws": 8,
         "lossess": 4,
-        "goalsfor": 56,
+        "goalsfor": 58,
         "goalsagainst": 24,
-        "goalsdiff": "+32",
-        "points": 71,
-        "form": "'DWDWW'"
+        "goalsdiff": "+34",
+        "points": 74,
+        "form": "'WDWDW'"
     },
     {
         "teamrank": 3,
@@ -426,15 +426,15 @@
         "teamrank": 11,
         "teamname": "Osasuna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-        "played": 33,
+        "played": 34,
         "wins": 10,
         "draws": 10,
-        "lossess": 13,
+        "lossess": 14,
         "goalsfor": 31,
-        "goalsagainst": 39,
-        "goalsdiff": "-8",
+        "goalsagainst": 41,
+        "goalsdiff": "-10",
         "points": 40,
-        "form": "'LWWWD'"
+        "form": "'LLWWW'"
     },
     {
         "teamrank": 12,
