@@ -342,15 +342,15 @@
         "teamrank": 5,
         "teamname": "Real Sociedad",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "played": 33,
+        "played": 34,
         "wins": 14,
         "draws": 11,
-        "lossess": 8,
+        "lossess": 9,
         "goalsfor": 51,
-        "goalsagainst": 34,
-        "goalsdiff": "+17",
+        "goalsagainst": 35,
+        "goalsdiff": "+16",
         "points": 53,
-        "form": "'WWLDD'"
+        "form": "'LWWLD'"
     },
     {
         "teamrank": 6,
@@ -508,6 +508,20 @@
     },
     {
         "teamrank": 17,
+        "teamname": "Huesca",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
+        "played": 34,
+        "wins": 6,
+        "draws": 12,
+        "lossess": 16,
+        "goalsfor": 32,
+        "goalsagainst": 50,
+        "goalsdiff": "-18",
+        "points": 30,
+        "form": "'WLLLW'"
+    },
+    {
+        "teamrank": 18,
         "teamname": "Real Valladolid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
         "played": 33,
@@ -521,7 +535,7 @@
         "form": "'DDDLL'"
     },
     {
-        "teamrank": 18,
+        "teamrank": 19,
         "teamname": "Elche",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
         "played": 34,
@@ -533,20 +547,6 @@
         "goalsdiff": "-21",
         "points": 30,
         "form": "'LWDLL'"
-    },
-    {
-        "teamrank": 19,
-        "teamname": "Huesca",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
-        "played": 33,
-        "wins": 5,
-        "draws": 12,
-        "lossess": 16,
-        "goalsfor": 31,
-        "goalsagainst": 50,
-        "goalsdiff": "-19",
-        "points": 27,
-        "form": "'LLLWW'"
     },
     {
         "teamrank": 20,
