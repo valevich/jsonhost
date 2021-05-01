@@ -496,15 +496,15 @@
         "teamrank": 16,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-        "played": 33,
+        "played": 34,
         "wins": 7,
         "draws": 10,
-        "lossess": 16,
+        "lossess": 17,
         "goalsfor": 28,
-        "goalsagainst": 49,
-        "goalsdiff": "-21",
+        "goalsagainst": 52,
+        "goalsdiff": "-24",
         "points": 31,
-        "form": "'DWWDL'"
+        "form": "'LDWWD'"
     },
     {
         "teamrank": 17,
@@ -552,15 +552,15 @@
         "teamrank": 20,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 33,
-        "wins": 4,
+        "played": 34,
+        "wins": 5,
         "draws": 11,
         "lossess": 18,
-        "goalsfor": 23,
+        "goalsfor": 26,
         "goalsagainst": 46,
-        "goalsdiff": "-23",
-        "points": 23,
-        "form": "'LLLLL'"
+        "goalsdiff": "-20",
+        "points": 26,
+        "form": "'WLLLL'"
     }
   ],
   "serie-a": [
