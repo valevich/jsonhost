@@ -848,6 +848,20 @@
   "ligue-1": [
     {
         "teamrank": 1,
+        "teamname": "PSG",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "played": 35,
+        "wins": 24,
+        "draws": 3,
+        "lossess": 8,
+        "goalsfor": 79,
+        "goalsagainst": 27,
+        "goalsdiff": "+52",
+        "points": 75,
+        "form": "'WWWWL'"
+    },
+    {
+        "teamrank": 2,
         "teamname": "Lille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "played": 34,
@@ -859,20 +873,6 @@
         "goalsdiff": "+35",
         "points": 73,
         "form": "'WDWWL'"
-    },
-    {
-        "teamrank": 2,
-        "teamname": "PSG",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "played": 34,
-        "wins": 23,
-        "draws": 3,
-        "lossess": 8,
-        "goalsfor": 77,
-        "goalsagainst": 26,
-        "goalsdiff": "+51",
-        "points": 72,
-        "form": "'WWWLW'"
     },
     {
         "teamrank": 3,
@@ -906,15 +906,15 @@
         "teamrank": 5,
         "teamname": "Lens",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-        "played": 34,
+        "played": 35,
         "wins": 15,
         "draws": 11,
-        "lossess": 8,
-        "goalsfor": 54,
-        "goalsagainst": 46,
-        "goalsdiff": "+8",
+        "lossess": 9,
+        "goalsfor": 55,
+        "goalsagainst": 48,
+        "goalsdiff": "+7",
         "points": 56,
-        "form": "'WDWDW'"
+        "form": "'LWDWD'"
     },
     {
         "teamrank": 6,
