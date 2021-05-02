@@ -948,15 +948,15 @@
         "teamrank": 8,
         "teamname": "Montpellier",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "played": 34,
+        "played": 35,
         "wins": 12,
         "draws": 11,
-        "lossess": 11,
-        "goalsfor": 54,
-        "goalsagainst": 57,
-        "goalsdiff": "-3",
+        "lossess": 12,
+        "goalsfor": 55,
+        "goalsagainst": 59,
+        "goalsdiff": "-4",
         "points": 47,
-        "form": "'LDDDW'"
+        "form": "'LLDDD'"
     },
     {
         "teamrank": 9,
@@ -1002,6 +1002,20 @@
     },
     {
         "teamrank": 12,
+        "teamname": "Saint-Étienne",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
+        "played": 35,
+        "wins": 11,
+        "draws": 9,
+        "lossess": 15,
+        "goalsfor": 41,
+        "goalsagainst": 53,
+        "goalsdiff": "-12",
+        "points": 42,
+        "form": "'WLLWW'"
+    },
+    {
+        "teamrank": 13,
         "teamname": "Angers SCO",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
         "played": 35,
@@ -1015,7 +1029,7 @@
         "form": "'LLLLD'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Brest",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
         "played": 35,
@@ -1027,20 +1041,6 @@
         "goalsdiff": "-13",
         "points": 40,
         "form": "'LWDDL'"
-    },
-    {
-        "teamrank": 14,
-        "teamname": "Saint-Étienne",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-        "played": 34,
-        "wins": 10,
-        "draws": 9,
-        "lossess": 15,
-        "goalsfor": 39,
-        "goalsagainst": 52,
-        "goalsdiff": "-13",
-        "points": 39,
-        "form": "'LLWWL'"
     },
     {
         "teamrank": 15,
