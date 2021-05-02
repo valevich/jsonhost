@@ -934,15 +934,15 @@
         "teamrank": 7,
         "teamname": "Rennes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-        "played": 34,
+        "played": 35,
         "wins": 15,
         "draws": 9,
-        "lossess": 10,
+        "lossess": 11,
         "goalsfor": 48,
-        "goalsagainst": 36,
-        "goalsdiff": "+12",
+        "goalsagainst": 37,
+        "goalsdiff": "+11",
         "points": 54,
-        "form": "'WWWDW'"
+        "form": "'LWWWD'"
     },
     {
         "teamrank": 8,
@@ -1044,6 +1044,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Bordeaux",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
+        "played": 35,
+        "wins": 11,
+        "draws": 6,
+        "lossess": 18,
+        "goalsfor": 37,
+        "goalsagainst": 52,
+        "goalsdiff": "-15",
+        "points": 39,
+        "form": "'WLLLL'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Strasbourg",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
         "played": 35,
@@ -1055,20 +1069,6 @@
         "goalsdiff": "-10",
         "points": 38,
         "form": "'DLDLW'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Bordeaux",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
-        "played": 34,
-        "wins": 10,
-        "draws": 6,
-        "lossess": 18,
-        "goalsfor": 36,
-        "goalsagainst": 52,
-        "goalsdiff": "-16",
-        "points": 36,
-        "form": "'LLLLL'"
     },
     {
         "teamrank": 17,
