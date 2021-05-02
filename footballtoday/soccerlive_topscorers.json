@@ -28,6 +28,15 @@
         "playerassists": 8
     },
     {
+        "playername": "",
+        "playerlink": "https://www.livesoccertv.com/player/d-calvert-lewin/258776/",
+        "playerteam": "Everton",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/everton/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+        "playergoals": 15,
+        "playerassists": 0
+    },
+    {
         "playername": "Son Heung-Min",
         "playerlink": "https://www.livesoccertv.com/player/son-heung-min/96227/",
         "playerteam": "Tottenham Hotspur",
@@ -44,15 +53,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "playergoals": 14,
         "playerassists": 1
-    },
-    {
-        "playername": "",
-        "playerlink": "https://www.livesoccertv.com/player/d-calvert-lewin/258776/",
-        "playerteam": "Everton",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/everton/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-        "playergoals": 14,
-        "playerassists": 0
     },
     {
         "playername": "A. Lacazette",
@@ -74,19 +74,19 @@
     },
     {
         "playername": "",
-        "playerlink": "https://www.livesoccertv.com/player/gundo-an/69183/",
-        "playerteam": "Manchester City",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "playergoals": 12,
-        "playerassists": 1
-    },
-    {
-        "playername": "",
         "playerlink": "https://www.livesoccertv.com/player/o-watkins/264917/",
         "playerteam": "Aston Villa",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/aston-villa/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "playergoals": 13,
+        "playerassists": 1
+    },
+    {
+        "playername": "",
+        "playerlink": "https://www.livesoccertv.com/player/gundo-an/69183/",
+        "playerteam": "Manchester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "playergoals": 12,
         "playerassists": 1
     },
@@ -484,6 +484,15 @@
         "playerassists": 0
     },
     {
+        "playername": "B. Yılmaz",
+        "playerlink": "https://www.livesoccertv.com/player/b-y-lmaz/4921/",
+        "playerteam": "Lille",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "playergoals": 13,
+        "playerassists": 2
+    },
+    {
         "playername": "A. Delort",
         "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
         "playerteam": "Montpellier",
@@ -518,15 +527,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "playergoals": 12,
         "playerassists": 0
-    },
-    {
-        "playername": "B. Yılmaz",
-        "playerlink": "https://www.livesoccertv.com/player/b-y-lmaz/4921/",
-        "playerteam": "Lille",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "playergoals": 12,
-        "playerassists": 2
     },
     {
         "playername": "J. David",
