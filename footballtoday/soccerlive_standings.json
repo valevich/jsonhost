@@ -384,15 +384,15 @@
         "teamrank": 8,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "played": 33,
+        "played": 34,
         "wins": 13,
         "draws": 6,
-        "lossess": 14,
+        "lossess": 15,
         "goalsfor": 43,
-        "goalsagainst": 54,
-        "goalsdiff": "-11",
+        "goalsagainst": 55,
+        "goalsdiff": "-12",
         "points": 45,
-        "form": "'WLWWL'"
+        "form": "'LWLWW'"
     },
     {
         "teamrank": 9,
@@ -438,6 +438,20 @@
     },
     {
         "teamrank": 12,
+        "teamname": "Cádiz",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
+        "played": 34,
+        "wins": 10,
+        "draws": 10,
+        "lossess": 14,
+        "goalsfor": 29,
+        "goalsagainst": 49,
+        "goalsdiff": "-20",
+        "points": 40,
+        "form": "'WDLDW'"
+    },
+    {
+        "teamrank": 13,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 34,
@@ -449,20 +463,6 @@
         "goalsdiff": "-10",
         "points": 38,
         "form": "'LLLLW'"
-    },
-    {
-        "teamrank": 13,
-        "teamname": "Cádiz",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
-        "played": 33,
-        "wins": 9,
-        "draws": 10,
-        "lossess": 14,
-        "goalsfor": 28,
-        "goalsagainst": 49,
-        "goalsdiff": "-21",
-        "points": 37,
-        "form": "'DLDWW'"
     },
     {
         "teamrank": 14,
