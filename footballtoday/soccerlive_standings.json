@@ -58,6 +58,20 @@
     },
     {
         "teamrank": 5,
+        "teamname": "Tottenham Hotspur",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+        "played": 34,
+        "wins": 16,
+        "draws": 8,
+        "lossess": 10,
+        "goalsfor": 60,
+        "goalsagainst": 38,
+        "goalsdiff": "+22",
+        "points": 56,
+        "form": "'WWDLD'"
+    },
+    {
+        "teamrank": 6,
         "teamname": "West Ham United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
         "played": 33,
@@ -71,7 +85,7 @@
         "form": "'LLWWD'"
     },
     {
-        "teamrank": 6,
+        "teamrank": 7,
         "teamname": "Liverpool",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "played": 33,
@@ -83,20 +97,6 @@
         "goalsdiff": "+16",
         "points": 54,
         "form": "'DDWWW'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Tottenham Hotspur",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "played": 33,
-        "wins": 15,
-        "draws": 8,
-        "lossess": 10,
-        "goalsfor": 56,
-        "goalsagainst": 38,
-        "goalsdiff": "+18",
-        "points": 53,
-        "form": "'WDLDW'"
     },
     {
         "teamrank": 8,
@@ -270,15 +270,15 @@
         "teamrank": 20,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 33,
+        "played": 34,
         "wins": 5,
         "draws": 2,
-        "lossess": 26,
+        "lossess": 27,
         "goalsfor": 18,
-        "goalsagainst": 56,
-        "goalsdiff": "-38",
+        "goalsagainst": 60,
+        "goalsdiff": "-42",
         "points": 17,
-        "form": "'WLLLL'"
+        "form": "'LWLLL'"
     }
   ],
   "primera-division": [
