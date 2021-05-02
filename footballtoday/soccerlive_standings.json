@@ -356,14 +356,14 @@
         "teamrank": 6,
         "teamname": "Real Betis",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 33,
+        "played": 34,
         "wins": 14,
-        "draws": 8,
+        "draws": 9,
         "lossess": 11,
-        "goalsfor": 42,
-        "goalsagainst": 45,
+        "goalsfor": 43,
+        "goalsagainst": 46,
         "goalsdiff": "-3",
-        "points": 50,
+        "points": 51,
         "form": "'DDDDD'"
     },
     {
@@ -508,6 +508,20 @@
     },
     {
         "teamrank": 17,
+        "teamname": "Real Valladolid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
+        "played": 34,
+        "wins": 5,
+        "draws": 16,
+        "lossess": 13,
+        "goalsfor": 32,
+        "goalsagainst": 46,
+        "goalsdiff": "-14",
+        "points": 31,
+        "form": "'DDDDL'"
+    },
+    {
+        "teamrank": 18,
         "teamname": "Huesca",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
         "played": 34,
@@ -519,20 +533,6 @@
         "goalsdiff": "-18",
         "points": 30,
         "form": "'WLLLW'"
-    },
-    {
-        "teamrank": 18,
-        "teamname": "Real Valladolid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-        "played": 33,
-        "wins": 5,
-        "draws": 15,
-        "lossess": 13,
-        "goalsfor": 31,
-        "goalsagainst": 45,
-        "goalsdiff": "-14",
-        "points": 30,
-        "form": "'DDDLL'"
     },
     {
         "teamrank": 19,
