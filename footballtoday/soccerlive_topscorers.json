@@ -426,8 +426,8 @@
         "playerteam": "Monaco",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "playergoals": 18,
-        "playerassists": 9
+        "playergoals": 19,
+        "playerassists": 10
     },
     {
         "playername": "M. Depay",
@@ -435,7 +435,7 @@
         "playerteam": "Olympique Lyonnais",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "playergoals": 18,
+        "playergoals": 19,
         "playerassists": 8
     },
     {
@@ -444,7 +444,7 @@
         "playerteam": "Monaco",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "playergoals": 15,
+        "playergoals": 16,
         "playerassists": 0
     },
     {
@@ -475,6 +475,15 @@
         "playerassists": 4
     },
     {
+        "playername": "A. Delort",
+        "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
+        "playerteam": "Montpellier",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playergoals": 13,
+        "playerassists": 0
+    },
+    {
         "playername": "G. Laborde",
         "playerlink": "https://www.livesoccertv.com/player/g-laborde/153154/",
         "playerteam": "Montpellier",
@@ -491,15 +500,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "playergoals": 13,
         "playerassists": 2
-    },
-    {
-        "playername": "A. Delort",
-        "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
-        "playerteam": "Montpellier",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "playergoals": 12,
-        "playerassists": 0
     },
     {
         "playername": "A. Gouiri",
