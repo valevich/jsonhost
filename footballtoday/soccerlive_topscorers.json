@@ -143,7 +143,7 @@
         "playerteam": "Barcelona",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "playergoals": 26,
+        "playergoals": 28,
         "playerassists": 3
     },
     {
@@ -210,6 +210,15 @@
         "playerassists": 0
     },
     {
+        "playername": "A. Griezmann",
+        "playerlink": "https://www.livesoccertv.com/player/a-griezmann/90283/",
+        "playerteam": "Barcelona",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "playergoals": 12,
+        "playerassists": 1
+    },
+    {
         "playername": "",
         "playerlink": "https://www.livesoccertv.com/player/marcos-llorente/250443/",
         "playerteam": "Atletico Madrid",
@@ -226,15 +235,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
         "playergoals": 12,
         "playerassists": 2
-    },
-    {
-        "playername": "A. Griezmann",
-        "playerlink": "https://www.livesoccertv.com/player/a-griezmann/90283/",
-        "playerteam": "Barcelona",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "playergoals": 11,
-        "playerassists": 1
     },
     {
         "playername": "Roger Martí",
@@ -565,6 +565,123 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
         "playergoals": 25,
         "playerassists": 2
+    },
+    {
+        "playername": "",
+        "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
+        "playerteam": "Eintracht Frankfurt",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "playergoals": 25,
+        "playerassists": 6
+    },
+    {
+        "playername": "W. Weghorst",
+        "playerlink": "https://www.livesoccertv.com/player/w-weghorst/207339/",
+        "playerteam": "Wolfsburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfl-wolfsburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+        "playergoals": 20,
+        "playerassists": 2
+    },
+    {
+        "playername": "A. Kramarić",
+        "playerlink": "https://www.livesoccertv.com/player/a-kramaric/83705/",
+        "playerteam": "Hoffenheim",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+        "playergoals": 17,
+        "playerassists": 5
+    },
+    {
+        "playername": "S. Kalajdzic",
+        "playerlink": "https://www.livesoccertv.com/player/s-kalajdzic/271246/",
+        "playerteam": "Stuttgart",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "playergoals": 14,
+        "playerassists": 0
+    },
+    {
+        "playername": "L. Stindl",
+        "playerlink": "https://www.livesoccertv.com/player/l-stindl/39612/",
+        "playerteam": "Borussia M'gladbach",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+        "playergoals": 12,
+        "playerassists": 6
+    },
+    {
+        "playername": "",
+        "playerlink": "https://www.livesoccertv.com/player/l-alario/160318/",
+        "playerteam": "Bayer Leverkusen",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+        "playergoals": 11,
+        "playerassists": 2
+    },
+    {
+        "playername": "S. Wamangituka",
+        "playerlink": "https://www.livesoccertv.com/player/s-wamangituka/388180/",
+        "playerteam": "Stuttgart",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "playergoals": 11,
+        "playerassists": 3
+    },
+    {
+        "playername": "M. Kruse",
+        "playerlink": "https://www.livesoccertv.com/player/m-kruse/38633/",
+        "playerteam": "Union Berlin",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/union-berlin/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+        "playergoals": 10,
+        "playerassists": 5
+    },
+    {
+        "playername": "T. Müller",
+        "playerlink": "https://www.livesoccertv.com/player/t-muller/38348/",
+        "playerteam": "Bayern Munich",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "playergoals": 10,
+        "playerassists": 1
+    },
+    {
+        "playername": "",
+        "playerlink": "https://www.livesoccertv.com/player/l-bailey/304930/",
+        "playerteam": "Bayer Leverkusen",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
+        "playername": "S. Gnabry",
+        "playerlink": "https://www.livesoccertv.com/player/s-gnabry/175333/",
+        "playerteam": "Bayern Munich",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
+        "playername": "",
+        "playerlink": "https://www.livesoccertv.com/player/p-schick/217300/",
+        "playerteam": "Bayer Leverkusen",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
+        "playername": "",
+        "playerlink": "https://www.livesoccertv.com/player/i-bebou/211319/",
+        "playerteam": "Hoffenheim",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+        "playergoals": 8,
+        "playerassists": 0
     }
   ]
 }
