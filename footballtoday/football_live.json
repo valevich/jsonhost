@@ -1157,6 +1157,19 @@
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Manchester Utd",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+      "AwayTeam": "Leicester",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+      "TVChannels": "UNIVERSO ,  UNIVERSO NOW ,  …"
+    },
+    {
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "2:45pm",
       "GameState": "",
       "HomeTeam": "Burnley",
@@ -1211,19 +1224,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
       "GameState": "",
-      "HomeTeam": "Southampton",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-      "AwayTeam": "Crystal Palace",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-      "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
       "HomeTeam": "West Bromwich",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
@@ -1231,6 +1231,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
       "TVChannels": "Sky HD ,  Blue To Go Video Everywhere ,  RUS…"
+    },
+    {
+      "LeagueName": "English Premier League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "GameTime": "3:15pm",
+      "GameState": "",
+      "HomeTeam": "Southampton",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+      "AwayTeam": "Crystal Palace",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+      "TVChannels": "DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -1324,19 +1337,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Manchester Utd",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "AwayTeam": "Leicester",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-      "TVChannels": "UNIVERSO ,  UNIVERSO NOW ,  …"
     },
     {
       "LeagueName": "English Premier League",
