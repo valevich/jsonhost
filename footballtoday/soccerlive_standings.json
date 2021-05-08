@@ -876,6 +876,20 @@
     },
     {
         "teamrank": 3,
+        "teamname": "Olympique Lyonnais",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+        "played": 36,
+        "wins": 21,
+        "draws": 10,
+        "lossess": 5,
+        "goalsfor": 74,
+        "goalsagainst": 38,
+        "goalsdiff": "+36",
+        "points": 73,
+        "form": "'WWLWW'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Monaco",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
         "played": 35,
@@ -887,20 +901,6 @@
         "goalsdiff": "+32",
         "points": 71,
         "form": "'LWWWW'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Olympique Lyonnais",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "played": 35,
-        "wins": 20,
-        "draws": 10,
-        "lossess": 5,
-        "goalsfor": 70,
-        "goalsagainst": 37,
-        "goalsdiff": "+33",
-        "points": 70,
-        "form": "'WLWWD'"
     },
     {
         "teamrank": 5,
@@ -1074,15 +1074,15 @@
         "teamrank": 17,
         "teamname": "Lorient",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-        "played": 35,
+        "played": 36,
         "wins": 10,
         "draws": 8,
-        "lossess": 17,
-        "goalsfor": 46,
-        "goalsagainst": 62,
-        "goalsdiff": "-16",
+        "lossess": 18,
+        "goalsfor": 47,
+        "goalsagainst": 66,
+        "goalsdiff": "-19",
         "points": 38,
-        "form": "'WWLLW'"
+        "form": "'LWWLL'"
     },
     {
         "teamrank": 18,
