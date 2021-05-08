@@ -638,15 +638,15 @@
         "teamrank": 6,
         "teamname": "Lazio",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-        "played": 33,
+        "played": 34,
         "wins": 20,
         "draws": 4,
-        "lossess": 9,
+        "lossess": 10,
         "goalsfor": 60,
-        "goalsagainst": 49,
-        "goalsdiff": "+11",
+        "goalsagainst": 51,
+        "goalsdiff": "+9",
         "points": 64,
-        "form": "'WWLWW'"
+        "form": "'LWWLW'"
     },
     {
         "teamrank": 7,
@@ -734,6 +734,20 @@
     },
     {
         "teamrank": 13,
+        "teamname": "Fiorentina",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+        "played": 35,
+        "wins": 9,
+        "draws": 11,
+        "lossess": 15,
+        "goalsfor": 47,
+        "goalsagainst": 57,
+        "goalsdiff": "-10",
+        "points": 38,
+        "form": "'WDDWL'"
+    },
+    {
+        "teamrank": 14,
         "teamname": "Genoa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
         "played": 34,
@@ -745,20 +759,6 @@
         "goalsdiff": "-12",
         "points": 36,
         "form": "'LWDLL'"
-    },
-    {
-        "teamrank": 14,
-        "teamname": "Fiorentina",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "played": 34,
-        "wins": 8,
-        "draws": 11,
-        "lossess": 15,
-        "goalsfor": 45,
-        "goalsagainst": 57,
-        "goalsdiff": "-12",
-        "points": 35,
-        "form": "'DDWLL'"
     },
     {
         "teamrank": 15,
