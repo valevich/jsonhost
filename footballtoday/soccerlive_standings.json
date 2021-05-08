@@ -74,15 +74,15 @@
         "teamrank": 6,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "played": 34,
+        "played": 35,
         "wins": 16,
         "draws": 8,
-        "lossess": 10,
-        "goalsfor": 60,
-        "goalsagainst": 38,
-        "goalsdiff": "+22",
+        "lossess": 11,
+        "goalsfor": 61,
+        "goalsagainst": 41,
+        "goalsdiff": "+20",
         "points": 56,
-        "form": "'WWDLD'"
+        "form": "'LWWDL'"
     },
     {
         "teamrank": 7,
@@ -114,6 +114,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Leeds United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+        "played": 35,
+        "wins": 15,
+        "draws": 5,
+        "lossess": 15,
+        "goalsfor": 53,
+        "goalsagainst": 53,
+        "goalsdiff": "0",
+        "points": 50,
+        "form": "'WLDDW'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Arsenal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "played": 34,
@@ -127,7 +141,7 @@
         "form": "'WLDWL'"
     },
     {
-        "teamrank": 10,
+        "teamrank": 11,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "played": 33,
@@ -139,20 +153,6 @@
         "goalsdiff": "+10",
         "points": 48,
         "form": "'WDLLW'"
-    },
-    {
-        "teamrank": 11,
-        "teamname": "Leeds United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-        "played": 34,
-        "wins": 14,
-        "draws": 5,
-        "lossess": 15,
-        "goalsfor": 50,
-        "goalsagainst": 52,
-        "goalsdiff": "-2",
-        "points": 47,
-        "form": "'LDDWW'"
     },
     {
         "teamrank": 12,
