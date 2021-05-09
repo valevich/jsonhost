@@ -293,6 +293,15 @@
         "playerassists": 5
     },
     {
+        "playername": "D. Vlahović",
+        "playerlink": "https://www.livesoccertv.com/player/d-vlahovic/319415/",
+        "playerteam": "Fiorentina",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/fiorentina/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+        "playergoals": 21,
+        "playerassists": 6
+    },
+    {
         "playername": "C. Immobile",
         "playerlink": "https://www.livesoccertv.com/player/c-immobile/75297/",
         "playerteam": "Lazio",
@@ -320,15 +329,6 @@
         "playerassists": 8
     },
     {
-        "playername": "D. Vlahović",
-        "playerlink": "https://www.livesoccertv.com/player/d-vlahovic/319415/",
-        "playerteam": "Fiorentina",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/fiorentina/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "playergoals": 19,
-        "playerassists": 6
-    },
-    {
         "playername": "L. Insigne",
         "playerlink": "https://www.livesoccertv.com/player/l-insigne/104026/",
         "playerteam": "Napoli",
@@ -336,6 +336,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
         "playergoals": 17,
         "playerassists": 7
+    },
+    {
+        "playername": "L. Martínez",
+        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
+        "playerteam": "Internazionale",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+        "playergoals": 16,
+        "playerassists": 1
     },
     {
         "playername": "D. Berardi",
@@ -363,15 +372,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
         "playergoals": 15,
         "playerassists": 3
-    },
-    {
-        "playername": "L. Martínez",
-        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
-        "playerteam": "Internazionale",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "playergoals": 15,
-        "playerassists": 0
     },
     {
         "playername": "D. Zapata",
@@ -554,8 +554,8 @@
         "playerteam": "Bayern Munich",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "playergoals": 36,
-        "playerassists": 6
+        "playergoals": 39,
+        "playerassists": 7
     },
     {
         "playername": "",
@@ -590,7 +590,7 @@
         "playerteam": "Hoffenheim",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "playergoals": 17,
+        "playergoals": 18,
         "playerassists": 5
     },
     {
@@ -621,6 +621,15 @@
         "playerassists": 2
     },
     {
+        "playername": "T. Müller",
+        "playerlink": "https://www.livesoccertv.com/player/t-muller/38348/",
+        "playerteam": "Bayern Munich",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "playergoals": 11,
+        "playerassists": 1
+    },
+    {
         "playername": "S. Wamangituka",
         "playerlink": "https://www.livesoccertv.com/player/s-wamangituka/388180/",
         "playerteam": "Stuttgart",
@@ -639,20 +648,20 @@
         "playerassists": 5
     },
     {
-        "playername": "T. Müller",
-        "playerlink": "https://www.livesoccertv.com/player/t-muller/38348/",
-        "playerteam": "Bayern Munich",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "playergoals": 10,
-        "playerassists": 1
-    },
-    {
         "playername": "",
         "playerlink": "https://www.livesoccertv.com/player/l-bailey/304930/",
         "playerteam": "Bayer Leverkusen",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+        "playergoals": 9,
+        "playerassists": 0
+    },
+    {
+        "playername": "I. Bebou",
+        "playerlink": "https://www.livesoccertv.com/player/i-bebou/211319/",
+        "playerteam": "Hoffenheim",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
         "playergoals": 9,
         "playerassists": 0
     },
@@ -672,15 +681,6 @@
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
         "playergoals": 9,
-        "playerassists": 0
-    },
-    {
-        "playername": "I. Bebou",
-        "playerlink": "https://www.livesoccertv.com/player/i-bebou/211319/",
-        "playerteam": "Hoffenheim",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "playergoals": 8,
         "playerassists": 0
     }
   ]
