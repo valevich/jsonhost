@@ -864,15 +864,15 @@
         "teamrank": 2,
         "teamname": "PSG",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "played": 35,
+        "played": 36,
         "wins": 24,
-        "draws": 3,
+        "draws": 4,
         "lossess": 8,
-        "goalsfor": 79,
-        "goalsagainst": 27,
+        "goalsfor": 80,
+        "goalsagainst": 28,
         "goalsdiff": "+52",
-        "points": 75,
-        "form": "'WWWWL'"
+        "points": 76,
+        "form": "'DWWWW'"
     },
     {
         "teamrank": 3,
@@ -934,15 +934,15 @@
         "teamrank": 7,
         "teamname": "Rennes",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-        "played": 35,
+        "played": 36,
         "wins": 15,
-        "draws": 9,
+        "draws": 10,
         "lossess": 11,
-        "goalsfor": 48,
-        "goalsagainst": 37,
+        "goalsfor": 49,
+        "goalsagainst": 38,
         "goalsdiff": "+11",
-        "points": 54,
-        "form": "'LWWWD'"
+        "points": 55,
+        "form": "'DLWWW'"
     },
     {
         "teamrank": 8,
