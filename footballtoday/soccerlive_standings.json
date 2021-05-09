@@ -158,15 +158,15 @@
         "teamrank": 12,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-        "played": 34,
-        "wins": 11,
+        "played": 35,
+        "wins": 12,
         "draws": 9,
         "lossess": 14,
-        "goalsfor": 33,
-        "goalsagainst": 46,
-        "goalsdiff": "-13",
-        "points": 42,
-        "form": "'DLWWL'"
+        "goalsfor": 35,
+        "goalsagainst": 47,
+        "goalsdiff": "-12",
+        "points": 45,
+        "form": "'WDLWW'"
     },
     {
         "teamrank": 13,
@@ -200,15 +200,15 @@
         "teamrank": 15,
         "teamname": "Brighton & Hove Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-        "played": 34,
+        "played": 35,
         "wins": 8,
         "draws": 13,
-        "lossess": 13,
-        "goalsfor": 35,
-        "goalsagainst": 39,
-        "goalsdiff": "-4",
+        "lossess": 14,
+        "goalsfor": 36,
+        "goalsagainst": 41,
+        "goalsdiff": "-5",
         "points": 37,
-        "form": "'WLDDL'"
+        "form": "'LWLDD'"
     },
     {
         "teamrank": 16,
@@ -906,15 +906,15 @@
         "teamrank": 5,
         "teamname": "Olympique Marseille",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-        "played": 35,
+        "played": 36,
         "wins": 15,
         "draws": 11,
-        "lossess": 9,
+        "lossess": 10,
         "goalsfor": 50,
-        "goalsagainst": 43,
-        "goalsdiff": "+7",
+        "goalsagainst": 44,
+        "goalsdiff": "+6",
         "points": 56,
-        "form": "'DWWDW'"
+        "form": "'LDWWD'"
     },
     {
         "teamrank": 6,
@@ -988,6 +988,20 @@
     },
     {
         "teamrank": 11,
+        "teamname": "Saint-Étienne",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
+        "played": 36,
+        "wins": 12,
+        "draws": 9,
+        "lossess": 15,
+        "goalsfor": 42,
+        "goalsagainst": 53,
+        "goalsdiff": "-11",
+        "points": 45,
+        "form": "'WWLLW'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Reims",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
         "played": 35,
@@ -999,20 +1013,6 @@
         "goalsdiff": "-2",
         "points": 42,
         "form": "'DLDDD'"
-    },
-    {
-        "teamrank": 12,
-        "teamname": "Saint-Étienne",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
-        "played": 35,
-        "wins": 11,
-        "draws": 9,
-        "lossess": 15,
-        "goalsfor": 41,
-        "goalsagainst": 53,
-        "goalsdiff": "-12",
-        "points": 42,
-        "form": "'WLLWW'"
     },
     {
         "teamrank": 13,
