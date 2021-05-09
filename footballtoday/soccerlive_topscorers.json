@@ -448,6 +448,15 @@
         "playerassists": 0
     },
     {
+        "playername": "G. Laborde",
+        "playerlink": "https://www.livesoccertv.com/player/g-laborde/153154/",
+        "playerteam": "Montpellier",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playergoals": 15,
+        "playerassists": 0
+    },
+    {
         "playername": "B. Yılmaz",
         "playerlink": "https://www.livesoccertv.com/player/b-y-lmaz/4921/",
         "playerteam": "Lille",
@@ -455,6 +464,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
         "playergoals": 15,
         "playerassists": 3
+    },
+    {
+        "playername": "A. Delort",
+        "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
+        "playerteam": "Montpellier",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playergoals": 14,
+        "playerassists": 0
     },
     {
         "playername": "",
@@ -482,24 +500,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
         "playergoals": 13,
         "playerassists": 4
-    },
-    {
-        "playername": "A. Delort",
-        "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
-        "playerteam": "Montpellier",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "playergoals": 13,
-        "playerassists": 0
-    },
-    {
-        "playername": "G. Laborde",
-        "playerlink": "https://www.livesoccertv.com/player/g-laborde/153154/",
-        "playerteam": "Montpellier",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "playergoals": 13,
-        "playerassists": 0
     },
     {
         "playername": "J. David",

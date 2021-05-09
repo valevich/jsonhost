@@ -114,6 +114,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Arsenal",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "played": 35,
+        "wins": 15,
+        "draws": 7,
+        "lossess": 13,
+        "goalsfor": 49,
+        "goalsagainst": 38,
+        "goalsdiff": "+11",
+        "points": 52,
+        "form": "'WWLDW'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "played": 35,
@@ -125,20 +139,6 @@
         "goalsdiff": "0",
         "points": 50,
         "form": "'WLDDW'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Arsenal",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "played": 34,
-        "wins": 14,
-        "draws": 7,
-        "lossess": 13,
-        "goalsfor": 46,
-        "goalsagainst": 37,
-        "goalsdiff": "+9",
-        "points": 49,
-        "form": "'WLDWL'"
     },
     {
         "teamrank": 11,
@@ -256,15 +256,15 @@
         "teamrank": 19,
         "teamname": "West Bromwich Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-        "played": 34,
+        "played": 35,
         "wins": 5,
         "draws": 11,
-        "lossess": 18,
-        "goalsfor": 31,
-        "goalsagainst": 65,
-        "goalsdiff": "-34",
+        "lossess": 19,
+        "goalsfor": 32,
+        "goalsagainst": 68,
+        "goalsdiff": "-36",
         "points": 26,
-        "form": "'DDLWW'"
+        "form": "'LDDLW'"
     },
     {
         "teamrank": 20,
