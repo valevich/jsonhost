@@ -201,6 +201,15 @@
         "playerassists": 4
     },
     {
+        "playername": "",
+        "playerlink": "https://www.livesoccertv.com/player/rafa-mir/291790/",
+        "playerteam": "Huesca",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/sd-huesca/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
+        "playergoals": 13,
+        "playerassists": 2
+    },
+    {
         "playername": "Kike",
         "playerlink": "https://www.livesoccertv.com/player/kike/62297/",
         "playerteam": "Eibar",
@@ -228,13 +237,13 @@
         "playerassists": 0
     },
     {
-        "playername": "",
-        "playerlink": "https://www.livesoccertv.com/player/rafa-mir/291790/",
-        "playerteam": "Huesca",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/sd-huesca/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5413.png",
+        "playername": "Morales",
+        "playerlink": "https://www.livesoccertv.com/player/jose-luis-morales/211121/",
+        "playerteam": "Levante",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "playergoals": 12,
-        "playerassists": 2
+        "playerassists": 0
     },
     {
         "playername": "Roger Martí",
@@ -246,29 +255,20 @@
         "playerassists": 2
     },
     {
-        "playername": "Morales",
-        "playerlink": "https://www.livesoccertv.com/player/jose-luis-morales/211121/",
-        "playerteam": "Levante",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "playergoals": 10,
-        "playerassists": 0
-    },
-    {
         "playername": "",
         "playerlink": "https://www.livesoccertv.com/player/mikel-oyarzabal/285896/",
         "playerteam": "Real Sociedad",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "playergoals": 10,
+        "playergoals": 11,
         "playerassists": 6
     },
     {
         "playername": "",
-        "playerlink": "https://www.livesoccertv.com/player/soldado/4100/",
-        "playerteam": "Granada",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/granada/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
+        "playerlink": "https://www.livesoccertv.com/player/joselu/78700/",
+        "playerteam": "Deportivo Alavés",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/deportivo-alaves/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "playergoals": 9,
         "playerassists": 2
     }
