@@ -876,6 +876,20 @@
     },
     {
         "teamrank": 3,
+        "teamname": "Monaco",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "played": 36,
+        "wins": 23,
+        "draws": 5,
+        "lossess": 8,
+        "goalsfor": 74,
+        "goalsagainst": 41,
+        "goalsdiff": "+33",
+        "points": 74,
+        "form": "'WLWWW'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Olympique Lyonnais",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "played": 36,
@@ -887,20 +901,6 @@
         "goalsdiff": "+36",
         "points": 73,
         "form": "'WWLWW'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Monaco",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "played": 35,
-        "wins": 22,
-        "draws": 5,
-        "lossess": 8,
-        "goalsfor": 73,
-        "goalsagainst": 41,
-        "goalsdiff": "+32",
-        "points": 71,
-        "form": "'LWWWW'"
     },
     {
         "teamrank": 5,
@@ -1018,15 +1018,15 @@
         "teamrank": 13,
         "teamname": "Reims",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-        "played": 35,
+        "played": 36,
         "wins": 9,
         "draws": 15,
-        "lossess": 11,
+        "lossess": 12,
         "goalsfor": 41,
-        "goalsagainst": 43,
-        "goalsdiff": "-2",
+        "goalsagainst": 44,
+        "goalsdiff": "-3",
         "points": 42,
-        "form": "'DLDDD'"
+        "form": "'LDLDD'"
     },
     {
         "teamrank": 14,
