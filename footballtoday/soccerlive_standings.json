@@ -298,6 +298,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Real Madrid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "played": 35,
+        "wins": 22,
+        "draws": 9,
+        "lossess": 4,
+        "goalsfor": 60,
+        "goalsagainst": 26,
+        "goalsdiff": "+34",
+        "points": 75,
+        "form": "'DWDWD'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Barcelona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
         "played": 35,
@@ -311,32 +325,18 @@
         "form": "'DWLWW'"
     },
     {
-        "teamrank": 3,
-        "teamname": "Real Madrid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "played": 34,
-        "wins": 22,
-        "draws": 8,
-        "lossess": 4,
-        "goalsfor": 58,
-        "goalsagainst": 24,
-        "goalsdiff": "+34",
-        "points": 74,
-        "form": "'WDWDW'"
-    },
-    {
         "teamrank": 4,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-        "played": 34,
+        "played": 35,
         "wins": 22,
-        "draws": 4,
+        "draws": 5,
         "lossess": 8,
-        "goalsfor": 49,
-        "goalsagainst": 27,
+        "goalsfor": 51,
+        "goalsagainst": 29,
         "goalsdiff": "+22",
-        "points": 70,
-        "form": "'LWWWW'"
+        "points": 71,
+        "form": "'DLWWW'"
     },
     {
         "teamrank": 5,
@@ -594,6 +594,20 @@
     },
     {
         "teamrank": 3,
+        "teamname": "Milan",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+        "played": 35,
+        "wins": 22,
+        "draws": 6,
+        "lossess": 7,
+        "goalsfor": 65,
+        "goalsagainst": 41,
+        "goalsdiff": "+24",
+        "points": 72,
+        "form": "'WWLLW'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Napoli",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
         "played": 35,
@@ -607,32 +621,18 @@
         "form": "'WDWWD'"
     },
     {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Juventus",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-        "played": 34,
+        "played": 35,
         "wins": 20,
         "draws": 9,
-        "lossess": 5,
+        "lossess": 6,
         "goalsfor": 67,
-        "goalsagainst": 31,
-        "goalsdiff": "+36",
+        "goalsagainst": 34,
+        "goalsdiff": "+33",
         "points": 69,
-        "form": "'WDWLW'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Milan",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-        "played": 34,
-        "wins": 21,
-        "draws": 6,
-        "lossess": 7,
-        "goalsfor": 62,
-        "goalsagainst": 41,
-        "goalsdiff": "+21",
-        "points": 69,
-        "form": "'WLLWW'"
+        "form": "'LWDWL'"
     },
     {
         "teamrank": 6,
