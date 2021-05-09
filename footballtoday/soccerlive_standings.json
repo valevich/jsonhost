@@ -482,15 +482,15 @@
         "teamrank": 15,
         "teamname": "Getafe",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-        "played": 34,
+        "played": 35,
         "wins": 8,
         "draws": 10,
-        "lossess": 16,
+        "lossess": 17,
         "goalsfor": 26,
-        "goalsagainst": 40,
-        "goalsdiff": "-14",
+        "goalsagainst": 41,
+        "goalsdiff": "-15",
         "points": 34,
-        "form": "'LWLDL'"
+        "form": "'LLWLD'"
     },
     {
         "teamrank": 16,
@@ -552,15 +552,15 @@
         "teamrank": 20,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 34,
-        "wins": 5,
+        "played": 35,
+        "wins": 6,
         "draws": 11,
         "lossess": 18,
-        "goalsfor": 26,
+        "goalsfor": 27,
         "goalsagainst": 46,
-        "goalsdiff": "-20",
-        "points": 26,
-        "form": "'WLLLL'"
+        "goalsdiff": "-19",
+        "points": 29,
+        "form": "'WWLLL'"
     }
   ],
   "serie-a": [
