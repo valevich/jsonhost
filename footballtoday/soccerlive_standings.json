@@ -452,6 +452,20 @@
     },
     {
         "teamrank": 13,
+        "teamname": "Valencia",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+        "played": 35,
+        "wins": 9,
+        "draws": 12,
+        "lossess": 14,
+        "goalsfor": 46,
+        "goalsagainst": 51,
+        "goalsdiff": "-5",
+        "points": 39,
+        "form": "'WLDLD'"
+    },
+    {
+        "teamrank": 14,
         "teamname": "Levante",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
         "played": 35,
@@ -463,20 +477,6 @@
         "goalsdiff": "-10",
         "points": 39,
         "form": "'DLLLL'"
-    },
-    {
-        "teamrank": 14,
-        "teamname": "Valencia",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-        "played": 34,
-        "wins": 8,
-        "draws": 12,
-        "lossess": 14,
-        "goalsfor": 43,
-        "goalsagainst": 51,
-        "goalsdiff": "-8",
-        "points": 36,
-        "form": "'LDLDD'"
     },
     {
         "teamrank": 15,
@@ -510,15 +510,15 @@
         "teamrank": 17,
         "teamname": "Real Valladolid",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-        "played": 34,
+        "played": 35,
         "wins": 5,
         "draws": 16,
-        "lossess": 13,
+        "lossess": 14,
         "goalsfor": 32,
-        "goalsagainst": 46,
-        "goalsdiff": "-14",
+        "goalsagainst": 49,
+        "goalsdiff": "-17",
         "points": 31,
-        "form": "'DDDDL'"
+        "form": "'LDDDD'"
     },
     {
         "teamrank": 18,
