@@ -338,6 +338,15 @@
         "playerassists": 7
     },
     {
+        "playername": "D. Berardi",
+        "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
+        "playerteam": "Sassuolo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+        "playergoals": 16,
+        "playerassists": 6
+    },
+    {
         "playername": "L. Martínez",
         "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
         "playerteam": "Internazionale",
@@ -345,15 +354,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "playergoals": 16,
         "playerassists": 1
-    },
-    {
-        "playername": "D. Berardi",
-        "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
-        "playerteam": "Sassuolo",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-        "playergoals": 15,
-        "playerassists": 6
     },
     {
         "playername": "João Pedro",
@@ -675,13 +675,13 @@
         "playerassists": 0
     },
     {
-        "playername": "P. Schick",
-        "playerlink": "https://www.livesoccertv.com/player/p-schick/217300/",
-        "playerteam": "Bayer Leverkusen",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayer-leverkusen/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+        "playername": "V. Grifo",
+        "playerlink": "https://www.livesoccertv.com/player/v-grifo/207069/",
+        "playerteam": "Freiburg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/sc-freiburg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
         "playergoals": 9,
-        "playerassists": 0
+        "playerassists": 4
     }
   ]
 }
