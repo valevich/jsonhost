@@ -17,14 +17,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Burnley",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-      "AwayTeam": "Fulham",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-      "TVChannels": "0 - 2  Burnley NBCSN ,  fuboTV ,  NBCSports.com ,  …"
+      "GameState": "86 ",
+      "HomeTeam": "Fulham",
+      "HomeGoals": "0",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+      "AwayTeam": "Burnley",
+      "AwayGoals": "2",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -43,7 +43,7 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "3:00pm",
-      "GameState": "67 ",
+      "GameState": "85 ",
       "HomeTeam": "Real Betis",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
@@ -197,7 +197,7 @@
       "AwayTeam": "Arsenal",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "TVChannels": "*Round 36 Game fuboTV ,  UNIVERSO ,  UNIVERS…"
+      "TVChannels": "*Round 36 Game NBCSN ,  fuboTV ,  NBCSports.com ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
@@ -576,7 +576,7 @@
       "AwayTeam": "Everton",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-      "TVChannels": "*Round 19 Game fuboTV ,  UNIVERSO ,  UNIVERS…"
+      "TVChannels": "*Round 19 Game NBCSN ,  fuboTV ,  NBCSports.com ,  …"
     },
     {
       "LeagueName": "English Premier League",
@@ -589,7 +589,7 @@
       "AwayTeam": "Liverpool",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "TVChannels": "*Round 34 Game DAZN ,  Sky HD ,  Blue To Go Video Everywher…"
+      "TVChannels": "*Round 34 Game NBCSN ,  fuboTV ,  NBCSports.com ,  …"
     },
     {
       "LeagueName": "Spanish La Liga",
