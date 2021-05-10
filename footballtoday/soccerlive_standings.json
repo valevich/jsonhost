@@ -184,6 +184,20 @@
     },
     {
         "teamrank": 14,
+        "teamname": "Burnley",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+        "played": 35,
+        "wins": 10,
+        "draws": 9,
+        "lossess": 16,
+        "goalsfor": 33,
+        "goalsagainst": 47,
+        "goalsdiff": "-14",
+        "points": 39,
+        "form": "'WLWLL'"
+    },
+    {
+        "teamrank": 15,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "played": 35,
@@ -197,7 +211,7 @@
         "form": "'WLDWW'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Brighton & Hove Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
         "played": 35,
@@ -211,7 +225,7 @@
         "form": "'LWLDD'"
     },
     {
-        "teamrank": 16,
+        "teamrank": 17,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
         "played": 34,
@@ -225,32 +239,18 @@
         "form": "'LDLLW'"
     },
     {
-        "teamrank": 17,
-        "teamname": "Burnley",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-        "played": 34,
-        "wins": 9,
-        "draws": 9,
-        "lossess": 16,
-        "goalsfor": 31,
-        "goalsagainst": 47,
-        "goalsdiff": "-16",
-        "points": 36,
-        "form": "'LWLLL'"
-    },
-    {
         "teamrank": 18,
         "teamname": "Fulham",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-        "played": 34,
+        "played": 35,
         "wins": 5,
         "draws": 12,
-        "lossess": 17,
+        "lossess": 18,
         "goalsfor": 25,
-        "goalsagainst": 45,
-        "goalsdiff": "-20",
+        "goalsagainst": 47,
+        "goalsdiff": "-22",
         "points": 27,
-        "form": "'LDLLL'"
+        "form": "'LLDLL'"
     },
     {
         "teamrank": 19,
@@ -354,6 +354,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Real Betis",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "played": 35,
+        "wins": 15,
+        "draws": 9,
+        "lossess": 11,
+        "goalsfor": 45,
+        "goalsagainst": 47,
+        "goalsdiff": "-2",
+        "points": 54,
+        "form": "'WDDDD'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Villarreal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
         "played": 35,
@@ -365,20 +379,6 @@
         "goalsdiff": "+11",
         "points": 52,
         "form": "'LWLLW'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Real Betis",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 34,
-        "wins": 14,
-        "draws": 9,
-        "lossess": 11,
-        "goalsfor": 43,
-        "goalsagainst": 46,
-        "goalsdiff": "-3",
-        "points": 51,
-        "form": "'DDDDD'"
     },
     {
         "teamrank": 8,
@@ -412,15 +412,15 @@
         "teamrank": 10,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "played": 34,
+        "played": 35,
         "wins": 13,
         "draws": 6,
-        "lossess": 15,
-        "goalsfor": 43,
-        "goalsagainst": 55,
-        "goalsdiff": "-12",
+        "lossess": 16,
+        "goalsfor": 44,
+        "goalsagainst": 57,
+        "goalsdiff": "-13",
         "points": 45,
-        "form": "'LWLWW'"
+        "form": "'LLWLW'"
     },
     {
         "teamrank": 11,
