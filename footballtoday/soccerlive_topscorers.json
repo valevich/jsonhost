@@ -293,6 +293,15 @@
         "playerassists": 5
     },
     {
+        "playername": "L. Muriel",
+        "playerlink": "https://www.livesoccertv.com/player/l-muriel/83663/",
+        "playerteam": "Atalanta",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+        "playergoals": 21,
+        "playerassists": 2
+    },
+    {
         "playername": "D. Vlahović",
         "playerlink": "https://www.livesoccertv.com/player/d-vlahovic/319415/",
         "playerteam": "Fiorentina",
@@ -309,15 +318,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
         "playergoals": 19,
         "playerassists": 4
-    },
-    {
-        "playername": "L. Muriel",
-        "playerlink": "https://www.livesoccertv.com/player/l-muriel/83663/",
-        "playerteam": "Atalanta",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/atalanta-bergamo/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-        "playergoals": 19,
-        "playerassists": 2
     },
     {
         "playername": "S. Nwankwo",
@@ -347,6 +347,15 @@
         "playerassists": 6
     },
     {
+        "playername": "João Pedro",
+        "playerlink": "https://www.livesoccertv.com/player/joao-pedro/115191/",
+        "playerteam": "Cagliari",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/cagliari/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+        "playergoals": 16,
+        "playerassists": 4
+    },
+    {
         "playername": "L. Martínez",
         "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
         "playerteam": "Internazionale",
@@ -354,15 +363,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "playergoals": 16,
         "playerassists": 1
-    },
-    {
-        "playername": "João Pedro",
-        "playerlink": "https://www.livesoccertv.com/player/joao-pedro/115191/",
-        "playerteam": "Cagliari",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/cagliari/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-        "playergoals": 15,
-        "playerassists": 4
     },
     {
         "playername": "Z. Ibrahimović",
