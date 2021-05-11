@@ -17,14 +17,14 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "1:00pm",
-      "GameState": "85 ",
+      "GameState": "FT ",
       "HomeTeam": "Manchester Utd",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
       "AwayTeam": "Leicester",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-      "TVChannels": "*Round 36 Game NBCSN ,  fuboTV ,  NBCSports.com ,  …"
+      "TVChannels": "*Round 36 Game NBCSN ,  fuboTV ,  NBCSports.com ,  NBC Sports…"
     },
     {
       "LeagueName": "English Premier League",
@@ -56,20 +56,20 @@
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "1:00pm",
-      "GameState": "84 ",
+      "GameState": "FT ",
       "HomeTeam": "Osasuna",
-      "HomeGoals": "2",
+      "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
       "AwayTeam": "Cádiz",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
-      "TVChannels": "Fanatiz USA ,  beIN SPORTS en Espa…"
+      "TVChannels": "Fanatiz USA ,  beIN SPORTS en Español ,  f…"
     },
     {
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "2:00pm",
-      "GameState": "42 ",
+      "GameState": "HT ",
       "HomeTeam": "Elche",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
@@ -108,12 +108,12 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "",
+      "GameState": "11 ",
       "HomeTeam": "Napoli",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
       "AwayTeam": "Udinese",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
       "TVChannels": "Fanatiz USA ,  ESPN+ ,  ESPN App ,  …"
     }
