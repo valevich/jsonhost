@@ -480,6 +480,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Deportivo Alavés",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+        "played": 36,
+        "wins": 8,
+        "draws": 11,
+        "lossess": 17,
+        "goalsfor": 32,
+        "goalsagainst": 54,
+        "goalsdiff": "-22",
+        "points": 35,
+        "form": "'WDLDW'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Getafe",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
         "played": 35,
@@ -491,20 +505,6 @@
         "goalsdiff": "-15",
         "points": 34,
         "form": "'LLWLD'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Deportivo Alavés",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-        "played": 35,
-        "wins": 7,
-        "draws": 11,
-        "lossess": 17,
-        "goalsfor": 30,
-        "goalsagainst": 54,
-        "goalsdiff": "-24",
-        "points": 32,
-        "form": "'DLDWW'"
     },
     {
         "teamrank": 17,
@@ -538,15 +538,15 @@
         "teamrank": 19,
         "teamname": "Elche",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-        "played": 35,
+        "played": 36,
         "wins": 6,
         "draws": 12,
-        "lossess": 17,
+        "lossess": 18,
         "goalsfor": 29,
-        "goalsagainst": 52,
-        "goalsdiff": "-23",
+        "goalsagainst": 54,
+        "goalsdiff": "-25",
         "points": 30,
-        "form": "'LLWDL'"
+        "form": "'LLLWD'"
     },
     {
         "teamrank": 20,
