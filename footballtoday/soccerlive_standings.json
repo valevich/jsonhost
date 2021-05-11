@@ -172,18 +172,32 @@
         "teamrank": 13,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "played": 34,
+        "played": 35,
         "wins": 11,
         "draws": 8,
-        "lossess": 15,
-        "goalsfor": 36,
-        "goalsagainst": 56,
-        "goalsdiff": "-20",
+        "lossess": 16,
+        "goalsfor": 37,
+        "goalsagainst": 59,
+        "goalsdiff": "-22",
         "points": 41,
-        "form": "'WLLLD'"
+        "form": "'LWLLL'"
     },
     {
         "teamrank": 14,
+        "teamname": "Southampton",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+        "played": 35,
+        "wins": 11,
+        "draws": 7,
+        "lossess": 17,
+        "goalsfor": 44,
+        "goalsagainst": 62,
+        "goalsdiff": "-18",
+        "points": 40,
+        "form": "'WLDLL'"
+    },
+    {
+        "teamrank": 15,
         "teamname": "Burnley",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
         "played": 35,
@@ -197,7 +211,7 @@
         "form": "'WLWLL'"
     },
     {
-        "teamrank": 15,
+        "teamrank": 16,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "played": 35,
@@ -211,7 +225,7 @@
         "form": "'WLDWW'"
     },
     {
-        "teamrank": 16,
+        "teamrank": 17,
         "teamname": "Brighton & Hove Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
         "played": 35,
@@ -223,20 +237,6 @@
         "goalsdiff": "-5",
         "points": 37,
         "form": "'LWLDD'"
-    },
-    {
-        "teamrank": 17,
-        "teamname": "Southampton",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "played": 34,
-        "wins": 10,
-        "draws": 7,
-        "lossess": 17,
-        "goalsfor": 41,
-        "goalsagainst": 61,
-        "goalsdiff": "-20",
-        "points": 37,
-        "form": "'LDLLW'"
     },
     {
         "teamrank": 18,
@@ -580,6 +580,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Napoli",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "played": 36,
+        "wins": 23,
+        "draws": 4,
+        "lossess": 9,
+        "goalsfor": 83,
+        "goalsagainst": 40,
+        "goalsdiff": "+43",
+        "points": 73,
+        "form": "'WWDWW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Atalanta",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
         "played": 35,
@@ -593,7 +607,7 @@
         "form": "'WDWDW'"
     },
     {
-        "teamrank": 3,
+        "teamrank": 4,
         "teamname": "Milan",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
         "played": 35,
@@ -605,20 +619,6 @@
         "goalsdiff": "+24",
         "points": 72,
         "form": "'WWLLW'"
-    },
-    {
-        "teamrank": 4,
-        "teamname": "Napoli",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "played": 35,
-        "wins": 22,
-        "draws": 4,
-        "lossess": 9,
-        "goalsfor": 78,
-        "goalsagainst": 39,
-        "goalsdiff": "+39",
-        "points": 70,
-        "form": "'WDWWD'"
     },
     {
         "teamrank": 5,
@@ -706,20 +706,6 @@
     },
     {
         "teamrank": 11,
-        "teamname": "Udinese",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-        "played": 35,
-        "wins": 10,
-        "draws": 10,
-        "lossess": 15,
-        "goalsfor": 40,
-        "goalsagainst": 47,
-        "goalsdiff": "-7",
-        "points": 40,
-        "form": "'DLWLW'"
-    },
-    {
-        "teamrank": 12,
         "teamname": "Bologna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
         "played": 35,
@@ -731,6 +717,20 @@
         "goalsdiff": "-9",
         "points": 40,
         "form": "'DDLDW'"
+    },
+    {
+        "teamrank": 12,
+        "teamname": "Udinese",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+        "played": 36,
+        "wins": 10,
+        "draws": 10,
+        "lossess": 16,
+        "goalsfor": 41,
+        "goalsagainst": 52,
+        "goalsdiff": "-11",
+        "points": 40,
+        "form": "'LDLWL'"
     },
     {
         "teamrank": 13,
