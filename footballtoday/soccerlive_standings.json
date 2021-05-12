@@ -46,15 +46,15 @@
         "teamrank": 4,
         "teamname": "Chelsea",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-        "played": 35,
+        "played": 36,
         "wins": 18,
         "draws": 10,
-        "lossess": 7,
+        "lossess": 8,
         "goalsfor": 55,
-        "goalsagainst": 32,
-        "goalsdiff": "+23",
+        "goalsagainst": 33,
+        "goalsdiff": "+22",
         "points": 64,
-        "form": "'WWWDW'"
+        "form": "'LWWWD'"
     },
     {
         "teamrank": 5,
@@ -100,6 +100,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Arsenal",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "played": 36,
+        "wins": 16,
+        "draws": 7,
+        "lossess": 13,
+        "goalsfor": 50,
+        "goalsagainst": 38,
+        "goalsdiff": "+12",
+        "points": 55,
+        "form": "'WWWLD'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
         "played": 34,
@@ -111,20 +125,6 @@
         "goalsdiff": "+4",
         "points": 55,
         "form": "'WLWDD'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Arsenal",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "played": 35,
-        "wins": 15,
-        "draws": 7,
-        "lossess": 13,
-        "goalsfor": 49,
-        "goalsagainst": 38,
-        "goalsdiff": "+11",
-        "points": 52,
-        "form": "'WWLDW'"
     },
     {
         "teamrank": 10,
