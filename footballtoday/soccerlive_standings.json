@@ -328,15 +328,15 @@
         "teamrank": 4,
         "teamname": "Sevilla",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-        "played": 35,
-        "wins": 22,
+        "played": 36,
+        "wins": 23,
         "draws": 5,
         "lossess": 8,
-        "goalsfor": 51,
+        "goalsfor": 52,
         "goalsagainst": 29,
-        "goalsdiff": "+22",
-        "points": 71,
-        "form": "'DLWWW'"
+        "goalsdiff": "+23",
+        "points": 74,
+        "form": "'WDLWW'"
     },
     {
         "teamrank": 5,
@@ -468,15 +468,15 @@
         "teamrank": 14,
         "teamname": "Valencia",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-        "played": 35,
+        "played": 36,
         "wins": 9,
         "draws": 12,
-        "lossess": 14,
+        "lossess": 15,
         "goalsfor": 46,
-        "goalsagainst": 51,
-        "goalsdiff": "-5",
+        "goalsagainst": 52,
+        "goalsdiff": "-6",
         "points": 39,
-        "form": "'WLDLD'"
+        "form": "'LWLDL'"
     },
     {
         "teamrank": 15,
@@ -736,15 +736,15 @@
         "teamrank": 13,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "played": 35,
+        "played": 36,
         "wins": 9,
-        "draws": 11,
+        "draws": 12,
         "lossess": 15,
         "goalsfor": 47,
         "goalsagainst": 57,
         "goalsdiff": "-10",
-        "points": 38,
-        "form": "'WDDWL'"
+        "points": 39,
+        "form": "'DWDDW'"
     },
     {
         "teamrank": 14,
@@ -762,6 +762,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Cagliari",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+        "played": 36,
+        "wins": 9,
+        "draws": 9,
+        "lossess": 18,
+        "goalsfor": 43,
+        "goalsagainst": 58,
+        "goalsdiff": "-15",
+        "points": 36,
+        "form": "'DWDWW'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Torino",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
         "played": 34,
@@ -773,20 +787,6 @@
         "goalsdiff": "-9",
         "points": 35,
         "form": "'DWLDW'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Cagliari",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-        "played": 35,
-        "wins": 9,
-        "draws": 8,
-        "lossess": 18,
-        "goalsfor": 43,
-        "goalsagainst": 58,
-        "goalsdiff": "-15",
-        "points": 35,
-        "form": "'WDWWW'"
     },
     {
         "teamrank": 17,
