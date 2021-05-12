@@ -91,6 +91,15 @@
         "playerassists": 1
     },
     {
+        "playername": "D. Ings",
+        "playerlink": "https://www.livesoccertv.com/player/d-ings/120917/",
+        "playerteam": "Southampton",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/southampton/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+        "playergoals": 12,
+        "playerassists": 2
+    },
+    {
         "playername": "C. Wilson",
         "playerlink": "https://www.livesoccertv.com/player/c-wilson/87664/",
         "playerteam": "Newcastle United",
@@ -125,15 +134,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "playergoals": 10,
         "playerassists": 2
-    },
-    {
-        "playername": "",
-        "playerlink": "https://www.livesoccertv.com/player/matheus-pereira/259808/",
-        "playerteam": "West Bromwich Albion",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/west-bromwich-albion/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-        "playergoals": 10,
-        "playerassists": 4
     }
   ],
   "primera-division": [
