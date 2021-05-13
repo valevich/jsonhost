@@ -354,6 +354,20 @@
     },
     {
         "teamrank": 6,
+        "teamname": "Real Betis",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "played": 36,
+        "wins": 15,
+        "draws": 10,
+        "lossess": 11,
+        "goalsfor": 46,
+        "goalsagainst": 48,
+        "goalsdiff": "-2",
+        "points": 55,
+        "form": "'DWDDD'"
+    },
+    {
+        "teamrank": 7,
         "teamname": "Villarreal",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
         "played": 36,
@@ -365,20 +379,6 @@
         "goalsdiff": "+13",
         "points": 55,
         "form": "'WLWLL'"
-    },
-    {
-        "teamrank": 7,
-        "teamname": "Real Betis",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-        "played": 35,
-        "wins": 15,
-        "draws": 9,
-        "lossess": 11,
-        "goalsfor": 45,
-        "goalsagainst": 47,
-        "goalsdiff": "-2",
-        "points": 54,
-        "form": "'WDDDD'"
     },
     {
         "teamrank": 8,
@@ -552,15 +552,15 @@
         "teamrank": 20,
         "teamname": "Eibar",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-        "played": 35,
+        "played": 36,
         "wins": 6,
-        "draws": 11,
+        "draws": 12,
         "lossess": 18,
-        "goalsfor": 27,
-        "goalsagainst": 46,
+        "goalsfor": 28,
+        "goalsagainst": 47,
         "goalsdiff": "-19",
-        "points": 29,
-        "form": "'WWLLL'"
+        "points": 30,
+        "form": "'DWWLL'"
     }
   ],
   "serie-a": [
