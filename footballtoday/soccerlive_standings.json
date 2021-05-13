@@ -298,6 +298,20 @@
     },
     {
         "teamrank": 2,
+        "teamname": "Real Madrid",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "played": 36,
+        "wins": 23,
+        "draws": 9,
+        "lossess": 4,
+        "goalsfor": 64,
+        "goalsagainst": 27,
+        "goalsdiff": "+37",
+        "points": 78,
+        "form": "'WDWDW'"
+    },
+    {
+        "teamrank": 3,
         "teamname": "Barcelona",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
         "played": 36,
@@ -309,20 +323,6 @@
         "goalsdiff": "+47",
         "points": 76,
         "form": "'DDWLW'"
-    },
-    {
-        "teamrank": 3,
-        "teamname": "Real Madrid",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "played": 35,
-        "wins": 22,
-        "draws": 9,
-        "lossess": 4,
-        "goalsfor": 60,
-        "goalsagainst": 26,
-        "goalsdiff": "+34",
-        "points": 75,
-        "form": "'DWDWD'"
     },
     {
         "teamrank": 4,
@@ -412,15 +412,15 @@
         "teamrank": 10,
         "teamname": "Granada",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "played": 35,
+        "played": 36,
         "wins": 13,
         "draws": 6,
-        "lossess": 16,
-        "goalsfor": 44,
-        "goalsagainst": 57,
-        "goalsdiff": "-13",
+        "lossess": 17,
+        "goalsfor": 45,
+        "goalsagainst": 61,
+        "goalsdiff": "-16",
         "points": 45,
-        "form": "'LLWLW'"
+        "form": "'LLLWL'"
     },
     {
         "teamrank": 11,
