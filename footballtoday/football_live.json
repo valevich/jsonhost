@@ -148,34 +148,6 @@
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "Friday May. 14, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Newcastle Utd",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-      "AwayTeam": "Manchester City",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "TVChannels": "fuboTV ,  Peacock ,  SiriusXM FC ,  DA…"
-    }
-  ],
-  "day3": [
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "Saturday May. 15, 2021",
       "GameState": "",
       "HomeTeam": "",
@@ -538,7 +510,7 @@
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  Fox 1…"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -1086,7 +1058,7 @@
       "TVChannels": "Fox Sports 1 ,  fuboTV ,  FOX Deportes ,  …"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
@@ -1114,7 +1086,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play…"
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -1207,7 +1179,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play…"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -1298,6 +1270,34 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
       "TVChannels": "Sky HD ,  Blue To Go Video Everywhere ,  RUS…"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "No League Games Today",
+      "LeagueLogo": "",
+      "GameTime": "Thursday May. 20, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ]
 }
