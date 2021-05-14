@@ -15,7 +15,7 @@
         "playerteam": "Liverpool",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/liverpool/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-        "playergoals": 20,
+        "playergoals": 21,
         "playerassists": 6
     },
     {
@@ -24,7 +24,7 @@
         "playerteam": "Manchester United",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "playergoals": 17,
+        "playergoals": 18,
         "playerassists": 9
     },
     {
@@ -127,13 +127,13 @@
         "playerassists": 0
     },
     {
-        "playername": "P. Aubameyang",
-        "playerlink": "https://www.livesoccertv.com/player/p-aubameyang/37777/",
-        "playerteam": "Arsenal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/arsenal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "playergoals": 10,
-        "playerassists": 2
+        "playername": "M. Rashford",
+        "playerlink": "https://www.livesoccertv.com/player/m-rashford/308286/",
+        "playerteam": "Manchester United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "playergoals": 11,
+        "playerassists": 0
     }
   ],
   "primera-division": [
