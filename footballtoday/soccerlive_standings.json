@@ -130,15 +130,15 @@
         "teamrank": 10,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-        "played": 35,
-        "wins": 15,
+        "played": 36,
+        "wins": 16,
         "draws": 5,
         "lossess": 15,
-        "goalsfor": 53,
+        "goalsfor": 57,
         "goalsagainst": 53,
-        "goalsdiff": "0",
-        "points": 50,
-        "form": "'WLDDW'"
+        "goalsdiff": "+4",
+        "points": 53,
+        "form": "'WWLDD'"
     },
     {
         "teamrank": 11,
@@ -200,15 +200,15 @@
         "teamrank": 15,
         "teamname": "Burnley",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-        "played": 35,
+        "played": 36,
         "wins": 10,
         "draws": 9,
-        "lossess": 16,
+        "lossess": 17,
         "goalsfor": 33,
-        "goalsagainst": 47,
-        "goalsdiff": "-14",
+        "goalsagainst": 51,
+        "goalsdiff": "-18",
         "points": 39,
-        "form": "'WLWLL'"
+        "form": "'LWLWL'"
     },
     {
         "teamrank": 16,
