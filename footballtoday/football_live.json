@@ -43,9 +43,9 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:00pm",
-      "GameState": "66 ",
+      "GameState": "86 ",
       "HomeTeam": "Brighton",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
       "AwayTeam": "West Ham",
       "AwayGoals": "0",
@@ -108,14 +108,14 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:45pm",
-      "GameState": "80 ",
+      "GameState": "FT ",
       "HomeTeam": "Roma",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
       "AwayTeam": "Lazio",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-      "TVChannels": "Fanatiz USA ,  ESPN+ ,  ESPN App ,  …"
+      "TVChannels": "Fanatiz USA ,  ESPN+ ,  ESPN App ,  Rai Itali…"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -277,14 +277,14 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "3:50pm",
-      "GameState": "34 ",
+      "GameState": "HT ",
       "HomeTeam": "LA Galaxy",
-      "HomeGoals": "0",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png",
       "AwayTeam": "Austin fuboTV ,  TUDN USA ,  Univision ,  …",
       "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "0 - 0  Austin fuboTV ,  TUDN USA ,  Univision ,  …"
+      "TVChannels": "1 - 0  Austin fuboTV ,  TUDN USA ,  Univision ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
