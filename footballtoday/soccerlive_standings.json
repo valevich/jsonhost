@@ -170,6 +170,20 @@
     },
     {
         "teamrank": 13,
+        "teamname": "Southampton",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+        "played": 36,
+        "wins": 12,
+        "draws": 7,
+        "lossess": 17,
+        "goalsfor": 47,
+        "goalsagainst": 63,
+        "goalsdiff": "-16",
+        "points": 43,
+        "form": "'WWLDL'"
+    },
+    {
+        "teamrank": 14,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
         "played": 35,
@@ -181,20 +195,6 @@
         "goalsdiff": "-22",
         "points": 41,
         "form": "'LWLLL'"
-    },
-    {
-        "teamrank": 14,
-        "teamname": "Southampton",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-        "played": 35,
-        "wins": 11,
-        "draws": 7,
-        "lossess": 17,
-        "goalsfor": 44,
-        "goalsagainst": 62,
-        "goalsdiff": "-18",
-        "points": 40,
-        "form": "'WLDLL'"
     },
     {
         "teamrank": 15,
@@ -242,15 +242,15 @@
         "teamrank": 18,
         "teamname": "Fulham",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-        "played": 35,
+        "played": 36,
         "wins": 5,
         "draws": 12,
-        "lossess": 18,
-        "goalsfor": 25,
-        "goalsagainst": 47,
-        "goalsdiff": "-22",
+        "lossess": 19,
+        "goalsfor": 26,
+        "goalsagainst": 50,
+        "goalsdiff": "-24",
         "points": 27,
-        "form": "'LLDLL'"
+        "form": "'LLLDL'"
     },
     {
         "teamrank": 19,
