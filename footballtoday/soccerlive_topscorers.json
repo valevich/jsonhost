@@ -554,8 +554,17 @@
         "playerteam": "Bayern Munich",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "playergoals": 39,
-        "playerassists": 7
+        "playergoals": 40,
+        "playerassists": 8
+    },
+    {
+        "playername": "André Silva",
+        "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
+        "playerteam": "Eintracht Frankfurt",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "playergoals": 27,
+        "playerassists": 6
     },
     {
         "playername": "E. Haaland",
@@ -565,15 +574,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
         "playergoals": 25,
         "playerassists": 2
-    },
-    {
-        "playername": "André Silva",
-        "playerlink": "https://www.livesoccertv.com/player/andre-silva/176252/",
-        "playerteam": "Eintracht Frankfurt",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-        "playergoals": 25,
-        "playerassists": 6
     },
     {
         "playername": "W. Weghorst",
@@ -590,7 +590,7 @@
         "playerteam": "Hoffenheim",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "playergoals": 18,
+        "playergoals": 19,
         "playerassists": 5
     },
     {
@@ -599,7 +599,7 @@
         "playerteam": "Stuttgart",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/vfb-stuttgart/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-        "playergoals": 15,
+        "playergoals": 16,
         "playerassists": 0
     },
     {
@@ -608,7 +608,7 @@
         "playerteam": "Borussia M'gladbach",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-        "playergoals": 12,
+        "playergoals": 13,
         "playerassists": 6
     },
     {
