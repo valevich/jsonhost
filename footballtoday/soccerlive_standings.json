@@ -594,6 +594,20 @@
     },
     {
         "teamrank": 3,
+        "teamname": "Napoli",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "played": 37,
+        "wins": 24,
+        "draws": 4,
+        "lossess": 9,
+        "goalsfor": 85,
+        "goalsagainst": 40,
+        "goalsdiff": "+45",
+        "points": 76,
+        "form": "'WWWDW'"
+    },
+    {
+        "teamrank": 4,
         "teamname": "Milan",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
         "played": 36,
@@ -607,7 +621,7 @@
         "form": "'WWWLL'"
     },
     {
-        "teamrank": 4,
+        "teamrank": 5,
         "teamname": "Juventus",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
         "played": 37,
@@ -619,20 +633,6 @@
         "goalsdiff": "+36",
         "points": 75,
         "form": "'WWLWD'"
-    },
-    {
-        "teamrank": 5,
-        "teamname": "Napoli",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "played": 36,
-        "wins": 23,
-        "draws": 4,
-        "lossess": 9,
-        "goalsfor": 83,
-        "goalsagainst": 40,
-        "goalsdiff": "+43",
-        "points": 73,
-        "form": "'WWDWW'"
     },
     {
         "teamrank": 6,
@@ -736,15 +736,15 @@
         "teamrank": 13,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "played": 36,
+        "played": 37,
         "wins": 9,
         "draws": 12,
-        "lossess": 15,
+        "lossess": 16,
         "goalsfor": 47,
-        "goalsagainst": 57,
-        "goalsdiff": "-10",
+        "goalsagainst": 59,
+        "goalsdiff": "-12",
         "points": 39,
-        "form": "'DWDDW'"
+        "form": "'LDWDD'"
     },
     {
         "teamrank": 14,
