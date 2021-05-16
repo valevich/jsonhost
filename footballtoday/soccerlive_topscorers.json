@@ -280,7 +280,7 @@
         "playerteam": "Juventus",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/juventus/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-        "playergoals": 28,
+        "playergoals": 29,
         "playerassists": 6
     },
     {
@@ -289,8 +289,8 @@
         "playerteam": "Internazionale",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "playergoals": 22,
-        "playerassists": 5
+        "playergoals": 23,
+        "playerassists": 6
     },
     {
         "playername": "L. Muriel",
@@ -392,6 +392,15 @@
         "playerassists": 4
     },
     {
+        "playername": "H. Mkhitaryan",
+        "playerlink": "https://www.livesoccertv.com/player/h-mkhitaryan/39930/",
+        "playerteam": "Roma",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+        "playergoals": 12,
+        "playerassists": 1
+    },
+    {
         "playername": "F. Caputo",
         "playerlink": "https://www.livesoccertv.com/player/f-caputo/63860/",
         "playerteam": "Sassuolo",
@@ -399,15 +408,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
         "playergoals": 11,
         "playerassists": 3
-    },
-    {
-        "playername": "M. Destro",
-        "playerlink": "https://www.livesoccertv.com/player/m-destro/84885/",
-        "playerteam": "Genoa",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/genoa/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-        "playergoals": 11,
-        "playerassists": 0
     }
   ],
   "ligue-1": [
