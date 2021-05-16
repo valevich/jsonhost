@@ -144,15 +144,15 @@
         "teamrank": 11,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 35,
+        "played": 36,
         "wins": 14,
         "draws": 7,
-        "lossess": 14,
-        "goalsfor": 49,
-        "goalsagainst": 41,
-        "goalsdiff": "+8",
+        "lossess": 15,
+        "goalsfor": 51,
+        "goalsagainst": 44,
+        "goalsdiff": "+7",
         "points": 49,
-        "form": "'DLWDL'"
+        "form": "'LDLWD'"
     },
     {
         "teamrank": 12,
@@ -170,6 +170,20 @@
     },
     {
         "teamrank": 13,
+        "teamname": "Crystal Palace",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+        "played": 36,
+        "wins": 12,
+        "draws": 8,
+        "lossess": 16,
+        "goalsfor": 40,
+        "goalsagainst": 61,
+        "goalsdiff": "-21",
+        "points": 44,
+        "form": "'WLWLL'"
+    },
+    {
+        "teamrank": 14,
         "teamname": "Southampton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
         "played": 36,
@@ -181,20 +195,6 @@
         "goalsdiff": "-16",
         "points": 43,
         "form": "'WWLDL'"
-    },
-    {
-        "teamrank": 14,
-        "teamname": "Crystal Palace",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "played": 35,
-        "wins": 11,
-        "draws": 8,
-        "lossess": 16,
-        "goalsfor": 37,
-        "goalsagainst": 59,
-        "goalsdiff": "-22",
-        "points": 41,
-        "form": "'LWLLL'"
     },
     {
         "teamrank": 15,
