@@ -102,15 +102,15 @@
         "teamrank": 8,
         "teamname": "Everton",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-        "played": 35,
+        "played": 36,
         "wins": 16,
         "draws": 8,
-        "lossess": 11,
+        "lossess": 12,
         "goalsfor": 46,
-        "goalsagainst": 42,
-        "goalsdiff": "+4",
+        "goalsagainst": 43,
+        "goalsdiff": "+3",
         "points": 56,
-        "form": "'DWLWD'"
+        "form": "'LDWLW'"
     },
     {
         "teamrank": 9,
@@ -270,15 +270,15 @@
         "teamrank": 20,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 35,
-        "wins": 5,
+        "played": 36,
+        "wins": 6,
         "draws": 2,
         "lossess": 28,
-        "goalsfor": 18,
+        "goalsfor": 19,
         "goalsagainst": 62,
-        "goalsdiff": "-44",
-        "points": 17,
-        "form": "'LLWLL'"
+        "goalsdiff": "-43",
+        "points": 20,
+        "form": "'WLLWL'"
     }
   ],
   "primera-division": [
