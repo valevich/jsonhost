@@ -417,7 +417,7 @@
         "playerteam": "PSG",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "playergoals": 25,
+        "playergoals": 26,
         "playerassists": 6
     },
     {
@@ -426,7 +426,7 @@
         "playerteam": "Monaco",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/monaco/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-        "playergoals": 19,
+        "playergoals": 20,
         "playerassists": 10
     },
     {
@@ -435,8 +435,17 @@
         "playerteam": "Olympique Lyonnais",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "playergoals": 19,
+        "playergoals": 20,
         "playerassists": 8
+    },
+    {
+        "playername": "L. Ajorque",
+        "playerlink": "https://www.livesoccertv.com/player/l-ajorque/214402/",
+        "playerteam": "Strasbourg",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/strasbourg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+        "playergoals": 16,
+        "playerassists": 4
     },
     {
         "playername": "K. Volland",
@@ -466,15 +475,6 @@
         "playerassists": 3
     },
     {
-        "playername": "L. Ajorque",
-        "playerlink": "https://www.livesoccertv.com/player/l-ajorque/214402/",
-        "playerteam": "Strasbourg",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/strasbourg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-        "playergoals": 14,
-        "playerassists": 4
-    },
-    {
         "playername": "A. Delort",
         "playerlink": "https://www.livesoccertv.com/player/a-delort/89755/",
         "playerteam": "Montpellier",
@@ -502,6 +502,15 @@
         "playerassists": 1
     },
     {
+        "playername": "M. Kean",
+        "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
+        "playerteam": "PSG",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "playergoals": 13,
+        "playerassists": 0
+    },
+    {
         "playername": "J. David",
         "playerlink": "https://www.livesoccertv.com/player/j-david/390484/",
         "playerteam": "Lille",
@@ -520,13 +529,13 @@
         "playerassists": 4
     },
     {
-        "playername": "M. Kean",
-        "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
-        "playerteam": "PSG",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "playername": "Hwang Ui-jo",
+        "playerlink": "https://www.livesoccertv.com/player/hwang-eui-jo/230390/",
+        "playerteam": "Bordeaux",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/bordeaux/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
         "playergoals": 12,
-        "playerassists": 0
+        "playerassists": 3
     },
     {
         "playername": "K. Toko Ekambi",
@@ -536,15 +545,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
         "playergoals": 12,
         "playerassists": 0
-    },
-    {
-        "playername": "Hwang Ui-jo",
-        "playerlink": "https://www.livesoccertv.com/player/hwang-eui-jo/230390/",
-        "playerteam": "Bordeaux",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/bordeaux/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
-        "playergoals": 11,
-        "playerassists": 2
     }
   ],
   "bundesliga": [
