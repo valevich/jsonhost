@@ -143,8 +143,17 @@
         "playerteam": "Barcelona",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "playergoals": 29,
+        "playergoals": 30,
         "playerassists": 3
+    },
+    {
+        "playername": "Gerard Moreno",
+        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
+        "playerteam": "Villarreal",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "playergoals": 23,
+        "playerassists": 10
     },
     {
         "playername": "K. Benzema",
@@ -156,21 +165,12 @@
         "playerassists": 1
     },
     {
-        "playername": "Gerard Moreno",
-        "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
-        "playerteam": "Villarreal",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/villarreal/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "playergoals": 22,
-        "playerassists": 10
-    },
-    {
         "playername": "L. Suárez",
         "playerlink": "https://www.livesoccertv.com/player/l-suarez/2423/",
         "playerteam": "Atletico Madrid",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "playergoals": 19,
+        "playergoals": 20,
         "playerassists": 3
     },
     {
@@ -188,7 +188,7 @@
         "playerteam": "Real Sociedad",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "playergoals": 14,
+        "playergoals": 16,
         "playerassists": 0
     },
     {
@@ -246,22 +246,13 @@
         "playerassists": 0
     },
     {
-        "playername": "Roger Martí",
-        "playerlink": "https://www.livesoccertv.com/player/roger-marti/182383/",
-        "playerteam": "Levante",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "playergoals": 11,
-        "playerassists": 2
-    },
-    {
-        "playername": "Mikel Oyarzabal",
-        "playerlink": "https://www.livesoccertv.com/player/mikel-oyarzabal/285896/",
-        "playerteam": "Real Sociedad",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "playergoals": 11,
-        "playerassists": 6
+        "playername": "",
+        "playerlink": "https://www.livesoccertv.com/player/santi-mina/226131/",
+        "playerteam": "Celta Vigo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "playergoals": 12,
+        "playerassists": 1
     },
     {
         "playername": "A. Budimir",
@@ -269,8 +260,17 @@
         "playerteam": "Osasuna",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/osasuna/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-        "playergoals": 10,
+        "playergoals": 11,
         "playerassists": 0
+    },
+    {
+        "playername": "Roger Martí",
+        "playerlink": "https://www.livesoccertv.com/player/roger-marti/182383/",
+        "playerteam": "Levante",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "playergoals": 11,
+        "playerassists": 2
     }
   ],
   "serie-a": [
@@ -325,7 +325,7 @@
         "playerteam": "Crotone",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/fc-crotone/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-        "playergoals": 19,
+        "playergoals": 20,
         "playerassists": 8
     },
     {
@@ -334,7 +334,7 @@
         "playerteam": "Napoli",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/napoli/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "playergoals": 18,
+        "playergoals": 19,
         "playerassists": 7
     },
     {
@@ -401,13 +401,13 @@
         "playerassists": 1
     },
     {
-        "playername": "F. Caputo",
-        "playerlink": "https://www.livesoccertv.com/player/f-caputo/63860/",
-        "playerteam": "Sassuolo",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-        "playergoals": 11,
-        "playerassists": 3
+        "playername": "F. Quagliarella",
+        "playerlink": "https://www.livesoccertv.com/player/f-quagliarella/4297/",
+        "playerteam": "Sampdoria",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/sampdoria/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
+        "playergoals": 12,
+        "playerassists": 2
     }
   ],
   "ligue-1": [
