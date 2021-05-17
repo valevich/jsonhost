@@ -537,7 +537,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "9:55pm",
-      "GameState": "HT ",
+      "GameState": "47 ",
       "HomeTeam": "Seattle Sounders",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
@@ -790,6 +790,45 @@
     }
   ],
   "day6": [
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "Saturday May. 22, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "12:30pm",
+      "GameState": "",
+      "HomeTeam": "Granada",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
+      "AwayTeam": "Getafe",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+      "TVChannels": "fuboTV ,  beIN SPORTS CONNECT ,  Sk…"
+    },
+    {
+      "LeagueName": "Spanish La Liga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Sevilla FC",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+      "AwayTeam": "Alavés",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+      "TVChannels": "Sky HD ,  Blue To Go Video Everywhere ,  D-S…"
+    },
     {
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
@@ -1226,19 +1265,6 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "12:00pm",
       "GameState": "",
-      "HomeTeam": "Granada",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-      "AwayTeam": "Getafe",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-      "TVChannels": "fuboTV ,  beIN SPORTS CONNECT ,  Sk…"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "12:00pm",
-      "GameState": "",
       "HomeTeam": "Eibar",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
@@ -1310,19 +1336,6 @@
       "AwayTeam": "Real Betis",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-      "TVChannels": "Sky HD ,  Blue To Go Video Everywhere ,  D-S…"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "12:00pm",
-      "GameState": "",
-      "HomeTeam": "Sevilla FC",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-      "AwayTeam": "Alavés",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
       "TVChannels": "Sky HD ,  Blue To Go Video Everywhere ,  D-S…"
     },
     {
