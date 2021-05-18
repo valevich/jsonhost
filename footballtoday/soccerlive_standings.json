@@ -4,15 +4,15 @@
         "teamrank": 1,
         "teamname": "Manchester City",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-        "played": 36,
+        "played": 37,
         "wins": 26,
         "draws": 5,
-        "lossess": 5,
-        "goalsfor": 76,
-        "goalsagainst": 29,
-        "goalsdiff": "+47",
+        "lossess": 6,
+        "goalsfor": 78,
+        "goalsagainst": 32,
+        "goalsdiff": "+46",
         "points": 83,
-        "form": "'WLWWL'"
+        "form": "'LWLWW'"
     },
     {
         "teamrank": 2,
@@ -198,6 +198,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Brighton & Hove Albion",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+        "played": 37,
+        "wins": 9,
+        "draws": 14,
+        "lossess": 14,
+        "goalsfor": 40,
+        "goalsagainst": 44,
+        "goalsdiff": "-4",
+        "points": 41,
+        "form": "'WDLWL'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Burnley",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
         "played": 36,
@@ -211,7 +225,7 @@
         "form": "'LWLWL'"
     },
     {
-        "teamrank": 16,
+        "teamrank": 17,
         "teamname": "Newcastle United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "played": 36,
@@ -223,20 +237,6 @@
         "goalsdiff": "-19",
         "points": 39,
         "form": "'LWLDW'"
-    },
-    {
-        "teamrank": 17,
-        "teamname": "Brighton & Hove Albion",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-        "played": 36,
-        "wins": 8,
-        "draws": 14,
-        "lossess": 14,
-        "goalsfor": 37,
-        "goalsagainst": 42,
-        "goalsdiff": "-5",
-        "points": 38,
-        "form": "'DLWLD'"
     },
     {
         "teamrank": 18,
