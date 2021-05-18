@@ -43,20 +43,20 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "2:00pm",
-      "GameState": "82 ",
+      "GameState": "FT ",
       "HomeTeam": "Brighton",
       "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
       "AwayTeam": "Manchester City",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
+      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Video Ev…"
     },
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:15pm",
-      "GameState": "28 ",
+      "GameState": "43 ",
       "HomeTeam": "Chelsea",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
@@ -82,7 +82,7 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:30pm",
-      "GameState": "55 ",
+      "GameState": "70 ",
       "HomeTeam": "Lazio",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
@@ -370,7 +370,7 @@
       "AwayTeam": "Genoa",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-      "TVChannels": "ESPN App ,  DAZN ,  Blue Sport ,  SKY Go Itali…"
+      "TVChannels": "ESPN App ,  DAZN ,  Sky Sport 253 ,  Blue Spor…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -396,7 +396,7 @@
       "AwayTeam": "Fiorentina",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-      "TVChannels": "ESPN App ,  DAZN ,  Blue Sport ,  SKY Go Itali…"
+      "TVChannels": "ESPN App ,  DAZN ,  Sky Sport 252 ,  Blue Spor…"
     },
     {
       "LeagueName": "German Bundesliga",
