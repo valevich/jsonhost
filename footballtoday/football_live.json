@@ -43,20 +43,20 @@
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "2:00pm",
-      "GameState": "FT ",
+      "GameState": "",
       "HomeTeam": "Brighton",
-      "HomeGoals": "3",
+      "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
       "AwayTeam": "Manchester City",
-      "AwayGoals": "2",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/382.png",
       "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Video Ev…"
     },
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "3:15pm",
-      "GameState": "43 ",
+      "GameState": "HT ",
       "HomeTeam": "Chelsea",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
@@ -82,7 +82,7 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "2:30pm",
-      "GameState": "70 ",
+      "GameState": "85 ",
       "HomeTeam": "Lazio",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
@@ -905,7 +905,7 @@
       "AwayTeam": "Milan",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "TVChannels": "ESPN App ,  Premier Sports 1 ,  Stöð 2 Sport…"
+      "TVChannels": "ESPN App ,  Premier Sports 1 ,  Sky Sport 25…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -918,7 +918,7 @@
       "AwayTeam": "Lazio",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-      "TVChannels": "ESPN App ,  Blue Sport ,  SKY Go Italia ,  C Mo…"
+      "TVChannels": "ESPN App ,  Sky Sport 255 ,  Blue Sport ,  SKY…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -944,7 +944,7 @@
       "AwayTeam": "Benevento",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
-      "TVChannels": "ESPN App ,  DAZN ,  Blue Sport ,  SKY Go Itali…"
+      "TVChannels": "ESPN App ,  DAZN ,  Sky Sport 254 ,  Blue Spor…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -957,7 +957,7 @@
       "AwayTeam": "Hellas Verona",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
-      "TVChannels": "ESPN App ,  ESPN3 Norte ,  DAZN ,  Blue Sport ,  …"
+      "TVChannels": "ESPN App ,  ESPN3 Norte ,  DAZN ,  Sky Sport…"
     },
     {
       "LeagueName": "French Ligue 1",
