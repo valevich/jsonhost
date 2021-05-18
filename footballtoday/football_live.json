@@ -31,99 +31,6 @@
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "Tuesday May. 18, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Manchester Utd",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "AwayTeam": "Fulham",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "1:00pm",
-      "GameState": "",
-      "HomeTeam": "Southampton",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
-      "AwayTeam": "Leeds United",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "2:00pm",
-      "GameState": "",
-      "HomeTeam": "Brighton",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-      "AwayTeam": "Manchester City",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "3:15pm",
-      "GameState": "",
-      "HomeTeam": "Chelsea",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "AwayTeam": "Leicester",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  …"
-    },
-    {
-      "LeagueName": "Italian Serie A",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
-      "GameTime": "Tuesday May. 18, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Italian Serie A",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
-      "GameTime": "2:30pm",
-      "GameState": "",
-      "HomeTeam": "Lazio",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-      "AwayTeam": "Torino",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  DAZN ,  ESPN Play…"
-    }
-  ],
-  "day3": [
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
       "GameTime": "Wednesday May. 19, 2021",
       "GameState": "",
       "HomeTeam": "",
@@ -213,7 +120,7 @@
       "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Vid…"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "No League Games",
       "LeagueLogo": "",
@@ -241,7 +148,7 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
@@ -269,7 +176,7 @@
       "TVChannels": "beIN SPORTS XTRA ,  Sky HD ,  Blue To Go…"
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
@@ -648,7 +555,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  Altitude Sports ,  D…"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -1051,6 +958,34 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "SC vs Austin Fox Sports 1 ,  fuboTV ,  FOX Spor…"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "No League Games Today",
+      "LeagueLogo": "",
+      "GameTime": "Monday May. 24, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ]
 }
