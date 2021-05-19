@@ -74,15 +74,15 @@
         "teamrank": 6,
         "teamname": "Tottenham Hotspur",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "played": 36,
+        "played": 37,
         "wins": 17,
         "draws": 8,
-        "lossess": 11,
-        "goalsfor": 63,
-        "goalsagainst": 41,
-        "goalsdiff": "+22",
+        "lossess": 12,
+        "goalsfor": 64,
+        "goalsagainst": 43,
+        "goalsdiff": "+21",
         "points": 59,
-        "form": "'WLWWD'"
+        "form": "'LWLWW'"
     },
     {
         "teamrank": 7,
@@ -100,6 +100,20 @@
     },
     {
         "teamrank": 8,
+        "teamname": "Everton",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+        "played": 37,
+        "wins": 17,
+        "draws": 8,
+        "lossess": 12,
+        "goalsfor": 47,
+        "goalsagainst": 43,
+        "goalsdiff": "+4",
+        "points": 59,
+        "form": "'WLDWL'"
+    },
+    {
+        "teamrank": 9,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "played": 37,
@@ -111,20 +125,6 @@
         "goalsdiff": "+6",
         "points": 56,
         "form": "'WWWLD'"
-    },
-    {
-        "teamrank": 9,
-        "teamname": "Everton",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-        "played": 36,
-        "wins": 16,
-        "draws": 8,
-        "lossess": 12,
-        "goalsfor": 46,
-        "goalsagainst": 43,
-        "goalsdiff": "+3",
-        "points": 56,
-        "form": "'LDWLW'"
     },
     {
         "teamrank": 10,
@@ -144,29 +144,29 @@
         "teamrank": 11,
         "teamname": "Aston Villa",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 36,
-        "wins": 14,
+        "played": 37,
+        "wins": 15,
         "draws": 7,
         "lossess": 15,
-        "goalsfor": 51,
-        "goalsagainst": 44,
-        "goalsdiff": "+7",
-        "points": 49,
-        "form": "'LDLWD'"
+        "goalsfor": 53,
+        "goalsagainst": 45,
+        "goalsdiff": "+8",
+        "points": 52,
+        "form": "'WLDLW'"
     },
     {
         "teamrank": 12,
         "teamname": "Wolverhampton Wanderers",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-        "played": 36,
+        "played": 37,
         "wins": 12,
         "draws": 9,
-        "lossess": 15,
+        "lossess": 16,
         "goalsfor": 35,
-        "goalsagainst": 49,
-        "goalsdiff": "-14",
+        "goalsagainst": 50,
+        "goalsdiff": "-15",
         "points": 45,
-        "form": "'LWDLW'"
+        "form": "'LLWDL'"
     },
     {
         "teamrank": 13,
@@ -198,6 +198,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Newcastle United",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+        "played": 37,
+        "wins": 11,
+        "draws": 9,
+        "lossess": 17,
+        "goalsfor": 44,
+        "goalsagainst": 62,
+        "goalsdiff": "-18",
+        "points": 42,
+        "form": "'WLWLD'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Brighton & Hove Albion",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
         "played": 37,
@@ -211,7 +225,7 @@
         "form": "'WDLWL'"
     },
     {
-        "teamrank": 16,
+        "teamrank": 17,
         "teamname": "Burnley",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
         "played": 36,
@@ -223,20 +237,6 @@
         "goalsdiff": "-18",
         "points": 39,
         "form": "'LWLWL'"
-    },
-    {
-        "teamrank": 17,
-        "teamname": "Newcastle United",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-        "played": 36,
-        "wins": 10,
-        "draws": 9,
-        "lossess": 17,
-        "goalsfor": 43,
-        "goalsagainst": 62,
-        "goalsdiff": "-19",
-        "points": 39,
-        "form": "'LWLDW'"
     },
     {
         "teamrank": 18,
@@ -270,15 +270,15 @@
         "teamrank": 20,
         "teamname": "Sheffield United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-        "played": 36,
+        "played": 37,
         "wins": 6,
         "draws": 2,
-        "lossess": 28,
+        "lossess": 29,
         "goalsfor": 19,
-        "goalsagainst": 62,
-        "goalsdiff": "-43",
+        "goalsagainst": 63,
+        "goalsdiff": "-44",
         "points": 20,
-        "form": "'WLLWL'"
+        "form": "'LWLLW'"
     }
   ],
   "primera-division": [
