@@ -114,6 +114,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Arsenal",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "played": 37,
+        "wins": 17,
+        "draws": 7,
+        "lossess": 13,
+        "goalsfor": 53,
+        "goalsagainst": 39,
+        "goalsdiff": "+14",
+        "points": 58,
+        "form": "'WWWWL'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Leeds United",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "played": 37,
@@ -124,20 +138,6 @@
         "goalsagainst": 53,
         "goalsdiff": "+6",
         "points": 56,
-        "form": "'WWWLD'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Arsenal",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-        "played": 36,
-        "wins": 16,
-        "draws": 7,
-        "lossess": 13,
-        "goalsfor": 50,
-        "goalsagainst": 38,
-        "goalsdiff": "+12",
-        "points": 55,
         "form": "'WWWLD'"
     },
     {
@@ -172,15 +172,15 @@
         "teamrank": 13,
         "teamname": "Crystal Palace",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-        "played": 36,
+        "played": 37,
         "wins": 12,
         "draws": 8,
-        "lossess": 16,
-        "goalsfor": 40,
-        "goalsagainst": 61,
-        "goalsdiff": "-21",
+        "lossess": 17,
+        "goalsfor": 41,
+        "goalsagainst": 64,
+        "goalsdiff": "-23",
         "points": 44,
-        "form": "'WLWLL'"
+        "form": "'LWLWL'"
     },
     {
         "teamrank": 14,
