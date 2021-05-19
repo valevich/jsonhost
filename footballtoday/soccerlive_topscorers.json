@@ -37,6 +37,15 @@
         "playerassists": 1
     },
     {
+        "playername": "P. Bamford",
+        "playerlink": "https://www.livesoccertv.com/player/p-bamford/172819/",
+        "playerteam": "Leeds United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/leeds-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+        "playergoals": 16,
+        "playerassists": 1
+    },
+    {
         "playername": "D. Calvert-Lewin",
         "playerlink": "https://www.livesoccertv.com/player/d-calvert-lewin/258776/",
         "playerteam": "Everton",
@@ -46,12 +55,12 @@
         "playerassists": 0
     },
     {
-        "playername": "P. Bamford",
-        "playerlink": "https://www.livesoccertv.com/player/p-bamford/172819/",
-        "playerteam": "Leeds United",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/leeds-united/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-        "playergoals": 15,
+        "playername": "İ. Gündoğan",
+        "playerlink": "https://www.livesoccertv.com/player/gundo-an/69183/",
+        "playerteam": "Manchester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "playergoals": 13,
         "playerassists": 1
     },
     {
@@ -82,13 +91,13 @@
         "playerassists": 1
     },
     {
-        "playername": "İ. Gündoğan",
-        "playerlink": "https://www.livesoccertv.com/player/gundo-an/69183/",
-        "playerteam": "Manchester City",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-city/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "playername": "K. Iheanacho",
+        "playerlink": "https://www.livesoccertv.com/player/k-iheanacho/253941/",
+        "playerteam": "Leicester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
         "playergoals": 12,
-        "playerassists": 1
+        "playerassists": 0
     },
     {
         "playername": "D. Ings",
@@ -116,15 +125,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
         "playergoals": 12,
         "playerassists": 2
-    },
-    {
-        "playername": "K. Iheanacho",
-        "playerlink": "https://www.livesoccertv.com/player/k-iheanacho/253941/",
-        "playerteam": "Leicester City",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "playergoals": 11,
-        "playerassists": 0
     },
     {
         "playername": "M. Rashford",
