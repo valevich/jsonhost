@@ -801,6 +801,48 @@
         "goalsdiff": "-19",
         "points": 36,
         "form": "'DLLDW'"
+    },
+    {
+        "teamrank": 18,
+        "teamname": "Benevento",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
+        "played": 37,
+        "wins": 7,
+        "draws": 11,
+        "lossess": 19,
+        "goalsfor": 39,
+        "goalsagainst": 74,
+        "goalsdiff": "-35",
+        "points": 32,
+        "form": "'DLLLL'"
+    },
+    {
+        "teamrank": 19,
+        "teamname": "Crotone",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
+        "played": 37,
+        "wins": 6,
+        "draws": 4,
+        "lossess": 27,
+        "goalsfor": 45,
+        "goalsagainst": 92,
+        "goalsdiff": "-47",
+        "points": 22,
+        "form": "'DWLLW'"
+    },
+    {
+        "teamrank": 20,
+        "teamname": "Parma",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+        "played": 37,
+        "wins": 3,
+        "draws": 11,
+        "lossess": 23,
+        "goalsfor": 39,
+        "goalsagainst": 80,
+        "goalsdiff": "-41",
+        "points": 20,
+        "form": "'LLLLL'"
     }
   ],
   "ligue-1": [
