@@ -55,6 +55,15 @@
         "playerassists": 0
     },
     {
+        "playername": "O. Watkins",
+        "playerlink": "https://www.livesoccertv.com/player/o-watkins/264917/",
+        "playerteam": "Aston Villa",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/aston-villa/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "playergoals": 14,
+        "playerassists": 1
+    },
+    {
         "playername": "İ. Gündoğan",
         "playerlink": "https://www.livesoccertv.com/player/gundo-an/69183/",
         "playerteam": "Manchester City",
@@ -80,15 +89,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
         "playergoals": 13,
         "playerassists": 6
-    },
-    {
-        "playername": "O. Watkins",
-        "playerlink": "https://www.livesoccertv.com/player/o-watkins/264917/",
-        "playerteam": "Aston Villa",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/aston-villa/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "playergoals": 13,
-        "playerassists": 1
     },
     {
         "playername": "K. Iheanacho",
@@ -127,13 +127,13 @@
         "playerassists": 2
     },
     {
-        "playername": "M. Rashford",
-        "playerlink": "https://www.livesoccertv.com/player/m-rashford/308286/",
-        "playerteam": "Manchester United",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/manchester-united/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "playername": "",
+        "playerlink": "https://www.livesoccertv.com/player/matheus-pereira/259808/",
+        "playerteam": "West Bromwich Albion",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/west-bromwich-albion/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
         "playergoals": 11,
-        "playerassists": 0
+        "playerassists": 4
     }
   ],
   "primera-division": [
