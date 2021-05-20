@@ -1,9 +1,9 @@
 {
-  "today": [
+    },
     {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "Wednesday May. 19, 2021",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -12,84 +12,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "1:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Tottenham",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-      "AwayTeam": "Aston Villa",
-      "AwayGoals": "2",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-      "TVChannels": "Peacock ,  SiriusXM FC ,  DAZN ,  Sky HD ,  Blue T…"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "1:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Everton",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-      "AwayTeam": "Wolves",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Video Ev…"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "1:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Newcastle Utd",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-      "AwayTeam": "Sheffield Utd",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Video Ev…"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "2:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Crystal Palace",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-      "AwayTeam": "Arsenal",
-      "AwayGoals": "3",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "TVChannels": "Peacock ,  Arsenal Player ,  DAZN ,  Sky HD ,  Blue…"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "3:15pm",
-      "GameState": "FT ",
-      "HomeTeam": "Burnley",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-      "AwayTeam": "Liverpool",
-      "AwayGoals": "3",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "TVChannels": "NBCSN ,  fuboTV ,  NBCSports.com ,  NBC Sports…"
-    },
-    {
-      "LeagueName": "English Premier League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
-      "GameTime": "3:15pm",
-      "GameState": "FT ",
-      "HomeTeam": "West Bromwich",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-      "AwayTeam": "West Ham",
-      "AwayGoals": "3",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-      "TVChannels": "Peacock ,  DAZN ,  Sky HD ,  Blue To Go Video Ev…"
     }
   ],
   "day2": [
@@ -249,7 +171,7 @@
       "AwayTeam": "Genoa",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-      "TVChannels": "ESPN App ,  DAZN ,  DAZN ,  Sky Sport 253 ,  Blu…"
+      "TVChannels": "ESPN App ,  DAZN ,  ESPN Play Norte ,  DAZN ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -262,7 +184,7 @@
       "AwayTeam": "Parma",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-      "TVChannels": "ESPN App ,  DAZN ,  DAZN ,  Sport TV3 ,  Premier…"
+      "TVChannels": "ESPN App ,  DAZN ,  ESPN Play Norte ,  DAZN ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -275,7 +197,7 @@
       "AwayTeam": "Fiorentina",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-      "TVChannels": "ESPN App ,  DAZN ,  DAZN ,  Sky Sport 252 ,  Blu…"
+      "TVChannels": "ESPN App ,  DAZN ,  ESPN Play Norte ,  DAZN ,  …"
     },
     {
       "LeagueName": "German Bundesliga",
@@ -771,7 +693,7 @@
       "AwayTeam": "Roma",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-      "TVChannels": "ESPN App ,  DAZN ,  DAZN ,  Blue Sport ,  SKY Go…"
+      "TVChannels": "ESPN App ,  DAZN ,  ESPN Play Norte ,  DAZN ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -784,7 +706,7 @@
       "AwayTeam": "Milan",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "TVChannels": "ESPN App ,  DAZN ,  DAZN ,  Sport TV3 ,  Premier…"
+      "TVChannels": "ESPN App ,  DAZN ,  ESPN Play Norte ,  DAZN ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -797,7 +719,7 @@
       "AwayTeam": "Lazio",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-      "TVChannels": "ESPN App ,  DAZN ,  DAZN ,  Sky Sport 255 ,  Blu…"
+      "TVChannels": "ESPN App ,  DAZN ,  ESPN Play Norte ,  DAZN ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -810,7 +732,7 @@
       "AwayTeam": "Juventus",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-      "TVChannels": "ESPN App ,  DAZN ,  ESPN2 Caribbean ,  DAZN ,  …"
+      "TVChannels": "ESPN App ,  DAZN ,  ESPN2 Caribbean ,  ESPN…"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -823,7 +745,7 @@
       "AwayTeam": "Benevento",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
-      "TVChannels": "ESPN App ,  DAZN ,  DAZN ,  Sky Sport 254 ,  Blu…"
+      "TVChannels": "ESPN App ,  DAZN ,  ESPN Play Norte ,  DAZN ,  …"
     },
     {
       "LeagueName": "Italian Serie A",
@@ -836,7 +758,7 @@
       "AwayTeam": "Hellas Verona",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
-      "TVChannels": "ESPN App ,  DAZN ,  ESPN3 Norte ,  DAZN ,  Spo…"
+      "TVChannels": "ESPN App ,  DAZN ,  ESPN Play Norte ,  ESPN…"
     },
     {
       "LeagueName": "French Ligue 1",
@@ -914,7 +836,7 @@
       "AwayTeam": "Lille",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-      "TVChannels": "beIN SPORTS XTRA ,  OneSoccer ,  DAZN ,  Vi…"
+      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
     },
     {
       "LeagueName": "French Ligue 1",
