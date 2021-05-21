@@ -31,34 +31,6 @@
     {
       "LeagueName": "Spanish La Liga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "Friday May. 21, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-      "GameTime": "3:00pm",
-      "GameState": "",
-      "HomeTeam": "Levante",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-      "AwayTeam": "Cádiz",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  beIN…"
-    }
-  ],
-  "day3": [
-    {
-      "LeagueName": "Spanish La Liga",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
       "GameTime": "Saturday May. 22, 2021",
       "GameState": "",
       "HomeTeam": "",
@@ -486,7 +458,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  SiriusXM FC ,  Altit…"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "English Premier League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
@@ -969,7 +941,7 @@
       "TVChannels": "SC vs Austin Fox Sports 1 ,  fuboTV ,  FOX Spor…"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "No League Games",
       "LeagueLogo": "",
@@ -997,7 +969,7 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "No League Games",
       "LeagueLogo": "",
@@ -1025,7 +997,7 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
@@ -1051,6 +1023,34 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
       "TVChannels": "*Final CBS Sports Network ,  TUDN USA ,  …"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "No League Games Today",
+      "LeagueLogo": "",
+      "GameTime": "Thursday May. 27, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ]
 }
