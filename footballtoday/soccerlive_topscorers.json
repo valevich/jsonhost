@@ -246,6 +246,15 @@
         "playerassists": 0
     },
     {
+        "playername": "Roger Martí",
+        "playerlink": "https://www.livesoccertv.com/player/roger-marti/182383/",
+        "playerteam": "Levante",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "playergoals": 12,
+        "playerassists": 2
+    },
+    {
         "playername": "Santi Mina",
         "playerlink": "https://www.livesoccertv.com/player/santi-mina/226131/",
         "playerteam": "Celta Vigo",
@@ -262,15 +271,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
         "playergoals": 11,
         "playerassists": 0
-    },
-    {
-        "playername": "Roger Martí",
-        "playerlink": "https://www.livesoccertv.com/player/roger-marti/182383/",
-        "playerteam": "Levante",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-        "playergoals": 11,
-        "playerassists": 2
     }
   ],
   "serie-a": [
