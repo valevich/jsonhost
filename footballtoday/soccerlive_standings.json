@@ -680,15 +680,15 @@
         "teamrank": 9,
         "teamname": "Sampdoria",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-        "played": 37,
-        "wins": 14,
+        "played": 38,
+        "wins": 15,
         "draws": 7,
         "lossess": 16,
-        "goalsfor": 49,
+        "goalsfor": 52,
         "goalsagainst": 54,
-        "goalsdiff": "-5",
-        "points": 49,
-        "form": "'WDLWL'"
+        "goalsdiff": "-2",
+        "points": 52,
+        "form": "'WWDLW'"
     },
     {
         "teamrank": 10,
@@ -706,6 +706,20 @@
     },
     {
         "teamrank": 11,
+        "teamname": "Genoa",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+        "played": 38,
+        "wins": 10,
+        "draws": 12,
+        "lossess": 16,
+        "goalsfor": 47,
+        "goalsagainst": 58,
+        "goalsdiff": "-11",
+        "points": 42,
+        "form": "'WLWLL'"
+    },
+    {
+        "teamrank": 12,
         "teamname": "Bologna",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
         "played": 37,
@@ -719,7 +733,7 @@
         "form": "'DLDDL'"
     },
     {
-        "teamrank": 12,
+        "teamrank": 13,
         "teamname": "Udinese",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
         "played": 37,
@@ -733,32 +747,18 @@
         "form": "'LLDLW'"
     },
     {
-        "teamrank": 13,
+        "teamrank": 14,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-        "played": 37,
+        "played": 38,
         "wins": 9,
-        "draws": 12,
+        "draws": 13,
         "lossess": 16,
         "goalsfor": 47,
         "goalsagainst": 59,
         "goalsdiff": "-12",
-        "points": 39,
-        "form": "'LDWDD'"
-    },
-    {
-        "teamrank": 14,
-        "teamname": "Genoa",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-        "played": 37,
-        "wins": 9,
-        "draws": 12,
-        "lossess": 16,
-        "goalsfor": 46,
-        "goalsagainst": 58,
-        "goalsdiff": "-12",
-        "points": 39,
-        "form": "'LWLLW'"
+        "points": 40,
+        "form": "'DLDWD'"
     },
     {
         "teamrank": 15,
@@ -778,15 +778,15 @@
         "teamrank": 16,
         "teamname": "Cagliari",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-        "played": 37,
+        "played": 38,
         "wins": 9,
         "draws": 10,
-        "lossess": 18,
+        "lossess": 19,
         "goalsfor": 43,
-        "goalsagainst": 58,
-        "goalsdiff": "-15",
+        "goalsagainst": 59,
+        "goalsdiff": "-16",
         "points": 37,
-        "form": "'DDWDW'"
+        "form": "'LDDWD'"
     },
     {
         "teamrank": 17,
@@ -820,27 +820,27 @@
         "teamrank": 19,
         "teamname": "Crotone",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3173.png",
-        "played": 37,
+        "played": 38,
         "wins": 6,
-        "draws": 4,
+        "draws": 5,
         "lossess": 27,
         "goalsfor": 45,
         "goalsagainst": 92,
         "goalsdiff": "-47",
-        "points": 22,
-        "form": "'DWLLW'"
+        "points": 23,
+        "form": "'DDWLL'"
     },
     {
         "teamrank": 20,
         "teamname": "Parma",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-        "played": 37,
+        "played": 38,
         "wins": 3,
         "draws": 11,
-        "lossess": 23,
+        "lossess": 24,
         "goalsfor": 39,
-        "goalsagainst": 80,
-        "goalsdiff": "-41",
+        "goalsagainst": 83,
+        "goalsdiff": "-44",
         "points": 20,
         "form": "'LLLLL'"
     }
