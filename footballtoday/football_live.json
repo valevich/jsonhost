@@ -199,9 +199,9 @@
       "LeagueName": "Italian Serie A",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
       "GameTime": "9:00am",
-      "GameState": "54 ",
+      "GameState": "69 ",
       "HomeTeam": "Inter",
-      "HomeGoals": "2",
+      "HomeGoals": "4",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
       "AwayTeam": "Udinese",
       "AwayGoals": "0",
@@ -594,11 +594,11 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-    },
+  "day6": [
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "Friday May. 28, 2021",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -607,6 +607,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "6:20am",
+      "GameState": "",
+      "HomeTeam": "Japan",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/627.png",
+      "AwayTeam": "Myanmar",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6770.png",
+      "TVChannels": ""
     }
   ],
   "day7": [
