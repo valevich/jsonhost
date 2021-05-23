@@ -147,6 +147,15 @@
         "playerassists": 3
     },
     {
+        "playername": "K. Benzema",
+        "playerlink": "https://www.livesoccertv.com/player/k-benzema/1728/",
+        "playerteam": "Real Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "playergoals": 23,
+        "playerassists": 1
+    },
+    {
         "playername": "Gerard Moreno",
         "playerlink": "https://www.livesoccertv.com/player/gerard-moreno/150756/",
         "playerteam": "Villarreal",
@@ -156,21 +165,12 @@
         "playerassists": 10
     },
     {
-        "playername": "K. Benzema",
-        "playerlink": "https://www.livesoccertv.com/player/k-benzema/1728/",
-        "playerteam": "Real Madrid",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-madrid/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-        "playergoals": 22,
-        "playerassists": 1
-    },
-    {
         "playername": "L. Suárez",
         "playerlink": "https://www.livesoccertv.com/player/l-suarez/2423/",
         "playerteam": "Atletico Madrid",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "playergoals": 20,
+        "playergoals": 21,
         "playerassists": 3
     },
     {
@@ -188,7 +188,7 @@
         "playerteam": "Real Sociedad",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/real-sociedad-de-futbol/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "playergoals": 16,
+        "playergoals": 17,
         "playerassists": 0
     },
     {
@@ -197,8 +197,17 @@
         "playerteam": "Celta Vigo",
         "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "playergoals": 14,
+        "playerassists": 5
+    },
+    {
+        "playername": "A. Griezmann",
+        "playerlink": "https://www.livesoccertv.com/player/a-griezmann/90283/",
+        "playerteam": "Barcelona",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
         "playergoals": 13,
-        "playerassists": 4
+        "playerassists": 1
     },
     {
         "playername": "Rafa Mir",
@@ -226,15 +235,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "playergoals": 12,
         "playerassists": 0
-    },
-    {
-        "playername": "A. Griezmann",
-        "playerlink": "https://www.livesoccertv.com/player/a-griezmann/90283/",
-        "playerteam": "Barcelona",
-        "playerteamlink": "https://www.livesoccertv.com/teams/spain/barcelona/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "playergoals": 12,
-        "playerassists": 1
     },
     {
         "playername": "Llorente",
