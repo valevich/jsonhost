@@ -392,6 +392,15 @@
         "playerassists": 4
     },
     {
+        "playername": "F. Quagliarella",
+        "playerlink": "https://www.livesoccertv.com/player/f-quagliarella/4297/",
+        "playerteam": "Sampdoria",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/sampdoria/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
+        "playergoals": 13,
+        "playerassists": 2
+    },
+    {
         "playername": "H. Mkhitaryan",
         "playerlink": "https://www.livesoccertv.com/player/h-mkhitaryan/39930/",
         "playerteam": "Roma",
@@ -399,15 +408,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
         "playergoals": 12,
         "playerassists": 1
-    },
-    {
-        "playername": "F. Quagliarella",
-        "playerlink": "https://www.livesoccertv.com/player/f-quagliarella/4297/",
-        "playerteam": "Sampdoria",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/sampdoria/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-        "playergoals": 12,
-        "playerassists": 2
     }
   ],
   "ligue-1": [
@@ -554,7 +554,7 @@
         "playerteam": "Bayern Munich",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "playergoals": 40,
+        "playergoals": 41,
         "playerassists": 8
     },
     {
@@ -563,8 +563,8 @@
         "playerteam": "Eintracht Frankfurt",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/eintracht-frankfurt/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-        "playergoals": 27,
-        "playerassists": 6
+        "playergoals": 28,
+        "playerassists": 7
     },
     {
         "playername": "E. Haaland",
@@ -572,8 +572,17 @@
         "playerteam": "Borussia Dortmund",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-dortmund/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-        "playergoals": 25,
+        "playergoals": 27,
         "playerassists": 2
+    },
+    {
+        "playername": "A. Kramarić",
+        "playerlink": "https://www.livesoccertv.com/player/a-kramaric/83705/",
+        "playerteam": "Hoffenheim",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+        "playergoals": 20,
+        "playerassists": 5
     },
     {
         "playername": "W. Weghorst",
@@ -583,15 +592,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
         "playergoals": 20,
         "playerassists": 2
-    },
-    {
-        "playername": "A. Kramarić",
-        "playerlink": "https://www.livesoccertv.com/player/a-kramaric/83705/",
-        "playerteam": "Hoffenheim",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "playergoals": 19,
-        "playerassists": 5
     },
     {
         "playername": "S. Kalajdzic",
@@ -608,7 +608,7 @@
         "playerteam": "Borussia M'gladbach",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/borussia-mgladbach/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-        "playergoals": 13,
+        "playergoals": 14,
         "playerassists": 6
     },
     {
@@ -619,6 +619,15 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
         "playergoals": 11,
         "playerassists": 2
+    },
+    {
+        "playername": "M. Kruse",
+        "playerlink": "https://www.livesoccertv.com/player/m-kruse/38633/",
+        "playerteam": "Union Berlin",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/union-berlin/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+        "playergoals": 11,
+        "playerassists": 5
     },
     {
         "playername": "T. Müller",
@@ -639,13 +648,13 @@
         "playerassists": 3
     },
     {
-        "playername": "M. Kruse",
-        "playerlink": "https://www.livesoccertv.com/player/m-kruse/38633/",
-        "playerteam": "Union Berlin",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/union-berlin/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+        "playername": "S. Gnabry",
+        "playerlink": "https://www.livesoccertv.com/player/s-gnabry/175333/",
+        "playerteam": "Bayern Munich",
+        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
         "playergoals": 10,
-        "playerassists": 5
+        "playerassists": 0
     },
     {
         "playername": "L. Bailey",
@@ -662,15 +671,6 @@
         "playerteam": "Hoffenheim",
         "playerteamlink": "https://www.livesoccertv.com/teams/germany/hoffenheim/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-        "playergoals": 9,
-        "playerassists": 0
-    },
-    {
-        "playername": "S. Gnabry",
-        "playerlink": "https://www.livesoccertv.com/player/s-gnabry/175333/",
-        "playerteam": "Bayern Munich",
-        "playerteamlink": "https://www.livesoccertv.com/teams/germany/bayern-munchen/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
         "playergoals": 9,
         "playerassists": 0
     },
