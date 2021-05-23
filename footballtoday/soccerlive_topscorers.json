@@ -55,6 +55,15 @@
         "playerassists": 0
     },
     {
+        "playername": "J. Vardy",
+        "playerlink": "https://www.livesoccertv.com/player/j-vardy/135178/",
+        "playerteam": "Leicester City",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+        "playergoals": 14,
+        "playerassists": 7
+    },
+    {
         "playername": "O. Watkins",
         "playerlink": "https://www.livesoccertv.com/player/o-watkins/264917/",
         "playerteam": "Aston Villa",
@@ -80,15 +89,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "playergoals": 13,
         "playerassists": 3
-    },
-    {
-        "playername": "J. Vardy",
-        "playerlink": "https://www.livesoccertv.com/player/j-vardy/135178/",
-        "playerteam": "Leicester City",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "playergoals": 13,
-        "playerassists": 6
     },
     {
         "playername": "K. Iheanacho",
@@ -289,7 +289,7 @@
         "playerteam": "Internazionale",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "playergoals": 23,
+        "playergoals": 24,
         "playerassists": 6
     },
     {
@@ -338,6 +338,15 @@
         "playerassists": 7
     },
     {
+        "playername": "L. Martínez",
+        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
+        "playerteam": "Internazionale",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+        "playergoals": 17,
+        "playerassists": 2
+    },
+    {
         "playername": "D. Berardi",
         "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
         "playerteam": "Sassuolo",
@@ -354,15 +363,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
         "playergoals": 16,
         "playerassists": 4
-    },
-    {
-        "playername": "L. Martínez",
-        "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
-        "playerteam": "Internazionale",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/inter-milan/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "playergoals": 16,
-        "playerassists": 1
     },
     {
         "playername": "Z. Ibrahimović",
