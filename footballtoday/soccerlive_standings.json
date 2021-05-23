@@ -396,6 +396,20 @@
     },
     {
         "teamrank": 9,
+        "teamname": "Granada",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
+        "played": 38,
+        "wins": 13,
+        "draws": 7,
+        "lossess": 18,
+        "goalsfor": 47,
+        "goalsagainst": 65,
+        "goalsdiff": "-18",
+        "points": 46,
+        "form": "'DLLLL'"
+    },
+    {
+        "teamrank": 10,
         "teamname": "Athletic Club",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
         "played": 38,
@@ -407,20 +421,6 @@
         "goalsdiff": "+4",
         "points": 46,
         "form": "'LLLDW'"
-    },
-    {
-        "teamrank": 10,
-        "teamname": "Granada",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-        "played": 37,
-        "wins": 13,
-        "draws": 6,
-        "lossess": 18,
-        "goalsfor": 47,
-        "goalsagainst": 65,
-        "goalsdiff": "-18",
-        "points": 45,
-        "form": "'LLLLW'"
     },
     {
         "teamrank": 11,
@@ -480,6 +480,20 @@
     },
     {
         "teamrank": 15,
+        "teamname": "Getafe",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+        "played": 38,
+        "wins": 9,
+        "draws": 11,
+        "lossess": 18,
+        "goalsfor": 28,
+        "goalsagainst": 43,
+        "goalsdiff": "-15",
+        "points": 38,
+        "form": "'DWLLL'"
+    },
+    {
+        "teamrank": 16,
         "teamname": "Deportivo Alavés",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
         "played": 37,
@@ -491,20 +505,6 @@
         "goalsdiff": "-20",
         "points": 38,
         "form": "'WWDLD'"
-    },
-    {
-        "teamrank": 16,
-        "teamname": "Getafe",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-        "played": 37,
-        "wins": 9,
-        "draws": 10,
-        "lossess": 18,
-        "goalsfor": 28,
-        "goalsagainst": 43,
-        "goalsdiff": "-15",
-        "points": 37,
-        "form": "'WLLLW'"
     },
     {
         "teamrank": 17,
