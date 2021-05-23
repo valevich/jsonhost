@@ -568,15 +568,15 @@
         "teamrank": 1,
         "teamname": "Internazionale",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "played": 37,
-        "wins": 27,
+        "played": 38,
+        "wins": 28,
         "draws": 7,
         "lossess": 3,
-        "goalsfor": 84,
-        "goalsagainst": 34,
-        "goalsdiff": "+50",
-        "points": 88,
-        "form": "'LWWWW'"
+        "goalsfor": 89,
+        "goalsagainst": 35,
+        "goalsdiff": "+54",
+        "points": 91,
+        "form": "'WLWWW'"
     },
     {
         "teamrank": 2,
@@ -734,20 +734,6 @@
     },
     {
         "teamrank": 13,
-        "teamname": "Udinese",
-        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-        "played": 37,
-        "wins": 10,
-        "draws": 10,
-        "lossess": 17,
-        "goalsfor": 41,
-        "goalsagainst": 53,
-        "goalsdiff": "-12",
-        "points": 40,
-        "form": "'LLDLW'"
-    },
-    {
-        "teamrank": 14,
         "teamname": "Fiorentina",
         "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
         "played": 38,
@@ -759,6 +745,20 @@
         "goalsdiff": "-12",
         "points": 40,
         "form": "'DLDWD'"
+    },
+    {
+        "teamrank": 14,
+        "teamname": "Udinese",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+        "played": 38,
+        "wins": 10,
+        "draws": 10,
+        "lossess": 18,
+        "goalsfor": 42,
+        "goalsagainst": 58,
+        "goalsdiff": "-16",
+        "points": 40,
+        "form": "'LLLDL'"
     },
     {
         "teamrank": 15,
