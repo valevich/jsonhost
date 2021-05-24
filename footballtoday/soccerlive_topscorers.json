@@ -6,7 +6,7 @@
         "playerteam": "Tottenham Hotspur",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-        "playergoals": 22,
+        "playergoals": 23,
         "playerassists": 4
     },
     {
@@ -28,21 +28,21 @@
         "playerassists": 9
     },
     {
+        "playername": "P. Bamford",
+        "playerlink": "https://www.livesoccertv.com/player/p-bamford/172819/",
+        "playerteam": "Leeds United",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/leeds-united/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+        "playergoals": 17,
+        "playerassists": 2
+    },
+    {
         "playername": "Son Heung-Min",
         "playerlink": "https://www.livesoccertv.com/player/son-heung-min/96227/",
         "playerteam": "Tottenham Hotspur",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "playergoals": 17,
-        "playerassists": 1
-    },
-    {
-        "playername": "P. Bamford",
-        "playerlink": "https://www.livesoccertv.com/player/p-bamford/172819/",
-        "playerteam": "Leeds United",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/leeds-united/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-        "playergoals": 16,
         "playerassists": 1
     },
     {
@@ -60,8 +60,8 @@
         "playerteam": "Leicester City",
         "playerteamlink": "https://www.livesoccertv.com/teams/england/leicester-city/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-        "playergoals": 14,
-        "playerassists": 7
+        "playergoals": 15,
+        "playerassists": 8
     },
     {
         "playername": "O. Watkins",
@@ -128,12 +128,12 @@
     },
     {
         "playername": "",
-        "playerlink": "https://www.livesoccertv.com/player/matheus-pereira/259808/",
-        "playerteam": "West Bromwich Albion",
-        "playerteamlink": "https://www.livesoccertv.com/teams/england/west-bromwich-albion/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
+        "playerlink": "https://www.livesoccertv.com/player/g-bale/15615/",
+        "playerteam": "Tottenham Hotspur",
+        "playerteamlink": "https://www.livesoccertv.com/teams/england/tottenham-hotspur/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "playergoals": 11,
-        "playerassists": 4
+        "playerassists": 0
     }
   ],
   "primera-division": [
@@ -338,6 +338,15 @@
         "playerassists": 7
     },
     {
+        "playername": "D. Berardi",
+        "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
+        "playerteam": "Sassuolo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+        "playergoals": 17,
+        "playerassists": 7
+    },
+    {
         "playername": "L. Martínez",
         "playerlink": "https://www.livesoccertv.com/player/lautaro-martinez/296186/",
         "playerteam": "Internazionale",
@@ -345,15 +354,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
         "playergoals": 17,
         "playerassists": 2
-    },
-    {
-        "playername": "D. Berardi",
-        "playerlink": "https://www.livesoccertv.com/player/d-berardi/200282/",
-        "playerteam": "Sassuolo",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/us-sassuolo-calcio/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-        "playergoals": 16,
-        "playerassists": 6
     },
     {
         "playername": "João Pedro",
@@ -392,13 +392,13 @@
         "playerassists": 4
     },
     {
-        "playername": "F. Quagliarella",
-        "playerlink": "https://www.livesoccertv.com/player/f-quagliarella/4297/",
-        "playerteam": "Sampdoria",
-        "playerteamlink": "https://www.livesoccertv.com/teams/italy/sampdoria/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
+        "playername": "F. Kessié",
+        "playerlink": "https://www.livesoccertv.com/player/f-kessie/253883/",
+        "playerteam": "Milan",
+        "playerteamlink": "https://www.livesoccertv.com/teams/italy/ac-milan/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
         "playergoals": 13,
-        "playerassists": 2
+        "playerassists": 11
     },
     {
         "playername": "H. Mkhitaryan",
@@ -406,7 +406,7 @@
         "playerteam": "Roma",
         "playerteamlink": "https://www.livesoccertv.com/teams/italy/as-roma/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "playergoals": 12,
+        "playergoals": 13,
         "playerassists": 1
     }
   ],
@@ -417,7 +417,7 @@
         "playerteam": "PSG",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "playergoals": 26,
+        "playergoals": 27,
         "playerassists": 6
     },
     {
@@ -448,6 +448,15 @@
         "playerassists": 4
     },
     {
+        "playername": "G. Laborde",
+        "playerlink": "https://www.livesoccertv.com/player/g-laborde/153154/",
+        "playerteam": "Montpellier",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+        "playergoals": 16,
+        "playerassists": 0
+    },
+    {
         "playername": "K. Volland",
         "playerlink": "https://www.livesoccertv.com/player/k-volland/95821/",
         "playerteam": "Monaco",
@@ -457,22 +466,13 @@
         "playerassists": 0
     },
     {
-        "playername": "G. Laborde",
-        "playerlink": "https://www.livesoccertv.com/player/g-laborde/153154/",
-        "playerteam": "Montpellier",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "playergoals": 15,
-        "playerassists": 0
-    },
-    {
         "playername": "B. Yılmaz",
         "playerlink": "https://www.livesoccertv.com/player/b-y-lmaz/4921/",
         "playerteam": "Lille",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "playergoals": 15,
-        "playerassists": 3
+        "playergoals": 16,
+        "playerassists": 4
     },
     {
         "playername": "A. Delort",
@@ -480,7 +480,7 @@
         "playerteam": "Montpellier",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/montpellier/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-        "playergoals": 14,
+        "playergoals": 15,
         "playerassists": 0
     },
     {
@@ -502,12 +502,12 @@
         "playerassists": 1
     },
     {
-        "playername": "M. Kean",
-        "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
-        "playerteam": "PSG",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "playergoals": 13,
+        "playername": "K. Toko Ekambi",
+        "playerlink": "https://www.livesoccertv.com/player/k-toko-ekambi/156672/",
+        "playerteam": "Olympique Lyonnais",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+        "playergoals": 14,
         "playerassists": 0
     },
     {
@@ -516,7 +516,16 @@
         "playerteam": "Lille",
         "playerteamlink": "https://www.livesoccertv.com/teams/france/lille/",
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "playergoals": 12,
+        "playergoals": 13,
+        "playerassists": 0
+    },
+    {
+        "playername": "M. Kean",
+        "playerlink": "https://www.livesoccertv.com/player/m-kean/314334/",
+        "playerteam": "PSG",
+        "playerteamlink": "https://www.livesoccertv.com/teams/france/psg/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "playergoals": 13,
         "playerassists": 0
     },
     {
@@ -536,15 +545,6 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/159.png",
         "playergoals": 12,
         "playerassists": 3
-    },
-    {
-        "playername": "K. Toko Ekambi",
-        "playerlink": "https://www.livesoccertv.com/player/k-toko-ekambi/156672/",
-        "playerteam": "Olympique Lyonnais",
-        "playerteamlink": "https://www.livesoccertv.com/teams/france/olympique-lyon/",
-        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-        "playergoals": 12,
-        "playerassists": 0
     }
   ],
   "bundesliga": [
