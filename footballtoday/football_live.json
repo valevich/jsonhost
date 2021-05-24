@@ -81,6 +81,32 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
       "TVChannels": "*Final CBS Sports Network ,  fuboTV ,  T…"
+    },
+    {
+      "LeagueName": "German Bundesliga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+      "GameTime": "Wednesday May. 26, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "German Bundesliga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+      "GameTime": "12:30pm",
+      "GameState": "",
+      "HomeTeam": "Köln",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+      "AwayTeam": "Holstein Kiel SKY Go Italia ,  Sky Sport Football",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Holstein Kiel SKY Go Italia ,  Sky Sport Football"
     }
   ],
   "day4": [
@@ -165,6 +191,32 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
       "TVChannels": "*Final CBS ,  fuboTV ,  TUDN USA ,  Univ…"
+    },
+    {
+      "LeagueName": "German Bundesliga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+      "GameTime": "Saturday May. 29, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "German Bundesliga",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Holstein Kiel",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Köln",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+      "TVChannels": "SKY Go Italia ,  Sky Sport Football"
     },
     {
       "LeagueName": "Major League Soccer",
