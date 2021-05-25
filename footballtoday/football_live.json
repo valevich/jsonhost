@@ -3,34 +3,6 @@
     {
       "LeagueName": "No League Games",
       "LeagueLogo": "",
-      "GameTime": "Monday May. 24, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    }
-  ],
-  "day2": [
-    {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
       "GameTime": "Tuesday May. 25, 2021",
       "GameState": "",
       "HomeTeam": "",
@@ -55,7 +27,7 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day3": [
+  "day2": [
     {
       "LeagueName": "UEFA Europa League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
@@ -103,13 +75,13 @@
       "HomeTeam": "Köln",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-      "AwayTeam": "Holstein Kiel ESPN+ ,  ESPN App ,  DAZN ,  Viaplay Denm…",
+      "AwayTeam": "Holstein Kiel ESPN+ ,  ESPN App ,  Sportsnet World No…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Holstein Kiel ESPN+ ,  ESPN App ,  DAZN ,  Viaplay Denm…"
+      "TVChannels": "vs Holstein Kiel ESPN+ ,  ESPN App ,  Sportsnet World No…"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
@@ -134,10 +106,10 @@
       "AwayTeam": "Nantes",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-      "TVChannels": "*Promotion Play Off beIN SPORTS ,  beIN SPORTS en Español ,  …"
+      "TVChannels": "*Promotion Play Off Fanatiz USA ,  beIN SPORTS ,  beIN…"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
@@ -165,7 +137,7 @@
       "TVChannels": ""
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
@@ -216,7 +188,7 @@
       "AwayTeam": "Köln",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-      "TVChannels": "DAZN ,  SKY Go Italia ,  Movistar+ ,  Movistar…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Sportsnet World No…"
     },
     {
       "LeagueName": "Major League Soccer",
@@ -375,7 +347,7 @@
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
@@ -397,10 +369,10 @@
       "HomeTeam": "Nantes",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-      "AwayTeam": "Toulouse *Promotion Play Off beIN SPORTS ,  beIN SPORTS en Español ,  …",
+      "AwayTeam": "Toulouse *Promotion Play Off Fanatiz USA ,  beIN SPORTS ,  beIN…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Toulouse *Promotion Play Off beIN SPORTS ,  beIN SPORTS en Español ,  …"
+      "TVChannels": "vs Toulouse *Promotion Play Off Fanatiz USA ,  beIN SPORTS ,  beIN…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -462,10 +434,38 @@
       "HomeTeam": "Seattle Sounders",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
-      "AwayTeam": "Austin ESPN+ ,  ESPN App ,  FOX Deportes ,  J…",
+      "AwayTeam": "Austin ESPN+ ,  fuboTV ,  ESPN App ,  FOX D…",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Austin ESPN+ ,  ESPN App ,  FOX Deportes ,  J…"
+      "TVChannels": "vs Austin ESPN+ ,  fuboTV ,  ESPN App ,  FOX D…"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "No League Games Today",
+      "LeagueLogo": "",
+      "GameTime": "Monday May. 31, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ]
 }
