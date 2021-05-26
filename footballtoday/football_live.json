@@ -442,8 +442,8 @@
   ],
   "day7": [
     {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "LeagueName": "No League Games Today",
+      "LeagueLogo": "",
       "GameTime": "Tuesday Jun. 1, 2021",
       "GameState": "",
       "HomeTeam": "",
@@ -455,17 +455,17 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "00:00am",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
-      "HomeTeam": "St. Lucia",
+      "HomeTeam": "",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Turks And Caicos Islands",
+      "AwayTeam": "",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2665.png",
-      "TVChannels": "Turks and Caicos Islands"
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ]
 }
