@@ -29,34 +29,6 @@
   ],
   "day2": [
     {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "Friday May. 28, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "6:20am",
-      "GameState": "",
-      "HomeTeam": "Japan",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/627.png",
-      "AwayTeam": "Myanmar",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6770.png",
-      "TVChannels": "NTV ,  SONY TEN 2 ,  SONY TEN 2 HD"
-    }
-  ],
-  "day3": [
-    {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "Saturday May. 29, 2021",
@@ -265,7 +237,7 @@
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  B…"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "French Ligue 1",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
@@ -358,7 +330,7 @@
       "TVChannels": "vs Austin Fox Sports 1 ,  ESPN+ ,  fuboTV ,  ES…"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "No League Games",
       "LeagueLogo": "",
@@ -386,7 +358,7 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "No League Games",
       "LeagueLogo": "",
@@ -414,7 +386,7 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
@@ -505,6 +477,34 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2642.png",
       "TVChannels": ""
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "No League Games Today",
+      "LeagueLogo": "",
+      "GameTime": "Thursday Jun. 3, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ]
 }
