@@ -1,9 +1,9 @@
 {
-  "today": [
+    },
     {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "Thursday May. 27, 2021",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -12,19 +12,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "2:45pm",
-      "GameState": "FT ",
-      "HomeTeam": "Toulouse",
-      "HomeGoals": "1",
-      "HomeLogo": "",
-      "AwayTeam": "Nantes",
-      "AwayGoals": "2",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-      "TVChannels": "*Promotion Play Off Fanatiz USA ,  beIN SPORTS ,  beIN SPOR…"
     }
   ],
   "day2": [
