@@ -43,7 +43,7 @@
       "LeagueName": "German Bundesliga",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
       "GameTime": "12:00pm",
-      "GameState": "13 ",
+      "GameState": "26 ",
       "HomeTeam": "Holstein Kiel",
       "HomeGoals": "1",
       "HomeLogo": "",
@@ -332,37 +332,9 @@
   ],
   "day4": [
     {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
-      "GameTime": "Tuesday Jun. 1, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    }
-  ],
-  "day5": [
-    {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "Wednesday Jun. 2, 2021",
+      "GameTime": "Tuesday Jun. 1, 2021",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -384,6 +356,21 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2665.png",
       "TVChannels": "Turks and Caicos Islands"
+    }
+  ],
+  "day5": [
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "Wednesday Jun. 2, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     },
     {
       "LeagueName": "World Cup Qualifying",
