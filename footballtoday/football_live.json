@@ -147,7 +147,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "7:03pm",
-      "GameState": "40 ",
+      "GameState": "HT ",
       "HomeTeam": "LA Galaxy",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png",
@@ -211,99 +211,6 @@
   ],
   "day2": [
     {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "Sunday May. 30, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "12:00pm",
-      "GameState": "",
-      "HomeTeam": "Nantes",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-      "AwayTeam": "Toulouse *Promotion Play Off Fanatiz USA ,  beIN SPORTS ,  beIN…",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Toulouse *Promotion Play Off Fanatiz USA ,  beIN SPORTS ,  beIN…"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "Sunday May. 30, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "7:30am",
-      "GameState": "",
-      "HomeTeam": "Guam",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10529.png",
-      "AwayTeam": "China",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/658.png",
-      "TVChannels": "CCTV-5 ,  Guangdong Sports Channel ,  Migu"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "Sunday May. 30, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:08pm",
-      "GameState": "",
-      "HomeTeam": "Philadelphia Union",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
-      "AwayTeam": "Portland Timbers",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
-      "TVChannels": "Fox Sports 1 ,  fuboTV ,  Bally Spor…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "9:38pm",
-      "GameState": "",
-      "HomeTeam": "Seattle Sounders",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
-      "AwayTeam": "Austin Fox Sports 1 ,  ESPN+ ,  fuboTV ,  ES…",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Austin Fox Sports 1 ,  ESPN+ ,  fuboTV ,  ES…"
-    }
-  ],
-  "day3": [
-    {
       "LeagueName": "No League Games",
       "LeagueLogo": "",
       "GameTime": "Monday May. 31, 2021",
@@ -330,7 +237,7 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "No League Games",
       "LeagueLogo": "",
@@ -358,7 +265,7 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
@@ -451,7 +358,7 @@
       "TVChannels": ""
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "No League Games",
       "LeagueLogo": "",
@@ -479,7 +386,7 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
@@ -582,6 +489,138 @@
       "AwayTeam": "Belize",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2641.png",
+      "TVChannels": ""
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "Saturday Jun. 5, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "2:00am",
+      "GameState": "",
+      "HomeTeam": "Lebanon",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4388.png",
+      "AwayTeam": "Sri Lanka",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5782.png",
+      "TVChannels": ""
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "7:00am",
+      "GameState": "",
+      "HomeTeam": "Korea Republic",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Turkmenistan",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7507.png",
+      "TVChannels": ""
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "Saudi Arabia",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/655.png",
+      "AwayTeam": "Yemen",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6014.png",
+      "TVChannels": ""
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "3:00pm",
+      "GameState": "",
+      "HomeTeam": "Turks And Caicos Islands",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2665.png",
+      "AwayTeam": "Haiti",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2654.png",
+      "TVChannels": ""
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "5:00pm",
+      "GameState": "",
+      "HomeTeam": "Bahamas",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2640.png",
+      "AwayTeam": "Trinidad And Tobago",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2627.png",
+      "TVChannels": "vs Trinidad and Tobago"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "5:00pm",
+      "GameState": "",
+      "HomeTeam": "British Virgin Islands",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2644.png",
+      "AwayTeam": "Curaçao",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Curaçao"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "7:00pm",
+      "GameState": "",
+      "HomeTeam": "U.S. Virgin Islands",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "El Salvador",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2650.png",
+      "TVChannels": ""
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "8:00pm",
+      "GameState": "",
+      "HomeTeam": "Aruba",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2642.png",
+      "AwayTeam": "Canada",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/206.png",
+      "TVChannels": "OneSoccer"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "8:00pm",
+      "GameState": "",
+      "HomeTeam": "Anguilla",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8942.png",
+      "AwayTeam": "Panama",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2659.png",
       "TVChannels": ""
     }
   ]
