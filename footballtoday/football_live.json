@@ -1,9 +1,9 @@
 {
-  "today": [
+    },
     {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "Sunday May. 30, 2021",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -12,84 +12,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "French Ligue 1",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
-      "GameTime": "12:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Nantes",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-      "AwayTeam": "Toulouse *Promotion Play Off Available on-demand",
-      "AwayGoals": "1",
-      "AwayLogo": "",
-      "TVChannels": "0 - 1  Toulouse *Promotion Play Off Available on-demand"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "Sunday May. 30, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "7:30am",
-      "GameState": "FT ",
-      "HomeTeam": "Guam",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10529.png",
-      "AwayTeam": "China",
-      "AwayGoals": "7",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/658.png",
-      "TVChannels": "CCTV-5 ,  Guangdong Sports Channel ,  Migu"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "Sunday May. 30, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:08pm",
-      "GameState": "FT ",
-      "HomeTeam": "Philadelphia Union",
-      "HomeGoals": "3",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
-      "AwayTeam": "Portland Timbers",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
-      "TVChannels": "Available on-demand"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "9:38pm",
-      "GameState": "FT ",
-      "HomeTeam": "Seattle Sounders",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
-      "AwayTeam": "Austin Available on-demand",
-      "AwayGoals": "0",
-      "AwayLogo": "",
-      "TVChannels": "0 - 0  Austin Available on-demand"
     }
   ],
   "day2": [
