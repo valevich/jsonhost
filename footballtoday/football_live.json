@@ -43,20 +43,20 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "5:00pm",
-      "GameState": "HT ",
+      "GameState": "68 ",
       "HomeTeam": "Montserrat",
-      "HomeGoals": "1",
+      "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2655.png",
       "AwayTeam": "U.S. Virgin Islands",
       "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "1 - 0  U.S. Virgin Islands"
+      "TVChannels": "3 - 0  U.S. Virgin Islands"
     },
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "5:30pm",
-      "GameState": "34 ",
+      "GameState": "HT ",
       "HomeTeam": "Cuba",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2647.png",
@@ -82,7 +82,7 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "6:00pm",
-      "GameState": "3 '",
+      "GameState": "27 ",
       "HomeTeam": "Cayman Islands",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2646.png",
@@ -568,19 +568,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/14561.png",
       "TVChannels": "Kayo Sports ,  ABC ,  Fox Sports 503 ,  My Foot…"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "00:00am",
-      "GameState": "",
-      "HomeTeam": "Belize",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2641.png",
-      "AwayTeam": "St. Lucia",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs St. Lucia"
     }
   ],
   "day7": [
