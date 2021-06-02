@@ -43,14 +43,14 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "5:00pm",
-      "GameState": "",
+      "GameState": "11 ",
       "HomeTeam": "Montserrat",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2655.png",
       "AwayTeam": "U.S. Virgin Islands",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "vs U.S. Virgin Islands"
+      "TVChannels": "0 - 0  U.S. Virgin Islands"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -239,6 +239,19 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "2:00am",
+      "GameState": "",
+      "HomeTeam": "Lebanon",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4388.png",
+      "AwayTeam": "Sri Lanka",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5782.png",
+      "TVChannels": "Football Sri Lanka TV"
     },
     {
       "LeagueName": "World Cup Qualifying",
