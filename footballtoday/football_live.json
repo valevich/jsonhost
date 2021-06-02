@@ -30,7 +30,7 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "3:00pm",
-      "GameState": "HT ",
+      "GameState": "74 ",
       "HomeTeam": "Dominica",
       "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/13582.png",
@@ -198,6 +198,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2637.png",
       "TVChannels": ""
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "8:30pm",
+      "GameState": "",
+      "HomeTeam": "Brazil",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/205.png",
+      "AwayTeam": "Ecuador",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/209.png",
+      "TVChannels": "fuboTV ,  Sky HD ,  Blue To Go Video Eve…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -489,7 +502,7 @@
       "AwayTeam": "Bahrain",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4381.png",
-      "TVChannels": ""
+      "TVChannels": "IRIB Varzesh"
     },
     {
       "LeagueName": "World Cup Qualifying",
