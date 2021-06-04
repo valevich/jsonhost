@@ -30,7 +30,7 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "4:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "St. Kitts and Nevis",
       "HomeGoals": "3",
       "HomeLogo": "",
@@ -56,12 +56,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "6:00pm",
-      "GameState": "",
+      "GameState": "9 '",
       "HomeTeam": "Suriname",
-      "HomeGoals": "",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2664.png",
       "AwayTeam": "Bermuda",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2643.png",
       "TVChannels": ""
     },
@@ -69,14 +69,14 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "6:00pm",
-      "GameState": "",
+      "GameState": "8 '",
       "HomeTeam": "Guatemala",
-      "HomeGoals": "",
+      "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2652.png",
       "AwayTeam": "Saint Vincent and the Grenadines fuboTV ,  UNIVERSO ,  UNIVERS…",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "vs Saint Vincent and the Grenadines fuboTV ,  UNIVERSO ,  UNIVERS…"
+      "TVChannels": "1 - 0  Saint Vincent and the Grenadines fuboTV ,  UNIVERSO ,  UNIVERS…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -531,19 +531,6 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "00:00am",
-      "GameState": "",
-      "HomeTeam": "Belize",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2641.png",
-      "AwayTeam": "St. Lucia",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs St. Lucia"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "4:00pm",
       "GameState": "",
       "HomeTeam": "Guyana",
@@ -748,6 +735,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/204.png",
       "TVChannels": "fuboTV ,  Sport TV1 ,  Premier Sports 1 ,  …"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "2:00am",
+      "GameState": "",
+      "HomeTeam": "Turkmenistan",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7507.png",
+      "AwayTeam": "Lebanon",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4388.png",
+      "TVChannels": ""
     }
   ],
   "day6": [
