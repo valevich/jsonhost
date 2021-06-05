@@ -108,14 +108,14 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "9:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Nicaragua",
       "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2658.png",
       "AwayTeam": "Belize",
       "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2641.png",
-      "TVChannels": "Telemundo Deportes En Vivo ,  Par…"
+      "TVChannels": "Telemundo Deportes En Vivo ,  Paramount+ ,  Ti…"
     }
   ],
   "day2": [
@@ -631,19 +631,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "2:00am",
-      "GameState": "",
-      "HomeTeam": "Turkmenistan",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7507.png",
-      "AwayTeam": "Lebanon",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4388.png",
-      "TVChannels": ""
     },
     {
       "LeagueName": "World Cup Qualifying",
