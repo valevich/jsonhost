@@ -30,7 +30,7 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "7:00am",
-      "GameState": "HT ",
+      "GameState": "55 ",
       "HomeTeam": "Korea Republic",
       "HomeGoals": "2",
       "HomeLogo": "",
@@ -790,7 +790,7 @@
       "AwayTeam": "Iraq",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4375.png",
-      "TVChannels": ""
+      "TVChannels": "Al Iraqiya Sports"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -816,7 +816,7 @@
       "AwayTeam": "United Arab Emirates",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4397.png",
-      "TVChannels": "SCTV ,  Vidio"
+      "TVChannels": "Dubai Sports 1 ,  Abu Dhabi Sports 1 ,  SCTV ,  …"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -842,7 +842,7 @@
       "AwayTeam": "Oman",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2841.png",
-      "TVChannels": ""
+      "TVChannels": "Oman TV Sport"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -855,7 +855,7 @@
       "AwayTeam": "Uzbekistan",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2570.png",
-      "TVChannels": ""
+      "TVChannels": "KSA Sports 2"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -868,7 +868,7 @@
       "AwayTeam": "Saudi Arabia",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/655.png",
-      "TVChannels": "meWATCH ,  Channel 5"
+      "TVChannels": "KSA Sports 1 ,  meWATCH ,  Channel 5"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -881,7 +881,7 @@
       "AwayTeam": "Jordan",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2917.png",
-      "TVChannels": ""
+      "TVChannels": "KTV Sport"
     }
   ]
 }
