@@ -30,9 +30,9 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "7:00am",
-      "GameState": "43 ",
+      "GameState": "HT ",
       "HomeTeam": "Korea Republic",
-      "HomeGoals": "1",
+      "HomeGoals": "2",
       "HomeLogo": "",
       "AwayTeam": "China",
       "AwayGoals": "0",
@@ -285,10 +285,10 @@
       "HomeTeam": "Iraq",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4375.png",
-      "AwayTeam": "Cambodia",
+      "AwayTeam": "Iraq",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5518.png",
-      "TVChannels": ""
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4375.png",
+      "TVChannels": "vs Cambodia Al Iraqiya Sports"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -301,7 +301,7 @@
       "AwayTeam": "Jordan",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2917.png",
-      "TVChannels": ""
+      "TVChannels": "Jordan Sport"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -314,7 +314,7 @@
       "AwayTeam": "Bahrain",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4381.png",
-      "TVChannels": "IRIB Varzesh"
+      "TVChannels": "IRIB Varzesh ,  Bahrain Sport 1"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -340,7 +340,7 @@
       "AwayTeam": "Thailand",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4396.png",
-      "TVChannels": "RTM 1 ,  Thairath TV ,  Unifi TV ,  Sukan RTM"
+      "TVChannels": "RTM 1 ,  Dubai Sports 1 ,  Abu Dhabi Sports…"
     },
     {
       "LeagueName": "World Cup Qualifying",
