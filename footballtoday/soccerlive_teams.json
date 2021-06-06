@@ -5902,7 +5902,7 @@
           "playerposition": "Defender",
           "playernationality": "France",
           "playerdob": "6 June, 2001",
-          "playerage": "19 years",
+          "playerage": "20 years",
           "playerbirthplace": "Montreuil, France",
           "playerweight": "154.3 lb",
           "playerheight": "5 ft 10 in",
@@ -9357,7 +9357,7 @@
       "teamfounded": "1903",
       "teamstadium": "Estadio Wanda Metropolitano",
       "teamcapacity": "68,032",
-      "teammanager": "D. Simeone",
+      ,
       "players": [
         {
           "playername": "J. Oblak",
@@ -9802,7 +9802,7 @@
       "teamfounded": "1902",
       "teamstadium": "Estadio Santiago Bernabéu",
       "teamcapacity": "85,454",
-      "teammanager": "C. Ancelotti",
+      ,
       "players": [
         {
           "playername": "Lucas Cañizares",
@@ -10734,7 +10734,7 @@
       "teamfounded": "1890",
       "teamstadium": "Estadio Ramón Sánchez Pizjuán",
       "teamcapacity": "48,649",
-      "teammanager": "Lopetegui",
+      "teammanager": "R. Koeman",
       "players": [
         {
           "playername": "Adrián González",
@@ -11207,7 +11207,7 @@
       "teamfounded": "1909",
       "teamstadium": "Reale Arena",
       "teamcapacity": "39,500",
-      "teammanager": "Imanol Alguacil",
+      "teammanager": "R. Koeman",
       "players": [
         {
           "playername": "Moyà",
@@ -13782,7 +13782,7 @@
       "teamfounded": "1898",
       "teamstadium": "San Mamés Barria",
       "teamcapacity": "53,289",
-      "teammanager": "Marcelino",
+      "teammanager": "Diego Martínez",
       "players": [
         {
           "playername": "Iago Herrerín",
@@ -14658,7 +14658,7 @@
       "teamfounded": "1910",
       "teamstadium": "Estadio Ramón de Carranza",
       "teamcapacity": "22,000",
-      "teammanager": "Álvaro",
+      "teammanager": "Arrasate",
       "players": [
         {
           "playername": "Juanjo Garrancho",
@@ -15618,7 +15618,7 @@
       "teamfounded": "1909",
       "teamstadium": "Estadio Ciudad de Valencia",
       "teamcapacity": "25,534",
-      "teammanager": "Paco López",
+      "teammanager": "Voro",
       "players": [
         {
           "playername": "Dani Cárdenas",
@@ -16049,7 +16049,7 @@
       "teamfounded": "1983",
       "teamstadium": "Coliseum Alfonso Pérez",
       "teamcapacity": "17,393",
-      "teammanager": "Míchel",
+      "teammanager": "Voro",
       "players": [
         {
           "playername": "Rubén Yáñez",
@@ -17102,7 +17102,7 @@
           "playerposition": "Defender",
           "playernationality": "Spain",
           "playerdob": "6 June, 1996",
-          "playerage": "24 years",
+          "playerage": "25 years",
           "playerbirthplace": "Lorquí, Spain",
           "playerweight": "178.6 lb",
           "playerheight": "6 ft 0 in",
@@ -17477,7 +17477,7 @@
           "playerposition": "Defender",
           "playernationality": "Spain",
           "playerdob": "6 June, 1998",
-          "playerage": "22 year",
+          "playerage": "23 year",
           "playerbirthplace": "",
           "playerweight": "",
           "playerheight": "",
@@ -17857,7 +17857,7 @@
       "teamfounded": "1928",
       "teamstadium": "Estadio Municipal José Zorrilla",
       "teamcapacity": "26,512",
-      "teammanager": "Fran Escribá",
+      "teammanager": "A. Belloso",
       "players": [
         {
           "playername": "Gaizka Campos",
@@ -18428,7 +18428,7 @@
       "teamfounded": "1940",
       "teamstadium": "Estadio Municipal de Ipurúa",
       "teamcapacity": "8,050",
-      "teammanager": "Mendilibar",
+      "teammanager": "A. Belloso",
       "players": [
         {
           "playername": "Yoel",
@@ -22192,6 +22192,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Bruno Peres",
+          "playerlink": "https://www.livesoccertv.com/player/bruno-peres/103883/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/103883-bruno-peres.png",
+          "playerposition": "Defender",
+          "playernationality": "Brazil",
+          "playerdob": "1 March, 1990",
+          "playerage": "31 years",
+          "playerbirthplace": "São Paulo, Brazil",
+          "playerweight": "158.7 lb",
+          "playerheight": "5 ft 10 in",
+          "playergoals": "1",
+          "playerassists": "2"
+        },
+        {
           "playername": "F. Fazio",
           "playerlink": "https://www.livesoccertv.com/player/f-fazio/18161/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/18161-f-fazio.png",
@@ -22310,7 +22324,7 @@
           "playerposition": "Midfielder",
           "playernationality": "Gambia",
           "playerdob": "6 June, 2001",
-          "playerage": "19 year",
+          "playerage": "20 year",
           "playerbirthplace": "",
           "playerweight": "",
           "playerheight": "",
@@ -25458,7 +25472,7 @@
       "teamfounded": "1896",
       "teamstadium": "Dacia Arena",
       "teamcapacity": "25,952",
-      "teammanager": "L. Gotti",
+      "teammanager": "G. Iachini",
       "players": [
         {
           "playername": "S. Scuffet",
@@ -26623,7 +26637,7 @@
           "playerposition": "Defender",
           "playernationality": "Italy",
           "playerdob": "6 June, 2001",
-          "playerage": "19 year",
+          "playerage": "20 year",
           "playerbirthplace": "",
           "playerweight": "",
           "playerheight": "",
@@ -26998,7 +27012,7 @@
           "playerposition": "Defender",
           "playernationality": "Italy",
           "playerdob": "6 June, 1999",
-          "playerage": "21 years",
+          "playerage": "22 years",
           "playerbirthplace": "Turin, Italy",
           "playerweight": "176.4 lb",
           "playerheight": "6 ft 3 in",
@@ -27860,7 +27874,7 @@
           "playerposition": "Goalkeeper",
           "playernationality": "Italy",
           "playerdob": "6 June, 1992",
-          "playerage": "28 years",
+          "playerage": "29 years",
           "playerbirthplace": "Montichiari, Italy",
           "playerweight": "187.4 lb",
           "playerheight": "6 ft 2 in",
@@ -28324,7 +28338,7 @@
       "teamfounded": "1913 / 2004",
       "teamstadium": "Stadio Ennio Tardini",
       "teamcapacity": "21,473",
-      "teammanager": "R. D'Aversa",
+      "teammanager": "S. Cosmi",
       "players": [
         {
           "playername": "M. Turk",
@@ -28557,7 +28571,7 @@
           "playerposition": "Defender",
           "playernationality": "Hungary",
           "playerdob": "6 June, 2002",
-          "playerage": "18 years",
+          "playerage": "19 years",
           "playerbirthplace": "Sopron, Hungary",
           "playerweight": "",
           "playerheight": "6 ft 2 in",
@@ -28803,6 +28817,20 @@
           "playerassists": "0"
         },
         {
+          "playername": "Y. Gervinho",
+          "playerlink": "https://www.livesoccertv.com/player/y-gervinho/13893/",
+          "playerimage": "https://cdn.livesoccertv.com/tt/images/players/13893-y-gervinho.png",
+          "playerposition": "Forward",
+          "playernationality": "Cote D'Ivoire",
+          "playerdob": "27 May, 1987",
+          "playerage": "34 years",
+          "playerbirthplace": "Anyama, Cote D'Ivoire",
+          "playerweight": "145.5 lb",
+          "playerheight": "5 ft 10 in",
+          "playergoals": "5",
+          "playerassists": "1"
+        },
+        {
           "playername": "V. Mihăilă",
           "playerlink": "https://www.livesoccertv.com/player/v-mihaila/375640/",
           "playerimage": "https://cdn.livesoccertv.com/tt/images/players/silhouette.png",
@@ -28911,7 +28939,7 @@
       "teamfounded": "1944",
       "teamstadium": "Stade Pierre-Mauroy",
       "teamcapacity": "50,083",
-      ,
+      "teammanager": "C. Galtier",
       "players": [
         {
           "playername": "L. Chevalier",
@@ -32063,7 +32091,7 @@
           "playerposition": "Goalkeeper",
           "playernationality": "France",
           "playerdob": "6 June, 1998",
-          "playerage": "22 years",
+          "playerage": "23 years",
           "playerbirthplace": "Montpellier, France",
           "playerweight": "176.4 lb",
           "playerheight": "5 ft 10 in",
@@ -32886,7 +32914,7 @@
           "playerposition": "Forward",
           "playernationality": "France",
           "playerdob": "6 June, 1998",
-          "playerage": "22 years",
+          "playerage": "23 years",
           "playerbirthplace": "Noisy-le-Grand, France",
           "playerweight": "136.7 lb",
           "playerheight": "5 ft 8 in",
@@ -33009,7 +33037,7 @@
           "playerposition": "Goalkeeper",
           "playernationality": "Senegal",
           "playerdob": "6 June, 2002",
-          "playerage": "18 year",
+          "playerage": "19 year",
           "playerbirthplace": "",
           "playerweight": "",
           "playerheight": "",
@@ -36574,7 +36602,7 @@
       "teamfounded": "1943",
       "teamstadium": "Stade de la Beaujoire - Louis Fonteneau",
       "teamcapacity": "38,285",
-      "teammanager": "A. Kombouare",
+      "teammanager": "C. Pélissier",
       "players": [
         {
           "playername": "D. Petrić",
