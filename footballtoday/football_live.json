@@ -1,104 +1,9 @@
 {
-  "today": [
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "Monday Jun. 7, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "3:00am",
-      "GameState": "",
-      "HomeTeam": "Maldives",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4390.png",
-      "AwayTeam": "Syria",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4380.png",
-      "TVChannels": "CCTV 5+ ,  PPTV Sport China"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "3:00am",
-      "GameState": "FT ",
-      "HomeTeam": "Kyrgyzstan",
-      "HomeGoals": "0",
-      "HomeLogo": "",
-      "AwayTeam": "Mongolia",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8663.png",
-      "TVChannels": ""
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "6:30am",
-      "GameState": "FT ",
-      "HomeTeam": "Japan",
-      "HomeGoals": "4",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/627.png",
-      "AwayTeam": "China",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/658.png",
-      "TVChannels": ""
-    }
-  ],
-  "day2": [
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "Wednesday Jun. 9, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "2:00am",
-      "GameState": "",
-      "HomeTeam": "Turkmenistan",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7507.png",
-      "AwayTeam": "Lebanon",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4388.png",
-      "TVChannels": ""
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "7:00am",
-      "GameState": "",
-      "HomeTeam": "Sri Lanka",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5782.png",
-      "AwayTeam": "Sri Lanka",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5782.png",
-      "TVChannels": "vs Korea Republic TV Chosun ,  Football Sri Lanka TV"
-    }
-  ],
-  "day3": [
-    {
-      "LeagueName": "No League Games",
+      "LeagueName": "Today",
       "LeagueLogo": "",
-      "GameTime": "Thursday Jun. 10, 2021",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -107,6 +12,23 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    }
+  ],
+    },
+    {
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    }
+  ],
     },
     {
       "LeagueName": "Today",
