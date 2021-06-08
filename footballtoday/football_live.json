@@ -30,12 +30,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "4:00pm",
-      "GameState": "9 '",
+      "GameState": "21 ",
       "HomeTeam": "Guyana",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2653.png",
       "AwayTeam": "Puerto Rico",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11766.png",
       "TVChannels": ""
     },
@@ -43,7 +43,7 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "4:00pm",
-      "GameState": "11 ",
+      "GameState": "23 ",
       "HomeTeam": "Saint Vincent and the Grenadines",
       "HomeGoals": "0",
       "HomeLogo": "",
@@ -518,8 +518,8 @@
   ],
   "day6": [
     {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "LeagueName": "No League Games",
+      "LeagueLogo": "",
       "GameTime": "Sunday Jun. 13, 2021",
       "GameState": "",
       "HomeTeam": "",
@@ -531,17 +531,17 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "2:00am",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
-      "HomeTeam": "Korea Republic",
+      "HomeTeam": "",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Lebanon",
+      "AwayTeam": "",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4388.png",
-      "TVChannels": ""
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ],
   "day7": [
