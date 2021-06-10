@@ -262,7 +262,7 @@
       "AwayTeam": "El Salvador",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2650.png",
-      "TVChannels": "Paramount+"
+      "TVChannels": "Paramount+ ,  Canal 4 El Salvador ,  TCS…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -275,7 +275,7 @@
       "AwayTeam": "Canada",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/206.png",
-      "TVChannels": "Paramount+"
+      "TVChannels": "Paramount+ ,  OneSoccer"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -285,10 +285,10 @@
       "HomeTeam": "Panama",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2659.png",
-      "AwayTeam": "Curaçao Paramount+",
+      "AwayTeam": "Curaçao Paramount+ ,  Nex",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Curaçao Paramount+"
+      "TVChannels": "vs Curaçao Paramount+ ,  Nex"
     }
   ],
   "day4": [
@@ -349,8 +349,8 @@
   ],
   "day6": [
     {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "LeagueName": "No League Games",
+      "LeagueLogo": "",
       "GameTime": "Tuesday Jun. 15, 2021",
       "GameState": "",
       "HomeTeam": "",
@@ -362,43 +362,17 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "00:00am",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
-      "HomeTeam": "Canada",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/206.png",
-      "AwayTeam": "Haiti",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2654.png",
-      "TVChannels": ""
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "00:00am",
-      "GameState": "",
-      "HomeTeam": "Curaçao",
+      "HomeTeam": "",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Panama",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2659.png",
-      "TVChannels": ""
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "00:00am",
-      "GameState": "",
-      "HomeTeam": "El Salvador",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2650.png",
-      "AwayTeam": "St. Kitts and Nevis",
+      "AwayTeam": "",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs St. Kitts and Nevis"
+      "TVChannels": "LeagueHeader"
     }
   ],
   "day7": [
