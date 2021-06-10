@@ -254,33 +254,7 @@
     {
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "00:00am",
-      "GameState": "",
-      "HomeTeam": "Haiti",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2654.png",
-      "AwayTeam": "Canada",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/206.png",
-      "TVChannels": ""
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "00:00am",
-      "GameState": "",
-      "HomeTeam": "Panama",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2659.png",
-      "AwayTeam": "Curaçao",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "vs Curaçao"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "00:00am",
+      "GameTime": "4:00pm",
       "GameState": "",
       "HomeTeam": "St. Kitts and Nevis",
       "HomeGoals": "",
@@ -288,7 +262,33 @@
       "AwayTeam": "El Salvador",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2650.png",
-      "TVChannels": ""
+      "TVChannels": "Paramount+"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "5:00pm",
+      "GameState": "",
+      "HomeTeam": "Haiti",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2654.png",
+      "AwayTeam": "Canada",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/206.png",
+      "TVChannels": "Paramount+"
+    },
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "7:05pm",
+      "GameState": "",
+      "HomeTeam": "Panama",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2659.png",
+      "AwayTeam": "Curaçao Paramount+",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Curaçao Paramount+"
     }
   ],
   "day4": [
