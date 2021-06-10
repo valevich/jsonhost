@@ -1,9 +1,9 @@
 {
-  "today": [
+    },
     {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "Wednesday Jun. 9, 2021",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -12,32 +12,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "2:00am",
-      "GameState": "FT ",
-      "HomeTeam": "Turkmenistan",
-      "HomeGoals": "3",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7507.png",
-      "AwayTeam": "Lebanon",
-      "AwayGoals": "2",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4388.png",
-      "TVChannels": ""
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "7:00am",
-      "GameState": "FT ",
-      "HomeTeam": "Sri Lanka",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5782.png",
-      "AwayTeam": "Sri Lanka",
-      "AwayGoals": "5",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5782.png",
-      "TVChannels": "0 - 5  Korea Republic TV Chosun ,  Football Sri Lanka TV"
     }
   ],
   "day2": [
@@ -130,7 +104,7 @@
       "AwayTeam": "Iraq",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4375.png",
-      "TVChannels": "Now Sports 3 ,  Al Iraqiya Sports"
+      "TVChannels": "Now Player ,  Now Sports 3 ,  Al Iraqiya Sports"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -182,7 +156,7 @@
       "AwayTeam": "Oman",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2841.png",
-      "TVChannels": "beIN Sports ,  Oman TV Sport"
+      "TVChannels": "beIN Sports ,  beIN SPORTS CONNECT ,  O…"
     },
     {
       "LeagueName": "World Cup Qualifying",
