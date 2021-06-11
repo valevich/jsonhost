@@ -69,12 +69,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "12:00pm",
-      "GameState": "28 ",
+      "GameState": "38 ",
       "HomeTeam": "Nepal",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5785.png",
       "AwayTeam": "Australia",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/628.png",
       "TVChannels": "Kayo Sports ,  Foxtel Now ,  The World Game ,  F…"
     },
@@ -82,12 +82,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "12:30pm",
-      "GameState": "",
+      "GameState": "8 '",
       "HomeTeam": "Hong Kong",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1928.png",
       "AwayTeam": "Iraq",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4375.png",
       "TVChannels": "Now Player ,  Now Sports 3 ,  Bahrain Sport 1 ,  …"
     },
@@ -261,21 +261,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "vs Curaçao UNIVERSO ,  UNIVERSO NOW ,  …"
-    }
-  ],
-  "day3": [
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "Sunday Jun. 13, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -289,6 +274,34 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4388.png",
       "TVChannels": "Alkass One ,  KBS2 Korea"
+    }
+  ],
+  "day3": [
+    {
+      "LeagueName": "No League Games",
+      "LeagueLogo": "",
+      "GameTime": "Sunday Jun. 13, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ],
   "day4": [
