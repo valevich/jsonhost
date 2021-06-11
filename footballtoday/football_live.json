@@ -56,12 +56,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "10:30am",
-      "GameState": "71 ",
+      "GameState": "79 ",
       "HomeTeam": "Cambodia",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5518.png",
       "AwayTeam": "Bahrain",
-      "AwayGoals": "6",
+      "AwayGoals": "8",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4381.png",
       "TVChannels": "Sport 1"
     },
@@ -69,12 +69,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "12:00pm",
-      "GameState": "",
+      "GameState": "6 '",
       "HomeTeam": "Nepal",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5785.png",
       "AwayTeam": "Australia",
-      "AwayGoals": "",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/628.png",
       "TVChannels": "Kayo Sports ,  Foxtel Now ,  The World Game ,  F…"
     },
@@ -265,8 +265,8 @@
   ],
   "day3": [
     {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "LeagueName": "No League Games",
+      "LeagueLogo": "",
       "GameTime": "Sunday Jun. 13, 2021",
       "GameState": "",
       "HomeTeam": "",
@@ -278,17 +278,17 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "2:00am",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
-      "HomeTeam": "Korea Republic",
+      "HomeTeam": "",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "Lebanon",
+      "AwayTeam": "",
       "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4388.png",
-      "TVChannels": "Alkass One ,  KBS2 Korea"
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ],
   "day4": [
