@@ -43,7 +43,7 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "10:00am",
-      "GameState": "HT ",
+      "GameState": "54 ",
       "HomeTeam": "Philippines",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7347.png",
@@ -56,12 +56,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "10:30am",
-      "GameState": "28 ",
+      "GameState": "43 ",
       "HomeTeam": "Cambodia",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5518.png",
       "AwayTeam": "Bahrain",
-      "AwayGoals": "3",
+      "AwayGoals": "4",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4381.png",
       "TVChannels": "Sport 1"
     },
@@ -347,19 +347,6 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day6": [
-    {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
-      "GameTime": "Wednesday Jun. 16, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     },
     {
       "LeagueName": "Today",
