@@ -43,9 +43,9 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "10:00am",
-      "GameState": "84 ",
+      "GameState": "FT ",
       "HomeTeam": "Philippines",
-      "HomeGoals": "2",
+      "HomeGoals": "3",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7347.png",
       "AwayTeam": "Guam",
       "AwayGoals": "0",
@@ -56,12 +56,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "10:30am",
-      "GameState": "56 ",
+      "GameState": "71 ",
       "HomeTeam": "Cambodia",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5518.png",
       "AwayTeam": "Bahrain",
-      "AwayGoals": "4",
+      "AwayGoals": "6",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4381.png",
       "TVChannels": "Sport 1"
     },
@@ -234,7 +234,7 @@
       "AwayTeam": "El Salvador",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2650.png",
-      "TVChannels": "Paramount+ ,  Canal 4 El Salvador ,  TCS…"
+      "TVChannels": "UNIVERSO ,  UNIVERSO NOW ,  Centr…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -247,7 +247,7 @@
       "AwayTeam": "Canada",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/206.png",
-      "TVChannels": "Paramount+ ,  OneSoccer"
+      "TVChannels": "Telemundo Deportes En Vivo ,  Par…"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -257,10 +257,10 @@
       "HomeTeam": "Panama",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2659.png",
-      "AwayTeam": "Curaçao UNIVERSO ,  Paramount+ ,  Nex",
+      "AwayTeam": "Curaçao UNIVERSO ,  UNIVERSO NOW ,  …",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "vs Curaçao UNIVERSO ,  Paramount+ ,  Nex"
+      "TVChannels": "vs Curaçao UNIVERSO ,  UNIVERSO NOW ,  …"
     }
   ],
   "day3": [
