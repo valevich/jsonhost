@@ -30,14 +30,14 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "3:00am",
-      "GameState": "71 ",
+      "GameState": "86 ",
       "HomeTeam": "Myanmar",
       "HomeGoals": "1",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6770.png",
       "AwayTeam": "Kyrgyzstan",
-      "AwayGoals": "7",
+      "AwayGoals": "8",
       "AwayLogo": "",
-      "TVChannels": "1 - 7  Kyrgyzstan"
+      "TVChannels": "1 - 8  Kyrgyzstan"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -376,32 +376,6 @@
     }
   ],
   "day7": [
-    {
-      "LeagueName": "No League Games Today",
-      "LeagueLogo": "",
-      "GameTime": "Thursday Jun. 17, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
     {
       "LeagueName": "No League Games Today",
       "LeagueLogo": "",
