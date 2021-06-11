@@ -69,7 +69,7 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "12:00pm",
-      "GameState": "38 ",
+      "GameState": "HT ",
       "HomeTeam": "Nepal",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5785.png",
@@ -82,12 +82,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "12:30pm",
-      "GameState": "8 '",
+      "GameState": "18 ",
       "HomeTeam": "Hong Kong",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1928.png",
       "AwayTeam": "Iraq",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4375.png",
       "TVChannels": "Now Player ,  Now Sports 3 ,  Bahrain Sport 1 ,  …"
     },
@@ -95,12 +95,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "12:45pm",
-      "GameState": "",
+      "GameState": "3 '",
       "HomeTeam": "Malaysia",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2405.png",
       "AwayTeam": "Vietnam",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7349.png",
       "TVChannels": "RTM 1 ,  Dubai Sports 1 ,  Abu Dhabi Sports…"
     },
@@ -108,12 +108,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "12:45pm",
-      "GameState": "",
+      "GameState": "1 '",
       "HomeTeam": "Indonesia",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4895.png",
       "AwayTeam": "United Arab Emirates",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4397.png",
       "TVChannels": "Dubai Sports 1 ,  Abu Dhabi Sports 1 ,  SCTV ,  …"
     },
@@ -261,6 +261,21 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "vs Curaçao UNIVERSO ,  UNIVERSO NOW ,  …"
+    }
+  ],
+  "day3": [
+    {
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "Sunday Jun. 13, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     },
     {
       "LeagueName": "World Cup Qualifying",
@@ -274,34 +289,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4388.png",
       "TVChannels": "Alkass One ,  KBS2 Korea"
-    }
-  ],
-  "day3": [
-    {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
-      "GameTime": "Sunday Jun. 13, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     }
   ],
   "day4": [
