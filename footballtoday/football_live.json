@@ -94,8 +94,8 @@
   ],
   "day2": [
     {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "Sunday Jun. 13, 2021",
       "GameState": "",
       "HomeTeam": "",
@@ -107,17 +107,17 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
+      "LeagueName": "World Cup Qualifying",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+      "GameTime": "2:00am",
       "GameState": "",
-      "HomeTeam": "",
+      "HomeTeam": "Korea Republic",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "",
+      "AwayTeam": "Lebanon",
       "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4388.png",
+      "TVChannels": "Alkass One ,  KBS2 Korea"
     }
   ],
   "day3": [
