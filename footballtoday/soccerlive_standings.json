@@ -1351,6 +1351,34 @@
         "goalsdiff": "-26",
         "points": 33,
         "form": "'WDLWW'"
+    },
+    {
+        "teamrank": 17,
+        "teamname": "Werder Bremen",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+        "played": 34,
+        "wins": 7,
+        "draws": 10,
+        "lossess": 17,
+        "goalsfor": 36,
+        "goalsagainst": 57,
+        "goalsdiff": "-21",
+        "points": 31,
+        "form": "'LLDLL'"
+    },
+    {
+        "teamrank": 18,
+        "teamname": "Schalke 04",
+        "teamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
+        "played": 34,
+        "wins": 3,
+        "draws": 7,
+        "lossess": 24,
+        "goalsfor": 25,
+        "goalsagainst": 86,
+        "goalsdiff": "-61",
+        "points": 16,
+        "form": "'LWLLL'"
     }
   ]
 }
