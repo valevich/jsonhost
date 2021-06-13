@@ -1,9 +1,9 @@
 {
-  "today": [
+    },
     {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "Saturday Jun. 12, 2021",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -12,71 +12,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "3:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Sporting KC",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png",
-      "AwayTeam": "Austin Available on-demand",
-      "AwayGoals": "1",
-      "AwayLogo": "",
-      "TVChannels": "1 - 1  Austin Available on-demand"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "Saturday Jun. 12, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "4:00pm",
-      "GameState": "",
-      "HomeTeam": "El Salvador",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2650.png",
-      "AwayTeam": "El Salvador",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2650.png",
-      "TVChannels": "Fanatiz USA ,  fuboTV ,  UNIVERSO ,  UNIV…"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "5:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Haiti",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2654.png",
-      "AwayTeam": "Canada",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/206.png",
-      "TVChannels": "Telemundo Deportes En Vivo ,  Paramount+ ,  On…"
-    },
-    {
-      "LeagueName": "World Cup Qualifying",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
-      "GameTime": "7:05pm",
-      "GameState": "FT ",
-      "HomeTeam": "Panama",
-      "HomeGoals": "2",
-      "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2659.png",
-      "AwayTeam": "Curaçao fuboTV ,  UNIVERSO ,  UNIVERSO NOW ,  Tel…",
-      "AwayGoals": "1",
-      "AwayLogo": "",
-      "TVChannels": "2 - 1  Curaçao fuboTV ,  UNIVERSO ,  UNIVERSO NOW ,  Tel…"
     }
   ],
   "day2": [
