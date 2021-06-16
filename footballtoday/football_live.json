@@ -199,7 +199,7 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "8:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Curaçao",
       "HomeGoals": "0",
       "HomeLogo": "",
@@ -212,12 +212,12 @@
       "LeagueName": "World Cup Qualifying",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
       "GameTime": "9:05pm",
-      "GameState": "",
+      "GameState": "3 '",
       "HomeTeam": "Canada",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/206.png",
       "AwayTeam": "Haiti",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2654.png",
       "TVChannels": "Telemundo Deportes En Vivo ,  Par…"
     },
@@ -531,45 +531,6 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
       "TVChannels": "fuboTV ,  Fox 35 Plus Orlando…"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "Tuesday Jun. 22, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "00:00am",
-      "GameState": "",
-      "HomeTeam": "Folgore",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Prishtina",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "00:00am   Folgore vs Prishtina"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "00:00am",
-      "GameState": "",
-      "HomeTeam": "HB",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Inter Club d'Escaldes",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "00:00am   HB vs Inter Club d'Escaldes"
     }
   ]
 }
