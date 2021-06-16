@@ -271,8 +271,8 @@
   ],
   "day6": [
     {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "Monday Jun. 21, 2021",
       "GameState": "",
       "HomeTeam": "",
@@ -284,17 +284,30 @@
       "TVChannels": "LeagueHeader"
     },
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "00:00am",
       "GameState": "",
-      "HomeTeam": "",
+      "HomeTeam": "Folgore",
       "HomeGoals": "",
       "HomeLogo": "",
-      "AwayTeam": "",
+      "AwayTeam": "Prishtina",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
+      "TVChannels": "00:00am   Folgore vs Prishtina"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "00:00am",
+      "GameState": "",
+      "HomeTeam": "HB",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Inter Club d'Escaldes",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "00:00am   HB vs Inter Club d'Escaldes"
     }
   ],
   "day7": [
