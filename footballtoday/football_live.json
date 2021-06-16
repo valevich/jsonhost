@@ -340,7 +340,7 @@
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "00:00am",
+      "GameTime": "2:00pm",
       "GameState": "",
       "HomeTeam": "Folgore",
       "HomeGoals": "",
@@ -348,12 +348,12 @@
       "AwayTeam": "Prishtina",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "00:00am   Folgore vs Prishtina"
+      "TVChannels": "2:00pm   Folgore vs Prishtina"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "00:00am",
+      "GameTime": "2:00pm",
       "GameState": "",
       "HomeTeam": "HB",
       "HomeGoals": "",
@@ -361,7 +361,7 @@
       "AwayTeam": "Inter Club d'Escaldes",
       "AwayGoals": "",
       "AwayLogo": "",
-      "TVChannels": "00:00am   HB vs Inter Club d'Escaldes"
+      "TVChannels": "2:00pm   HB vs Inter Club d'Escaldes"
     }
   ]
 }
