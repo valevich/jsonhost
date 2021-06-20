@@ -1,4 +1,45 @@
 {
+  "today": [
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "Sunday Jun. 20, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "2:13pm",
+      "GameState": "",
+      "HomeTeam": "Atlanta United",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
+      "AwayTeam": "Philadelphia Union",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
+      "TVChannels": "ESPN ,  ESPN Deportes ,  ESPN Deportes…"
+    }
+  ],
+  "day2": [
+    {
+      "LeagueName": "No League Games",
+      "LeagueLogo": "",
+      "GameTime": "Monday Jun. 21, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     },
     {
       "LeagueName": "Today",
@@ -14,11 +55,11 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-    },
+  "day3": [
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "Tuesday Jun. 22, 2021",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -27,13 +68,24 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    }
-  ],
     },
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "7:30pm",
+      "GameState": "",
+      "HomeTeam": "Orlando City",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png",
+      "AwayTeam": "SJ Earthquakes",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
+      "TVChannels": "fuboTV ,  TUDN USA ,  UniMás ,  …"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "Tuesday Jun. 22, 2021",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -42,6 +94,32 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "Folgore",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Prishtina BTSport.com ,  BT Sport App",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   Folgore vs Prishtina BTSport.com ,  BT Sport App"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "HB",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Inter Club d'Escaldes BTSport.com ,  BT Sport App",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   HB vs Inter Club d'Escaldes BTSport.com ,  BT Sport App"
     }
   ],
   "day4": [
