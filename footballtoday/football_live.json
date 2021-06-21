@@ -29,34 +29,6 @@
   ],
   "day2": [
     {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
-      "GameTime": "Monday Jun. 21, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    }
-  ],
-  "day3": [
-    {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "Tuesday Jun. 22, 2021",
@@ -122,7 +94,7 @@
       "TVChannels": "2:00pm   HB vs Inter Club d'Escaldes BTSport.com ,  BT Sport App"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
@@ -293,7 +265,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  Spectrum Spor…"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "No League Games",
       "LeagueLogo": "",
@@ -321,7 +293,7 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
@@ -349,7 +321,7 @@
       "TVChannels": "Fox Sports 1 ,  fuboTV ,  Bally Spor…"
     }
   ],
-  "day7": [
+  "day6": [
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
@@ -466,6 +438,73 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  B…"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "Sunday Jun. 27, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "3:30pm",
+      "GameState": "",
+      "HomeTeam": "Atlanta United",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
+      "AwayTeam": "NY Red Bulls",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  B…"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "6:00pm",
+      "GameState": "",
+      "HomeTeam": "NYFC",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
+      "AwayTeam": "DC United",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "8:00pm",
+      "GameState": "",
+      "HomeTeam": "Austin",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Columbus Crew",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
+      "TVChannels": "Fox Sports 1 ,  fuboTV ,  Bally Spor…"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "9:00pm",
+      "GameState": "",
+      "HomeTeam": "FC Dallas",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
+      "AwayTeam": "NE Revolution",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
+      "TVChannels": "ESPN+ ,  ESPN App ,  KTXA Dallas ,  WS…"
     }
   ]
 }
