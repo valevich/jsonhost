@@ -235,6 +235,42 @@
         "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
         "playergoals": 12,
         "playerassists": 0
+    },
+    {
+        "playername": "Marcos Llorente",
+        "playerlink": "https://www.livesoccertv.com/player/marcos-llorente/250443/",
+        "playerteam": "Atletico Madrid",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/atletico-madrid/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "playergoals": 12,
+        "playerassists": 0
+    },
+    {
+        "playername": "Roger Martí",
+        "playerlink": "https://www.livesoccertv.com/player/roger-marti/182383/",
+        "playerteam": "Levante",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/levante/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "playergoals": 12,
+        "playerassists": 2
+    },
+    {
+        "playername": "Santi Mina",
+        "playerlink": "https://www.livesoccertv.com/player/santi-mina/226131/",
+        "playerteam": "Celta Vigo",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/celta-de-vigo/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "playergoals": 12,
+        "playerassists": 1
+    },
+    {
+        "playername": "A. Budimir",
+        "playerlink": "https://www.livesoccertv.com/player/a-budimir/36677/",
+        "playerteam": "Osasuna",
+        "playerteamlink": "https://www.livesoccertv.com/teams/spain/osasuna/",
+        "playerteamlogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+        "playergoals": 11,
+        "playerassists": 0
     }
   ],
   "serie-a": [
