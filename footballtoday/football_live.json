@@ -43,27 +43,27 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "2:00pm",
-      "GameState": "85 ",
+      "GameState": "FT ",
       "HomeTeam": "Folgore",
       "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Prishtina BTSport.com ,  BT Sport App",
-      "AwayGoals": "1",
+      "AwayGoals": "2",
       "AwayLogo": "",
-      "TVChannels": "2:00pm 85 '   Folgore  0 - 1  Prishtina BTSport.com ,  BT Sport App"
+      "TVChannels": "2:00pm FT   Folgore  0 - 2  Prishtina BTSport.com ,  BT Sport App"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "2:00pm",
-      "GameState": "84 ",
+      "GameState": "FT ",
       "HomeTeam": "HB",
       "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Inter Club d'Escaldes BTSport.com ,  BT Sport App",
       "AwayGoals": "1",
       "AwayLogo": "",
-      "TVChannels": "2:00pm 84 '   HB  0 - 1  Inter Club d'Escaldes BTSport.com ,  BT Sport App"
+      "TVChannels": "2:00pm FT   HB  0 - 1  Inter Club d'Escaldes BTSport.com ,  BT Sport App"
     }
   ],
   "day2": [
@@ -310,7 +310,7 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "5:30pm",
+      "GameTime": "5:38pm",
       "GameState": "",
       "HomeTeam": "Sporting KC",
       "HomeGoals": "",
@@ -323,7 +323,7 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:00pm",
+      "GameTime": "7:08pm",
       "GameState": "",
       "HomeTeam": "Toronto FC",
       "HomeGoals": "",
@@ -336,7 +336,7 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:00pm",
+      "GameTime": "8:08pm",
       "GameState": "",
       "HomeTeam": "Real Salt Lake",
       "HomeGoals": "",
@@ -349,7 +349,7 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:00pm",
+      "GameTime": "8:08pm",
       "GameState": "",
       "HomeTeam": "Chicago Fire",
       "HomeGoals": "",
@@ -362,7 +362,7 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:30pm",
+      "GameTime": "8:38pm",
       "GameState": "",
       "HomeTeam": "Nashville SC",
       "HomeGoals": "",
@@ -375,7 +375,7 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "9:00pm",
+      "GameTime": "9:11pm",
       "GameState": "",
       "HomeTeam": "Seattle Sounders",
       "HomeGoals": "",
@@ -388,7 +388,7 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "10:00pm",
+      "GameTime": "10:08pm",
       "GameState": "",
       "HomeTeam": "SJ Earthquakes",
       "HomeGoals": "",
@@ -401,7 +401,7 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "10:30pm",
+      "GameTime": "10:38pm",
       "GameState": "",
       "HomeTeam": "Portland Timbers",
       "HomeGoals": "",
