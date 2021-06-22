@@ -43,27 +43,27 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "2:00pm",
-      "GameState": "70 ",
+      "GameState": "85 ",
       "HomeTeam": "Folgore",
       "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Prishtina BTSport.com ,  BT Sport App",
       "AwayGoals": "1",
       "AwayLogo": "",
-      "TVChannels": "2:00pm 70 '   Folgore  0 - 1  Prishtina BTSport.com ,  BT Sport App"
+      "TVChannels": "2:00pm 85 '   Folgore  0 - 1  Prishtina BTSport.com ,  BT Sport App"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "2:00pm",
-      "GameState": "69 ",
+      "GameState": "84 ",
       "HomeTeam": "HB",
       "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Inter Club d'Escaldes BTSport.com ,  BT Sport App",
       "AwayGoals": "1",
       "AwayLogo": "",
-      "TVChannels": "2:00pm 69 '   HB  0 - 1  Inter Club d'Escaldes BTSport.com ,  BT Sport App"
+      "TVChannels": "2:00pm 84 '   HB  0 - 1  Inter Club d'Escaldes BTSport.com ,  BT Sport App"
     }
   ],
   "day2": [
@@ -122,19 +122,6 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:00pm",
-      "GameState": "",
-      "HomeTeam": "Montreal Impact",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
-      "AwayTeam": "DC United",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "8:08pm",
       "GameState": "",
       "HomeTeam": "Chicago Fire",
@@ -161,7 +148,20 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:30pm",
+      "GameTime": "8:08pm",
+      "GameState": "",
+      "HomeTeam": "Montreal Impact",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
+      "AwayTeam": "DC United",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "8:38pm",
       "GameState": "",
       "HomeTeam": "Nashville SC",
       "HomeGoals": "",
@@ -174,7 +174,7 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:30pm",
+      "GameTime": "8:38pm",
       "GameState": "",
       "HomeTeam": "Sporting KC",
       "HomeGoals": "",
@@ -187,7 +187,7 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:30pm",
+      "GameTime": "8:38pm",
       "GameState": "",
       "HomeTeam": "Houston Dynamo",
       "HomeGoals": "",
@@ -200,7 +200,7 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "10:00pm",
+      "GameTime": "10:08pm",
       "GameState": "",
       "HomeTeam": "Seattle Sounders",
       "HomeGoals": "",
@@ -213,7 +213,7 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "10:30pm",
+      "GameTime": "10:38pm",
       "GameState": "",
       "HomeTeam": "Los Angeles FC",
       "HomeGoals": "",
@@ -226,7 +226,7 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "10:30pm",
+      "GameTime": "10:41pm",
       "GameState": "",
       "HomeTeam": "Vancouver Whitecaps",
       "HomeGoals": "",
@@ -282,7 +282,7 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:00pm",
+      "GameTime": "8:25pm",
       "GameState": "",
       "HomeTeam": "Inter Miami",
       "HomeGoals": "",
