@@ -170,6 +170,32 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  Spectrum Spor…"
     }
   ],
+  "day2": [
+    {
+      "LeagueName": "No League Games",
+      "LeagueLogo": "",
+      "GameTime": "Thursday Jun. 24, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ],
   "day3": [
