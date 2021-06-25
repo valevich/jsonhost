@@ -31,60 +31,6 @@
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "Friday Jun. 25, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:25pm",
-      "GameState": "",
-      "HomeTeam": "Inter Miami",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
-      "AwayTeam": "Orlando City",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png",
-      "TVChannels": "Fox Sports 1 ,  fuboTV ,  Bally Spor…"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "Friday Jun. 25, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "2:00pm",
-      "GameState": "",
-      "HomeTeam": "Prishtina",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Inter Club d'Escaldes",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "2:00pm   Prishtina vs Inter Club d'Escaldes"
-    }
-  ],
-  "day3": [
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "Saturday Jun. 26, 2021",
       "GameState": "",
       "HomeTeam": "",
@@ -200,7 +146,7 @@
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  B…"
     }
   ],
-  "day4": [
+  "day3": [
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
@@ -267,7 +213,7 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  KTXA Dallas ,  WS…"
     }
   ],
-  "day5": [
+  "day4": [
     {
       "LeagueName": "No League Games",
       "LeagueLogo": "",
@@ -295,7 +241,7 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day6": [
+  "day5": [
     {
       "LeagueName": "No League Games",
       "LeagueLogo": "",
@@ -323,9 +269,9 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day7": [
+  "day6": [
     {
-      "LeagueName": "No League Games Today",
+      "LeagueName": "No League Games",
       "LeagueLogo": "",
       "GameTime": "Wednesday Jun. 30, 2021",
       "GameState": "",
@@ -349,6 +295,34 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    }
+  ],
+  "day7": [
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "Thursday Jul. 1, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "9:30pm",
+      "GameState": "",
+      "HomeTeam": "Austin",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Portland Timbers",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
+      "TVChannels": "Fox Sports 1 ,  fuboTV ,  FOX Deportes ,  …"
     }
   ]
 }
