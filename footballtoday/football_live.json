@@ -1,9 +1,9 @@
 {
-  "today": [
+    },
     {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "Friday Jun. 25, 2021",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -12,52 +12,13 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Inter Miami",
-      "HomeGoals": "1",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
-      "AwayTeam": "Orlando City",
-      "AwayGoals": "2",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png",
-      "TVChannels": "Available on-demand"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "Friday Jun. 25, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "2:00pm",
-      "GameState": "FT ",
-      "HomeTeam": "Prishtina",
-      "HomeGoals": "2",
-      "HomeLogo": "",
-      "AwayTeam": "Inter Club d'Escaldes",
-      "AwayGoals": "0",
-      "AwayLogo": "",
-      "TVChannels": "2:00pm FT   Prishtina  2 - 0  Inter Club d'Escaldes"
     }
   ],
-  "day2": [
+    },
     {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "Sunday Jun. 27, 2021",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -66,58 +27,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "3:38pm",
-      "GameState": "",
-      "HomeTeam": "Atlanta United",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
-      "AwayTeam": "NY Red Bulls",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  B…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "6:08pm",
-      "GameState": "",
-      "HomeTeam": "NYFC",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
-      "AwayTeam": "DC United",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  …"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:25pm",
-      "GameState": "",
-      "HomeTeam": "Austin",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Columbus Crew",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-      "TVChannels": "Fox Sports 1 ,  fuboTV ,  FOX Deportes ,  …"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "9:08pm",
-      "GameState": "",
-      "HomeTeam": "FC Dallas",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
-      "AwayTeam": "NE Revolution",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  KTXA Dallas ,  WS…"
     }
   ],
   "day3": [
@@ -148,19 +57,6 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-  "day4": [
-    {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
-      "GameTime": "Tuesday Jun. 29, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     },
     {
       "LeagueName": "Today",
