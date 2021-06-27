@@ -82,20 +82,20 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "9:11pm",
-      "GameState": "86 ",
+      "GameState": "FT ",
       "HomeTeam": "Seattle Sounders",
       "HomeGoals": "2",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
       "AwayTeam": "Vancouver Whitecaps",
       "AwayGoals": "2",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  JOEtv - KZJO Se…"
+      "TVChannels": "Available on-demand"
     },
     {
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "10:08pm",
-      "GameState": "HT ",
+      "GameState": "46 ",
       "HomeTeam": "SJ Earthquakes",
       "HomeGoals": "0",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
@@ -116,6 +116,19 @@
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
       "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  B…"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "11:30pm",
+      "GameState": "",
+      "HomeTeam": "Portland Timbers",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
+      "AwayTeam": "Minnesota Utd",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
+      "TVChannels": "Root Sports Northwest"
     }
   ],
   "day2": [
