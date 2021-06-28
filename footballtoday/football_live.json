@@ -1,9 +1,9 @@
 {
-  "today": [
+    },
     {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "Sunday Jun. 27, 2021",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -12,73 +12,8 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "3:38pm",
-      "GameState": "FT ",
-      "HomeTeam": "Atlanta United",
-      "HomeGoals": "0",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
-      "AwayTeam": "NY Red Bulls",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
-      "TVChannels": "Available on-demand"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "6:08pm",
-      "GameState": "FT ",
-      "HomeTeam": "NYFC",
-      "HomeGoals": "2",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
-      "AwayTeam": "DC United",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png",
-      "TVChannels": "Available on-demand"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:25pm",
-      "GameState": "FT ",
-      "HomeTeam": "Austin",
-      "HomeGoals": "0",
-      "HomeLogo": "",
-      "AwayTeam": "Columbus Crew",
-      "AwayGoals": "0",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-      "TVChannels": "Available on-demand"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "9:08pm",
-      "GameState": "FT ",
-      "HomeTeam": "FC Dallas",
-      "HomeGoals": "2",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
-      "AwayTeam": "NE Revolution",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
-      "TVChannels": "Available on-demand"
     }
   ],
-  "day2": [
-    {
-      "LeagueName": "No League Games",
-      "LeagueLogo": "",
-      "GameTime": "Tuesday Jun. 29, 2021",
-      "GameState": "",
-      "HomeTeam": "",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "LeagueHeader"
     },
     {
       "LeagueName": "Today",
@@ -307,7 +242,7 @@
       "AwayTeam": "Los Angeles FC",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Bally Sports South ,  …"
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  B…"
     }
   ],
   "day7": [
