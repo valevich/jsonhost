@@ -17,7 +17,7 @@
       "LeagueName": "Major League Soccer",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
       "GameTime": "9:30pm",
-      "GameState": "HT ",
+      "GameState": "55 ",
       "HomeTeam": "Austin",
       "HomeGoals": "2",
       "HomeLogo": "",
@@ -535,6 +535,19 @@
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "1:00pm",
       "GameState": "",
+      "HomeTeam": "Dinamo Zagreb",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Valur",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   Dinamo Zagreb vs Valur"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
       "HomeTeam": "Ludogorets",
       "HomeGoals": "",
       "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/13018.png",
@@ -568,19 +581,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "1:00pm   Teuta Durrës vs Sheriff"
-    },
-    {
-      "LeagueName": "UEFA Champions League",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
-      "GameTime": "2:00pm",
-      "GameState": "",
-      "HomeTeam": "Dinamo Zagreb",
-      "HomeGoals": "",
-      "HomeLogo": "",
-      "AwayTeam": "Valur",
-      "AwayGoals": "",
-      "AwayLogo": "",
-      "TVChannels": "2:00pm   Dinamo Zagreb vs Valur"
     },
     {
       "LeagueName": "UEFA Champions League",
