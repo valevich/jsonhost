@@ -1,9 +1,9 @@
 {
-  "today": [
+    },
     {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "Thursday Jul. 1, 2021",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -12,26 +12,13 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "9:30pm",
-      "GameState": "FT ",
-      "HomeTeam": "Austin",
-      "HomeGoals": "4",
-      "HomeLogo": "",
-      "AwayTeam": "Portland Timbers",
-      "AwayGoals": "1",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
-      "TVChannels": "Available on-demand"
     }
   ],
-  "day2": [
+    },
     {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "Saturday Jul. 3, 2021",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -40,130 +27,13 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "5:00pm",
-      "GameState": "",
-      "HomeTeam": "Columbus Crew",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-      "AwayTeam": "NE Revolution",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
-      "TVChannels": "ESPN ,  ESPN Deportes ,  ESPN Deportes…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "5:30pm",
-      "GameState": "",
-      "HomeTeam": "DC United",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png",
-      "AwayTeam": "Toronto FC",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
-      "TVChannels": "fuboTV ,  NBC Sports Washington ,  …"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:30pm",
-      "GameState": "",
-      "HomeTeam": "Montreal Impact",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
-      "AwayTeam": "Inter Miami",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  TSN App ,  TVA Spor…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "7:30pm",
-      "GameState": "",
-      "HomeTeam": "Orlando City",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png",
-      "AwayTeam": "NY Red Bulls",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  MSG ,  M…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:00pm",
-      "GameState": "",
-      "HomeTeam": "Chicago Fire",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png",
-      "AwayTeam": "Atlanta United",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  B…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:00pm",
-      "GameState": "",
-      "HomeTeam": "Minnesota Utd",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
-      "AwayTeam": "SJ Earthquakes",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  B…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:00pm",
-      "GameState": "",
-      "HomeTeam": "Nashville SC",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
-      "AwayTeam": "Philadelphia Union",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
-      "TVChannels": "WPHL-TV PHL17  ,  Philadelphia…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:30pm",
-      "GameState": "",
-      "HomeTeam": "Houston Dynamo",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png",
-      "AwayTeam": "FC Cincinnati",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
-      "TVChannels": "KTBU - Mega TV Houston ,  WSTR St…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "10:00pm",
-      "GameState": "",
-      "HomeTeam": "Real Salt Lake",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png",
-      "AwayTeam": "Los Angeles FC",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  B…"
     }
   ],
-  "day3": [
+    },
     {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "Sunday Jul. 4, 2021",
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -172,45 +42,6 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "8:30pm",
-      "GameState": "",
-      "HomeTeam": "FC Dallas",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
-      "AwayTeam": "Vancouver Whitecaps",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
-      "TVChannels": "KTXA Dallas ,  FCD Radio ,  fcdalla…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "9:00pm",
-      "GameState": "",
-      "HomeTeam": "Colorado Rapids",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png",
-      "AwayTeam": "Seattle Sounders",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  JOEtv - KZJO Se…"
-    },
-    {
-      "LeagueName": "Major League Soccer",
-      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
-      "GameTime": "10:30pm",
-      "GameState": "",
-      "HomeTeam": "LA Galaxy",
-      "HomeGoals": "",
-      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png",
-      "AwayTeam": "Sporting KC",
-      "AwayGoals": "",
-      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png",
-      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  B…"
     }
   ],
   "day4": [
@@ -411,7 +242,7 @@
       "AwayTeam": "Los Angeles FC",
       "AwayGoals": "",
       "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png",
-      "TVChannels": "ESPN+ ,  ESPN App ,  Bally Sports SoCa…"
+      "TVChannels": "ESPN+ ,  ESPN App ,  Bally Sports ,  …"
     },
     {
       "LeagueName": "Major League Soccer",
