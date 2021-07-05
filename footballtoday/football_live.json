@@ -1,4 +1,17 @@
 {
+  "today": [
+    {
+      "LeagueName": "No League Games",
+      "LeagueLogo": "",
+      "GameTime": "Monday Jul. 5, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     },
     {
       "LeagueName": "Today",
@@ -14,11 +27,11 @@
       "TVChannels": "LeagueHeader"
     }
   ],
-    },
+  "day2": [
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "Tuesday Jul. 6, 2021",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -27,6 +40,97 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "HJK",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Budućnost",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:00pm   HJK vs Budućnost"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Flora",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Hibernians ETV 2",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "12:00pm   Flora vs Hibernians ETV 2"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "12:00pm",
+      "GameState": "",
+      "HomeTeam": "Ferencváros",
+      "HomeGoals": "",
+      "HomeLogo": "https://cdn.livesoccertv.com/images/teams/hungary/logos/ferencvaros.png",
+      "AwayTeam": "Prishtina",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "vs Prishtina"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "Žalgiris",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Linfield",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:00pm   Žalgiris vs Linfield"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "1:00pm",
+      "GameState": "",
+      "HomeTeam": "CFR Cluj",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Oman",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2841.png",
+      "TVChannels": ":00pm   CFR Cluj vs Borac Banja Luka Digi Sport 1 Romania"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "1:30pm",
+      "GameState": "",
+      "HomeTeam": "Fola Esch",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Lincoln Red Imps",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "1:30pm   Fola Esch vs Lincoln Red Imps"
+    },
+    {
+      "LeagueName": "UEFA Champions League",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+      "GameTime": "2:00pm",
+      "GameState": "",
+      "HomeTeam": "Škendija 79",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "Mura",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "2:00pm   Škendija 79 vs Mura"
     }
   ],
   "day3": [
