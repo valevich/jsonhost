@@ -43,7 +43,7 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "12:00pm",
-      "GameState": "90 ",
+      "GameState": "FT ",
       "HomeTeam": "Ferencváros",
       "HomeGoals": "3",
       "HomeLogo": "https://cdn.livesoccertv.com/images/teams/hungary/logos/ferencvaros.png",
@@ -56,20 +56,20 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "1:00pm",
-      "GameState": "HT ",
+      "GameState": "55 ",
       "HomeTeam": "Žalgiris",
       "HomeGoals": "2",
       "HomeLogo": "",
       "AwayTeam": "Linfield EuroSport Player UK",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "",
-      "TVChannels": "1:00pm HT   Žalgiris  2 - 0  Linfield EuroSport Player UK"
+      "TVChannels": "1:00pm 55 '   Žalgiris  2 - 1  Linfield EuroSport Player UK"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "1:00pm",
-      "GameState": "HT ",
+      "GameState": "56 ",
       "HomeTeam": "CFR Cluj",
       "HomeGoals": "2",
       "HomeLogo": "",
@@ -82,27 +82,27 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "1:30pm",
-      "GameState": "22 ",
+      "GameState": "42 ",
       "HomeTeam": "Fola Esch",
       "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Lincoln Red Imps",
-      "AwayGoals": "0",
+      "AwayGoals": "1",
       "AwayLogo": "",
-      "TVChannels": "1:30pm 22 '   Fola Esch  0 - 0  Lincoln Red Imps"
+      "TVChannels": "1:30pm 42 '   Fola Esch  0 - 1  Lincoln Red Imps"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "2:00pm",
-      "GameState": "",
+      "GameState": "12 ",
       "HomeTeam": "Škendija 79",
-      "HomeGoals": "",
+      "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Mura",
-      "AwayGoals": "",
+      "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "2:00pm   Škendija 79 vs Mura"
+      "TVChannels": "2:00pm 12 '   Škendija 79  0 - 0  Mura"
     }
   ],
   "day2": [
