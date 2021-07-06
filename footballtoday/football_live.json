@@ -56,22 +56,22 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "1:00pm",
-      "GameState": "55 ",
+      "GameState": "65 ",
       "HomeTeam": "Žalgiris",
       "HomeGoals": "2",
       "HomeLogo": "",
       "AwayTeam": "Linfield EuroSport Player UK",
       "AwayGoals": "1",
       "AwayLogo": "",
-      "TVChannels": "1:00pm 55 '   Žalgiris  2 - 1  Linfield EuroSport Player UK"
+      "TVChannels": "1:00pm 65 '   Žalgiris  2 - 1  Linfield EuroSport Player UK"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "1:00pm",
-      "GameState": "56 ",
+      "GameState": "66 ",
       "HomeTeam": "CFR Cluj",
-      "HomeGoals": "2",
+      "HomeGoals": "3",
       "HomeLogo": "",
       "AwayTeam": "Serbia",
       "AwayGoals": "1",
@@ -82,27 +82,27 @@
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "1:30pm",
-      "GameState": "42 ",
+      "GameState": "HT ",
       "HomeTeam": "Fola Esch",
       "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Lincoln Red Imps",
       "AwayGoals": "1",
       "AwayLogo": "",
-      "TVChannels": "1:30pm 42 '   Fola Esch  0 - 1  Lincoln Red Imps"
+      "TVChannels": "1:30pm HT   Fola Esch  0 - 1  Lincoln Red Imps"
     },
     {
       "LeagueName": "UEFA Champions League",
       "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
       "GameTime": "2:00pm",
-      "GameState": "12 ",
+      "GameState": "22 ",
       "HomeTeam": "Škendija 79",
       "HomeGoals": "0",
       "HomeLogo": "",
       "AwayTeam": "Mura",
       "AwayGoals": "0",
       "AwayLogo": "",
-      "TVChannels": "2:00pm 12 '   Škendija 79  0 - 0  Mura"
+      "TVChannels": "2:00pm 22 '   Škendija 79  0 - 0  Mura"
     }
   ],
   "day2": [
