@@ -1,9 +1,9 @@
 {
-    },
+  "today": [
     {
-      "LeagueName": "Today",
-      "LeagueLogo": "",
-      "GameTime": "",
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "Thursday Jul. 8, 2021",
       "GameState": "",
       "HomeTeam": "",
       "HomeGoals": "",
@@ -12,6 +12,32 @@
       "AwayGoals": "",
       "AwayLogo": "",
       "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "8:00pm",
+      "GameState": "",
+      "HomeTeam": "NY Red Bulls",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
+      "AwayTeam": "Philadelphia Union",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  MSG ,  …"
+    },
+    {
+      "LeagueName": "Major League Soccer",
+      "LeagueLogo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+      "GameTime": "8:30pm",
+      "GameState": "",
+      "HomeTeam": "Nashville SC",
+      "HomeGoals": "",
+      "HomeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
+      "AwayTeam": "Atlanta United",
+      "AwayGoals": "",
+      "AwayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
+      "TVChannels": "ESPN+ ,  fuboTV ,  ESPN App ,  B…"
     }
   ],
   "day2": [
@@ -42,8 +68,60 @@
       "TVChannels": "ESPN+ ,  ESPN App ,  WSTR Star 64 ,  …"
     }
   ],
+  "day3": [
+    {
+      "LeagueName": "No League Games",
+      "LeagueLogo": "",
+      "GameTime": "Saturday Jul. 10, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ],
+  "day4": [
+    {
+      "LeagueName": "No League Games",
+      "LeagueLogo": "",
+      "GameTime": "Sunday Jul. 11, 2021",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
+    },
+    {
+      "LeagueName": "Today",
+      "LeagueLogo": "",
+      "GameTime": "",
+      "GameState": "",
+      "HomeTeam": "",
+      "HomeGoals": "",
+      "HomeLogo": "",
+      "AwayTeam": "",
+      "AwayGoals": "",
+      "AwayLogo": "",
+      "TVChannels": "LeagueHeader"
     }
   ],
   "day5": [
